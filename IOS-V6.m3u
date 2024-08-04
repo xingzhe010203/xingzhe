@@ -1,15 +1,13 @@
 
-
-
 #EXTINF:-1 tvg-id="400216157" tvg-name="✦●✦| OLYMPIC |✦●✦" tvg-logo="https://lo1.in/olym/oly.png" group-title="🏆2024奥运会-①🏆",咪咕奥运会 4K
 http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000005180&livemode=1&stbId=3
-#EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://live.fanmingming.com/tv/CCTV5.png" group-title="🏆2024奥运会-①🏆",CCTV5 体育
+#EXTINF:-1 tvg-id="ba30c5bb4558a98772f857040179339b" tvg-logo="https://raw.githubusercontent.com/myzzzzzz/tv/master/img/CCTV5.png\" group-title="🏆2024奥运会-①🏆",CCTV-5
 https://iptv.doyoulinkwantyousee.top:2672/stream/channelid/1002778810?profile=pass
-#EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://live.fanmingming.com/tv/CCTV5+.png" group-title="🏆2024奥运会-①🏆",CCTV5+ 赛事 
+#EXTINF:-1 tvg-id="2c6a006ab2bfc8a8693035a4016d02c9" tvg-logo="https://raw.githubusercontent.com/myzzzzzz/tv/master/img/CCTV5plus.png" group-title="🏆2024奥运会-①🏆",CCTV-5+
 https://iptv.doyoulinkwantyousee.top:2672/stream/channelid/1778412076?profile=pass
-#EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://live.fanmingming.com/tv/CCTV16.png" group-title="🏆2024奥运会-①🏆",CCTV16 奥运
+#EXTINF:-1 tvg-id="ba28add2909c9c235a82ca3a43d5bb17" tvg-logo="https://raw.githubusercontent.com/myzzzzzz/tv/master/img/CCTV16.png" group-title="🏆2024奥运会-①🏆",CCTV-16
 https://iptv.doyoulinkwantyousee.top:2672/stream/channelid/1387079866?profile=pass
-#EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://live.fanmingming.com/tv/CCTV16.png" group-title="🏆2024奥运会-①🏆",CCTV16 奥运 4K
+#EXTINF:-1 tvg-id="881b9407ce2015d885f71375209449da" tvg-logo="https://raw.githubusercontent.com/myzzzzzz/tv/master/img/CCTV16.png" group-title="🏆2024奥运会-①🏆",CCTV-16 4K
 https://iptv.doyoulinkwantyousee.top:2672/stream/channelid/127146888?profile=pass
 #EXTINF:-1 tvg-id="400216157" tvg-name="✦●✦| OLYMPIC |✦●✦" tvg-logo="https://lo1.in/olym/oly.png" group-title="🏆2024奥运会-①🏆",CCTV4K 超高清
 http://148.135.93.213:81/live.php?id=CCTV4K
@@ -70,143 +68,258 @@ https://tvb.mytvsuper.us.kg/stream/tvb/null-34/master.m3u8?u=btjson&p=213f2541f1
 https://api.btbt.im/live?id=mytvsuper-oly817
 
 
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="🏆2024奥运会-②🏆", 「网球」17:45 🏅🇨🇳女单决赛、男双决赛 2024奥运会：第8比赛日 男子单打铜牌赛-中央球场（刘钟鸣、单文强）
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="🏆2024奥运会-①🏆", 「皮划艇激流回旋」00:00 🇨🇳男、女极限皮艇计时赛&复活赛 陈文博
+https://tv.iill.top/OG/1
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="🏆2024奥运会-①🏆", 「皮划艇激流回旋」00:00 🇨🇳男、女极限皮艇计时赛&复活赛 清流
+https://tv.iill.top/OG/2
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="🏆2024奥运会-①🏆", 「手球」00:50 女子预赛A组：挪威30-18德国
+https://tv.iill.top/OG/3
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="🏆2024奥运会-①🏆", 「手球」00:50 女子预赛A组：挪威30-18德国 原声
+https://tv.iill.top/OG/4
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="🏆2024奥运会-①🏆", 「足球」00:50 女子1/4决赛：加拿大 VS 德国 鹿中原 解说
+https://tv.iill.top/OG/5
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="🏆2024奥运会-①🏆", 「足球」00:50 女子1/4决赛：加拿大 VS 德国 清流
+https://tv.iill.top/OG/6
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="🏆2024奥运会-①🏆", 「击剑」00:55 🏅女子团体佩剑决赛 蓝色剑道（远程解说）
+https://tv.iill.top/OG/7
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="🏆2024奥运会-①🏆", 「击剑」00:55 🏅女子团体佩剑决赛 原声
+https://tv.iill.top/OG/8
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="🏆2024奥运会-①🏆", 「田径」00:55 🏅女子100米决赛等多项决赛 解说
+https://tv.iill.top/OG/9
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="🏆2024奥运会-①🏆", 「田径」00:55 🏅女子100米决赛等多项决赛 （远程粤语）（陈凯冬）
+https://tv.iill.top/OG/10
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="🏆2024奥运会-①🏆", 「田径」00:55 🏅女子100米决赛等多项决赛 撑竿跳A场地、铅球A场地
+https://tv.iill.top/OG/11
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="🏆2024奥运会-①🏆", 「田径」00:55 🏅女子100米决赛等多项决赛 跳远A场地、三级跳A场地
+https://tv.iill.top/OG/12
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="🏆2024奥运会-①🏆", 「水球」01:20 男子预赛B组：塞尔维亚 VS 法国 叶蕾 解说
+https://tv.iill.top/OG/13
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="🏆2024奥运会-①🏆", 「水球」01:20 男子预赛B组：塞尔维亚 VS 法国 清流DX44
+https://tv.iill.top/OG/14
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="🏆2024奥运会-①🏆", 「曲棍球」01:35 女子分组循环赛A组：德国 VS 比利时 奉俊良 解说
+https://tv.iill.top/OG/15
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="🏆2024奥运会-①🏆", 「曲棍球」01:35 女子分组循环赛A组：德国 VS 比利时 2024奥运会：女子A组1号球场德国VS比利时（远程高校）（avs3）
+https://tv.iill.top/OG/16
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="🏆2024奥运会-①🏆", 「曲棍球」01:35 女子分组循环赛A组：德国 VS 比利时 清流DX40
+https://tv.iill.top/OG/17
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="🏆2024奥运会-①🏆", 「拳击」01:55 🇨🇳女子60公斤级等多项半决赛、1/4决赛 王琰博、徐灿
+https://tv.iill.top/OG/18
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="🏆2024奥运会-①🏆", 「拳击」01:55 🇨🇳女子60公斤级等多项半决赛、1/4决赛 CCTV16
+https://tv.iill.top/OG/19
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="🏆2024奥运会-①🏆", 「拳击」01:55 🇨🇳女子60公斤级等多项半决赛、1/4决赛 清流
+https://tv.iill.top/OG/20
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="🏆2024奥运会-①🏆", 「游泳」02:00 🏅🇨🇳男子100蝶、女子200混等多项决赛 2024奥运会：第8比赛日男子女子多项决赛凌晨场
+https://tv.iill.top/OG/21
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="🏆2024奥运会-①🏆", 「游泳」02:00 🏅🇨🇳男子100蝶、女子200混等多项决赛 柳亚鹏、吴鹏 解说
+https://tv.iill.top/OG/22
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="🏆2024奥运会-①🏆", 「游泳」02:00 🏅🇨🇳男子100蝶、女子200混等多项决赛 CCTV5
+https://tv.iill.top/OG/23
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="🏆2024奥运会-①🏆", 「游泳」02:00 🏅🇨🇳男子100蝶、女子200混等多项决赛 2024奥运会：第8比赛日多项半决赛、决赛（avs3）
+https://tv.iill.top/OG/24
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="🏆2024奥运会-①🏆", 「篮球」02:50 男子小组赛C组：塞尔维亚 VS 南苏丹
+https://tv.iill.top/OG/25
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="🏆2024奥运会-①🏆", 「篮球」02:50 男子小组赛C组：塞尔维亚 VS 南苏丹 原声
+https://tv.iill.top/OG/26
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="🏆2024奥运会-①🏆", 「手球」02:50 女子预赛A组：丹麦28-20韩国
+https://tv.iill.top/OG/27
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="🏆2024奥运会-①🏆", 「手球」02:50 女子预赛A组：丹麦28-20韩国 原声
+https://tv.iill.top/OG/28
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="🏆2024奥运会-①🏆", 「排球」02:50 男子预赛A组：加拿大2-3塞尔维亚 樊宇良
+https://tv.iill.top/OG/29
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="🏆2024奥运会-①🏆", 「排球」02:50 男子预赛A组：加拿大2-3塞尔维亚 清流
+https://tv.iill.top/OG/30
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="🏆2024奥运会-①🏆", 「足球」02:50 女子1/4决赛：法国 VS 巴西 刘腾 解说
+https://tv.iill.top/OG/31
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="🏆2024奥运会-①🏆", 「足球」02:50 女子1/4决赛：法国 VS 巴西 2024奥运会： 女子1/4决赛 法国VS巴西
+https://tv.iill.top/OG/32
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="🏆2024奥运会-①🏆", 「沙滩排球」02:50 幸运失败者赛 朱羿卫
+https://tv.iill.top/OG/33
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="🏆2024奥运会-①🏆", 「沙滩排球」02:50 幸运失败者赛 清流
+https://tv.iill.top/OG/34
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="🏆2024奥运会-①🏆", 「水球」02:55 男子预赛A组：意大利 VS 罗马尼亚 叶蕾 解说
+https://tv.iill.top/OG/35
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="🏆2024奥运会-①🏆", 「水球」02:55 男子预赛A组：意大利 VS 罗马尼亚 清流DX44
+https://tv.iill.top/OG/36
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="🏆2024奥运会-①🏆", 「三人篮球」03:25 🇨🇳女子晋级附加赛 中国女篮不敌美国
+https://tv.iill.top/OG/37
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="🏆2024奥运会-①🏆", 「三人篮球」03:25 🇨🇳女子晋级附加赛 中国女篮不敌美国 原声
+https://tv.iill.top/OG/38
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="🏆2024奥运会-①🏆", 「羽毛球」14:00 🇨🇳男女单半决赛 何冰娇冲决赛 解说
+https://tv.iill.top/OG/39
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="🏆2024奥运会-①🏆", 「羽毛球」14:00 🇨🇳男女单半决赛 何冰娇冲决赛 原声
+https://tv.iill.top/OG/40
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="🏆2024奥运会-①🏆", 「手球」14:50 男子预赛A组：瑞典 VS 日本 2024奥运会：男子预赛A组瑞典VS日本（远程高校）（杨淏淞）
+https://tv.iill.top/OG/41
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="🏆2024奥运会-①🏆", 「手球」14:50 男子预赛A组：瑞典 VS 日本 赛场原声
+https://tv.iill.top/OG/42
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="🏆2024奥运会-①🏆", 「排球」14:50 女子预赛C组：意大利 VS 土耳其 景荣
+https://tv.iill.top/OG/43
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="🏆2024奥运会-①🏆", 「排球」14:50 女子预赛C组：意大利 VS 土耳其 清流
+https://tv.iill.top/OG/44
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="🏆2024奥运会-①🏆", 「高尔夫」14:50 🏅🇨🇳男子第4回合 袁也淳、窦泽成出战
+https://tv.iill.top/OG/45
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="🏆2024奥运会-①🏆", 「高尔夫」14:50 🏅🇨🇳男子第4回合 袁也淳、窦泽成出战 赛场原声
+https://tv.iill.top/OG/46
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="🏆2024奥运会-①🏆", 「沙滩排球」14:50 1/8决赛 朱羿卫
+https://tv.iill.top/OG/47
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="🏆2024奥运会-①🏆", 「沙滩排球」14:50 1/8决赛 崔佳
+https://tv.iill.top/OG/48
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="🏆2024奥运会-①🏆", 「沙滩排球」14:50 1/8决赛 陈诺亚
+https://tv.iill.top/OG/49
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="🏆2024奥运会-①🏆", 「沙滩排球」14:50 1/8决赛 乔迁
+https://tv.iill.top/OG/50
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="🏆2024奥运会-①🏆", 「沙滩排球」14:50 1/8决赛 清流
+https://tv.iill.top/OG/51
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="🏆2024奥运会-①🏆", 「射箭」15:25 🇨🇳男子个人1/8淘汰赛 周澈 解说
+https://tv.iill.top/OG/52
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="🏆2024奥运会-①🏆", 「射箭」15:25 🇨🇳男子个人1/8淘汰赛 清流DX14
+https://tv.iill.top/OG/53
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="🏆2024奥运会-①🏆", 「曲棍球」15:50 男子1/4决赛：印度 VS 英国 格日勒图
+https://tv.iill.top/OG/54
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="🏆2024奥运会-①🏆", 「曲棍球」15:50 男子1/4决赛：印度 VS 英国 清流DX40
+https://tv.iill.top/OG/55
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="🏆2024奥运会-①🏆", 「田径」15:50 🇨🇳男子110米跨栏第1轮等多项比赛 解说
+https://tv.iill.top/OG/56
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="🏆2024奥运会-①🏆", 「田径」15:50 🇨🇳男子110米跨栏第1轮等多项比赛 女子链球资格赛-A组
+https://tv.iill.top/OG/57
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="🏆2024奥运会-①🏆", 「田径」15:50 🇨🇳男子110米跨栏第1轮等多项比赛 男子跳远资格赛1
+https://tv.iill.top/OG/58
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="🏆2024奥运会-①🏆", 「田径」15:50 🇨🇳男子110米跨栏第1轮等多项比赛 男子跳远资格赛2
+https://tv.iill.top/OG/59
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="🏆2024奥运会-①🏆", 「田径」15:50 🇨🇳男子110米跨栏第1轮等多项比赛 AVS3
+https://tv.iill.top/OG/60
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="🏆2024奥运会-①🏆", 「马术」15:55 🏅个人盛装舞步音乐自由演绎大奖赛 尹少坤、怀佩炘
+https://tv.iill.top/OG/61
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="🏆2024奥运会-①🏆", 「马术」15:55 🏅个人盛装舞步音乐自由演绎大奖赛 清流
+https://tv.iill.top/OG/62
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="🏆2024奥运会-①🏆", 「篮球」16:50 女子小组赛C组：日本 VS 比利时 （远程解说）（姜帆）
+https://tv.iill.top/OG/63
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="🏆2024奥运会-①🏆", 「篮球」16:50 女子小组赛C组：日本 VS 比利时 原声
+https://tv.iill.top/OG/64
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="🏆2024奥运会-①🏆", 「手球」16:50 男子预赛B组：埃及 VS 阿根廷
+https://tv.iill.top/OG/65
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="🏆2024奥运会-①🏆", 「手球」16:50 男子预赛B组：埃及 VS 阿根廷 赛场原声
+https://tv.iill.top/OG/66
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="🏆2024奥运会-①🏆", 「拳击」16:55 🇨🇳女子54公斤级等多项半决赛、1/4决赛 姚翔
+https://tv.iill.top/OG/67
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="🏆2024奥运会-①🏆", 「拳击」16:55 🇨🇳女子54公斤级等多项半决赛、1/4决赛 央五
+https://tv.iill.top/OG/68
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="🏆2024奥运会-①🏆", 「拳击」16:55 🇨🇳女子54公斤级等多项半决赛、1/4决赛 张家驹
+https://tv.iill.top/OG/69
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="🏆2024奥运会-①🏆", 「拳击」16:55 🇨🇳女子54公斤级等多项半决赛、1/4决赛 清流
+https://tv.iill.top/OG/70
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="🏆2024奥运会-①🏆", 「击剑」17:45 🇨🇳男子团体花剑 8强赛至半决赛 黄色剑道（中国队）（刘凡绫）
+https://tv.iill.top/OG/71
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="🏆2024奥运会-①🏆", 「击剑」17:45 🇨🇳男子团体花剑 8强赛至半决赛 蓝色剑道（谢钰杰）
+https://tv.iill.top/OG/72
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="🏆2024奥运会-①🏆", 「击剑」17:45 🇨🇳男子团体花剑 8强赛至半决赛 绿色剑道（韩健）
+https://tv.iill.top/OG/73
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="🏆2024奥运会-①🏆", 「击剑」17:45 🇨🇳男子团体花剑 8强赛至半决赛 红色剑道（底逸凡）
+https://tv.iill.top/OG/74
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="🏆2024奥运会-①🏆", 「击剑」17:45 🇨🇳男子团体花剑 8强赛至半决赛 原声-黄色剑道
+https://tv.iill.top/OG/75
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="🏆2024奥运会-①🏆", 「击剑」17:45 🇨🇳男子团体花剑 8强赛至半决赛 原声-蓝色剑道
+https://tv.iill.top/OG/76
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="🏆2024奥运会-①🏆", 「击剑」17:45 🇨🇳男子团体花剑 8强赛至半决赛 原声-绿色剑道
+https://tv.iill.top/OG/77
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="🏆2024奥运会-①🏆", 「击剑」17:45 🇨🇳男子团体花剑 8强赛至半决赛 原声-红色剑道
+https://tv.iill.top/OG/78
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="🏆2024奥运会-①🏆", 「网球」17:45 🏅男单决赛、女双决赛 2024奥运会：女双铜牌赛、男单、女双决赛中央球场（林苑、李宁、刘钟鸣） 解说
+https://tv.iill.top/OG/79
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="🏆2024奥运会-①🏆", 「网球」17:45 🏅男单决赛、女双决赛 清流DX25
+https://tv.iill.top/OG/80
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="🏆2024奥运会-①🏆", 「乒乓球」17:45 🏅🇨🇳男单铜牌赛、金牌赛：樊振东冲击大满贯 周冠达、陈玘
+https://tv.iill.top/OG/81
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="🏆2024奥运会-①🏆", 「乒乓球」17:45 🏅🇨🇳男单铜牌赛、金牌赛：樊振东冲击大满贯 《AI乒中国》第九期（程靖淇、马特） AI乒中国
 https://tv.iill.top/OG/82
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="🏆2024奥运会-②🏆", 「网球」17:45 🏅🇨🇳女单决赛、男双决赛 詹俊 胡力涛 解说
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="🏆2024奥运会-①🏆", 「乒乓球」17:45 🏅🇨🇳男单铜牌赛、金牌赛：樊振东冲击大满贯 央五
 https://tv.iill.top/OG/83
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="🏆2024奥运会-②🏆", 「网球」17:45 🏅🇨🇳女单决赛、男双决赛 2024奥运会：第8比赛日男单铜牌赛、女单、男双决赛-中央球场
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="🏆2024奥运会-①🏆", 「乒乓球」17:45 🏅🇨🇳男单铜牌赛、金牌赛：樊振东冲击大满贯 AVS3
 https://tv.iill.top/OG/84
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="🏆2024奥运会-②🏆", 「乒乓球」17:45 🏅🇨🇳女单铜牌赛、金牌赛：孙颖莎陈梦巅峰对决 《AI乒中国》第八期（程靖淇、马特） AI乒中国
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="🏆2024奥运会-①🏆", 「乒乓球」17:45 🏅🇨🇳男单铜牌赛、金牌赛：樊振东冲击大满贯 赛场原声
 https://tv.iill.top/OG/85
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="🏆2024奥运会-②🏆", 「乒乓球」17:45 🏅🇨🇳女单铜牌赛、金牌赛：孙颖莎陈梦巅峰对决 解说 周冠达、陈玘、邓亚萍
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="🏆2024奥运会-①🏆", 「帆船」18:00 🇨🇳第8比赛日 水翼风筝板首次登场
 https://tv.iill.top/OG/86
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="🏆2024奥运会-②🏆", 「乒乓球」17:45 🏅🇨🇳女单铜牌赛、金牌赛：孙颖莎陈梦巅峰对决 CCTV5
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="🏆2024奥运会-①🏆", 「帆船」18:00 🇨🇳第8比赛日 水翼风筝板首次登场 赛场原声
 https://tv.iill.top/OG/87
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="🏆2024奥运会-②🏆", 「乒乓球」17:45 🏅🇨🇳女单铜牌赛、金牌赛：孙颖莎陈梦巅峰对决 睛彩视界
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="🏆2024奥运会-①🏆", 「曲棍球」18:20 男子1/4决赛：比利时 VS 西班牙 曲可乐
 https://tv.iill.top/OG/88
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="🏆2024奥运会-②🏆", 「乒乓球」17:45 🏅🇨🇳女单铜牌赛、金牌赛：孙颖莎陈梦巅峰对决 赛场原声
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="🏆2024奥运会-①🏆", 「曲棍球」18:20 男子1/4决赛：比利时 VS 西班牙 清流DX40
 https://tv.iill.top/OG/89
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="🏆2024奥运会-②🏆", 「水球」17:55 男子预赛A组：克罗地亚 VS 希腊 汪粤 解说
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="🏆2024奥运会-①🏆", 「排球」18:50 女子预赛A组：法国 VS 美国 解说：张歌 张歌
 https://tv.iill.top/OG/90
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="🏆2024奥运会-②🏆", 「水球」17:55 男子预赛A组：克罗地亚 VS 希腊 清流DX44
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="🏆2024奥运会-①🏆", 「排球」18:50 女子预赛A组：法国 VS 美国 CCTV5+
 https://tv.iill.top/OG/91
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="🏆2024奥运会-②🏆", 「帆船」18:00 🇨🇳男、女水翼帆板iQFoil级决赛
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="🏆2024奥运会-①🏆", 「排球」18:50 女子预赛A组：法国 VS 美国 清流
 https://tv.iill.top/OG/92
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="🏆2024奥运会-②🏆", 「帆船」18:00 🇨🇳男、女水翼帆板iQFoil级决赛 原声
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="🏆2024奥运会-①🏆", 「射箭」18:55 🏅男子个人1/4决赛、半决赛、铜牌赛、金牌赛 周澈 解说
 https://tv.iill.top/OG/93
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="🏆2024奥运会-②🏆", 「曲棍球」18:35 女子分组循环赛B组：澳大利亚 VS 西班牙 张嘉仪 解说
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="🏆2024奥运会-①🏆", 「射箭」18:55 🏅男子个人1/4决赛、半决赛、铜牌赛、金牌赛 清流DX14
 https://tv.iill.top/OG/94
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="🏆2024奥运会-②🏆", 「曲棍球」18:35 女子分组循环赛B组：澳大利亚 VS 西班牙 清流DX40
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="🏆2024奥运会-①🏆", 「篮球」19:20 女子小组赛B组：加拿大 VS 尼日利亚
 https://tv.iill.top/OG/95
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="🏆2024奥运会-②🏆", 「排球」18:50 女子预赛B组：日本 VS 肯尼亚 张歌
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="🏆2024奥运会-①🏆", 「篮球」19:20 女子小组赛B组：加拿大 VS 尼日利亚 原声
 https://tv.iill.top/OG/96
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="🏆2024奥运会-②🏆", 「排球」18:50 女子预赛B组：日本 VS 肯尼亚 清流
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="🏆2024奥运会-①🏆", 「手球」19:50 男子预赛A组：德国 VS 斯洛文尼亚
 https://tv.iill.top/OG/97
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="🏆2024奥运会-②🏆", 「射箭」18:55 🏅女子个人1/4决赛、半决赛、铜牌赛、金牌赛 周澈
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="🏆2024奥运会-①🏆", 「手球」19:50 男子预赛A组：德国 VS 斯洛文尼亚 赛场原声
 https://tv.iill.top/OG/98
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="🏆2024奥运会-②🏆", 「射箭」18:55 🏅女子个人1/4决赛、半决赛、铜牌赛、金牌赛 2024奥运会：女子个人1/4淘汰赛、半决赛、铜牌赛、金牌赛
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="🏆2024奥运会-①🏆", 「公路自行车」19:50 🏅🇨🇳女子公路赛 李陶  萧深
 https://tv.iill.top/OG/99
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="🏆2024奥运会-②🏆", 「击剑」18:55 女子团体佩剑 8强赛至半决赛 黄色剑道（底逸凡）
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="🏆2024奥运会-①🏆", 「公路自行车」19:50 🏅🇨🇳女子公路赛 清流DX13
 https://tv.iill.top/OG/100
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="🏆2024奥运会-②🏆", 「击剑」18:55 女子团体佩剑 8强赛至半决赛 红色剑道（刘凡绫）
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="🏆2024奥运会-①🏆", 「水球」19:50 女子预赛A组：匈牙利 VS 澳大利亚 汪粤
 https://tv.iill.top/OG/101
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="🏆2024奥运会-②🏆", 「击剑」18:55 女子团体佩剑 8强赛至半决赛 蓝色剑道（韩健）
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="🏆2024奥运会-①🏆", 「水球」19:50 女子预赛A组：匈牙利 VS 澳大利亚 清流DX44
 https://tv.iill.top/OG/102
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="🏆2024奥运会-②🏆", 「击剑」18:55 女子团体佩剑 8强赛至半决赛 绿色剑道（谢钰杰）
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="🏆2024奥运会-①🏆", 「竞技体操」20:30 🏅🇨🇳男子吊环、女子高低杠、男子跳马决赛 钟宇峰、刘璇
 https://tv.iill.top/OG/103
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="🏆2024奥运会-②🏆", 「击剑」18:55 女子团体佩剑 8强赛至半决赛 原声（蓝色剑道）
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="🏆2024奥运会-①🏆", 「竞技体操」20:30 🏅🇨🇳男子吊环、女子高低杠、男子跳马决赛 郭大顺
 https://tv.iill.top/OG/104
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="🏆2024奥运会-②🏆", 「击剑」18:55 女子团体佩剑 8强赛至半决赛 原声（黄色剑道）
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="🏆2024奥运会-①🏆", 「竞技体操」20:30 🏅🇨🇳男子吊环、女子高低杠、男子跳马决赛 CCTV5+
 https://tv.iill.top/OG/105
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="🏆2024奥运会-②🏆", 「击剑」18:55 女子团体佩剑 8强赛至半决赛 原声（红色剑道）
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="🏆2024奥运会-①🏆", 「竞技体操」20:30 🏅🇨🇳男子吊环、女子高低杠、男子跳马决赛 清流
 https://tv.iill.top/OG/106
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="🏆2024奥运会-②🏆", 「击剑」18:55 女子团体佩剑 8强赛至半决赛 原声（绿色剑道）
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="🏆2024奥运会-①🏆", 「羽毛球」20:30 🏅🇨🇳男双铜牌赛、金牌赛 待定-排期与后台不一致（孙宁智）
 https://tv.iill.top/OG/107
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="🏆2024奥运会-②🏆", 「曲棍球」19:05 女子分组循环赛B组：美国 VS 南非 王译仟 解说
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="🏆2024奥运会-①🏆", 「羽毛球」20:30 🏅🇨🇳男双铜牌赛、金牌赛 AVS3
 https://tv.iill.top/OG/108
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="🏆2024奥运会-②🏆", 「曲棍球」19:05 女子分组循环赛B组：美国 VS 南非 清流DX41
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="🏆2024奥运会-①🏆", 「羽毛球」20:30 🏅🇨🇳男双铜牌赛、金牌赛 原声
 https://tv.iill.top/OG/109
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="🏆2024奥运会-②🏆", 「篮球」19:20 女子小组赛A组：塞尔维亚 VS 西班牙 解说
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="🏆2024奥运会-①🏆", 「射击」21:20 🏅女子双向飞碟决赛 解说
 https://tv.iill.top/OG/110
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="🏆2024奥运会-②🏆", 「篮球」19:20 女子小组赛A组：塞尔维亚 VS 西班牙 原声
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="🏆2024奥运会-①🏆", 「射击」21:20 🏅女子双向飞碟决赛 原声
 https://tv.iill.top/OG/111
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="🏆2024奥运会-②🏆", 「手球」19:50 女子预赛B组：巴西 VS 安哥拉
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="🏆2024奥运会-①🏆", 「皮划艇激流回旋」21:25 男、女极限皮艇预赛 陈文博
 https://tv.iill.top/OG/112
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="🏆2024奥运会-②🏆", 「手球」19:50 女子预赛B组：巴西 VS 安哥拉 原声
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="🏆2024奥运会-①🏆", 「皮划艇激流回旋」21:25 男、女极限皮艇预赛 清流
 https://tv.iill.top/OG/113
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="🏆2024奥运会-②🏆", 「羽毛球」20:30 🏅🇨🇳女双铜牌赛、金牌赛 解说
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="🏆2024奥运会-①🏆", 「水球」21:25 女子预赛B组：意大利 VS 西班牙 汪粤
 https://tv.iill.top/OG/114
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="🏆2024奥运会-②🏆", 「羽毛球」20:30 🏅🇨🇳女双铜牌赛、金牌赛 原声
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="🏆2024奥运会-①🏆", 「水球」21:25 女子预赛B组：意大利 VS 西班牙 清流DX44
 https://tv.iill.top/OG/115
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="🏆2024奥运会-②🏆", 「水球」20:50 男子预赛B组：澳大利亚 VS 匈牙利 宁浴光 解说
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="🏆2024奥运会-①🏆", 「手球」21:50 男子预赛B组：匈牙利 VS 法国
 https://tv.iill.top/OG/116
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="🏆2024奥运会-②🏆", 「水球」20:50 男子预赛B组：澳大利亚 VS 匈牙利 清流DX44
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="🏆2024奥运会-①🏆", 「手球」21:50 男子预赛B组：匈牙利 VS 法国 赛场原声
 https://tv.iill.top/OG/117
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="🏆2024奥运会-②🏆", 「足球」20:50 女子1/4决赛：美国 VS 日本 张学洋 解说
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="🏆2024奥运会-①🏆", 「排球」22:30 🇨🇳女子预赛A组：中国 VS 塞尔维亚 沈群淇、赵蕊蕊
 https://tv.iill.top/OG/118
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="🏆2024奥运会-②🏆", 「足球」20:50 女子1/4决赛：美国 VS 日本 清流
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="🏆2024奥运会-①🏆", 「排球」22:30 🇨🇳女子预赛A组：中国 VS 塞尔维亚 央五
 https://tv.iill.top/OG/119
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="🏆2024奥运会-②🏆", 「竞技体操」21:10 🏅🇨🇳男子自由体操、女子跳马、男子鞍马决赛 钟宇峰、刘璇
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="🏆2024奥运会-①🏆", 「排球」22:30 🇨🇳女子预赛A组：中国 VS 塞尔维亚 清流
 https://tv.iill.top/OG/120
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="🏆2024奥运会-②🏆", 「竞技体操」21:10 🏅🇨🇳男子自由体操、女子跳马、男子鞍马决赛 CCTV16
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="🏆2024奥运会-①🏆", 「篮球」23:05 女子小组赛C组：德国 VS 美国 （远程解说）（刘圳展）
 https://tv.iill.top/OG/121
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="🏆2024奥运会-②🏆", 「竞技体操」21:10 🏅🇨🇳男子自由体操、女子跳马、男子鞍马决赛 男子自由操
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="🏆2024奥运会-①🏆", 「篮球」23:05 女子小组赛C组：德国 VS 美国 原声
 https://tv.iill.top/OG/122
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="🏆2024奥运会-②🏆", 「竞技体操」21:10 🏅🇨🇳男子自由体操、女子跳马、男子鞍马决赛 女子跳马
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="🏆2024奥运会-①🏆", 「曲棍球」23:20 男子1/4决赛：荷兰 VS 澳大利亚 柳昱帆
 https://tv.iill.top/OG/123
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="🏆2024奥运会-②🏆", 「竞技体操」21:10 🏅🇨🇳男子自由体操、女子跳马、男子鞍马决赛 男子鞍马
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="🏆2024奥运会-①🏆", 「曲棍球」23:20 男子1/4决赛：荷兰 VS 澳大利亚 清流DX40
 https://tv.iill.top/OG/124
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="🏆2024奥运会-②🏆", 「射击」21:20 🏅男子双向飞碟决赛 解说
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="🏆2024奥运会-①🏆", 「三人篮球」23:25 🇨🇳分组循环赛 中国男篮战东道主 解说
 https://tv.iill.top/OG/125
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="🏆2024奥运会-②🏆", 「射击」21:20 🏅男子双向飞碟决赛 原声
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="🏆2024奥运会-①🏆", 「三人篮球」23:25 🇨🇳分组循环赛 中国男篮战东道主 原声
 https://tv.iill.top/OG/126
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="🏆2024奥运会-②🏆", 「皮划艇激流回旋」21:20 🇨🇳男、女极限皮艇第一轮 曲可乐
-https://tv.iill.top/OG/127
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="🏆2024奥运会-②🏆", 「皮划艇激流回旋」21:20 🇨🇳男、女极限皮艇第一轮 清流
-https://tv.iill.top/OG/128
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="🏆2024奥运会-②🏆", 「拳击」21:25 🇨🇳女子60公斤级等多项半决赛、1/4决赛 姚翔
-https://tv.iill.top/OG/129
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="🏆2024奥运会-②🏆", 「拳击」21:25 🇨🇳女子60公斤级等多项半决赛、1/4决赛 CCTV5
-https://tv.iill.top/OG/130
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="🏆2024奥运会-②🏆", 「拳击」21:25 🇨🇳女子60公斤级等多项半决赛、1/4决赛 清流
-https://tv.iill.top/OG/131
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="🏆2024奥运会-②🏆", 「手球」21:50 女子预赛A组：斯洛文尼亚 VS 瑞典
-https://tv.iill.top/OG/132
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="🏆2024奥运会-②🏆", 「手球」21:50 女子预赛A组：斯洛文尼亚 VS 瑞典 原声
-https://tv.iill.top/OG/133
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="🏆2024奥运会-②🏆", 「沙滩排球」21:50 小组赛第8比赛日午场 崔佳
-https://tv.iill.top/OG/134
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="🏆2024奥运会-②🏆", 「沙滩排球」21:50 小组赛第8比赛日午场 清流
-https://tv.iill.top/OG/135
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="🏆2024奥运会-②🏆", 「柔道」21:55 🏅混合团体决赛 王腾霄
-https://tv.iill.top/OG/136
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="🏆2024奥运会-②🏆", 「柔道」21:55 🏅混合团体决赛 清流
-https://tv.iill.top/OG/137
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="🏆2024奥运会-②🏆", 「水球」22:25 男子预赛A组：黑山 VS 美国 宁浴光 解说
-https://tv.iill.top/OG/138
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="🏆2024奥运会-②🏆", 「水球」22:25 男子预赛A组：黑山 VS 美国 清流DX44
-https://tv.iill.top/OG/139
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="🏆2024奥运会-②🏆", 「排球」22:50 男子预赛B组：波兰 VS 意大利 景荣
-https://tv.iill.top/OG/140
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="🏆2024奥运会-②🏆", 「排球」22:50 男子预赛B组：波兰 VS 意大利 清流
-https://tv.iill.top/OG/141
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="🏆2024奥运会-②🏆", 「曲棍球」22:50 🇨🇳女子分组循环赛A组：中国 VS 法国 马弋博 解说
-https://tv.iill.top/OG/142
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="🏆2024奥运会-②🏆", 「曲棍球」22:50 🇨🇳女子分组循环赛A组：中国 VS 法国 2024奥运会：女子A组1号球场中国VS法国（远程解说）（avs3）
-https://tv.iill.top/OG/143
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="🏆2024奥运会-②🏆", 「曲棍球」22:50 🇨🇳女子分组循环赛A组：中国 VS 法国 清流DX40
-https://tv.iill.top/OG/144
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="🏆2024奥运会-②🏆", 「足球」22:50 女子1/4决赛：西班牙 VS 哥伦比亚 林梦鸽、刘畅 解说
-https://tv.iill.top/OG/145
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="🏆2024奥运会-②🏆", 「足球」22:50 女子1/4决赛：西班牙 VS 哥伦比亚 2024奥运会：女子1/4决赛1CVS3A/B（21）
-https://tv.iill.top/OG/146
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="🏆2024奥运会-②🏆", 「篮球」23:05 男子小组赛C组：波多黎各 VS 美国
-https://tv.iill.top/OG/147
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="🏆2024奥运会-②🏆", 「篮球」23:05 男子小组赛C组：波多黎各 VS 美国 原声
-https://tv.iill.top/OG/148
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/OG2024.png" group-title="🏆2024奥运会-②🏆", 「三人篮球」23:25 🇨🇳分组循环赛 中国女篮战美国 原声
-https://tv.iill.top/OG/149
-
 
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="🐉高码率线路-①💥",CCTV1
 http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010144/1.m3u8
@@ -1643,7 +1756,8 @@ https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
 #EXTINF:-1 group-title="🐉国内体育",12 TV Parma
 https://5929b138b139d.streamlock.net/12TVParma/livestream/playlist.m3u8
 
-https://cloud.wujiyan.cc/f/mw2sQ/1.mp4#EXTINF:-1 group-title="🐉海外体育",Supersports 1
+
+#EXTINF:-1 group-title="🐉海外体育",Supersports 1
 http://fm1077.serv00.net/Smart.php?id=Assp1
 #EXTINF:-1 group-title="🐉海外体育",Supersports 1(備用)
 http://fm1077.serv00.net/Smart.php?id=go_assp1
@@ -3799,228 +3913,80 @@ http://stream8.jlntv.cn/jytv/sd/live.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉日本频道🦮",👉此处以下频道需要魔法👈
 https://cloud.lxweb.cn/f/08QDU0/3.MOV
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉日本频道🦮",KBC NEWS
-https://fm1077.serv00.net/anbo/index.php?id=3219
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉日本频道🦮",TBS
-https://fm1077.serv00.net/anbo/index.php?id=2917
-#EXTINF:-1 tvg-id="331" tvg-name="NHKWorld" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/NHKWorld.png" group-title="🐉日本频道🦮",NHK World
-https://fm1077.serv00.net/anbo/index.php?id=2918
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉日本频道🦮",BS-富士
-https://fm1077.serv00.net/anbo/index.php?id=2919
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉日本频道🦮",フジテレビ富士
-https://fm1077.serv00.net/anbo/index.php?id=2920
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉日本频道🦮",テレビ朝日
-https://fm1077.serv00.net/anbo/index.php?id=2921
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉日本频道🦮",テレビ东京
-https://fm1077.serv00.net/anbo/index.php?id=2922
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉日本频道🦮",日本テレビ
-https://fm1077.serv00.net/anbo/index.php?id=2923
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉日本频道🦮",スター・チャンネル
-https://fm1077.serv00.net/anbo/index.php?id=3210
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉日本频道🦮",BSジャパン
-https://fm1077.serv00.net/anbo/index.php?id=3211
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉日本频道🦮",BS朝日
-https://fm1077.serv00.net/anbo/index.php?id=3213
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉日本频道🦮",BS-TBS
-https://fm1077.serv00.net/anbo/index.php?id=3214
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉日本频道🦮",JapaNews24
-https://fm1077.serv00.net/anbo/index.php?id=425
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉日本频道🦮",NHKBSP-4K
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs01
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉日本频道🦮",スカイA
-https://fm1077.serv00.net/anbo/index.php?id=2433
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉日本频道🦮",日テレニュース24
-https://fm1077.serv00.net/anbo/index.php?id=292
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉日本频道🦮",フジone
-https://fm1077.serv00.net/anbo/index.php?id=2300
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉日本频道🦮",フジ two
-https://fm1077.serv00.net/anbo/index.php?id=2301
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉日本频道🦮",フジ next
-https://fm1077.serv00.net/anbo/index.php?id=2750
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉日本频道🦮",KANSAI News24
-https://fm1077.serv00.net/anbo/index.php?id=247
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉日本频道🦮",メ~テレNEWS
-https://fm1077.serv00.net/anbo/index.php?id=245
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉日本频道🦮",広岛ニュース
-https://fm1077.serv00.net/anbo/index.php?id=1095
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉日本频道🦮",TBS NEWS
-https://fm1077.serv00.net/anbo/index.php?id=1096
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉日本频道🦮",RKB NEWS 24
-https://fm1077.serv00.net/anbo/index.php?id=1043
-#EXTINF:-1 tvg-id="6159" tvg-name="tvN" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/tvN.png" group-title="🐉日本频道🦮",STV NEWS
-https://fm1077.serv00.net/anbo/index.php?id=1500
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉日本频道🦮",テレ朝チャンネル1
-https://fm1077.serv00.net/anbo/index.php?id=2271
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉日本频道🦮",テレ朝チャンネル2
-https://fm1077.serv00.net/anbo/index.php?id=2344
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉日本频道🦮",スポーツライブ+
-https://fm1077.serv00.net/anbo/index.php?id=2343
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉日本频道🦮",読売テレビ
-https://fm1077.serv00.net/anbo/index.php?id=198
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉日本频道🦮",関西テレビ
-https://fm1077.serv00.net/anbo/index.php?id=235
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉日本频道🦮",BS日テレ
-https://fm1077.serv00.net/anbo/index.php?id=240
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉日本频道🦮",BS朝日
-https://fm1077.serv00.net/anbo/index.php?id=241
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉日本频道🦮",BS-TBS
-https://fm1077.serv00.net/anbo/index.php?id=242
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉日本频道🦮",BSテレビ东京
-https://fm1077.serv00.net/anbo/index.php?id=243
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉日本频道🦮",SATVニュース
-https://fm1077.serv00.net/anbo/index.php?id=1594
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉日本频道🦮",BSフジ
-https://fm1077.serv00.net/anbo/index.php?id=244
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉日本频道🦮",旅チャンネル
-https://fm1077.serv00.net/anbo/index.php?id=2304
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉日本频道🦮",RCC NEWS
-https://fm1077.serv00.net/anbo/index.php?id=421
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉日本频道🦮",TOKYO MX 1
-https://fm1077.serv00.net/anbo/index.php?id=2204
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉日本频道🦮",TOKYO MX 2
-https://fm1077.serv00.net/anbo/index.php?id=2205
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉日本频道🦮",朝日放送テレビ
-https://fm1077.serv00.net/anbo/index.php?id=237
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉日本频道🦮",时代剧専门チャンネル
-https://fm1077.serv00.net/anbo/index.php?id=287
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉日本频道🦮",TV Tokyo
-https://fm1077.serv00.net/anbo/index.php?id=123
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉日本频道🦮",J SPORTS 1
-https://fm1077.serv00.net/anbo/index.php?id=129
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉日本频道🦮",J SPORTS 2
-https://fm1077.serv00.net/anbo/index.php?id=130
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉日本频道🦮",J SPORTS 3
-https://fm1077.serv00.net/anbo/index.php?id=131
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉日本频道🦮",J SPORTS 4
-https://fm1077.serv00.net/anbo/index.php?id=132
-#EXTINF:-1 tvg-id="7100" tvg-name="ABCAustralia" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/abcaus.png" group-title="🐉日本频道🦮",ABC朝日
-https://fm1077.serv00.net/anbo/index.php?id=127
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉日本频道🦮",FU JI
-https://fm1077.serv00.net/anbo/index.php?id=122
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉日本频道🦮",テレビ东京
-https://fm1077.serv00.net/anbo/index.php?id=2202
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉日本频道🦮",フジテレビ
-https://fm1077.serv00.net/anbo/index.php?id=2203
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cu8?cid=gd02&isp=10&bind=0&uin=159413&playseek=0
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉日本频道🦮",ディスカバリー
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs08&isp=10&bind=0&uin=159413&playseek=0
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉日本频道🦮",テレビ大坂
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx05&isp=10&bind=0&uin=159413&playseek=0
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉日本频道🦮",テレビ朝日
-https://fm1077.serv00.net/anbo/index.php?id=125
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉日本频道🦮",大坂TV
-https://fm1077.serv00.net/anbo/index.php?id=126
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉日本频道🦮",WOWOWプライム
-https://fm1077.serv00.net/anbo/index.php?id=133
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉日本频道🦮",WOWOWライブ
-https://fm1077.serv00.net/anbo/index.php?id=134
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉日本频道🦮",WOWOWシネマ
-https://fm1077.serv00.net/anbo/index.php?id=135
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd06&isp=10&bind=0&uin=159413&playseek=0
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉日本频道🦮",テレビ东京
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd07&isp=10&bind=0&uin=159413&playseek=0
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉日本频道🦮",スターチャンネル1
-https://fm1077.serv00.net/anbo/index.php?id=136
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉日本频道🦮",スターチャンネル2
-https://fm1077.serv00.net/anbo/index.php?id=137
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉日本频道🦮",スターチャンネル3
-https://fm1077.serv00.net/anbo/index.php?id=138
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉日本频道🦮",日本テレビ
-https://fm1077.serv00.net/anbo/index.php?id=119
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉日本频道🦮",毎日放送
-https://fm1077.serv00.net/anbo/index.php?id=199
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs08&isp=10&bind=0&uin=159413&playseek=0
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉日本频道🦮",ヒストリーチャンネル
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs09&isp=10&bind=0&uin=159413&playseek=0
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉日本频道🦮",フジテレビ
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd05&isp=10&bind=0&uin=159413&playseek=0
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉日本频道🦮",ホームドラマチャンネル
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs05&isp=10&bind=0&uin=159413&playseek=0
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉日本频道🦮",ミュージック?ジャパン
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs06&isp=10&bind=0&uin=159413&playseek=0
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉日本频道🦮",旅チャンネル
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs12&isp=10&bind=0&uin=159413&playseek=0
+#EXTINF:-1 tvg-id="7100" tvg-name="ABCAustralia" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/abcaus.png" group-title="🐉日本频道🦮",ABCテレビ
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx02&isp=10&bind=0&uin=159413&playseek=0
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉日本频道🦮",BS-TBS
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs04&isp=10&bind=0&uin=159413&playseek=0
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉日本频道🦮",BSアニマックス
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs15&isp=10&bind=0&uin=159413&playseek=0
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉日本频道🦮",BSテレ东
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs05&isp=10&bind=0&uin=159413&playseek=0
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉日本频道🦮",BSフジ
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs06&isp=10&bind=0&uin=159413&playseek=0
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉日本频道🦮",BS日テレ
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs02&isp=10&bind=0&uin=159413&playseek=0
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉日本频道🦮",BS朝日
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs03&isp=10&bind=0&uin=159413&playseek=0
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉日本频道🦮",J Sports 1
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs18&isp=10&bind=0&uin=159413&playseek=0
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉日本频道🦮",J Sports 2
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs19&isp=10&bind=0&uin=159413&playseek=0
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉日本频道🦮",J Sports 3
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs21&isp=10&bind=0&uin=159413&playseek=0
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉日本频道🦮",J Sports 4
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs22&isp=10&bind=0&uin=159413&playseek=0
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉日本频道🦮",MBS毎日放送
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx01&isp=10&bind=0&uin=159413&playseek=0
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉日本频道🦮",NHK BS1
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs11&isp=10&bind=0&uin=159413&playseek=0
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉日本频道🦮",NHK BSプレミアム
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs01&isp=10&bind=0&uin=159413&playseek=0
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉日本频道🦮",NHK Eテレ
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd02&isp=10&bind=0&uin=159413&playseek=0
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉日本频道🦮",NHK 総合
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd01&isp=10&bind=0&uin=159413&playseek=0
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉日本频道🦮",NHK大坂 総合
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx06&isp=10&bind=0&uin=159413&playseek=0
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉日本频道🦮",TBS
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd04&isp=10&bind=0&uin=159413&playseek=0
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉日本频道🦮",TOKYO MX
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd08&isp=10&bind=0&uin=159413&playseek=0
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉日本频道🦮",WOWOW シネマ
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs07&isp=10&bind=0&uin=159413&playseek=0
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉日本频道🦮",WOWOW プライム
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs12&isp=10&bind=0&uin=159413&playseek=0
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉日本频道🦮",WOWOW ライブ
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs20&isp=10&bind=0&uin=159413&playseek=0
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉日本频道🦮",キッズステ   ション
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs07&isp=10&bind=0&uin=159413&playseek=0
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉日本频道🦮",ゴルフネットワーク
-https://fm1077.serv00.net/anbo/index.php?id=249
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉日本频道🦮",HTB北海道
-https://fm1077.serv00.net/anbo/index.php?id=39
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉日本频道🦮",日テレG+
-https://fm1077.serv00.net/anbo/index.php?id=2298
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉日本频道🦮",GAORA SPORTS
-https://fm1077.serv00.net/anbo/index.php?id=296
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉日本频道🦮",TBS
-https://fm1077.serv00.net/anbo/index.php?id=124
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉日本频道🦮",TBS
-https://fm1077.serv00.net/anbo/index.php?id=2201
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉日本频道🦮",アニマックス
-https://fm1077.serv00.net/anbo/index.php?id=139
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉日本频道🦮",グリーンチャンネル
-https://fm1077.serv00.net/anbo/index.php?id=140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉日本频道🦮",キッズステーション
-https://fm1077.serv00.net/anbo/index.php?id=289
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉日本频道🦮",静冈ニュース
-https://fm1077.serv00.net/anbo/index.php?id=297
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉日本频道🦮",MUSIC ON! TV
-https://fm1077.serv00.net/anbo/index.php?id=288
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉日本频道🦮",BS日本映画専门Ch
-https://fm1077.serv00.net/anbo/index.php?id=2219
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉日本频道🦮",Disney チャンネル
-https://fm1077.serv00.net/anbo/index.php?id=290
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉日本频道🦮",卫星剧场
-https://fm1077.serv00.net/anbo/index.php?id=2345
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉日本频道🦮",日テレG+
-https://fm1077.serv00.net/anbo/index.php?id=2434
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉日本频道🦮",兵库県の最新
-https://fm1077.serv00.net/anbo/index.php?id=1142
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉日本频道🦮",鹿児岛ニュース24
-https://fm1077.serv00.net/anbo/index.php?id=1562
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉日本频道🦮",JP| QVC JAPAN
-http://extraott.com/7921751389/6097373662/191041
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉日本频道🦮",JP| SHOP CHANNEL
-http://extraott.com/7921751389/6097373662/191047
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉日本频道🦮",JP| テレ朝チャンネル1
-http://extraott.com/7921751389/6097373662/37659
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉日本频道🦮",JP| テレ朝チャンネル2
-http://extraott.com/7921751389/6097373662/37658
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉日本频道🦮",JP| フジテレビONE
-http://extraott.com/7921751389/6097373662/37661
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉日本频道🦮",JP| フジテレビTWO
-http://extraott.com/7921751389/6097373662/37660
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉日本频道🦮",JP| フジテレビNEXT
-http://extraott.com/7921751389/6097373662/37662
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉日本频道🦮",JP| MONDOTV
-http://extraott.com/7921751389/6097373662/37663
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉日本频道🦮",JP| アイドル専门チャンネル
-http://extraott.com/7921751389/6097373662/37664
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉日本频道🦮",JP| TBSチャンネル1
-http://extraott.com/7921751389/6097373662/37666
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉日本频道🦮",JP| TBSチャンネル2
-http://extraott.com/7921751389/6097373662/37665
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉日本频道🦮",JP| ミュージック・ジャパンTV
-http://extraott.com/7921751389/6097373662/37667
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉日本频道🦮",JP| スペースシャワーTVプラス
-http://extraott.com/7921751389/6097373662/37668
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉日本频道🦮",JP| ミュージック・エア
-http://extraott.com/7921751389/6097373662/37669
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉日本频道🦮",JP| スペースシャワーTV
-http://extraott.com/7921751389/6097373662/37670
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉日本频道🦮",JP| スポーツライブ+
-http://extraott.com/7921751389/6097373662/37671
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉日本频道🦮",JP| FIGHTING TV サムライ
-http://extraott.com/7921751389/6097373662/37672
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉日本频道🦮",JP| ザ・シネマ
-http://extraott.com/7921751389/6097373662/37673
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉日本频道🦮",JP| BSJapanext
-http://extraott.com/7921751389/6097373662/37674
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉日本频道🦮",JP| KBS京都
-http://extraott.com/7921751389/6097373662/37675
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉日本频道🦮",JP| BSよしもと
-http://extraott.com/7921751389/6097373662/37676
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉日本频道🦮",JP| BS松竹东急
-http://extraott.com/7921751389/6097373662/37677
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉日本频道🦮",JP| BS11
-http://extraott.com/7921751389/6097373662/37679
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉日本频道🦮",JP| BS12
-http://extraott.com/7921751389/6097373662/37678
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉日本频道🦮",JP| 旅チャンネル
-http://extraott.com/7921751389/6097373662/37680
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉日本频道🦮",JP| 鉄道チャンネル
-http://extraott.com/7921751389/6097373662/37681
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉日本频道🦮",JP| ヒストリーチャンネル
-http://extraott.com/7921751389/6097373662/37682
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉日本频道🦮",JP| NHK BS4K
-http://extraott.com/7921751389/6097373662/37683
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉日本频道🦮",JP| QVC
-http://extraott.com/7921751389/6097373662/37684
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉日本频道🦮",JP| ショップチャンネル
-http://extraott.com/7921751389/6097373662/37685
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉日本频道🦮",JP| ダンスチャンネル
-http://extraott.com/7921751389/6097373662/37686
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉日本频道🦮",JP| エンタメ~テレ
-http://extraott.com/7921751389/6097373662/37687
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉日本频道🦮",JP| タカラヅカスカイステージ
-http://extraott.com/7921751389/6097373662/37688
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉日本频道🦮",JP| 日テレプラス
-http://extraott.com/7921751389/6097373662/37689
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs03&isp=10&bind=0&uin=159413&playseek=0
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉日本频道🦮",迪士尼(日本)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs24
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉日本频道🦮",NHK BS1
 https://stream01.willfonk.com/live_playlist.m3u8?cid=BS101&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉日本频道🦮",NHK教育
@@ -4105,80 +4071,6 @@ https://stream01.willfonk.com/live_playlist.m3u8?cid=BS245&r=FHD&ccode=JP&m=d0:2
 https://stream01.willfonk.com/live_playlist.m3u8?cid=CS314&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉日本频道🦮",Music ON TV!
 https://stream01.willfonk.com/live_playlist.m3u8?cid=CS325&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉日本频道🦮",NHKBSP-4K
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs01
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉日本频道🦮",スカイA
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cu8?cid=gd02&isp=10&bind=0&uin=159413&playseek=0
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉日本频道🦮",ディスカバリー
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs08&isp=10&bind=0&uin=159413&playseek=0
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉日本频道🦮",テレビ大坂
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx05&isp=10&bind=0&uin=159413&playseek=0
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉日本频道🦮",テレビ朝日
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd06&isp=10&bind=0&uin=159413&playseek=0
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉日本频道🦮",テレビ东京
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd07&isp=10&bind=0&uin=159413&playseek=0
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉日本频道🦮",スターチャンネル1
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs08&isp=10&bind=0&uin=159413&playseek=0
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉日本频道🦮",ヒストリーチャンネル
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs09&isp=10&bind=0&uin=159413&playseek=0
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉日本频道🦮",フジテレビ
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd05&isp=10&bind=0&uin=159413&playseek=0
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉日本频道🦮",ホームドラマチャンネル
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs05&isp=10&bind=0&uin=159413&playseek=0
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉日本频道🦮",ミュージック?ジャパン
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs06&isp=10&bind=0&uin=159413&playseek=0
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉日本频道🦮",旅チャンネル
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs12&isp=10&bind=0&uin=159413&playseek=0
-#EXTINF:-1 tvg-id="7100" tvg-name="ABCAustralia" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/abcaus.png" group-title="🐉日本频道🦮",ABCテレビ
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx02&isp=10&bind=0&uin=159413&playseek=0
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉日本频道🦮",BS-TBS
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs04&isp=10&bind=0&uin=159413&playseek=0
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉日本频道🦮",BSアニマックス
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs15&isp=10&bind=0&uin=159413&playseek=0
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉日本频道🦮",BSテレ东
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs05&isp=10&bind=0&uin=159413&playseek=0
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉日本频道🦮",BSフジ
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs06&isp=10&bind=0&uin=159413&playseek=0
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉日本频道🦮",BS日テレ
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs02&isp=10&bind=0&uin=159413&playseek=0
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉日本频道🦮",BS朝日
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs03&isp=10&bind=0&uin=159413&playseek=0
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉日本频道🦮",J Sports 1
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs18&isp=10&bind=0&uin=159413&playseek=0
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉日本频道🦮",J Sports 2
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs19&isp=10&bind=0&uin=159413&playseek=0
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉日本频道🦮",J Sports 3
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs21&isp=10&bind=0&uin=159413&playseek=0
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉日本频道🦮",J Sports 4
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs22&isp=10&bind=0&uin=159413&playseek=0
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉日本频道🦮",MBS毎日放送
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx01&isp=10&bind=0&uin=159413&playseek=0
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉日本频道🦮",NHK BS1
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs11&isp=10&bind=0&uin=159413&playseek=0
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉日本频道🦮",NHK BSプレミアム
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs01&isp=10&bind=0&uin=159413&playseek=0
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉日本频道🦮",NHK Eテレ
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd02&isp=10&bind=0&uin=159413&playseek=0
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉日本频道🦮",NHK 総合
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd01&isp=10&bind=0&uin=159413&playseek=0
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉日本频道🦮",NHK大坂 総合
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx06&isp=10&bind=0&uin=159413&playseek=0
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉日本频道🦮",TBS
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd04&isp=10&bind=0&uin=159413&playseek=0
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉日本频道🦮",TOKYO MX
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd08&isp=10&bind=0&uin=159413&playseek=0
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉日本频道🦮",WOWOW シネマ
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs07&isp=10&bind=0&uin=159413&playseek=0
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉日本频道🦮",WOWOW プライム
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs12&isp=10&bind=0&uin=159413&playseek=0
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉日本频道🦮",WOWOW ライブ
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs20&isp=10&bind=0&uin=159413&playseek=0
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉日本频道🦮",キッズステ   ション
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs07&isp=10&bind=0&uin=159413&playseek=0
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉日本频道🦮",ゴルフネットワーク
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs03&isp=10&bind=0&uin=159413&playseek=0
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉日本频道🦮",迪士尼(日本)
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs24
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉日本频道🦮",NEWS 24H
 https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉日本频道🦮",QVC
@@ -4189,12 +4081,6 @@ http://cdn-live1.qvc.jp/iPhone/800/800.m3u8
 https://cdn1.skygo.mn/live/disk1/NHK_World_Premium/HLSv3-FTA/NHK_World_Premium.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉日本频道🦮",NHK世界
 https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉日本频道🦮",Nippon
-https://ntv4.mov3.co/hls/ntv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉日本频道🦮",NHKG
-https://nhk4.mov3.co/hls/nhk.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉日本频道🦮",TBS
-https://tbs4.mov3.co/hls/tbs.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉日本频道🦮",Shop Channel
 http://stream1.shopch.jp/HLS/out1/prog_index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉日本频道🦮",ホームドラマチャンネル
@@ -4318,118 +4204,7 @@ http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs29
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉韩国频道🦆",👉此处以下频道需要魔法👈
-https://cloud.lxweb.cn/f/08QDU0/3.MOV
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉韩国频道🦆",JTBC골프
-https://fm1077.serv00.net/anbo/index.php?id=268
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉韩国频道🦆",JTBC
-https://fm1077.serv00.net/anbo/index.php?id=253
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉韩国频道🦆",KBS KOREA
-https://fm1077.serv00.net/anbo/index.php?id=1040
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉韩国频道🦆",KBS1
-https://fm1077.serv00.net/anbo/index.php?id=2752
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉韩国频道🦆",KBS2
-https://fm1077.serv00.net/anbo/index.php?id=2753
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉韩国频道🦆",MBC
-https://fm1077.serv00.net/anbo/index.php?id=251
-#EXTINF:-1 tvg-id="6159" tvg-name="tvN" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/tvN.png" group-title="🐉韩国频道🦆",TVN
-https://fm1077.serv00.net/anbo/index.php?id=295
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉韩国频道🦆",런닝맨
-https://fm1077.serv00.net/anbo/index.php?id=2347
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉韩国频道🦆",KBS드라마1
-https://fm1077.serv00.net/anbo/index.php?id=2348
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉韩国频道🦆",MBC드라마넷
-https://fm1077.serv00.net/anbo/index.php?id=2349
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉韩国频道🦆",I.NET
-https://fm1077.serv00.net/anbo/index.php?id=2351
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉韩国频道🦆",SkySports
-https://fm1077.serv00.net/anbo/index.php?id=2352
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉韩国频道🦆",KBSN Sports
-https://fm1077.serv00.net/anbo/index.php?id=2353
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉韩国频道🦆",SBS Sports
-https://fm1077.serv00.net/anbo/index.php?id=2354
-#EXTINF:-1 tvg-id="701" tvg-name="FashionTV" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/faguoshishang.png" group-title="🐉韩国频道🦆",FTV
-https://fm1077.serv00.net/anbo/index.php?id=2355
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉韩国频道🦆",바둑TV
-https://fm1077.serv00.net/anbo/index.php?id=2356
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉韩国频道🦆",OCN Thrills
-https://fm1077.serv00.net/anbo/index.php?id=2357
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉韩国频道🦆",OBS
-https://fm1077.serv00.net/anbo/index.php?id=2358
-#EXTINF:-1 tvg-id="6037" tvg-name="Discovery" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/DiscoveryHD.png" group-title="🐉韩国频道🦆",Discovery
-https://fm1077.serv00.net/anbo/index.php?id=2359
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉韩国频道🦆",투니버스Tooniverse 39
-https://fm1077.serv00.net/anbo/index.php?id=2360
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉韩国频道🦆",연변위성
-https://fm1077.serv00.net/anbo/index.php?id=2361
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉韩国频道🦆",연합뉴스TV
-https://fm1077.serv00.net/anbo/index.php?id=1039
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉韩国频道🦆",YTN2
-https://fm1077.serv00.net/anbo/index.php?id=1058
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉韩国频道🦆",YTN
-https://fm1077.serv00.net/anbo/index.php?id=1061
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉韩国频道🦆",SBS
-https://fm1077.serv00.net/anbo/index.php?id=252
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉韩国频道🦆",MBN
-https://fm1077.serv00.net/anbo/index.php?id=257
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉韩国频道🦆",MBC스포츠
-https://fm1077.serv00.net/anbo/index.php?id=265
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉韩国频道🦆",OCN
-https://fm1077.serv00.net/anbo/index.php?id=488
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉韩国频道🦆",iNet
-https://fm1077.serv00.net/anbo/index.php?id=490
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉韩国频道🦆",CTS
-https://fm1077.serv00.net/anbo/index.php?id=491
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉韩国频道🦆",Spotv
-https://fm1077.serv00.net/anbo/index.php?id=266
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉韩国频道🦆",Spotv2
-https://fm1077.serv00.net/anbo/index.php?id=267
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉韩国频道🦆",THE K-POP
-https://fm1077.serv00.net/anbo/index.php?id=493
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉韩国频道🦆",SBS골프
-https://fm1077.serv00.net/anbo/index.php?id=486
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉韩国频道🦆",한국경제
-https://fm1077.serv00.net/anbo/index.php?id=1064
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉韩国频道🦆",매일경제TV
-https://fm1077.serv00.net/anbo/index.php?id=1065
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉韩国频道🦆",YTN dmb
-https://fm1077.serv00.net/anbo/index.php?id=492
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉韩国频道🦆",YTN 사이언스
-https://fm1077.serv00.net/anbo/index.php?id=1605
-#EXTINF:-1 tvg-id="6141" tvg-name="ArirangTV" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/ArirangTV.png" group-title="🐉韩国频道🦆",Arirang TV
-https://fm1077.serv00.net/anbo/index.php?id=256
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉韩国频道🦆",TV CHOSUN
-https://fm1077.serv00.net/anbo/index.php?id=2333
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉韩国频道🦆",SBS Sports
-https://fm1077.serv00.net/anbo/index.php?id=487
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉韩国频道🦆",Mnet
-https://fm1077.serv00.net/anbo/index.php?id=1136
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉韩国频道🦆",MBCevery1
-https://fm1077.serv00.net/anbo/index.php?id=476
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉韩国频道🦆",Tconvers
-https://fm1077.serv00.net/anbo/index.php?id=1134
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉韩国频道🦆",채널A
-https://fm1077.serv00.net/anbo/index.php?id=1092
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉韩国频道🦆",KBC
-https://fm1077.serv00.net/anbo/index.php?id=1307
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉韩国频道🦆",MTN
-https://fm1077.serv00.net/anbo/index.php?id=1504
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉韩国频道🦆",토마토TV
-https://fm1077.serv00.net/anbo/index.php?id=1544
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉韩国频道🦆",이데일리TV
-https://fm1077.serv00.net/anbo/index.php?id=1554
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉韩国频道🦆",EBS1
-https://fm1077.serv00.net/anbo/index.php?id=2439
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉韩国频道🦆",EBS2
-https://fm1077.serv00.net/anbo/index.php?id=3006
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉韩国频道🦆",EBS KIDS
-https://fm1077.serv00.net/anbo/index.php?id=3007
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉韩国频道🦆",EBS PLUS1
-https://fm1077.serv00.net/anbo/index.php?id=3008
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉韩国频道🦆",EBS PLUS2
-https://fm1077.serv00.net/anbo/index.php?id=3009
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉韩国频道🦆",EBSe
-https://fm1077.serv00.net/anbo/index.php?id=3010
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉韩国频道🦆",JTBC 뭉쳐야 뜬다1
 https://jmp2.uk/SamsungTVPlus/KR400006MW.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉韩国频道🦆",JTBC 뭉쳐야 찬다3
@@ -4740,10 +4515,6 @@ http://ebsonairios.ebs.co.kr/plus1tablet500k/tablet500k/plus1tablet500k.index.m3
 http://ebsonairios.ebs.co.kr/plus2tablet500k/tablet500k/plus2tablet500k.index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉韩国频道🦆",「韩国」EBSe
 http://ebsonairios.ebs.co.kr/plus3tablet500k/tablet500k/plus3tablet500k.index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉韩国频道🦆",「韩国」KBC | SBS
-http://119.200.131.11:1935/KBCTV/tv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉韩国频道🦆",「韩国」JTBC
-https://everylive.space/live/jtbc/livestream.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉韩国频道🦆",「韩国」CJB | SBS
 http://1.222.207.80:1935/live/cjbtv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉韩国频道🦆",「韩国」MBC UHD
@@ -4768,8 +4539,6 @@ https://d25mdvvpht3395.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 https://d2zyqoz1zsj2mq.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-i9yul1lyegl6e-ssai-prd/6d07fe2a_003a_4879_acfc_44e3c3c10f03/hls/playlist.m3u8?
 #EXTINF:-1 tvg-id="6159" tvg-name="tvN" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/tvN.png" group-title="🐉韩国频道🦆",「韩国」tvN asia
 https://amg01201-cinedigmenterta-asiancrush-cineverse-x701o.amagi.tv/playlist/amg01201-cinedigmenterta-asiancrush-cineverse/playlist.m3u8
-#EXTINF:-1 tvg-id="6159" tvg-name="tvN" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/tvN.png" group-title="🐉韩国频道🦆",「韩国」tvN1线
-https://everylive.space/live/tvn/livestream.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉韩国频道🦆",KBS世界
 https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/01.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉韩国频道🦆",KBS世界
@@ -4782,12 +4551,8 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=711
 http://ebsonairios.ebs.co.kr/ebs2tablet500k/tablet500k/ebs2tablet500k.index.m3u8?
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉韩国频道🦆",JTV
 https://tistory1.daumcdn.net/tistory/2864485/skin/images/Public_58.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉韩国频道🦆",JTV
-http://61.85.197.53:1935/jtv_live/myStream/chunklist_w1542137203.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉韩国频道🦆",Korea TV
 https://hlive.ktv.go.kr/live/klive_h.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉韩国频道🦆",KBC TV
-https://vod.ikbc.co.kr/KBCTV/tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉韩国频道🦆",KCTV
 http://119.77.96.184:1935/chn05/chn05/chunklist_w1306745753.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉韩国频道🦆",CJBSBS
@@ -4800,18 +4565,10 @@ https://wms2-kortv.akamaized.net/a_live/81992167/smil:20tv121.smil/chunklist_b25
 http://live.worktv.or.kr:1935/live/wowtvlive1.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉韩国频道🦆",국방TV
 http://mediaworks.dema.mil.kr:1935/live_edge/cudo.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉韩国频道🦆",MBC
-http://vod.mpmbc.co.kr:1935/live/encoder-tv/playlist.m3u8
 #EXTINF:-1 tvg-id="6141" tvg-name="ArirangTV" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/ArirangTV.png" group-title="🐉韩国频道🦆",Arirang
 https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b656000_sleng.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉韩国频道🦆",C
 http://112.175.51.214:1935/live/myStream/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉韩国频道🦆",JEJUMBC
-https://wowza.jejumbc.com/live/tv_jejumbc/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉韩国频道🦆",KBC SBS
-http://119.200.131.11:1935/KBCTV/tv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉韩国频道🦆",UBC SBS
-http://59.23.231.102:1935/live/UBCstream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉韩国频道🦆",MBC
 http://123.254.72.24:1935/tvlive/livestream2/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉韩国频道🦆",BBSTV(불교)
@@ -4844,8 +4601,6 @@ http://kbs-dokdo.gscdn.com/dokdo_300/dokdo_300.stream/playlist.m3u8
 https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/master.m3u8
 #EXTINF:-1 tvg-id="6141" tvg-name="ArirangTV" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/ArirangTV.png" group-title="🐉韩国频道🦆",Arirang
 http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉韩国频道🦆",DUBAI ONE
-http://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉韩国频道🦆",CJB(5G专线)
 http://1.222.207.80:1935/live/cjbtv/chunklist_w1357270949.m3u8
 
@@ -6926,6 +6681,7 @@ https://www.goodiptv.club/douyu/11980632
 https://www.goodiptv.club/douyu/11988070
 #EXTINF:-1 group-title="🐉斗鱼轮播🦈",保修期内不保修
 https://www.goodiptv.club/douyu/12016395
+
 
 #EXTINF:-1 tvg-logo="https://tv.iill.top/LOGO/585800&huya&logo" group-title="🐉虎牙轮播🐯", 大熊小清新
 http://live.iill.top/huya.php?id=585800
