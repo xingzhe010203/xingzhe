@@ -87,6 +87,10 @@ http://api.52tb.xyz/info?id=413&token=20230331fbulna
 http://ddns.cyruslee.top:8888/udp/239.77.0.112:5146
 #EXTINF:-1 group-title="🐉国内体育🐉",广东体育
 http://ddns.cyruslee.top:8888/udp/239.77.0.168:5146
+#EXTINF:-1 group-title="🐉国内体育🐉",五星体育
+http://[2409:8087:5e08:24::15]:6610/000000001000/2000000002000000007/index.m3u8?IAS
+#EXTINF:-1 group-title="🐉国内体育",五星体育
+https://live.goodiptv.club/api/bestv.php?id=wxtyhd8m/8000000
 #EXTINF:-1 tvg-id="1877" tvg-name="BTV体育" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/BTV体育.png" group-title="🐉国内体育🐉",北京体育休闲
 http://117.114.153.26:8180/TV00000000000000000196@HHZT
 #EXTINF:-1 tvg-id="1877" tvg-name="BTV体育" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/BTV体育.png" group-title="🐉国内体育🐉",北京体育休闲
