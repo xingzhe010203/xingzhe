@@ -1,6 +1,13 @@
-
-#EXTINF:-1 tvg-name="订阅问客服" tvg-logo="https://epg.iill.top/logo/温馨提示.png" group-title="👉唯一微信号:xingzhe010203👈",👉唯一微信号:xingzhe010203👈
-
+#EXTINF:-1 tvg-name="订阅问客服" tvg-logo="https://epg.iill.top/logo/温馨提示.png" group-title="👉扫码添加此微信👈",👉扫码添加此微信👈
+https://7692.kstore.space/6H.mp4
+#EXTINF:-1 tvg-name="订阅问客服" tvg-logo="https://epg.iill.top/logo/温馨提示.png" group-title="👉以获取最新链接👈",👉以获取最新链接👈
+https://7692.kstore.space/6H.mp4
+#EXTINF:-1 tvg-name="订阅问客服" tvg-logo="https://epg.iill.top/logo/温馨提示.png" group-title="👉唯一微信号:Cxx114x👈",👉唯一微信号:Cxx114x👈
+https://7692.kstore.space/6H.mp4
+#EXTINF:-1 tvg-name="订阅问客服" tvg-logo="https://epg.iill.top/logo/温馨提示.png" group-title="👉定期更换新链接👈",👉定期更换新链接👈
+https://7692.kstore.space/6H.mp4
+#EXTINF:-1 tvg-name="订阅问客服" tvg-logo="https://epg.iill.top/logo/温馨提示.png" group-title="👉不加此微信无售后👈",👉不加此微信无售后👈
+https://7692.kstore.space/6H.mp4
 
 
 #EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/51067f839.png" group-title="🦁欧洲五大联赛🦁",08/17 02:45 英超联赛 首发 曼联vs富勒姆 解说
@@ -87,10 +94,22 @@ http://api.52tb.xyz/info?id=413&token=20230331fbulna
 http://ddns.cyruslee.top:8888/udp/239.77.0.112:5146
 #EXTINF:-1 group-title="🐉国内体育🐉",广东体育
 http://ddns.cyruslee.top:8888/udp/239.77.0.168:5146
-#EXTINF:-1 group-title="🐉国内体育🐉",五星体育
-http://[2409:8087:5e08:24::15]:6610/000000001000/2000000002000000007/index.m3u8?IAS
-#EXTINF:-1 group-title="🐉国内体育",五星体育
-https://live.goodiptv.club/api/bestv.php?id=wxtyhd8m/8000000
+#EXTINF:-1 tvg-id="1987" tvg-name="五星体育频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/wuxingtiyu.png" group-title="🐉国内体育🐉",五星体育「组播」
+http://www.17888.fun:10000/udp/239.45.3.210:5140
+#EXTINF:-1 tvg-id="1987" tvg-name="五星体育频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/wuxingtiyu.png" group-title="🐉国内体育🐉",五星体育「组播」
+http://origin.lean.org.cn:4000/udp/239.45.3.210:5140
+#EXTINF:-1 tvg-id="1987" tvg-name="五星体育频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/wuxingtiyu.png" group-title="🐉国内体育🐉",五星体育「组播」
+http://222.64.56.17:6666/udp/239.45.3.210:5140
+#EXTINF:-1 tvg-id="1987" tvg-name="五星体育频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/wuxingtiyu.png" group-title="🐉国内体育🐉",五星体育「组播」
+http://58.41.27.144:18888/udp/239.45.3.210:5140
+#EXTINF:-1 tvg-id="1987" tvg-name="五星体育频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/wuxingtiyu.png" group-title="🐉国内体育🐉",五星体育「组播」
+http://180.171.56.119:10000/udp/239.45.3.210:5140
+#EXTINF:-1 tvg-id="1987" tvg-name="五星体育频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/wuxingtiyu.png" group-title="🐉国内体育🐉",五星体育「组播」
+http://116.226.8.253:8881/udp/239.45.3.210:5140
+#EXTINF:-1 tvg-id="1987" tvg-name="五星体育频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/wuxingtiyu.png" group-title="🐉国内体育🐉",五星体育「组播」
+http://139.196.214.238:13013/udp/239.45.3.210:5140
+#EXTINF:-1 tvg-id="1987" tvg-name="五星体育频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/wuxingtiyu.png" group-title="🐉国内体育🐉",五星体育
+http://22725y284r.yicp.fun:9902/tsfile/live/1003_1.m3u8
 #EXTINF:-1 tvg-id="1877" tvg-name="BTV体育" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/BTV体育.png" group-title="🐉国内体育🐉",北京体育休闲
 http://117.114.153.26:8180/TV00000000000000000196@HHZT
 #EXTINF:-1 tvg-id="1877" tvg-name="BTV体育" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/BTV体育.png" group-title="🐉国内体育🐉",北京体育休闲
@@ -261,6 +280,65 @@ http://mutant.arrox.top:80/live/iPKJmCy0r/krfwNE8z4h/3070.m3u8
 #EXTINF:-1 group-title="🎾网球赛事🎾",UK | THE TENNIS CHANNEL
 http://mutant.arrox.top:80/live/iPKJmCy0r/krfwNE8z4h/187191.m3u8
 
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="🎰央视卫视🎰",CCTV1
+http://129.226.149.79:4785/html/freetest0321.php?access_token=test1208faku&id=cctv01zh
+#EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://live.fanmingming.com/tv/CCTV2.png" group-title="🎰央视卫视🎰",CCTV2
+http://129.226.149.79:4785/html/freetest0321.php?access_token=test1208faku&id=cctv02jj
+#EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://live.fanmingming.com/tv/CCTV3.png" group-title="🎰央视卫视🎰",CCTV3
+http://129.226.149.79:4785/html/freetest0321.php?access_token=test1208faku&id=cctv03zy
+#EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://live.fanmingming.com/tv/CCTV4.png" group-title="🎰央视卫视🎰",CCTV4
+http://129.226.149.79:4785/html/freetest0321.php?access_token=test1208faku&id=cctv04zw
+#EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://live.fanmingming.com/tv/CCTV5.png" group-title="🎰央视卫视🎰",CCTV5
+http://129.226.149.79:4785/html/freetest0321.php?access_token=test1208faku&id=cctv05ty
+#EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://live.fanmingming.com/tv/CCTV6.png" group-title="🎰央视卫视🎰",CCTV6
+http://129.226.149.79:4785/html/freetest0321.php?access_token=test1208faku&id=cctv06dy
+#EXTINF:-1 tvg-name="CCTV7" tvg-logo="https://live.fanmingming.com/tv/CCTV7.png" group-title="🎰央视卫视🎰",CCTV7
+http://129.226.149.79:4785/html/freetest0321.php?access_token=test1208faku&id=cctv07js
+#EXTINF:-1 tvg-name="CCTV8" tvg-logo="https://live.fanmingming.com/tv/CCTV8.png" group-title="🎰央视卫视🎰",CCTV8
+http://129.226.149.79:4785/html/freetest0321.php?access_token=test1208faku&id=cctv08dsj
+#EXTINF:-1 tvg-name="CCTV9" tvg-logo="https://live.fanmingming.com/tv/CCTV9.png" group-title="🎰央视卫视🎰",CCTV9
+http://129.226.149.79:4785/html/freetest0321.php?access_token=test1208faku&id=cctv09jl
+#EXTINF:-1 tvg-name="CCTV10" tvg-logo="https://live.fanmingming.com/tv/CCTV10.png" group-title="🎰央视卫视🎰",CCTV10
+http://129.226.149.79:4785/html/freetest0321.php?access_token=test1208faku&id=cctv10jy
+#EXTINF:-1 tvg-name="CCTV11" tvg-logo="https://live.fanmingming.com/tv/CCTV11.png" group-title="🎰央视卫视🎰",CCTV11
+http://129.226.149.79:4785/html/freetest0321.php?access_token=test1208faku&id=cctv11xq
+#EXTINF:-1 tvg-name="CCTV12" tvg-logo="https://live.fanmingming.com/tv/CCTV12.png" group-title="🎰央视卫视🎰",CCTV12
+http://129.226.149.79:4785/html/freetest0321.php?access_token=test1208faku&id=cctv12sf
+#EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://live.fanmingming.com/tv/CCTV13.png" group-title="🎰央视卫视🎰",CCTV13
+http://129.226.149.79:4785/html/freetest0321.php?access_token=test1208faku&id=cctv13xw
+#EXTINF:-1 tvg-name="CCTV14" tvg-logo="https://live.fanmingming.com/tv/CCTV14.png" group-title="🎰央视卫视🎰",CCTV14
+http://129.226.149.79:4785/html/freetest0321.php?access_token=test1208faku&id=cctv14se
+#EXTINF:-1 tvg-name="CCTV15" tvg-logo="https://live.fanmingming.com/tv/CCTV15.png" group-title="🎰央视卫视🎰",CCTV15
+http://129.226.149.79:4785/html/freetest0321.php?access_token=test1208faku&id=cctv15yy
+#EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://live.fanmingming.com/tv/CCTV16.png" group-title="🎰央视卫视🎰",CCTV16
+http://129.226.149.79:4785/html/freetest0321.php?access_token=test1208faku&id=cctv16ay
+#EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://live.fanmingming.com/tv/CCTV17.png" group-title="🎰央视卫视🎰",CCTV17
+http://129.226.149.79:4785/html/freetest0321.php?access_token=test1208faku&id=cctv17ny
+#EXTINF:-1 tvg-name="安徽卫视" tvg-logo="https://live.fanmingming.com/tv/安徽卫视.png" group-title="🎰央视卫视🎰",安徽卫视
+http://129.226.149.79:4785/html/freetest0321.php?access_token=test1208faku&id=wsanhui
+#EXTINF:-1 tvg-name="辽宁卫视" tvg-logo="https://live.fanmingming.com/tv/辽宁卫视.png" group-title="🎰央视卫视🎰",辽宁卫视
+http://129.226.149.79:4785/html/freetest0321.php?access_token=test1208faku&id=wsliaoning
+#EXTINF:-1 tvg-name="湖北卫视" tvg-logo="https://live.fanmingming.com/tv/湖北卫视.png" group-title="🎰央视卫视🎰",湖北卫视
+http://129.226.149.79:4785/html/freetest0321.php?access_token=test1208faku&id=wshubei
+#EXTINF:-1 tvg-name="黑龙江卫视" tvg-logo="https://live.fanmingming.com/tv/黑龙江卫视.png" group-title="🎰央视卫视🎰",黑龙江卫视
+http://129.226.149.79:4785/html/freetest0321.php?access_token=test1208faku&id=wsheilongjiang
+#EXTINF:-1 tvg-name="河北卫视" tvg-logo="https://live.fanmingming.com/tv/河北卫视.png" group-title="🎰央视卫视🎰",河北卫视
+http://129.226.149.79:4785/html/freetest0321.php?access_token=test1208faku&id=wshebei
+#EXTINF:-1 tvg-name="东南卫视" tvg-logo="https://live.fanmingming.com/tv/东南卫视.png" group-title="🎰央视卫视🎰",东南卫视
+http://129.226.149.79:4785/html/freetest0321.php?access_token=test1208faku&id=wsdongnan
+#EXTINF:-1 tvg-name="天津卫视" tvg-logo="https://live.fanmingming.com/tv/天津卫视.png" group-title="🎰央视卫视🎰",天津卫视
+http://129.226.149.79:4785/html/freetest0321.php?access_token=test1208faku&id=wstianjing
+#EXTINF:-1 tvg-name="江西卫视" tvg-logo="https://live.fanmingming.com/tv/江西卫视.png" group-title="🎰央视卫视🎰",江西卫视
+http://129.226.149.79:4785/html/freetest0321.php?access_token=test1208faku&id=wsjiangxi
+#EXTINF:-1 tvg-name="贵州卫视" tvg-logo="https://live.fanmingming.com/tv/贵州卫视.png" group-title="🎰央视卫视🎰",贵州卫视
+http://129.226.149.79:4785/html/freetest0321.php?access_token=test1208faku&id=wsguizhou
+#EXTINF:-1 tvg-name="海南卫视" tvg-logo="https://live.fanmingming.com/tv/海南卫视.png" group-title="🎰央视卫视🎰",海南卫视
+http://129.226.149.79:4785/html/freetest0321.php?access_token=test1208faku&id=wshainan
+#EXTINF:-1 tvg-name="重庆卫视" tvg-logo="https://live.fanmingming.com/tv/重庆卫视.png" group-title="🎰央视卫视🎰",重庆卫视
+http://129.226.149.79:4785/html/freetest0321.php?access_token=test1208faku&id=wschongqing
+#EXTINF:-1 tvg-name="广西卫视" tvg-logo="https://live.fanmingming.com/tv/广西卫视.png" group-title="🎰央视卫视🎰",广西卫视
+http://129.226.149.79:4785/html/freetest0321.php?access_token=test1208faku&id=wsguangxi
+
 #EXTINF:-1 tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/linitfor/epg/main/logo/CCTV-1 综合.png" group-title="央视",CCTV-1 综合
 http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226559/index.m3u8
 #EXTINF:-1 tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/linitfor/epg/main/logo/CCTV-2 财经.png" group-title="央视",CCTV-2 财经
@@ -425,7 +503,6 @@ http://[2409:8087:1a0b:df::4007]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/
 http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000005000266006/1.m3u8
 #EXTINF:-1 tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/linitfor/epg/main/logo/康巴卫视.png" group-title="卫视",康巴卫视
 http://[2409:8087:1a0b:df::4005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225660/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://tv.iill.top/logo/咪咕.png" group-title="🐉咪咕体育「全网」",咪咕直播4K Ⅰ
 http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000005180&livemode=1&stbId=3
 #EXTINF:-1 tvg-logo="https://tv.iill.top/logo/咪咕.png" group-title="🐉咪咕体育「全网」",咪咕直播4K Ⅱ
