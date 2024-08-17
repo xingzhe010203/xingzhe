@@ -1,7 +1,6 @@
 
 
-#EXTINF:-1 tvg-name="订阅问客服" tvg-logo="https://epg.iill.top/logo/温馨提示.png" group-title="👉唯一微信号:xingzhe010203👈",👉唯一微信号:xingzhe010203👈
-
+#EXTINF:-1 tvg-name="订阅问客服" tvg-logo="https://epg.iill.top/logo/温馨提示.png" group-title="👉售后微:xingzhe010203👈",👉售后微:xingzhe010203👈
 
 
 
@@ -10046,65 +10045,77 @@ http://www.17888.fun:10000/udp/239.45.3.210:5140
 #EXTINF:-1 tvg-id="1987" tvg-name="五星体育频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/wuxingtiyu.png" group-title="🐉上海频道",五星体育「组播」
 http://origin.lean.org.cn:4000/udp/239.45.3.210:5140
 #EXTINF:-1 tvg-id="1987" tvg-name="五星体育频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/wuxingtiyu.png" group-title="🐉上海频道",五星体育「组播」
-http://218.1.185.15:999/udp/239.45.3.210:5140
+http://222.64.56.17:6666/udp/239.45.3.210:5140
 #EXTINF:-1 tvg-id="1987" tvg-name="五星体育频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/wuxingtiyu.png" group-title="🐉上海频道",五星体育「组播」
 http://58.41.27.144:18888/udp/239.45.3.210:5140
 #EXTINF:-1 tvg-id="1987" tvg-name="五星体育频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/wuxingtiyu.png" group-title="🐉上海频道",五星体育「组播」
-http://paofan.boyi56.cn:4022/udp/239.45.3.210:5140
+http://180.171.56.119:10000/udp/239.45.3.210:5140
 #EXTINF:-1 tvg-id="1987" tvg-name="五星体育频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/wuxingtiyu.png" group-title="🐉上海频道",五星体育「组播」
-http://58.37.80.111:8888/udp/239.45.3.210:5140
+http://116.226.8.253:8881/udp/239.45.3.210:5140
 #EXTINF:-1 tvg-id="1987" tvg-name="五星体育频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/wuxingtiyu.png" group-title="🐉上海频道",五星体育「组播」
-http://218.79.27.163:4022/udp/239.45.3.210:5140
-#EXTINF:-1 tvg-id="1987" tvg-name="五星体育频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/wuxingtiyu.png" group-title="🐉上海频道",五星体育「组播」
-http://180.159.65.176:4022/udp/239.45.3.210:5140
-#EXTINF:-1 tvg-id="1987" tvg-name="五星体育频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/wuxingtiyu.png" group-title="🐉上海频道",五星体育「IPV6」
-http://[2409:8087:5e08:24::12]:6610/000000001000/2000000002000000007/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000007&IAS
-#EXTINF:-1 tvg-id="1987" tvg-name="五星体育频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/wuxingtiyu.png" group-title="🐉上海频道",五星体育「IPV6」
-http://[2409:8087:5e08:24::15]:6610/000000001000/2000000002000000007/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000007&IAS
-#EXTINF:-1 tvg-id="1987" tvg-name="五星体育频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/wuxingtiyu.png" group-title="🐉上海频道",五星体育「IPV6」
-http://[2409:8087:5e08:24::15]:6610/000000001000/2000000002000000007/index.m3u8? IAS
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉上海频道",「电信1」新闻综合
-http://58.41.30.154:8001/udp/239.45.3.209:5140
-#EXTINF:-1 tvg-id="1989" tvg-name="上海都市频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/shanghaidushi.jpg" group-title="🐉上海频道",「电信1」上海都市
-http://58.41.30.154:8001/udp/239.45.3.236:5140
-#EXTINF:-1 tvg-id="1986" tvg-name="东方影视" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/shanghaidongfangyingshi.png" group-title="🐉上海频道",「电信1」东方影视
-http://58.41.30.154:8001/udp/239.45.3.237:5140
-#EXTINF:-1 tvg-id="1987" tvg-name="五星体育频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/wuxingtiyu.png" group-title="🐉上海频道",「电信1」五星体育
-http://58.41.30.154:8001/udp/239.45.3.210:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉上海频道",「电信1」上视外语
-http://58.41.30.154:8001/udp/239.45.1.127:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉上海频道",「电信1」都市剧场
-http://58.41.30.154:8001/udp/239.45.3.136:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉上海频道",「电信1」上海教育
-http://58.41.30.154:8001/udp/239.45.3.122:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉上海频道",「电信1」东方财经
-http://58.41.30.154:8001/udp/239.45.1.119:5140
-#EXTINF:-1 tvg-id="1985" tvg-name="第一财经" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/diyicaijing.png" group-title="🐉上海频道",「电信1」第一财经
-http://58.41.30.154:8001/udp/239.45.3.211:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉上海频道",「电信2」新闻综合
-http://180.171.56.24:10000/udp/239.45.3.209:5140
-#EXTINF:-1 tvg-id="31" tvg-name="东方卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongfang.png" group-title="🐉上海频道",「电信2」东方卫视
-http://180.171.56.24:10000/udp/239.45.3.146:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉上海频道",「电信2」都市频道
-http://180.171.56.24:10000/udp/239.45.3.236:5140
-#EXTINF:-1 tvg-id="1988" tvg-name="上海纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanghaijishi.png" group-title="🐉上海频道",「电信2」纪实人文
-http://180.171.56.24:10000/udp/239.45.3.212:5140
-#EXTINF:-1 tvg-id="1985" tvg-name="第一财经" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/diyicaijing.png" group-title="🐉上海频道",「电信2」第一财经
-http://180.171.56.24:10000/udp/239.45.3.211:5140
-#EXTINF:-1 tvg-id="1987" tvg-name="五星体育频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/wuxingtiyu.png" group-title="🐉上海频道",「电信2」五星体育
-http://180.171.56.24:10000/udp/239.45.3.210:5140
-#EXTINF:-1 tvg-id="62" tvg-name="哈哈炫动" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/xuandong.png" group-title="🐉上海频道",「电信2」哈哈炫动
-http://180.171.56.24:10000/udp/239.45.1.55:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉上海频道",「电信2」上视外语
-http://180.171.56.24:10000/udp/239.45.1.127:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉上海频道",「电信2」都市剧场
-http://180.171.56.24:10000/udp/239.45.3.136:5140
-#EXTINF:-1 tvg-id="1986" tvg-name="东方影视" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/shanghaidongfangyingshi.png" group-title="🐉上海频道",「电信2」东方影视
-http://180.171.56.24:10000/udp/239.45.3.237:5140
-#EXTINF:-1 tvg-id="1977" tvg-name="欢笑剧场" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/huanxiao.png" group-title="🐉上海频道",「电信2」欢笑剧场
-http://180.171.56.24:10000/udp/239.45.3.196:5140
-#EXTINF:-1 tvg-id="1977" tvg-name="欢笑剧场" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/huanxiao.png" group-title="🐉上海频道",「电信2」欢笑剧场
-http://180.171.56.24:10000/udp/239.45.1.4:5140
+http://139.196.214.238:13013/udp/239.45.3.210:5140
+#EXTINF:-1 tvg-id="1987" tvg-name="五星体育频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/wuxingtiyu.png" group-title="🐉上海频道",五星体育
+http://22725y284r.yicp.fun:9902/tsfile/live/1003_1.m3u8
+#EXTINF:-1 tvg-name="「电信1」新闻综合" tvg-logo="https://live.fanmingming.com/tv/「电信1」新闻综合.png" group-title="🐉上海频道",「电信1」新闻综合
+http://222.64.56.17:6666/udp/239.45.3.209:5140
+#EXTINF:-1 tvg-name="「电信1」上海都市" tvg-logo="https://live.fanmingming.com/tv/「电信1」上海都市.png" group-title="🐉上海频道",「电信1」上海都市
+http://222.64.56.17:6666/udp/239.45.3.236:5140
+#EXTINF:-1 tvg-name="「电信1」五星体育" tvg-logo="https://live.fanmingming.com/tv/「电信1」五星体育.png" group-title="🐉上海频道",「电信1」五星体育
+http://222.64.56.17:6666/udp/239.45.3.210:5140
+#EXTINF:-1 tvg-name="「电信1」第一财经" tvg-logo="https://live.fanmingming.com/tv/「电信1」第一财经.png" group-title="🐉上海频道",「电信1」第一财经
+http://222.64.56.17:6666/udp/239.45.3.211:5140
+#EXTINF:-1 tvg-name="「电信1」都市剧场" tvg-logo="https://live.fanmingming.com/tv/「电信1」都市剧场.png" group-title="🐉上海频道",「电信1」都市剧场
+http://222.64.56.17:6666/udp/239.45.3.136:5140
+#EXTINF:-1 tvg-name="「电信1」上海教育" tvg-logo="https://live.fanmingming.com/tv/「电信1」上海教育.png" group-title="🐉上海频道",「电信1」上海教育
+http://222.64.56.17:6666/udp/239.45.3.122:5140
+#EXTINF:-1 tvg-name="「电信1」东方财经" tvg-logo="https://live.fanmingming.com/tv/「电信1」东方财经.png" group-title="🐉上海频道",「电信1」东方财经
+http://222.64.56.17:6666/udp/239.45.1.119:5140
+#EXTINF:-1 tvg-name="「电信1」上视外语" tvg-logo="https://live.fanmingming.com/tv/「电信1」上视外语.png" group-title="🐉上海频道",「电信1」上视外语
+http://222.64.56.17:6666/udp/239.45.1.127:5140
+#EXTINF:-1 tvg-name="「电信1」东方影视" tvg-logo="https://live.fanmingming.com/tv/「电信1」东方影视.png" group-title="🐉上海频道",「电信1」东方影视
+http://222.64.56.17:6666/udp/239.45.3.237:5140
+#EXTINF:-1 tvg-name="「电信1」欢笑剧场" tvg-logo="https://live.fanmingming.com/tv/「电信1」欢笑剧场.png" group-title="🐉上海频道",「电信1」欢笑剧场
+http://222.64.56.17:6666/udp/239.45.3.196:5140
+#EXTINF:-1 tvg-name="「电信2」新闻综合" tvg-logo="https://live.fanmingming.com/tv/「电信2」新闻综合.png" group-title="🐉上海频道",「电信2」新闻综合
+http://180.171.56.119:10000/udp/239.45.3.209:5140
+#EXTINF:-1 tvg-name="「电信2」都市频道" tvg-logo="https://live.fanmingming.com/tv/「电信2」都市频道.png" group-title="🐉上海频道",「电信2」都市频道
+http://180.171.56.119:10000/udp/239.45.3.236:5140
+#EXTINF:-1 tvg-name="「电信2」第一财经" tvg-logo="https://live.fanmingming.com/tv/「电信2」第一财经.png" group-title="🐉上海频道",「电信2」第一财经
+http://180.171.56.119:10000/udp/239.45.3.211:5140
+#EXTINF:-1 tvg-name="「电信2」五星体育" tvg-logo="https://live.fanmingming.com/tv/「电信2」五星体育.png" group-title="🐉上海频道",「电信2」五星体育
+http://180.171.56.119:10000/udp/239.45.3.210:5140
+#EXTINF:-1 tvg-name="「电信2」哈哈炫动" tvg-logo="https://live.fanmingming.com/tv/「电信2」哈哈炫动.png" group-title="🐉上海频道",「电信2」哈哈炫动
+http://180.171.56.119:10000/udp/239.45.1.55:5140
+#EXTINF:-1 tvg-name="「电信2」都市剧场" tvg-logo="https://live.fanmingming.com/tv/「电信2」都市剧场.png" group-title="🐉上海频道",「电信2」都市剧场
+http://180.171.56.119:10000/udp/239.45.3.136:5140
+#EXTINF:-1 tvg-name="「电信2」上视外语" tvg-logo="https://live.fanmingming.com/tv/「电信2」上视外语.png" group-title="🐉上海频道",「电信2」上视外语
+http://180.171.56.119:10000/udp/239.45.1.127:5140
+#EXTINF:-1 tvg-name="「电信2」东方影视" tvg-logo="https://live.fanmingming.com/tv/「电信2」东方影视.png" group-title="🐉上海频道",「电信2」东方影视
+http://180.171.56.119:10000/udp/239.45.3.237:5140
+#EXTINF:-1 tvg-name="「电信2」纪实人文" tvg-logo="https://live.fanmingming.com/tv/「电信2」纪实人文.png" group-title="🐉上海频道",「电信2」纪实人文
+http://180.171.56.119:10000/udp/239.45.3.212:5140
+#EXTINF:-1 tvg-name="「电信2」欢笑剧场" tvg-logo="https://live.fanmingming.com/tv/「电信2」欢笑剧场.png" group-title="🐉上海频道",「电信2」欢笑剧场
+http://180.171.56.119:10000/udp/239.45.3.196:5140
+#EXTINF:-1 tvg-name="「电信3」新闻综合" tvg-logo="https://live.fanmingming.com/tv/「电信3」新闻综合.png" group-title="🐉上海频道",「电信3」新闻综合
+http://116.226.8.253:8881/udp/239.45.3.209:5140
+#EXTINF:-1 tvg-name="「电信3」上海都市" tvg-logo="https://live.fanmingming.com/tv/「电信3」上海都市.png" group-title="🐉上海频道",「电信3」上海都市
+http://116.226.8.253:8881/udp/239.45.3.236:5140
+#EXTINF:-1 tvg-name="「电信3」五星体育" tvg-logo="https://live.fanmingming.com/tv/「电信3」五星体育.png" group-title="🐉上海频道",「电信3」五星体育
+http://116.226.8.253:8881/udp/239.45.3.210:5140
+#EXTINF:-1 tvg-name="「电信3」第一财经" tvg-logo="https://live.fanmingming.com/tv/「电信3」第一财经.png" group-title="🐉上海频道",「电信3」第一财经
+http://116.226.8.253:8881/udp/239.45.3.211:5140
+#EXTINF:-1 tvg-name="「电信3」都市剧场" tvg-logo="https://live.fanmingming.com/tv/「电信3」都市剧场.png" group-title="🐉上海频道",「电信3」都市剧场
+http://116.226.8.253:8881/udp/239.45.3.136:5140
+#EXTINF:-1 tvg-name="「电信3」上海教育" tvg-logo="https://live.fanmingming.com/tv/「电信3」上海教育.png" group-title="🐉上海频道",「电信3」上海教育
+http://116.226.8.253:8881/udp/239.45.3.122:5140
+#EXTINF:-1 tvg-name="「电信3」东方财经" tvg-logo="https://live.fanmingming.com/tv/「电信3」东方财经.png" group-title="🐉上海频道",「电信3」东方财经
+http://116.226.8.253:8881/udp/239.45.1.119:5140
+#EXTINF:-1 tvg-name="「电信3」上视外语" tvg-logo="https://live.fanmingming.com/tv/「电信3」上视外语.png" group-title="🐉上海频道",「电信3」上视外语
+http://116.226.8.253:8881/udp/239.45.1.127:5140
+#EXTINF:-1 tvg-name="「电信3」东方影视" tvg-logo="https://live.fanmingming.com/tv/「电信3」东方影视.png" group-title="🐉上海频道",「电信3」东方影视
+http://116.226.8.253:8881/udp/239.45.3.237:5140
+#EXTINF:-1 tvg-name="「电信3」欢笑剧场" tvg-logo="https://live.fanmingming.com/tv/「电信3」欢笑剧场.png" group-title="🐉上海频道",「电信3」欢笑剧场
+http://116.226.8.253:8881/udp/239.45.3.196:5140
 
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉广东频道",广州综合
