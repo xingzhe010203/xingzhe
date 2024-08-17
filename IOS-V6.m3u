@@ -1,20 +1,77 @@
 
+
 #EXTINF:-1 tvg-name="订阅问客服" tvg-logo="https://epg.iill.top/logo/温馨提示.png" group-title="👉唯一微信号:xingzhe010203👈",👉唯一微信号:xingzhe010203👈
 
-#EXTINF:-1,tvg-id="NOWSPORTSPLUS" tvg-name="NOWSPORTSPLUS" tvg-logo="https://epg.v1.mk/logo/NOWSPORTSPLUS.png" group-title="🦁欧洲五大联赛🦁",Now Sports Plus (粤语)
+
+
+
+
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/51067f839.png" group-title="🦁欧洲五大联赛🦁",08/17 02:45 英超联赛 首发 曼联vs富勒姆 解说
+https://livednow.com/migu/927689194?sign=gAAAAABmvydl2JDB-1hFv7TG8aRIsa3o3Ya9Nn10ODUl5ySxBGl2CgvX7vewfCiEHWbQ47OGyvAkIcvjt544ZsUp9W0EhYXRsieiGQ8IwfMG6Cslmw3ccJGZsLs5ij-Arx6u7V35TdaQMmGShFGmmx6qvRW2wTsP2TZ6GXVWk27ZbvQkrV8ai7OtqZZ6BVsky1v0L8ON8F4GFrIyH9_NnUuOwpriRmFITg%3D%3D
+#EXTINF:-1 tvg-logo="http://img.cmvideo.cn:8080/publish/noms_wc/nomsworldcup/2023/08/07/6CVTQPT1BJ1E.jpg" group-title="🦁欧洲五大联赛🦁",08/17 00:50 西甲联赛 塞尔塔vs阿拉维斯 解说
+https://livednow.com/migu/927616122?sign=gAAAAABmvydl79v-XJ9l9DSIJkZpe2LyzHpTD5nUHc4Jtt1Bj9XtU1HPVFWlRIXcF1kEn5p_dNqkOLsNtD3Z-xW_BPL2CFy7VfG8LclXNka571Y4hZhh4HCk5oja-uLpLPDTEzPiuzg92UvaqvTO4-eaZL1OwnF2Yh4jNqQlwC_yjgGZhu7w1Pw51FhKlG6ewdHNLYltlMyang9Qq9CwF1Vq1tU3ta4EuA%3D%3D
+#EXTINF:-1 tvg-logo="http://img.cmvideo.cn:8080/publish/noms_wc/nomsworldcup/2023/08/07/6CVTQPT1BJ1E.jpg" group-title="🦁欧洲五大联赛🦁",08/17 03:20 西甲联赛 拉斯帕尔马斯vs塞维利亚 解说
+https://livednow.com/migu/927616493?sign=gAAAAABmvydlC-arxJ81Ms6KcwQkl8YZp7gFLKDEQ1GF4Fm4LW1871UraFYH_gf2jdtLqB4W0Mcj5RKvZc0AM0rENl8PLWIGuF_reH6PnVBW8jJc5nDLajrQX0YGoOn6TzBvszTgglc1Rk9ev4oCWmzI3kclzBFZ01j7nxXXQfrK4oSVBa30i08H8iajxOQejHNfYFNhkQXvc37wJF4CUNLXeBok90xx7w%3D%3D
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2024/08/16/6LSCT16EKOI2.png" group-title="🦁欧洲五大联赛🦁",08/17 02:30 法甲联赛 勒阿弗尔vs巴黎圣日耳曼 解说
+https://livednow.com/migu/927691035?sign=gAAAAABmvydlurlJvLE1G2xYjb42O570UwKTifQjiie5jO4wFjf_d14oCxYMDLzPPZX1gWRUxstal--7ZF9H2MshsIeRs2AUo0dZZyLryTBFpA1wyp5Xy6CfO8TjYjXj8JLPMdOOVJYp6XL9lqiOj-pkhvBz
+#EXTINF:-1,tvg-id="NOWSPORTSPLUS" tvg-name="NOWSPORTSPLUS" tvg-logo="https://epg.v1.mk/logo/NOWSPORTSPLUS.png" group-title="🦁欧洲五大联赛🦁",Now Sports Plus
 https://sxj.btjson.us.kg/ziyong?id=now-sports-plus
-#EXTINF:-1,tvg-id="NOWSPORTS英超1" tvg-name="NOWSPORTS英超1" tvg-logo="https://epg.v1.mk/logo/NOWSPORTS英超1.png" group-title="🦁欧洲五大联赛🦁",Now Sports 英超1 (粤语)
+#EXTINF:-1,tvg-id="NOWSPORTS英超1" tvg-name="NOWSPORTS英超1" tvg-logo="https://epg.v1.mk/logo/NOWSPORTS英超1.png" group-title="🦁欧洲五大联赛🦁",Now Sports 英超1
 https://sxj.btjson.us.kg/ziyong?id=now-sports-premier-league1
-#EXTINF:-1,tvg-id="NOWSPORTS英超2" tvg-name="NOWSPORTS英超2" tvg-logo="https://epg.v1.mk/logo/NOWSPORTS英超2.png" group-title="🦁欧洲五大联赛🦁",Now Sports 英超2 (粤语)
+#EXTINF:-1,tvg-id="NOWSPORTS英超2" tvg-name="NOWSPORTS英超2" tvg-logo="https://epg.v1.mk/logo/NOWSPORTS英超2.png" group-title="🦁欧洲五大联赛🦁",Now Sports 英超2
 https://sxj.btjson.us.kg/ziyong?id=now-sports-premier-league2
-#EXTINF:-1,tvg-id="NOWSPORTS英超3" tvg-name="NOWSPORTS英超3" tvg-logo="https://epg.v1.mk/logo/NOWSPORTS英超3.png" group-title="🦁欧洲五大联赛🦁",Now Sports 英超3 (粤语)
+#EXTINF:-1,tvg-id="NOWSPORTS英超3" tvg-name="NOWSPORTS英超3" tvg-logo="https://epg.v1.mk/logo/NOWSPORTS英超3.png" group-title="🦁欧洲五大联赛🦁",Now Sports 英超3
 https://sxj.btjson.us.kg/ziyong?id=now-sports-premier-league3
-#EXTINF:-1,tvg-id="NOWSPORTS英超4" tvg-name="NOWSPORTS英超4" tvg-logo="https://epg.v1.mk/logo/NOWSPORTS英超4.png" group-title="🦁欧洲五大联赛🦁",Now Sports 英超4 (粤语)
+#EXTINF:-1,tvg-id="NOWSPORTS英超4" tvg-name="NOWSPORTS英超4" tvg-logo="https://epg.v1.mk/logo/NOWSPORTS英超4.png" group-title="🦁欧洲五大联赛🦁",Now Sports 英超4
 https://sxj.btjson.us.kg/ziyong?id=now-sports-premier-league4
-#EXTINF:-1,tvg-id="NOWSPORTS英超5" tvg-name="NOWSPORTS英超5" tvg-logo="https://epg.v1.mk/logo/NOWSPORTS英超5.png" group-title="🦁欧洲五大联赛🦁",Now Sports 英超5 (粤语)
+#EXTINF:-1,tvg-id="NOWSPORTS英超5" tvg-name="NOWSPORTS英超5" tvg-logo="https://epg.v1.mk/logo/NOWSPORTS英超5.png" group-title="🦁欧洲五大联赛🦁",Now Sports 英超5
 https://sxj.btjson.us.kg/ziyong?id=now-sports-premier-league5
-#EXTINF:-1,tvg-id="NOWSPORTS英超6" tvg-name="NOWSPORTS英超6" tvg-logo="https://epg.v1.mk/logo/NOWSPORTS英超6.png" group-title="🦁欧洲五大联赛🦁",Now Sports 英超6 (粤语)
+#EXTINF:-1,tvg-id="NOWSPORTS英超6" tvg-name="NOWSPORTS英超6" tvg-logo="https://epg.v1.mk/logo/NOWSPORTS英超6.png" group-title="🦁欧洲五大联赛🦁",Now Sports 英超6
 https://sxj.btjson.us.kg/ziyong?id=now-sports-premier-league6
+#EXTINF:-1,tvg-id="NOWSPORTS英超1" tvg-name="NOWSPORTS英超1" tvg-logo="https://epg.v1.mk/logo/NOWSPORTS英超1.png" group-title="🦁欧洲五大联赛🦁",Now Sports  4K 
+http://apptv.xyz:80/alia4remz/rrynDeBGS/86258
+#EXTINF:-1 tvg-id="" tvg-name="Now Sports 1" tvg-logo="https://yc.cdn.media.ulivetv.net/media/other/2024-01-17/9bf6d223da1a7998ce25de20895ed5e4.webp" group-title="🦁欧洲五大联赛🦁",Now Sports 1
+https://py.doube.eu.org/tv/xingshijie/getUrl/now-sports-1/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Now Sports 2" tvg-logo="https://yc.cdn.media.ulivetv.net/media/other/2024-01-17/0a5633dac5427187616800837abacbd7.webp" group-title="🦁欧洲五大联赛🦁",Now Sports 2
+https://py.doube.eu.org/tv/xingshijie/getUrl/now-sports-2/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Now Sports 3" tvg-logo="https://yc.cdn.media.ulivetv.net/media/other/2024-01-17/751684021e949c5d533ff41fbdf7ef6a.webp" group-title="🦁欧洲五大联赛🦁",Now Sports 3
+https://py.doube.eu.org/tv/xingshijie/getUrl/now-sports-3/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Now Sports 4" tvg-logo="https://yc.cdn.media.ulivetv.net/media/other/2024-01-17/5e7c956a12d18f356a83065795ffc595.webp" group-title="🦁欧洲五大联赛🦁",Now Sports 4
+https://py.doube.eu.org/tv/xingshijie/getUrl/now-sports-4/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Now Sports 5" tvg-logo="https://yc.cdn.media.ulivetv.net/media/other/2024-01-17/655c00bded182b481fdf71404e14fbaf.webp" group-title="🦁欧洲五大联赛🦁",Now Sports 5
+https://py.doube.eu.org/tv/xingshijie/getUrl/now-sports-5/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Now Sports 6" tvg-logo="https://yc.cdn.media.ulivetv.net/media/other/2024-01-17/cac342b292c56bc3cb1ad3808420b76a.webp" group-title="🦁欧洲五大联赛🦁",Now Sports 6
+https://py.doube.eu.org/tv/xingshijie/getUrl/now-sports-6/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Now Sports 7" tvg-logo="https://yc.cdn.media.ulivetv.net/media/other/2024-01-17/e942d49d3a616e0810653a692dccfaed.webp" group-title="🦁欧洲五大联赛🦁",Now Sports 7
+https://py.doube.eu.org/tv/xingshijie/getUrl/now-sports-7/index.m3u8
+#EXTINF:-1 tvg-id="MytvSuper" tvg-name="myTV SUPER 直播足球3台" tvg-logo="https://assets.livednow.com/logo/MytvSuper.png" group-title="🦁欧洲五大联赛🦁", myTV SUPER 直播足球3台
+https://docker.mytvsuper.us.kg/stream/tvb/mytvsuper3/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
+#EXTINF:-1 tvg-id="MytvSuper" tvg-name="myTV SUPER 直播足球4台" tvg-logo="https://assets.livednow.com/logo/MytvSuper.png" group-title="🦁欧洲五大联赛🦁", myTV SUPER 直播足球4台
+https://docker.mytvsuper.us.kg/stream/tvb/mytvsuper4/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
+#EXTINF:-1 tvg-id="MytvSuper" tvg-name="myTV SUPER 直播足球5台" tvg-logo="https://assets.livednow.com/logo/MytvSuper.png" group-title="🦁欧洲五大联赛🦁", myTV SUPER 直播足球5台
+https://docker.mytvsuper.us.kg/stream/tvb/mytvsuper5/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
+#EXTINF:-1 tvg-id="MytvSuper" tvg-name="myTV SUPER 直播足球6台" tvg-logo="https://assets.livednow.com/logo/MytvSuper.png" group-title="🦁欧洲五大联赛🦁", myTV SUPER 直播足球6台
+https://docker.mytvsuper.us.kg/stream/tvb/mytvsuper6/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
+#EXTINF:-1,tvg-id="NOWSPORTS英超1" tvg-name="NOWSPORTS英超1" tvg-logo="https://epg.v1.mk/logo/NOWSPORTS英超1.png" group-title="🦁欧洲五大联赛🦁",UK: Sky Sports Premier League FHD 1
+http://rhsbjv7k.tvclub.xyz/iptv/FAGK589PV9BQAG/9334/index.m3u8
+#EXTINF:-1,tvg-id="NOWSPORTS英超1" tvg-name="NOWSPORTS英超1" tvg-logo="https://epg.v1.mk/logo/NOWSPORTS英超1.png" group-title="🦁欧洲五大联赛🦁",UK: Sky Sports Premier League FHD 2
+http://rhsbjv7k.tvclub.xyz/iptv/FAGK589PV9BQAG/7335/index.m3u8
+#EXTINF:-1,tvg-id="NOWSPORTS英超1" tvg-name="NOWSPORTS英超1" tvg-logo="https://epg.v1.mk/logo/NOWSPORTS英超1.png" group-title="🦁欧洲五大联赛🦁",NO: VIASAT SPORTS 1 FHD
+http://extraott.com//7795309038/1092686646/63953
+#EXTINF:-1,tvg-id="NOWSPORTS英超1" tvg-name="NOWSPORTS英超1" tvg-logo="https://epg.v1.mk/logo/NOWSPORTS英超1.png" group-title="🦁欧洲五大联赛🦁",NO: VIASAT SPORTS 2 FHD
+http://extraott.com//7795309038/1092686646/63951
+#EXTINF:-1,tvg-id="NOWSPORTS英超1" tvg-name="NOWSPORTS英超1" tvg-logo="https://epg.v1.mk/logo/NOWSPORTS英超1.png" group-title="🦁欧洲五大联赛🦁",PPV| HUB PREMIER 2 FHD
+http://extraott.com//7795309038/1092686646/9060
+#EXTINF:-1,tvg-id="NOWSPORTS英超1" tvg-name="NOWSPORTS英超1" tvg-logo="https://epg.v1.mk/logo/NOWSPORTS英超1.png" group-title="🦁欧洲五大联赛🦁",Hub Premier 2 4K
+http://apptv.xyz:80/alia4remz/rrynDeBGS/86270
+#EXTINF:-1,tvg-id="NOWSPORTS英超1" tvg-name="NOWSPORTS英超1" tvg-logo="https://epg.v1.mk/logo/NOWSPORTS英超1.png" group-title="🦁欧洲五大联赛🦁",Eleven Sports 1 4K
+https://stream1.freetv.fun/eleven-sports-1-4k-1.ctv
+#EXTINF:-1,tvg-id="NOWSPORTS英超1" tvg-name="NOWSPORTS英超1" tvg-logo="https://epg.v1.mk/logo/NOWSPORTS英超1.png" group-title="🦁欧洲五大联赛🦁",Astro SuperSport 4K
+http://apptv.xyz:80/alia4remz/rrynDeBGS/86257
+#EXTINF:-1,tvg-id="NOWSPORTS英超1" tvg-name="NOWSPORTS英超1" tvg-logo="https://epg.v1.mk/logo/NOWSPORTS英超1.png" group-title="🦁欧洲五大联赛🦁",BeIN Sport Arabic 4K
+http://apptv.xyz:80/alia4remz/rrynDeBGS/86259
+#EXTINF:-1,tvg-id="NOWSPORTS英超1" tvg-name="NOWSPORTS英超1" tvg-logo="https://epg.v1.mk/logo/NOWSPORTS英超1.png" group-title="🦁欧洲五大联赛🦁",UK: Sky Sports Main Event 4K
+http://doubleclicktv.live/70376812/52663544/620667
 
 
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="🐉高码率线路-①💥",CCTV1
@@ -1748,7 +1805,6 @@ http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=
 http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011531&livemode=1&stbId=3
 
 
-
 #EXTM3U
 #EXTINF:-1 group-title="港澳频道" tvg-logo="https://live.fanmingming.com/tv/天良.png",天良
 http://60.248.91.20:8000/main
@@ -2222,6 +2278,8 @@ http://171.108.239.127:8181/tsfile/live/1009_1.m3u8?key=txiptv&playlive=1&authid
 http://171.108.239.129:8181/tsfile/live/1009_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="港澳频道" tvg-logo="https://live.fanmingming.com/tv/星空卫视.png",星空卫视
 http://119.129.172.208:8081/hls/18/index.m3u8
+
+#EXTM3U
 #EXTINF:-1 group-title="🐉香港频道「线路1」" tvg-logo="https://assets.livednow.com/logo/翡翠台.png",翡翠台
 https://docker.mytvsuper.us.kg/stream/tvb/feicui/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
 #EXTINF:-1 group-title="🐉香港频道「线路1」" tvg-logo="https://assets.livednow.com/logo/翡翠台.png",翡翠台 4K
@@ -2248,10 +2306,6 @@ https://docker.mytvsuper.us.kg/stream/tvb/tvo/master.m3u8?u=btjson&p=213f2541f15
 https://docker.mytvsuper.us.kg/stream/tvb/ctvs/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
 #EXTINF:-1 group-title="🐉香港频道「线路1」" tvg-logo="https://assets.livednow.com/logo/亞洲新聞台.png",亞洲新聞台
 https://docker.mytvsuper.us.kg/stream/tvb/ccna/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
-#EXTINF:-1 group-title="🐉香港频道「线路1」" tvg-logo="https://epg.v1.mk/logo/Now爆谷台.png",Now 爆谷台
-https://sxj.btjson.us.kg/ziyong?id=baogu-movies
-#EXTINF:-1 group-title="🐉香港频道「线路1」" tvg-logo="https://epg.v1.mk/logo/NOW星影台.png",Now 星影台
-https://sxj.btjson.us.kg/ziyong?id=now-baogu-superstars
 #EXTINF:-1 group-title="🐉香港频道「线路1」" tvg-logo="https://assets.livednow.com/logo/千禧經典台.png",千禧經典台
 https://docker.mytvsuper.us.kg/stream/tvb/ctvc/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
 #EXTINF:-1 group-title="🐉香港频道「线路1」" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/TVB星河.png",星河台（备用）
@@ -2314,8 +2368,6 @@ https://docker.mytvsuper.us.kg/stream/tvb/rockaction/master.m3u8?u=btjson&p=213f
 https://docker.mytvsuper.us.kg/stream/tvb/rock/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
 #EXTINF:-1 group-title="🐉香港频道「线路1」" tvg-logo="https://assets.livednow.com/logo/SUPER-Kids-Channel.png",SUPER Kids
 https://docker.mytvsuper.us.kg/stream/tvb/superkidschannel/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
-#EXTINF:-1 group-title="🐉香港频道「线路1」" tvg-logo="https://epg.v1.mk/logo/DREAMWORKS.png",DreamWorks 夢工廠動畫
-https://sxj.btjson.us.kg/ziyong?id=dreamworks
 #EXTINF:-1 group-title="🐉香港频道「线路1」" tvg-logo="https://assets.livednow.com/logo/Thrill.png",Thrill
 https://docker.mytvsuper.us.kg/stream/tvb/thrill/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
 #EXTINF:-1 group-title="🐉香港频道「线路1」" tvg-logo="https://assets.livednow.com/logo/tvN-HK.png",tvN
@@ -2346,20 +2398,6 @@ https://docker.mytvsuper.us.kg/stream/tvb/mezzolivehd/master.m3u8?u=btjson&p=213
 https://docker.mytvsuper.us.kg/stream/tvb/mytvsuperfree/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
 #EXTINF:-1 group-title="🐉香港频道「线路1」" tvg-logo="https://assets.livednow.com/logo/广东体育.png",广东体育
 https://stream1.freetv.fun/yan-dong-ti-yu-yan-dian-3.m3u8
-#EXTINF:-1 group-title="🐉香港频道「线路1」" tvg-logo="https://epg.v1.mk/logo/NOWSPORTSPLUS.png",Now Sports Plus
-https://sxj.btjson.us.kg/ziyong?id=now-sports-plus
-#EXTINF:-1 group-title="🐉香港频道「线路1」" tvg-logo="https://epg.v1.mk/logo/NOWSPORTS英超1.png",Now Sports 英超1
-https://sxj.btjson.us.kg/ziyong?id=now-sports-premier-league1
-#EXTINF:-1 group-title="🐉香港频道「线路1」" tvg-logo="https://epg.v1.mk/logo/NOWSPORTS英超2.png",Now Sports 英超2
-https://sxj.btjson.us.kg/ziyong?id=now-sports-premier-league2
-#EXTINF:-1 group-title="🐉香港频道「线路1」" tvg-logo="https://epg.v1.mk/logo/NOWSPORTS英超3.png",Now Sports 英超3
-https://sxj.btjson.us.kg/ziyong?id=now-sports-premier-league3
-#EXTINF:-1 group-title="🐉香港频道「线路1」" tvg-logo="https://epg.v1.mk/logo/NOWSPORTS英超4.png",Now Sports 英超4
-https://sxj.btjson.us.kg/ziyong?id=now-sports-premier-league4
-#EXTINF:-1 group-title="🐉香港频道「线路1」" tvg-logo="https://epg.v1.mk/logo/NOWSPORTS英超5.png",Now Sports 英超5
-https://sxj.btjson.us.kg/ziyong?id=now-sports-premier-league5
-#EXTINF:-1 group-title="🐉香港频道「线路1」" tvg-logo="https://epg.v1.mk/logo/NOWSPORTS英超6.png",Now Sports 英超6
-https://sxj.btjson.us.kg/ziyong?id=now-sports-premier-league6
 #EXTINF:-1 group-title="🐉香港频道「线路1」" tvg-logo="https://assets.livednow.com/logo/MytvSuper.png",互動窗 1
 https://docker.mytvsuper.us.kg/stream/tvb/1/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
 #EXTINF:-1 group-title="🐉香港频道「线路1」" tvg-logo="https://assets.livednow.com/logo/MytvSuper.png",互動窗 2
@@ -2404,12 +2442,6 @@ https://live.hkdvb.com/hls/live/96.m3u8?token=542418946664073
 https://live.hkdvb.com/hls/live/332.m3u8?token=542418946664073
 #EXTINF:-1 group-title="🐉香港频道「线路2」" tvg-logo="https://live.hkdvb.com/static/logos/630.png",Now Sports Prime
 https://live.hkdvb.com/hls/live/630.m3u8?token=542418946664073
-#EXTINF:-1 group-title="🐉香港频道「线路2」" tvg-logo="https://live.hkdvb.com/static/logos/618.png",Now Sports 618
-https://live.hkdvb.com/hls/live/618.m3u8?token=542418946664073
-#EXTINF:-1 group-title="🐉香港频道「线路2」" tvg-logo="https://live.hkdvb.com/static/logos/619.png",Now Sports 619
-https://live.hkdvb.com/hls/live/619.m3u8?token=542418946664073
-#EXTINF:-1 group-title="🐉香港频道「线路2」" tvg-logo="https://live.hkdvb.com/static/logos/688.png",Now Sports 688
-https://live.hkdvb.com/hls/live/688.m3u8?token=542418946664073
 #EXTINF:-1 group-title="🐉香港频道「线路2」" tvg-logo="https://live.hkdvb.com/static/logos/31.png",港台電視 31
 https://live.hkdvb.com/hls/live/31.m3u8?token=542418946664073
 #EXTINF:-1 group-title="🐉香港频道「线路2」" tvg-logo="https://live.hkdvb.com/static/logos/32.png",港台電視 32
@@ -2423,23 +2455,53 @@ https://live.hkdvb.com/hls/live/35.m3u8?token=542418946664073
 #EXTINF:-1 group-title="🐉香港频道「线路2」" tvg-logo="https://live.hkdvb.com/static/logos/36.png",RTHK36
 https://live.hkdvb.com/hls/live/36.m3u8?token=542418946664073
 #EXTINF:-1 group-title="🐉香港频道「线路3」" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png",凤凰资讯
+http://dms.yryyj.site:8188/udp/239.76.246.134:1234
+#EXTINF:-1 group-title="🐉香港频道「线路3」" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png",凤凰资讯
+http://dms.yryyj.site:8188/udp/239.76.253.134:9000
+#EXTINF:-1 group-title="🐉香港频道「线路3」" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png",凤凰中文
+http://dms.yryyj.site:8188/udp/239.76.246.135:1234
+#EXTINF:-1 group-title="🐉香港频道「线路3」" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png",凤凰中文
+http://dms.yryyj.site:8188/udp/239.76.253.135:9000
+#EXTINF:-1 group-title="🐉香港频道「线路3」" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png",凤凰中文
+http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pcc72.m3u8
+#EXTINF:-1 group-title="🐉香港频道「线路3」" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png",凤凰资讯
+http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pin72.m3u8
+#EXTINF:-1 group-title="🐉香港频道「线路3」" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png",凤凰中文
+http://ayolee.com:5253/udp/239.93.0.162:2192
+#EXTINF:-1 group-title="🐉香港频道「线路3」" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png",凤凰中文
+http://ayolee.com:5253/udp/239.93.1.9:2192
+#EXTINF:-1 group-title="🐉香港频道「线路3」" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png",凤凰资讯
+http://ayolee.com:5253/udp/239.93.1.4:2191
+#EXTINF:-1 group-title="🐉香港频道「线路3」" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png",凤凰中文
+http://www.yao87.com:4022/udp/239.76.246.7:1234
+#EXTINF:-1 group-title="🐉香港频道「线路3」" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png",凤凰资讯
 http://www.yao87.com:4022/udp/239.76.246.135:1234
 #EXTINF:-1 group-title="🐉香港频道「线路3」",重温经典
 http://ali.hlspull.yximgs.com/live/awei_cwjd.flv
 #EXTINF:-1 group-title="🐉香港频道「线路3」",星光视界
 http://ali.hlspull.yximgs.com/live/zxcvbnm9852.flv
+#EXTINF:-1 group-title="🐉香港频道「线路3」" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangxianggang.png",凤凰香港
+http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701phk72.m3u8
+#EXTINF:-1 group-title="🐉香港频道「线路3」" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png",凤凰资讯
+http://61.221.215.25:8800/hls/47/index.m3u8
 #EXTINF:-1 group-title="🐉香港频道「线路3」" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png",翡翠台
 http://1b6467f415.iok.la:9931/tsfile/live/1007_1.m3u8
 #EXTINF:-1 group-title="🐉香港频道「线路3」" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB明珠台.png",明珠台
 http://1b6467f415.iok.la:9931/tsfile/live/1009_1.m3u8
 #EXTINF:-1 group-title="🐉香港频道「线路3」",星空卫视
 http://1b6467f415.iok.la:9931/tsfile/live/1039_1.m3u8
+#EXTINF:-1 group-title="🐉香港频道「线路3」" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/wxxw.png",无线新闻台
+https://edge6a.v2h-cdn.com/enew/enew.stream/chunklist.m3u8
+#EXTINF:-1 group-title="🐉香港频道「线路3」",TVB娱乐新闻台
+http://v2h.jdshipin.com/enew/enew.stream/chunklist.m3u8
 #EXTINF:-1 group-title="🐉香港频道「线路3」",星空卫视
 http://wouu.net:9977/udp/239.93.0.156:2193
 #EXTINF:-1 group-title="🐉香港频道「线路3」",耀才财经台HD
 https://v3.mediacast.hk/webcast/bshdlive-pc/playlist.m3u8
 #EXTINF:-1 group-title="🐉香港频道「线路3」",香港佛陀
 https://js1.amtb.cn/liveedge/_definst_/livetv/playlist.m3u8
+#EXTINF:-1 group-title="🐉香港频道「线路3」",面包台
+https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
 #EXTINF:-1 group-title="🐉香港频道「线路3」" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/hks.png",香港卫视
 http://cctvtxyh5c.liveplay.myqcloud.com/cstv/xianggangweishi_2/index.m3u8
 #EXTINF:-1 group-title="🐉香港频道「线路3」",香港34台全网
@@ -3004,6 +3066,30 @@ http://209.146.124.22:8891/4gtv/230
 http://209.146.124.22:8891/4gtv/210
 #EXTINF:-1 group-title="🐉湾湾频道「线路3」" tvg-logo="https://assets.livednow.com/logo/國會頻道1.png",國會頻道1
 http://209.146.124.22:8891/litv/4gtv-4gtv084
+#EXTINF:-1 group-title="🐉湾湾频道「线路6」" tvg-logo="https://live.fanmingming.com/tv/大爱一台.png",大爱一台
+https://pulltv1.wanfudaluye.com/live/tv1.m3u8
+#EXTINF:-1 group-title="🐉湾湾频道「线路6」" tvg-logo="https://live.fanmingming.com/tv/大爱二台.png",大爱二台
+https://pulltv2.wanfudaluye.com/live/tv2.m3u8
+#EXTINF:-1 group-title="🐉湾湾频道「线路6」" tvg-logo="https://live.fanmingming.com/tv/TVBSNEWS.png",TVBSNEWS
+http://61.221.215.25:8800/hls/9/index.m3u8
+#EXTINF:-1 group-title="🐉湾湾频道「线路6」" tvg-logo="https://live.fanmingming.com/tv/八大戏剧.png",八大戏剧
+http://61.221.215.25:8800/hls/39/index.m3u8
+#EXTINF:-1 group-title="🐉湾湾频道「线路6」" tvg-logo="https://live.fanmingming.com/tv/八大第一.png",八大第一
+http://61.221.215.25:8800/hls/55/index.m3u8
+#EXTINF:-1 group-title="🐉湾湾频道「线路6」" tvg-logo="https://live.fanmingming.com/tv/八大综合.png",八大综合
+http://61.221.215.25:8800/hls/56/index.m3u8
+#EXTINF:-1 group-title="🐉湾湾频道「线路6」" tvg-logo="https://live.fanmingming.com/tv/三立戏剧.png",三立戏剧
+http://61.221.215.25:8800/hls/41/index.m3u8
+#EXTINF:-1 group-title="🐉湾湾频道「线路6」" tvg-logo="https://live.fanmingming.com/tv/AMC电影台.png",AMC电影台
+http://61.221.215.25:8800/hls/43/index.m3u8
+#EXTINF:-1 group-title="🐉湾湾频道「线路6」" tvg-logo="https://live.fanmingming.com/tv/纬来精彩.png",纬来精彩
+http://61.221.215.25:8800/hls/48/index.m3u8
+#EXTINF:-1 group-title="🐉湾湾频道「线路6」" tvg-logo="https://live.fanmingming.com/tv/探索亚洲.png",探索亚洲
+http://61.221.215.25:8800/hls/50/index.m3u8
+#EXTINF:-1 group-title="🐉湾湾频道「线路6」" tvg-logo="https://live.fanmingming.com/tv/NHKWORLD.png",NHKWORLD
+http://61.221.215.25:8800/hls/51/index.m3u8
+#EXTINF:-1 group-title="🐉湾湾频道「线路6」" tvg-logo="https://live.fanmingming.com/tv/动物星球.png",动物星球
+http://61.221.215.25:8800/hls/57/index.m3u8
 #EXTINF:-1 group-title="🐉湾湾频道「线路6」" tvg-logo="https://live.fanmingming.com/tv/三立台灣.png",三立台灣
 http://125.227.210.55:8160/VideoInput/play.ts
 #EXTINF:-1 group-title="🐉湾湾频道「线路6」" tvg-logo="https://live.fanmingming.com/tv/BLOOMBERG.png",BLOOMBERG
@@ -3018,10 +3104,15 @@ http://125.227.210.55:8162/VideoInput/play.ts
 http://125.227.210.55:8165/VideoInput/play.ts
 #EXTINF:-1 group-title="🐉湾湾频道「线路6」" tvg-logo="https://live.fanmingming.com/tv/CNNNEW.png",CNNNEW
 http://125.227.210.55:8166/VideoInput/play.ts
+#EXTINF:-1 group-title="🐉湾湾频道「线路6」" tvg-logo="https://live.fanmingming.com/tv/环球电视台.png",环球电视台
+http://zb.xzxwhcb.com:9999/hls/world.m3u8
+#EXTINF:-1 group-title="🐉湾湾频道「线路6」" tvg-logo="https://live.fanmingming.com/tv/中华小当家.png",中华小当家
+http://61.221.215.25:8800/hls/40/index.m3u8
 #EXTINF:-1 group-title="🐉湾湾频道「线路6」" tvg-logo="https://live.fanmingming.com/tv/緯來體育.png",緯來體育
 http://125.227.210.55:8155/VideoInput/play.ts
 #EXTINF:-1 group-title="🐉湾湾频道「线路6」" tvg-logo="https://live.fanmingming.com/tv/食尚玩家.png",食尚玩家
 http://125.227.210.55:8187/VideoInput/play.ts
+
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉日本频道🦮",👉添加售后唯一微信👈
 
