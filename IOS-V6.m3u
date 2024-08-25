@@ -1,6 +1,9 @@
 #EXTINF:-1 tvg-name="订阅问客服" tvg-logo="https://epg.iill.top/logo/温馨提示.png" group-title="售后微:xingzhe010203",售后微:xingzhe010203
 #EXTINF:-1 tvg-name="订阅问客服" tvg-logo="https://epg.iill.top/logo/温馨提示.png" group-title="👉定期更换新链接👈",👉定期更换新链接👈
 #EXTINF:-1 tvg-name="订阅问客服" tvg-logo="https://epg.iill.top/logo/温馨提示.png" group-title="👉不加此微信无售后👈",👉不加此微信无售后👈
+
+
+
 #EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/51067f839.png" group-title="🦁欧洲五大联赛🦁",08/24 19:15 英超联赛 布莱顿vs曼联 解说
 https://livednow.com/migu/928834924?sign=gAAAAABmycZefJR8AfrZ4oG_yi-iXSY48EHJuAYGE-jCY0VB99GxrzE8kFlf8vvznaU54W--QcgdMd-zvD0Od7yIRE-oh1RNGkI045HdCab_2_QJbAeMWO2KXS7Uh2Zt0eZS2Z33N2Fm8nSxi2AzWXheXI7JlzE-kApy9SfBXAEWeuZwJy-h1FGGTKX6wfEJMUJtkYDMDiJ5zPovvKDMUpNmu3olLepxpQ%3D%3D
 #EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/51067f839.png" group-title="🦁欧洲五大联赛🦁",08/24 19:15 英超联赛 布莱顿vs曼联 粤语AI字幕
@@ -66,36 +69,14 @@ https://livednow.com/migu/928839080?sign=gAAAAABmycZexnYe3IAWKNw_9Uoo9JYQf2d9RCR
 #EXTINF:-1 tvg-logo="http://img.cmvideo.cn:8080/publish/noms_wc/nomsworldcup/2023/08/07/6CVTQPT1BJ1E.jpg" group-title="🦁欧洲五大联赛🦁",08/25 03:20 西甲联赛 赫塔菲vs巴列卡诺 解说
 https://livednow.com/migu/928838721?sign=gAAAAABmycZeWDkZmkrcGlkTC5hgCqdN3dMUaznb7JRm8LLXK07cft-cPYakutwnrWgm8Dz9WH5L9_9hiY31YVEMERKeLmBP0WYmd_fLYnPKwlUk6pWyyUjlhjJxDejToONf3CNCK9o4t-Fyn5Ih5plvsb8H3u5u8Wz3nZ2ntSDLu6LXG8lIbGBPfeGBgHyfMDMSZy42xEkE4RK6K6LpP-foHA_iCPCmGA%3D%3D
 
-#EXTINF:-1,tvg-id="NOWSPORTSPLUS" tvg-name="NOWSPORTSPLUS" tvg-logo="https://epg.v1.mk/logo/NOWSPORTSPLUS.png" group-title="🦁欧洲五大联赛🦁",Now Sports Plus
-https://sxj.livednow.us.kg/ziyong?id=now-sports-plus
-#EXTINF:-1,tvg-id="NOWSPORTS英超1" tvg-name="NOWSPORTS英超1" tvg-logo="https://epg.v1.mk/logo/NOWSPORTS英超1.png" group-title="🦁欧洲五大联赛🦁",Now Sports 英超1
-https://sxj.livednow.us.kg/ziyong?id=now-sports-premier-league1
-#EXTINF:-1,tvg-id="NOWSPORTS英超2" tvg-name="NOWSPORTS英超2" tvg-logo="https://epg.v1.mk/logo/NOWSPORTS英超2.png" group-title="🦁欧洲五大联赛🦁",Now Sports 英超2
-https://sxj.livednow.us.kg/ziyong?id=now-sports-premier-league2
-#EXTINF:-1,tvg-id="NOWSPORTS英超3" tvg-name="NOWSPORTS英超3" tvg-logo="https://epg.v1.mk/logo/NOWSPORTS英超3.png" group-title="🦁欧洲五大联赛🦁",Now Sports 英超3
-https://sxj.livednow.us.kg/ziyong?id=now-sports-premier-league3
-#EXTINF:-1,tvg-id="NOWSPORTS英超4" tvg-name="NOWSPORTS英超4" tvg-logo="https://epg.v1.mk/logo/NOWSPORTS英超4.png" group-title="🦁欧洲五大联赛🦁",Now Sports 英超4
-https://sxj.livednow.us.kg/ziyong?id=now-sports-premier-league4
-#EXTINF:-1,tvg-id="NOWSPORTS英超5" tvg-name="NOWSPORTS英超5" tvg-logo="https://epg.v1.mk/logo/NOWSPORTS英超5.png" group-title="🦁欧洲五大联赛🦁",Now Sports 英超5
-https://sxj.livednow.us.kg/ziyong?id=now-sports-premier-league5
-#EXTINF:-1,tvg-id="NOWSPORTS英超6" tvg-name="NOWSPORTS英超6" tvg-logo="https://epg.v1.mk/logo/NOWSPORTS英超6.png" group-title="🦁欧洲五大联赛🦁",Now Sports 英超6
-https://sxj.livednow.us.kg/ziyong?id=now-sports-premier-league6
+#EXTINF:-1 tvg-id="621" tvg-name="Now Sports 英超1台" tvg-logo="https://live.hkdvb.com/static/logos/621.jpg" group-title="🦁Now体育🦁", Now Sports 英超1台
+https://live.hkdvb.com/hls/live/621.m3u8?token=645582076445879
+#EXTINF:-1 tvg-id="630" tvg-name="Now Sports Prime" tvg-logo="https://live.hkdvb.com/static/logos/630.png" group-title="🦁Now体育🦁", Now Sports Prime
+https://live.hkdvb.com/hls/live/630.m3u8?token=645582076445879
+#EXTINF:-1 tvg-id="632" tvg-name="Now Sports 632" tvg-logo="https://live.hkdvb.com/static/logos/632.jpg" group-title="🦁Now体育🦁", Now Sports 632
+https://live.hkdvb.com/hls/live/632.m3u8?token=645582076445879
 #EXTINF:-1,tvg-id="NOWSPORTS英超1" tvg-name="NOWSPORTS英超1" tvg-logo="https://epg.v1.mk/logo/NOWSPORTS英超1.png" group-title="🦁欧洲五大联赛🦁",Now Sports  4K 
 http://apptv.xyz:80/alia4remz/rrynDeBGS/86258
-#EXTINF:-1 tvg-id="" tvg-name="Now Sports 1" tvg-logo="https://yc.cdn.media.ulivetv.net/media/other/2024-01-17/9bf6d223da1a7998ce25de20895ed5e4.webp" group-title="🦁欧洲五大联赛🦁",Now Sports 1
-https://py.doube.eu.org/tv/xingshijie/getUrl/now-sports-1/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Now Sports 2" tvg-logo="https://yc.cdn.media.ulivetv.net/media/other/2024-01-17/0a5633dac5427187616800837abacbd7.webp" group-title="🦁欧洲五大联赛🦁",Now Sports 2
-https://py.doube.eu.org/tv/xingshijie/getUrl/now-sports-2/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Now Sports 3" tvg-logo="https://yc.cdn.media.ulivetv.net/media/other/2024-01-17/751684021e949c5d533ff41fbdf7ef6a.webp" group-title="🦁欧洲五大联赛🦁",Now Sports 3
-https://py.doube.eu.org/tv/xingshijie/getUrl/now-sports-3/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Now Sports 4" tvg-logo="https://yc.cdn.media.ulivetv.net/media/other/2024-01-17/5e7c956a12d18f356a83065795ffc595.webp" group-title="🦁欧洲五大联赛🦁",Now Sports 4
-https://py.doube.eu.org/tv/xingshijie/getUrl/now-sports-4/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Now Sports 5" tvg-logo="https://yc.cdn.media.ulivetv.net/media/other/2024-01-17/655c00bded182b481fdf71404e14fbaf.webp" group-title="🦁欧洲五大联赛🦁",Now Sports 5
-https://py.doube.eu.org/tv/xingshijie/getUrl/now-sports-5/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Now Sports 6" tvg-logo="https://yc.cdn.media.ulivetv.net/media/other/2024-01-17/cac342b292c56bc3cb1ad3808420b76a.webp" group-title="🦁欧洲五大联赛🦁",Now Sports 6
-https://py.doube.eu.org/tv/xingshijie/getUrl/now-sports-6/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Now Sports 7" tvg-logo="https://yc.cdn.media.ulivetv.net/media/other/2024-01-17/e942d49d3a616e0810653a692dccfaed.webp" group-title="🦁欧洲五大联赛🦁",Now Sports 7
-https://py.doube.eu.org/tv/xingshijie/getUrl/now-sports-7/index.m3u8
 #EXTINF:-1 tvg-id="MytvSuper" tvg-name="myTV SUPER 直播足球3台" tvg-logo="https://assets.livednow.com/logo/MytvSuper.png" group-title="🦁欧洲五大联赛🦁", myTV SUPER 直播足球3台
 https://docker.mytvsuper.us.kg/stream/tvb/mytvsuper3/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
 #EXTINF:-1 tvg-id="MytvSuper" tvg-name="myTV SUPER 直播足球4台" tvg-logo="https://assets.livednow.com/logo/MytvSuper.png" group-title="🦁欧洲五大联赛🦁", myTV SUPER 直播足球4台
@@ -122,29 +103,20 @@ https://stream1.freetv.fun/eleven-sports-1-4k-1.ctv
 http://apptv.xyz:80/alia4remz/rrynDeBGS/86257
 #EXTINF:-1,tvg-id="NOWSPORTS英超1" tvg-name="NOWSPORTS英超1" tvg-logo="https://epg.v1.mk/logo/NOWSPORTS英超1.png" group-title="🦁欧洲五大联赛🦁",BeIN Sport Arabic 4K
 http://apptv.xyz:80/alia4remz/rrynDeBGS/86259
-#EXTINF:-1,tvg-id="NOWSPORTS英超1" tvg-name="NOWSPORTS英超1" tvg-logo="https://epg.v1.mk/logo/NOWSPORTS英超1.png" group-title="🦁欧洲五大联赛🦁",UK: Sky Sports Main Event 4K
+#EXTINF:-1,tvg-id="NOWSPORTS英超1" tvg-name="NOWSPORTS英超1" tvg-logo="https://epg.v1.mk/logo/NOWSPORTS英超1.png" group-title="🦁欧洲五大联赛🦁",Sky Sports Main Event 4K
 http://doubleclicktv.live/70376812/52663544/620667
 
-#EXTINF:-1 tvg-logo="https://sports3.gtimg.com/competitionLogo/100360.png" group-title="🏎F1赛事🏎",08/24 17:30 F1荷兰大奖赛第三次练习赛 刘耀
-https://livednow.com/tencent/100360:2002892/288605/1380255500?sign=gAAAAABmyLxMgFZ2c9YYMx5fzi7Gw_cGQnWiXj0ygmhXyzRNROiCHEWEtUxskEdx9eE2C8pQHT6aLAuY-N9oJcN72YQ6xOXR2jYEgiXcJsOpO01kc_p-s8afC511XRx0kG9YD9QHTzlpKTjbmBTiVZgF-x76tLgwueg9_PqMcFAN6jf5AXTzCmOs5oVxhXngfTYELUQLCKd55rg01WgHGXLgstoHc0qB9V5tZUjeqgCPuixjZt0HgP1RkH3PuWumAg2GPVd9ni20HWvCZnogGSBG8u4x2bk2EaNb75FJQyP3uxuO-mS-_qQrOGLjZjKLXUvbazuDf9J71Gg1RP_5rnxjHhR3WfYcfp5drBenVN7mK4tPOCgnYIAQvLNTGfYsxgdkFw_R3Jmpoc5YsXSTu60SiaM-fjEZk7Gh2iYJwlqQf18Vc8PWSrM%3D
-#EXTINF:-1 tvg-logo="https://sports3.gtimg.com/competitionLogo/100360.png" group-title="🏎F1赛事🏎",08/24 17:30 F1荷兰大奖赛第三次练习赛 圈速信息
-https://livednow.com/tencent/100360:2002892/288605/1765101700?sign=gAAAAABmyLxMlkqbiaa_hEU-7iJR3kbVBx3TIo5HiQhhvtLkGhfzddjIYgr3U2Iz3aJpruASJ1x4HO7tdyQUk4aC5LKGBo4_fTehFWJ4VLlxq7sDp7btgBdFmF9394Ic_aucxGbB7B_loDJjtO_BOC9WHxmf7LIXp49RW9d6_VosvcAuSYbb76tm9P8g71J9eDJDaismYW4jZq4uwD7B3_Qm1n3rWuRHnvlAy85fC8iZKlPiNBzBA6Qfez8FsnltZxvcbNHSRw-DHdiG_Rqn9txURPcYeEysnKJWzQFmwSLYBm2SQu50gW3ioI-PTIVOrftd02KcOFDbzlQyoY8gzJYRaJVXXzjbWAUiQMxgunYTpZAFpcPR5USS7UCVzHOaJQ3UdHqd4Oz4ebK9G8w2a0ZI53ff9jlDszwe7XRZBqUHhenXhQiYnFE%3D
-#EXTINF:-1 tvg-logo="https://sports3.gtimg.com/competitionLogo/100360.png" group-title="🏎F1赛事🏎",08/24 17:30 F1荷兰大奖赛第三次练习赛 车手位置
-https://livednow.com/tencent/100360:2002892/288605/1380255800?sign=gAAAAABmyLxM_B4AMDP3ZumfmejvooqweKiJ5GEkvS-HFmlwCAuJRHF6ixqZFpoxuSlQAMu_ZH6FcFwCcxHaJSKo4bHSvIbqIz9PqdDZampPAUzWvi__X99Q6QukxnLAl6YeYG5kb1wXX1nLql7QCcK5KOQcoJRrUIqxiKSukf91jXi0SVOAHSiUlT8HTAi1ziwyRzC-Zux5ghTukwtXHFA642pGCDbBd9KeFwLq_b9igTgcSNe4_lL047eDQvOla7LDZ3Y16I0Zjf_kd_rrp21qqGfw0uaMMTgBukH04dy1kMRhKFYzGN4ac3yxmZ8QZ0uWkiZ7UggfTkL_BVe6WBOXXIfmFN0R_A22PscEnzQBDmKF7EGsAiPL5zbjecZovxcTEHZxEZNnru7utS5urw3RWbxzdmIYly0tesPoY-rdPpV8qsPHpYY%3D
-#EXTINF:-1 tvg-logo="https://sports3.gtimg.com/competitionLogo/100360.png" group-title="🏎F1赛事🏎",08/24 17:30 F1荷兰大奖赛第三次练习赛 维修区
-https://livednow.com/tencent/100360:2002892/288605/1380256000?sign=gAAAAABmyLxM30U2BT_UnlynwWaSqxCOP410uZ6saijpE6D8wHicsP4Ummh7xuJ6U48pUOo8oE958VmGY_zUkIdLiRaxtxK7k3LfRmq0w5BI4uWouEy-6Fo16BI0zTw8I6Ot1x0MVEusKqnaFpt6BmbqKC4YVv_aDGBe0fIBoJvbMyViYYesRUm90hwhX8qKH4hRKPz6b7pELELDvZ3xtg8yjso1qK7wxOEf5Var7-soJow2ezhhceReAVrQSz33E1_4hQbTdvxB6Cm7b8q--wrwjR6tjz0UXjpUDvUV84yLQ-JAMT4iTIiFHeQ27WaWugl_ylsKdkkNibWMo-wspgpJsQk9Fzy8woA6EYSafgp0IQnYVnIhtGXRo9kE0-UfcKtxbZkJQTs4hlSXPVxv8Hhti-QF2B5NEtm0J99zQ3gf7c05v_D_kcE%3D
-#EXTINF:-1 tvg-logo="https://sports3.gtimg.com/competitionLogo/100360.png" group-title="🏎F1赛事🏎",08/24 17:30 F1荷兰大奖赛第三次练习赛 车载镜头
-https://livednow.com/tencent/100360:2002892/288605/1380255700?sign=gAAAAABmyLxMF8xSXqm0ICZAwCNxmg5v5c_or0ZKCgrbaBLkHSbWOGe9tsVEtSxrCDxt-fl4HwQKQ4Bbs5NfUQuvegmT0HEdFHyub5rVXos8XRMzwuB2Lgp1fIreuEh_94rQFyzFd190HS9x7baAaHZ9x2lNKpU5FOQ7P7Mh2OHd19JhMARBP71SBQ5V9TFjM0CIdYuBMs6YbIQUi1hVFU5gOo4tqFxf_tICLpfQtV1C29ui6yXdz7xK4GIHNxle4XSQDWbCRcEgs2t3vnJ21v48wKv7V-vf5JYXuwJrqlaTAP2IEtR9ayw67_U28hM1MQj5mwaxcl6lCk5nH1rRfFVq5NP_P-v9FeFeo3pHDj8eGlzCZLkP8JE5WLvUVrymbJ3VoXyDp4GpvhfAYrHFq7-hczg8VmL7I501PVRw-UOiqdqNDCsEziI%3D
-#EXTINF:-1 tvg-logo="https://sports3.gtimg.com/competitionLogo/100360.png" group-title="🏎F1赛事🏎",08/24 21:00 F1荷兰大奖赛排位赛 刘耀
-https://livednow.com/tencent/100360:2002902/288609/1765102000?sign=gAAAAABmyLxMZa-bB4J_1U4Y2qMQSsKJfOK_ki-qL2D6TxI10H_r_nl08PGUZeGDozBXxE9dVhYORq2H8_q-xS7MQZPvvRv4FSMyRfRDxpGD_FFwiXGbM8XWWlkdiVYba4U61MMmgCa7tNxypNNiJ_DrSjoPqM_O4w5be9oLYESTM0Pr04ocblW1UXRCrGkRDegBXz_vu2unTdSVC5wpfIgODKpoIulCP85TpjPcBsGFkN12MQv3e-rAw1LV3efBTD1TpJ8kOuPWp6LojKcB4bvNdoG388j8X1Eu9wQQ_MJY9R29sfU0LYocUMORH2P1csyBvHvFw84wQmvjppa-P_h4Nt3oRyemrVwHb5PBQkwSUK1PtEgWFWWrwImUk261I8BKS7-3t8n6D6702MexWyr5mCFwr8elY-rS1iiQ1HGy0bOBA6UYnNs%3D
-#EXTINF:-1 tvg-logo="https://sports3.gtimg.com/competitionLogo/100360.png" group-title="🏎F1赛事🏎",08/24 21:00 F1荷兰大奖赛排位赛 车载镜头
-https://livednow.com/tencent/100360:2002902/288609/1380256100?sign=gAAAAABmyLxMZor5sj-KHZaZTYg4C4XLkRLoEsiMu_DFmzkspHGniB38D7sShfdXvMajGIz7tBC-jbWl5gsQs5h11r-tYjWGO7OSKVJQYtrHMQIknJhLX2DJjHHXKNY559Km0ONEgA-ZoeckKnrX7MktIYaRKJYRM4VFukcrHS2AhATlZrPO5tlISDjBo87EVGU06hZZHlm_QOmk2G6vfrD-I6qqjFyd2WsWWq5EK3uqfiR9qcXffnGHJTYepqcwrFJuOT3x6SqhOoSncwUUhvT-Xo834msQ_NstfSl01QYeTI4PQEfsDDsoOsWpD7LZ6GmKm1atI3b9ubYzny65OuxuzRjUbEZgksDap_2icN9U1SaU8cwkK9mvWbkPOmuEi1seojIbz_N8J9boiMhxqgNgzig0MYjWNny_tNfzLKFiAAbB6477xq8%3D
-#EXTINF:-1 tvg-logo="https://sports3.gtimg.com/competitionLogo/100360.png" group-title="🏎F1赛事🏎",08/24 21:00 F1荷兰大奖赛排位赛 圈速信息
-https://livednow.com/tencent/100360:2002902/288609/1380256200?sign=gAAAAABmyLxMj2oeMVqwFf0KaKBAb5x9qMQ1zf91nPMPV_5531fjff_IWLpINOkPbjMyXGHOOOuQYXsMQ8J0DJ83ZwRgy1u436aDEUjdUXmtL3m4HqnXfbZIgGa4c2gb0V1LfzD9TQV9wMfLfAGELiSsyOyNhF5jMNYs1Y9TvUEdVW9IxES1LmVOwfEjjn7mD0E0J7-DrZ0GHrqJqo9SDwffk1HPWA_57FyzvXVl1RoCH0g8A6XyMCGEnnLNUOadewD3G7oJFGa-KlsD5mSMmORjzoKONmygmqXQCYK-s_vZZ7OyjQ6A_J1kJC1JMjzUEcGvl84Ho691-6Deq13SQcjzK-u17nfs5rPGBTkyAS-Em5dP2EIMxU4DfK7qK6aquOfIiJlM2OukG9imNwApUiN8qEydJ1nFkNT6zlnEOJIZwHCKcEloLNs%3D
-#EXTINF:-1 tvg-logo="https://sports3.gtimg.com/competitionLogo/100360.png" group-title="🏎F1赛事🏎",08/24 21:00 F1荷兰大奖赛排位赛 车手位置
-https://livednow.com/tencent/100360:2002902/288609/1380256300?sign=gAAAAABmyLxMl1Du4sGLr5hMYQIXJtoPJS5ZgPL1vqVxXs4xnIrro6Tdj62R-Bm8kyck-oeAWSi8AJ0I5r32JFkHSS23u55ohhHOU07r7STL2QzkdCrCB68TtsadwUof8_M02TtGtX3VQOpUz9K8i6I0OXVh2-iTrYJ-XYzYqsGmWdKtY9x5XMZP3a6RZqUbRMlNXvpC918FezARZ9-07j5OaL3uTM-BEly8ymLCYxvwq_9r_wwk_XBtlxEwdVRVMtjKLoqKJf6xHksvs604KwNuP3pPkUFIHN37Mb3Z7hiGikeWjWrOEIC0xi6KbuH5ftoDI9gQivfcfKEuk_qdDZia_VbvbWyC6DJeFfMVFDT9k2Cn6b4fJJwkcm96HYHiFheRBgQpT5CpkvY-47QnKdQ_6Ib3Y8VtfxABrWKh8DNrG5eIqFmBKfs%3D
-#EXTINF:-1 tvg-logo="https://sports3.gtimg.com/competitionLogo/100360.png" group-title="🏎F1赛事🏎",08/24 21:00 F1荷兰大奖赛排位赛 维修区
-https://livednow.com/tencent/100360:2002902/288609/1380256400?sign=gAAAAABmyLxM_9mhA5pCj4oiYiAoqAM_dJAwDfmN24BSxt6gUjMkIJnW0RBMh3vWK8y6_NtHedfY-ZYk_y7rL8Hmgv6WO0c9lGF30aKMtEx3dln-C56OGEfWii-chuXw3JqxQmC1BuVrqg-DrmRQMHyOY7qpvdyZao4zRKoHpz1ispdVn0cq3YPy8kjhfgtOqkG56U3Sv8RldqU6bpgFcEpWvA3x7DWoNvgBoYIIpQ5mHk_qlPvkYV6iD0-GXQP_RlSMwyzeGggsjvTqU5qusIU78t-ghpxe8hS8WCeySD5kfpDap9uDpm0thL7O1bAojFu0EaWXa3lCHiThqa8OY5zf0b04sjmUrqLZcHSUMFClxyDUx9fjf9g32cZD4syjtzNaFIEvE2h_JpKhvk8pgCq8YkPbWyENbjRvArGDcdwSb5LsIDNuoWo%3D
+#EXTINF:-1 tvg-logo="https://sports3.gtimg.com/competitionLogo/100360.png" group-title="🏎F1赛事🏎",08/25 21:00 F1荷兰大奖赛正赛 金昊楠 刘耀 邱超
+https://livednow.com/tencent/100360:2002921/288610/1380256700?sign=gAAAAABmysDF5sX3aU6mH5QYnVEY5iRpysYW_u1s7NUNbkfHE5COHTT6vXogbZpVRlT-9YLPbcj1XEux9oPC5bFRA246n08MC_cgSMWHeYUBOKCIPiihqm7jVA1i1RykmGMBzoYP275ynb5-UNp34svGkhgbLBN-enJAd4Tan3T-ba1mxrhTaf5wipueK-5w8C8gDyvemc8I8NXRUTUsizZp0xfZ5Mp_m8BDAopzsMNaPRqBf2RDtTlXYePSaYyyf8JPFgDG5Wwma7CYyOG0L02DJ6W-KvxMR3kqY37-yGTwBhNU1eSM6-jeEa37GAJwCI-Br8H_op54aSWIAt8CSNJmHakl7shS4YcFEMwkAPKUh2a4zvPuZGtBfwQGZ5ZviJLJgy4sm_HRzitoK1LhVztkua4WsaKD8X7BeoJr-jlp34Zw2hNEJb0%3D
+#EXTINF:-1 tvg-logo="https://sports3.gtimg.com/competitionLogo/100360.png" group-title="🏎F1赛事🏎",08/25 21:00 F1荷兰大奖赛正赛 维修区
+https://livednow.com/tencent/100360:2002921/288610/1380257000?sign=gAAAAABmysDFjNpwK_q0_DJOykLhkDiWJ5DCaSHgoOGXkvnBkODGAPVruzgo-2LBzBl7LXHLuZcD4GbxYQLkWas8qaq8zFcdu6Egj1DTSM7ayvA5HyuIbF2aEq1-m_Vc0zDGlKEj1BuZwNjvrkExtitkwbjOvkRVqbDr0MJ0DqoqfZGz_spRzNGIqtbd4zI9ePG6gAoAFQfffG26z2kBjF4i-PG4N5GVV_bJCckrTxvwQkkVn3_rw_dZPSsIyU7qjs9CaHIIpCXZ3H06xDj2KDNy2V6tq7ff6H7kYInHKRUsHRBPmiy3Yp_1IoBm66-IgijfprjNrnQBVM1QrZyn9enWSw8CzWr4qYDzvb-BquW2I5SnFa14XFjx3YMzKZw4q0OGmLWvQtkBiw_BBSHxnMnbc_3uOGts5csnMCtXnsc-REg8Otw-klo%3D
+#EXTINF:-1 tvg-logo="https://sports3.gtimg.com/competitionLogo/100360.png" group-title="🏎F1赛事🏎",08/25 21:00 F1荷兰大奖赛正赛 车载镜头
+https://livednow.com/tencent/100360:2002921/288610/1380256800?sign=gAAAAABmysDF5dkmQwlhaVFg5aimgMJAeYKDrn_90HvGXfEHMvzj8y7iqSU65_ap3fuCZ94WdD_rJTtmmfRIc7faP4B7xaOHE_fKbrfNBpV7giqKavEzoVNtm1xEIIX6YcFGGyq6dCQkOekDqDb0eOS84SAjg85G7xod_joxDoUgeb-UTRF9dWgC2t5NMx3BbWGwem2dxN99U1PgY_IeudfqMCzI4Ouva401EEJSrQHd-PPedGKOTLuxDHE6h2E7OgcUKzeAFNJTaQViFc2-QPp_TKSc2G1VwJm9okvnh8OLD6RRE5iTiEU_QbgCf_NXaHCHlZVsDVV9Y4UnHPB913YttyULYYv8RcRoomhkYDAIoJgAo3xfW7sCzNU6erkepkaSgWUUlev9xqNXXmjdEqvIIPwYDKySvjGuiIagqh_jEpYloBT7x3k%3D
+#EXTINF:-1 tvg-logo="https://sports3.gtimg.com/competitionLogo/100360.png" group-title="🏎F1赛事🏎",08/25 21:00 F1荷兰大奖赛正赛 圈速信息
+https://livednow.com/tencent/100360:2002921/288610/1765102400?sign=gAAAAABmysDFxxUIswW-Th2SkldIKnwKoV2kpEnsjciRa3BXV-tf9uXdaYCTyNxldKPTAdOR1G0543ELd7rMy4sed4KczfmPkSfWbi22oTmMUl78YOM38TjP-LAucW4O2-6kP84QTUq-1RysPNVhN6QWaGClMYzEGWEdxe8ILkIuN_28LVwaFPgouRdSaqURxoiccon80TA4O9qfYHW5KngkVA9yoj5LLfh-7bg7kFa9I4refcH8zx7tMAw4tgtD-SQHehUJZLkDUEUwD-PY17APAzciH-xNVtRHe2ennnyMh9mD94fY35DakaGDsFgyl5L2CoRn78bBQq-IGCCc7s2683I9qfkzylWN2vqPlh2L_OQiW4qvNud1AanlqOn8XGUA4corEIQ1fau8cyZmuGhFGTM_ZD3ohdCJGkedOMhilaYSFlv4CBM%3D
+#EXTINF:-1 tvg-logo="https://sports3.gtimg.com/competitionLogo/100360.png" group-title="🏎F1赛事🏎",08/25 21:00 F1荷兰大奖赛正赛 车手位置
+https://livednow.com/tencent/100360:2002921/288610/1380256900?sign=gAAAAABmysDFugxbQ-KORI9U5oIJPOxZKtbfbUXKkuGkC75D0GsaezW52U0HZ4Vn226OAOO530EOSY_krgNyifXAdzvweETx1lJQigR3q_QDmeSTdwFGGntDmPEJhQGKHa-_Dnflwkd07D48cMMkT4vHdDSNLptp94OV8rcLJqNttxFmUmlFBHtQT1brmU83Ff7-oiSmGN9t0S-1Y2963j3FSnSnjY53W1U5qsCVEINi-_a35o5wcQGAnE4wfD8uPrnZd3_KSpgh9IGElpjlILgUTPjlLxkuhXR0JJ7fZFs9Ywdcb_WyZpvEm3SjYONTvzYFEfqm96qEvdoDM-38pbm3eEu1QU6ogpLoW-f4WCMczp2ZI1uI8TU_8Cu3Fv4rRJVe7iRuuhuQHyQ6r-OHd5BtJJFYa-PlWUCVNShur-eLsxQ-oFL14o8%3D
+
 
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="🐉高码率线路-①💥",CCTV1
 http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010144/1.m3u8
@@ -1874,7 +1846,6 @@ http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=
 #EXTINF:-1 tvg-logo="https://tv.iill.top/logo/咪咕.png" group-title="🐉咪咕体育-②🥇",咪咕直播 𝟜𝟝
 http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011531&livemode=1&stbId=3
 
-
 #EXTM3U
 #EXTINF:-1 group-title="港澳频道" tvg-logo="https://live.fanmingming.com/tv/天良.png",天良
 http://60.248.91.20:8000/main
@@ -2958,6 +2929,7 @@ http://125.227.210.55:8166/VideoInput/play.ts
 http://125.227.210.55:8155/VideoInput/play.ts
 #EXTINF:-1 group-title="🐉湾湾频道「线路6」" tvg-logo="https://live.fanmingming.com/tv/食尚玩家.png",食尚玩家
 http://125.227.210.55:8187/VideoInput/play.ts
+
 
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉日本频道🦮",👉添加售后唯一微信👈
