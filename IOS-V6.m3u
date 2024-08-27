@@ -2,9 +2,6 @@
 #EXTINF:-1 tvg-name="订阅问客服" tvg-logo="https://epg.iill.top/logo/温馨提示.png" group-title="👉定期更换新链接👈",👉定期更换新链接👈
 #EXTINF:-1 tvg-name="订阅问客服" tvg-logo="https://epg.iill.top/logo/温馨提示.png" group-title="👉不加此微信无售后👈",👉不加此微信无售后👈
 
-
-
-
 #EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/51067f839.png" group-title="🦁欧洲五大联赛🦁",08/25 20:45 英超联赛 狼队vs切尔西 解说
 https://livednow.com/migu/928841173?sign=gAAAAABmy0vybYLNZL6_lDKYdFVDe_KbyVzxEbCZe9zuv8WaYgBS7MYooobj4dN34pTP0inHmrZ2A0HBEKJaY3FzGYwsT788TN2sCPR895jSFQE7KjLuKtHgvxGQPCcSsXtWD_7ahrBEuMrRDnyn8J3sgRDKlXlyLrjfd5svv0sEx44a6s3kjfYE7JOVP1ac2oWnIWO10NAPZfLEqbOgOMNozKADgXzv4A%3D%3D
 #EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/51067f839.png" group-title="🦁欧洲五大联赛🦁",08/25 20:50 英超联赛 伯恩茅斯vs纽卡斯尔联 解说
@@ -1819,8 +1816,6 @@ http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=
 #EXTINF:-1 tvg-logo="https://tv.iill.top/logo/咪咕.png" group-title="🐉咪咕体育-②🥇",咪咕直播 𝟜𝟝
 http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011531&livemode=1&stbId=3
 
-
-#EXTM3U
 #EXTINF:-1 group-title="港澳频道" tvg-logo="https://live.fanmingming.com/tv/天良.png",天良
 http://60.248.91.20:8000/main
 #EXTINF:-1 group-title="港澳频道" tvg-logo="https://live.fanmingming.com/tv/1905国外电影.png",1905国外电影
@@ -1992,8 +1987,6 @@ http://37.27.111.214:8080/live/62/hls.m3u8
 #EXTINF:-1 group-title="港澳频道" tvg-logo="https://live.fanmingming.com/tv/非凡新闻.png",非凡新闻
 https://test.zapi.us.kg/?id=unique-business-news
 
-
-#EXTM3U
 #EXTINF:-1 group-title="🐉香港频道「线路1」" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/TVB星河.png",星河台（备用）
 https://stream1.freetv.fun/tvbxing-he-5.m3u8
 #EXTINF:-1 group-title="🐉香港频道「线路1」" tvg-logo="https://www.dussl.icu/image/旅チャンネル.jpg",旅チャンネル ＨＤ1
@@ -3123,910 +3116,1016 @@ http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/pla
 http://1.222.207.80:1935/live/cjbtv/chunklist_w1357270949.m3u8
 
 
-#EXTINF:-1 group-title="🐉美国频道🦅",👉以下频道需要魔法👈
+XTINF:-1 tvg-name="订阅问客服" tvg-logo="https://epg.iill.top/logo/温馨提示.png" group-title="🐉美国频道🦅",👉以下频道需要魔法👈
 
-#EXTINF:-1 group-title="🐉美国频道🦅",新闻频道
-http://doubleclicktv.live/70376812/52663544/781
-#EXTINF:-1 group-title="🐉美国频道🦅",BFM TV
-https://jmp2.uk/SamsungTVPlus/CH500001V2.m3u8
-#EXTINF:-1 group-title="🐉美国频道🦅",USA CNN
-http://doubleclicktv.live/70376812/52663544/1041
-#EXTINF:-1 group-title="🐉美国频道🦅",USA CNBC
-http://doubleclicktv.live/70376812/52663544/1043
-#EXTINF:-1 group-title="🐉美国频道🦅",USA NBC News NOW
-http://doubleclicktv.live/70376812/52663544/992
-#EXTINF:-1 group-title="🐉美国频道🦅",USA Newsmax
-http://doubleclicktv.live/70376812/52663544/1024
-#EXTINF:-1 group-title="🐉美国频道🦅",USA Fox News
-http://doubleclicktv.live/70376812/52663544/1038
-#EXTINF:-1 group-title="🐉美国频道🦅",USA NewsNation
-http://doubleclicktv.live/70376812/52663544/995
-#EXTINF:-1 group-title="🐉美国频道🦅",USA MSNBC
-http://doubleclicktv.live/70376812/52663544/1034
-#EXTINF:-1 group-title="🐉美国频道🦅",USA ABC News Live
-http://doubleclicktv.live/70376812/52663544/1067
-#EXTINF:-1 group-title="🐉美国频道🦅",USA BBC America
-http://doubleclicktv.live/70376812/52663544/1066
-#EXTINF:-1 group-title="🐉美国频道🦅",USA BBC World News
-http://doubleclicktv.live/70376812/52663544/1065
-#EXTINF:-1 group-title="🐉美国频道🦅",USA The Grio
-http://doubleclicktv.live/70376812/52663544/1063
-#EXTINF:-1 group-title="🐉美国频道🦅",USA C-SPAN
-http://doubleclicktv.live/70376812/52663544/1061
-#EXTINF:-1 group-title="🐉美国频道🦅",USA C-SPAN 2
-http://doubleclicktv.live/70376812/52663544/1060
-#EXTINF:-1 group-title="🐉美国频道🦅",USA C-SPAN 3
-http://doubleclicktv.live/70376812/52663544/1059
-#EXTINF:-1 group-title="🐉美国频道🦅",USA CBN News International
-http://doubleclicktv.live/70376812/52663544/1058
-#EXTINF:-1 group-title="🐉美国频道🦅",USA CBSN Bay Area
-http://doubleclicktv.live/70376812/52663544/1056
-#EXTINF:-1 group-title="🐉美国频道🦅",USA CBSN Boston
-http://doubleclicktv.live/70376812/52663544/1055
-#EXTINF:-1 group-title="🐉美国频道🦅",USA CBSN Chicago
-http://doubleclicktv.live/70376812/52663544/1054
-#EXTINF:-1 group-title="🐉美国频道🦅",USA CBSN Denver
-http://doubleclicktv.live/70376812/52663544/1052
-#EXTINF:-1 group-title="🐉美国频道🦅",USA CBSN Los Angeles
-http://doubleclicktv.live/70376812/52663544/1051
-#EXTINF:-1 group-title="🐉美国频道🦅",USA CBSN Minnesota
-http://doubleclicktv.live/70376812/52663544/1050
-#EXTINF:-1 group-title="🐉美国频道🦅",USA CBSN New York
-http://doubleclicktv.live/70376812/52663544/1049
-#EXTINF:-1 group-title="🐉美国频道🦅",USA CBSN Philly
-http://doubleclicktv.live/70376812/52663544/1048
-#EXTINF:-1 group-title="🐉美国频道🦅",USA CBSN Pittsburgh
-http://doubleclicktv.live/70376812/52663544/1047
-#EXTINF:-1 group-title="🐉美国频道🦅",USA Fox Business
-http://doubleclicktv.live/70376812/52663544/1039
-#EXTINF:-1 group-title="🐉美国频道🦅",USA FOX Weather
-http://doubleclicktv.live/70376812/52663544/994
-#EXTINF:-1 group-title="🐉美国频道🦅",USA CNN INTERNATIONAL
-http://doubleclicktv.live/70376812/52663544/1040
-#EXTINF:-1 group-title="🐉美国频道🦅",USA CNBC World
-http://doubleclicktv.live/70376812/52663544/1042
-#EXTINF:-1 group-title="🐉美国频道🦅",USA Cheddar News
-http://doubleclicktv.live/70376812/52663544/1044
-#EXTINF:-1 group-title="🐉美国频道🦅",USA Cheddar Business
-http://doubleclicktv.live/70376812/52663544/1045
-#EXTINF:-1 group-title="🐉美国频道🦅",USA CGTN (English)
-http://doubleclicktv.live/70376812/52663544/1046
-#EXTINF:-1 group-title="🐉美国频道🦅",USA CBS News LHD
-http://doubleclicktv.live/70376812/52663544/1057
-#EXTINF:-1 group-title="🐉美国频道🦅",USA France 24 (English)
-http://doubleclicktv.live/70376812/52663544/1037
-#EXTINF:-1 group-title="🐉美国频道🦅",USA RT America
-http://doubleclicktv.live/70376812/52663544/1021
-#EXTINF:-1 group-title="🐉美国频道🦅",USA HLN
-http://doubleclicktv.live/70376812/52663544/1036
-#EXTINF:-1 group-title="🐉美国频道🦅",USA LiveNOW from FOX
-http://doubleclicktv.live/70376812/52663544/993
-#EXTINF:-1 group-title="🐉美国频道🦅",USA NBCLX
-http://doubleclicktv.live/70376812/52663544/991
-#EXTINF:-1 group-title="🐉美国频道🦅",USA New England Cable News
-http://doubleclicktv.live/70376812/52663544/1033
-#EXTINF:-1 group-title="🐉美国频道🦅",USA News 12 Brooklyn
-http://doubleclicktv.live/70376812/52663544/1032
-#EXTINF:-1 group-title="🐉美国频道🦅",USA News 12 Connecticut
-http://doubleclicktv.live/70376812/52663544/1031
-#EXTINF:-1 group-title="🐉美国频道🦅",USA News 12 Hudson Valley
-http://doubleclicktv.live/70376812/52663544/1030
-#EXTINF:-1 group-title="🐉美国频道🦅",USA News 12 Long Island
-http://doubleclicktv.live/70376812/52663544/1029
-#EXTINF:-1 group-title="🐉美国频道🦅",USA News 12 New Jersey
-http://doubleclicktv.live/70376812/52663544/1028
-#EXTINF:-1 group-title="🐉美国频道🦅",USA News 12 The Bronx
-http://doubleclicktv.live/70376812/52663544/1026
-#EXTINF:-1 group-title="🐉美国频道🦅",USA News 12 Westchester
-http://doubleclicktv.live/70376812/52663544/1025
-#EXTINF:-1 group-title="🐉美国频道🦅",USA Newsy
-http://doubleclicktv.live/70376812/52663544/1023
-#EXTINF:-1 group-title="🐉美国频道🦅",USA NHK World (KCET)
-http://doubleclicktv.live/70376812/52663544/1002
-#EXTINF:-1 group-title="🐉美国频道🦅",USA One American News
-http://doubleclicktv.live/70376812/52663544/1022
-#EXTINF:-1 group-title="🐉美国频道🦅",USA Spectrum Bay News 9
-http://doubleclicktv.live/70376812/52663544/1018
-#EXTINF:-1 group-title="🐉美国频道🦅",USA Spectrum News 1 ROTX
-http://doubleclicktv.live/70376812/52663544/1010
-#EXTINF:-1 group-title="🐉美国频道🦅",USA Spectrum News 1 SO CAL
-http://doubleclicktv.live/70376812/52663544/1016
-#EXTINF:-1 group-title="🐉美国频道🦅",USA Spectrum News 1 Wisconsin
-http://doubleclicktv.live/70376812/52663544/1009
-#EXTINF:-1 group-title="🐉美国频道🦅",USA Spectrum Rail Road SD
-http://doubleclicktv.live/70376812/52663544/1003
-#EXTINF:-1 group-title="🐉美国频道🦅",USA TYT Network
-http://doubleclicktv.live/70376812/52663544/990
-#EXTINF:-1 group-title="🐉美国频道🦅",USA Weather Nation
-http://doubleclicktv.live/70376812/52663544/1020
-#EXTINF:-1 group-title="🐉美国频道🦅",USA Alaska's News Source KTUU
-http://doubleclicktv.live/70376812/52663544/997
-#EXTINF:-1 group-title="🐉美国频道🦅",Spectrum News 1 Buffalo HD
-http://doubleclicktv.live/70376812/52663544/306308
-#EXTINF:-1 group-title="🐉美国频道🦅",USA Spectrum News 1 Albany NY
-http://doubleclicktv.live/70376812/52663544/1014
-#EXTINF:-1 group-title="🐉美国频道🦅",USA Spectrum News 13 Central FL
-http://doubleclicktv.live/70376812/52663544/1008
-#EXTINF:-1 group-title="🐉美国频道🦅",USA Atlanta News First
-http://doubleclicktv.live/70376812/52663544/996
-#EXTINF:-1 group-title="🐉美国频道🦅",USA Spectrum News 1 Covington KY
-http://doubleclicktv.live/70376812/52663544/1015
-#EXTINF:-1 group-title="🐉美国频道🦅",USA Spectrum News 1 Evansville KY
-http://doubleclicktv.live/70376812/52663544/1011
-#EXTINF:-1 group-title="🐉美国频道🦅",USA Spectrum News 1 Charlotte NC
-http://doubleclicktv.live/70376812/52663544/1013
-#EXTINF:-1 group-title="🐉美国频道🦅",USA Spectrum News NY1
-http://doubleclicktv.live/70376812/52663544/1006
-#EXTINF:-1 group-title="🐉美国频道🦅",USA NY Spectrum Noticias NY1
-http://doubleclicktv.live/70376812/52663544/1004
-#EXTINF:-1 group-title="🐉美国频道🦅",USA Infowars
-http://doubleclicktv.live/70376812/52663544/1035
-#EXTINF:-1 group-title="🐉美国频道🦅",USA Spectrum News 1 San Antonio TX
-http://doubleclicktv.live/70376812/52663544/1005
-#EXTINF:-1 group-title="🐉美国频道🦅",USA Spectrum News 1 Austin TX
-http://doubleclicktv.live/70376812/52663544/1007
-#EXTINF:-1 group-title="🐉美国频道🦅",USA CBSN Dallas
-http://doubleclicktv.live/70376812/52663544/1053
-#EXTINF:-1 group-title="🐉美国频道🦅",USA Spectrum News 1 Dallas TX
-http://doubleclicktv.live/70376812/52663544/1012
-#EXTINF:-1 group-title="🐉美国频道🦅",USA 7 News Boston (WHDH)
-http://doubleclicktv.live/70376812/52663544/1019
-#EXTINF:-1 group-title="🐉美国频道🦅",USA BEK Sports News
-http://doubleclicktv.live/70376812/52663544/1064
-#EXTINF:-1 group-title="🐉美国频道🦅",USA Bloomberg
-http://doubleclicktv.live/70376812/52663544/1062
-#EXTINF:-1 group-title="🐉美国频道🦅",体育频道
-http://doubleclicktv.live/70376812/52663544/781
-#EXTINF:-1 group-title="🐉美国频道🦅",USA ESPN
-http://doubleclicktv.live/70376812/52663544/919
-#EXTINF:-1 group-title="🐉美国频道🦅",USA ESPN 2
-http://doubleclicktv.live/70376812/52663544/932
-#EXTINF:-1 group-title="🐉美国频道🦅",USA ESPN U
-http://doubleclicktv.live/70376812/52663544/920
-#EXTINF:-1 group-title="🐉美国频道🦅",USA ESPN News
-http://doubleclicktv.live/70376812/52663544/922
-#EXTINF:-1 group-title="🐉美国频道🦅",USA ESPN
-http://doubleclicktv.live/70376812/52663544/923
-#EXTINF:-1 group-title="🐉美国频道🦅",USA ESPN College Extra 1
-http://doubleclicktv.live/70376812/52663544/930
-#EXTINF:-1 group-title="🐉美国频道🦅",USA ESPN College Extra 2
-http://doubleclicktv.live/70376812/52663544/929
-#EXTINF:-1 group-title="🐉美国频道🦅",USA ESPN College Extra 3
-http://doubleclicktv.live/70376812/52663544/928
-#EXTINF:-1 group-title="🐉美国频道🦅",USA ESPN College Extra 4
-http://doubleclicktv.live/70376812/52663544/927
-#EXTINF:-1 group-title="🐉美国频道🦅",USA ESPN College Extra 5
-http://doubleclicktv.live/70376812/52663544/926
-#EXTINF:-1 group-title="🐉美国频道🦅",USA ESPN College Extra 6
-http://doubleclicktv.live/70376812/52663544/925
-#EXTINF:-1 group-title="🐉美国频道🦅",USA ESPN College Extra 7
-http://doubleclicktv.live/70376812/52663544/924
-#EXTINF:-1 group-title="🐉美国频道🦅",USA ESPN SEC Network
-http://doubleclicktv.live/70376812/52663544/921
-#EXTINF:-1 group-title="🐉美国频道🦅",USA ESPN SEC+
-http://doubleclicktv.live/70376812/52663544/823
-#EXTINF:-1 group-title="🐉美国频道🦅",USA NFL Network
-http://doubleclicktv.live/70376812/52663544/868
-#EXTINF:-1 group-title="🐉美国频道🦅",USA NBA TV
-http://doubleclicktv.live/70376812/52663544/885
-#EXTINF:-1 group-title="🐉美国频道🦅",USA MLB Network
-http://doubleclicktv.live/70376812/52663544/891
-#EXTINF:-1 group-title="🐉美国频道🦅",USA MLB Strike Zone
-http://doubleclicktv.live/70376812/52663544/890
-#EXTINF:-1 group-title="🐉美国频道🦅",USA NHL Network
-http://doubleclicktv.live/70376812/52663544/258265
-#EXTINF:-1 group-title="🐉美国频道🦅",USA Fox Sports 1
-http://doubleclicktv.live/70376812/52663544/915
-#EXTINF:-1 group-title="🐉美国频道🦅",USA Fox Sports 2
-http://doubleclicktv.live/70376812/52663544/914
-#EXTINF:-1 group-title="🐉美国频道🦅",USA ACC Network
-http://doubleclicktv.live/70376812/52663544/975
-#EXTINF:-1 group-title="🐉美国频道🦅",USA Golf Channel
-http://doubleclicktv.live/70376812/52663544/897
-#EXTINF:-1 group-title="🐉美国频道🦅",USA Fight Network
-http://doubleclicktv.live/70376812/52663544/918
-#EXTINF:-1 group-title="🐉美国频道🦅",USA CBS Sports Network
-http://doubleclicktv.live/70376812/52663544/934
-#EXTINF:-1 group-title="🐉美国频道🦅",USA Tennis Channel 1
-http://doubleclicktv.live/70376812/52663544/837
-#EXTINF:-1 group-title="🐉美国频道🦅",USA Tennis Channel  2
-http://doubleclicktv.live/70376812/52663544/328632
-#EXTINF:-1 group-title="🐉美国频道🦅",USA UFC Channel
-http://doubleclicktv.live/70376812/52663544/833
-#EXTINF:-1 group-title="🐉美国频道🦅",USA WWE
-http://doubleclicktv.live/70376812/52663544/828
-#EXTINF:-1 group-title="🐉美国频道🦅",USA Bein Sports
-http://doubleclicktv.live/70376812/52663544/940
-#EXTINF:-1 group-title="🐉美国频道🦅",USA BeIN Sports 4
-http://doubleclicktv.live/70376812/52663544/947
-#EXTINF:-1 group-title="🐉美国频道🦅",USA BeIN Sports 5
-http://doubleclicktv.live/70376812/52663544/946
-#EXTINF:-1 group-title="🐉美国频道🦅",USA BeIN Sports 6
-http://doubleclicktv.live/70376812/52663544/945
-#EXTINF:-1 group-title="🐉美国频道🦅",USA BeIN Sports 7
-http://doubleclicktv.live/70376812/52663544/944
-#EXTINF:-1 group-title="🐉美国频道🦅",USA BeIN Sports 8
-http://doubleclicktv.live/70376812/52663544/943
-#EXTINF:-1 group-title="🐉美国频道🦅",USA Bein Sports en Espanol UHD
-http://doubleclicktv.live/70376812/52663544/942
-#EXTINF:-1 group-title="🐉美国频道🦅",USA BeIN Sports La Liga
-http://doubleclicktv.live/70376812/52663544/941
-#EXTINF:-1 group-title="🐉美国频道🦅",USA Bein Sports Xtra
-http://doubleclicktv.live/70376812/52663544/939
-#EXTINF:-1 group-title="🐉美国频道🦅",USA Fox Soccer Plus
-http://doubleclicktv.live/70376812/52663544/916
-#EXTINF:-1 group-title="🐉美国频道🦅",USA Fox Sports Netbase
-http://doubleclicktv.live/70376812/52663544/910
-#EXTINF:-1 group-title="🐉美国频道🦅",USA Fox Sports Sun (South Florida)
-http://doubleclicktv.live/70376812/52663544/904
-#EXTINF:-1 group-title="🐉美国频道🦅",USA Fubo Sports Network
-http://doubleclicktv.live/70376812/52663544/900
-#EXTINF:-1 group-title="🐉美国频道🦅",USA World Fishing Network
-http://doubleclicktv.live/70376812/52663544/829
-#EXTINF:-1 group-title="🐉美国频道🦅",USA Poker Go
-http://doubleclicktv.live/70376812/52663544/821
-#EXTINF:-1 group-title="🐉美国频道🦅",USA YES Network
-http://doubleclicktv.live/70376812/52663544/827
-#EXTINF:-1 group-title="🐉美国频道🦅",USA NFL Red zone
-http://doubleclicktv.live/70376812/52663544/867
-#EXTINF:-1 group-title="🐉美国频道🦅",USA Olympic Channel
-http://doubleclicktv.live/70376812/52663544/866
-#EXTINF:-1 group-title="🐉美国频道🦅",少儿频道
-http://doubleclicktv.live/70376812/52663544/781
-#EXTINF:-1 group-title="🐉美国频道🦅",USA MeTV Toons
-http://doubleclicktv.live/70376812/52663544/494103
-#EXTINF:-1 group-title="🐉美国频道🦅",USA Baby First
-http://doubleclicktv.live/70376812/52663544/1177
-#EXTINF:-1 group-title="🐉美国频道🦅",USA Baby TV
-http://doubleclicktv.live/70376812/52663544/1176
-#EXTINF:-1 group-title="🐉美国频道🦅",USA Boomerang
-http://doubleclicktv.live/70376812/52663544/1175
-#EXTINF:-1 group-title="🐉美国频道🦅",USA Cartoon Network
-http://doubleclicktv.live/70376812/52663544/1174
-#EXTINF:-1 group-title="🐉美国频道🦅",USA Cartoon Network West
-http://doubleclicktv.live/70376812/52663544/1173
-#EXTINF:-1 group-title="🐉美国频道🦅",USA Disney Channel
-http://doubleclicktv.live/70376812/52663544/1172
-#EXTINF:-1 group-title="🐉美国频道🦅",USA Disney Channel West
-http://doubleclicktv.live/70376812/52663544/1171
-#EXTINF:-1 group-title="🐉美国频道🦅",USA Disney Junior
-http://doubleclicktv.live/70376812/52663544/1170
-#EXTINF:-1 group-title="🐉美国频道🦅",USA Disney Junior West
-http://doubleclicktv.live/70376812/52663544/1169
-#EXTINF:-1 group-title="🐉美国频道🦅",USA Disney XD
-http://doubleclicktv.live/70376812/52663544/1168
-#EXTINF:-1 group-title="🐉美国频道🦅",USA Disney XD West
-http://doubleclicktv.live/70376812/52663544/1167
-#EXTINF:-1 group-title="🐉美国频道🦅",USA Nick Jr
-http://doubleclicktv.live/70376812/52663544/1166
-#EXTINF:-1 group-title="🐉美国频道🦅",USA Nick Jr West
-http://doubleclicktv.live/70376812/52663544/1165
-#EXTINF:-1 group-title="🐉美国频道🦅",USA Nickelodeon
-http://doubleclicktv.live/70376812/52663544/1162
-#EXTINF:-1 group-title="🐉美国频道🦅",USA Nickelodeon West
-http://doubleclicktv.live/70376812/52663544/1161
-#EXTINF:-1 group-title="🐉美国频道🦅",USA Nicktoons
-http://doubleclicktv.live/70376812/52663544/1164
-#EXTINF:-1 group-title="🐉美国频道🦅",USA Nicktoons West
-http://doubleclicktv.live/70376812/52663544/1163
-#EXTINF:-1 group-title="🐉美国频道🦅",USA PBS Kids
-http://doubleclicktv.live/70376812/52663544/1160
-#EXTINF:-1 group-title="🐉美国频道🦅",USA TeenNick
-http://doubleclicktv.live/70376812/52663544/1159
-#EXTINF:-1 group-title="🐉美国频道🦅",USA TeenNick West
-http://doubleclicktv.live/70376812/52663544/1158
-#EXTINF:-1 group-title="🐉美国频道🦅",USA Universal Kids
-http://doubleclicktv.live/70376812/52663544/1157
-#EXTINF:-1 group-title="🐉美国频道🦅",USA American Heroes
-http://doubleclicktv.live/70376812/52663544/509
-#EXTINF:-1 group-title="🐉美国频道🦅",USA Animal Planet East
-http://doubleclicktv.live/70376812/52663544/508
-#EXTINF:-1 group-title="🐉美国频道🦅",USA Animal Planet West
-http://doubleclicktv.live/70376812/52663544/507
-#EXTINF:-1 group-title="🐉美国频道🦅",USA Cooking Channel
-http://doubleclicktv.live/70376812/52663544/482
-#EXTINF:-1 group-title="🐉美国频道🦅",USA Crime & Investigation Network
-http://doubleclicktv.live/70376812/52663544/479
-#EXTINF:-1 group-title="🐉美国频道🦅",USA Destination America
-http://doubleclicktv.live/70376812/52663544/476
-#EXTINF:-1 group-title="🐉美国频道🦅",USA Discovery East
-http://doubleclicktv.live/70376812/52663544/475
-#EXTINF:-1 group-title="🐉美国频道🦅",USA Discovery Español
-http://doubleclicktv.live/70376812/52663544/474
-#EXTINF:-1 group-title="🐉美国频道🦅",USA Discovery Familia
-http://doubleclicktv.live/70376812/52663544/473
-#EXTINF:-1 group-title="🐉美国频道🦅",USA Discovery Family
-http://doubleclicktv.live/70376812/52663544/472
-#EXTINF:-1 group-title="🐉美国频道🦅",USA Discovery Life
-http://doubleclicktv.live/70376812/52663544/470
-#EXTINF:-1 group-title="🐉美国频道🦅",USA Discovery Science
-http://doubleclicktv.live/70376812/52663544/469
-#EXTINF:-1 group-title="🐉美国频道🦅",USA Discovery Velocity
-http://doubleclicktv.live/70376812/52663544/468
-#EXTINF:-1 group-title="🐉美国频道🦅",USA Discovery West
-http://doubleclicktv.live/70376812/52663544/467
-#EXTINF:-1 group-title="🐉美国频道🦅",USA History West
-http://doubleclicktv.live/70376812/52663544/295768
-#EXTINF:-1 group-title="🐉美国频道🦅",USA History Military
-http://doubleclicktv.live/70376812/52663544/433
-#EXTINF:-1 group-title="🐉美国频道🦅",USA ID East
-http://doubleclicktv.live/70376812/52663544/430
-#EXTINF:-1 group-title="🐉美国频道🦅",USA ID West
-http://doubleclicktv.live/70376812/52663544/429
-#EXTINF:-1 group-title="🐉美国频道🦅",USA NASA
-http://doubleclicktv.live/70376812/52663544/408
-#EXTINF:-1 group-title="🐉美国频道🦅",USA Nat Geo East
-http://doubleclicktv.live/70376812/52663544/407
-#EXTINF:-1 group-title="🐉美国频道🦅",USA Smithsonian Channel
-http://doubleclicktv.live/70376812/52663544/381
-#EXTINF:-1 group-title="🐉美国频道🦅",USA Travel Channel West
-http://doubleclicktv.live/70376812/52663544/362
-#EXTINF:-1 group-title="🐉美国频道🦅",USA Travel Channel
-http://doubleclicktv.live/70376812/52663544/363
-#EXTINF:-1 group-title="🐉美国频道🦅",综合频道
-http://doubleclicktv.live/70376812/52663544/781
-#EXTINF:-1 group-title="🐉美国频道🦅",USA Animal Planet UHD
-http://doubleclicktv.live/70376812/52663544/269009
-#EXTINF:-1 group-title="🐉美国频道🦅",USA Aspire UHD
-http://doubleclicktv.live/70376812/52663544/269008
-#EXTINF:-1 group-title="🐉美国频道🦅",USA AXS TV UHD
-http://doubleclicktv.live/70376812/52663544/269007
-#EXTINF:-1 group-title="🐉美国频道🦅",USA BBC America UHD
-http://doubleclicktv.live/70376812/52663544/269006
-#EXTINF:-1 group-title="🐉美国频道🦅",USA BBC America West
-http://doubleclicktv.live/70376812/52663544/290891
-#EXTINF:-1 group-title="🐉美国频道🦅",USA BBC News UHD
-http://doubleclicktv.live/70376812/52663544/269005
-#EXTINF:-1 group-title="🐉美国频道🦅",USA BET UHD
-http://doubleclicktv.live/70376812/52663544/269004
-#EXTINF:-1 group-title="🐉美国频道🦅",USA BET W UHD
-http://doubleclicktv.live/70376812/52663544/269003
-#EXTINF:-1 group-title="🐉美国频道🦅",USA Bloomberg TV UHD
-http://doubleclicktv.live/70376812/52663544/269002
-#EXTINF:-1 group-title="🐉美国频道🦅",USA Bravo UHD
-http://doubleclicktv.live/70376812/52663544/268945
-#EXTINF:-1 group-title="🐉美国频道🦅",USA Cartoon Network UHD
-http://doubleclicktv.live/70376812/52663544/269001
-#EXTINF:-1 group-title="🐉美国频道🦅",USA CBS NEWS BAY UHD
-http://doubleclicktv.live/70376812/52663544/268999
-#EXTINF:-1 group-title="🐉美国频道🦅",USA Cinemax 5 STAR MAX UHD
-http://doubleclicktv.live/70376812/52663544/268943
-#EXTINF:-1 group-title="🐉美国频道🦅",USA CINEMAX ACTION MAX UHD
-http://doubleclicktv.live/70376812/52663544/268942
-#EXTINF:-1 group-title="🐉美国频道🦅",USA CLEO TV UHD
-http://doubleclicktv.live/70376812/52663544/268998
-#EXTINF:-1 group-title="🐉美国频道🦅",USA CMT UHD
-http://doubleclicktv.live/70376812/52663544/268997
-#EXTINF:-1 group-title="🐉美国频道🦅",USA CNBC UHD
-http://doubleclicktv.live/70376812/52663544/268996
-#EXTINF:-1 group-title="🐉美国频道🦅",USA CNN UHD
-http://doubleclicktv.live/70376812/52663544/268995
-#EXTINF:-1 group-title="🐉美国频道🦅",USA Destination America UHD
-http://doubleclicktv.live/70376812/52663544/268989
-#EXTINF:-1 group-title="🐉美国频道🦅",USA Discovery UHD
-http://doubleclicktv.live/70376812/52663544/268988
-#EXTINF:-1 group-title="🐉美国频道🦅",USA Disney channel UHD
-http://doubleclicktv.live/70376812/52663544/268987
-#EXTINF:-1 group-title="🐉美国频道🦅",USA Disney JR UHD
-http://doubleclicktv.live/70376812/52663544/268986
-#EXTINF:-1 group-title="🐉美国频道🦅",USA Disney XD UHD
-http://doubleclicktv.live/70376812/52663544/268985
-#EXTINF:-1 group-title="🐉美国频道🦅",USA ESPN 2 UHD
-http://doubleclicktv.live/70376812/52663544/268982
-#EXTINF:-1 group-title="🐉美国频道🦅",USA ESPN NEWS UHD
-http://doubleclicktv.live/70376812/52663544/268981
-#EXTINF:-1 group-title="🐉美国频道🦅",USA ESPN UHD
-http://doubleclicktv.live/70376812/52663544/268983
-#EXTINF:-1 group-title="🐉美国频道🦅",USA ESPN U UHD
-http://doubleclicktv.live/70376812/52663544/268980
-#EXTINF:-1 group-title="🐉美国频道🦅",USA Fox Business UHD
-http://doubleclicktv.live/70376812/52663544/268976
-#EXTINF:-1 group-title="🐉美国频道🦅",USA FOX NEWS UHD
-http://doubleclicktv.live/70376812/52663544/268975
-#EXTINF:-1 group-title="🐉美国频道🦅",USA HBO2 East UHD
-http://doubleclicktv.live/70376812/52663544/268958
-#EXTINF:-1 group-title="🐉美国频道🦅",USA HBO 2 West UHD
-http://doubleclicktv.live/70376812/52663544/268953
-#EXTINF:-1 group-title="🐉美国频道🦅",USA HBO Comedy UHD
-http://doubleclicktv.live/70376812/52663544/268957
-#EXTINF:-1 group-title="🐉美国频道🦅",USA HBO East UHD
-http://doubleclicktv.live/70376812/52663544/268961
-#EXTINF:-1 group-title="🐉美国频道🦅",USA HBO Family East UHD
-http://doubleclicktv.live/70376812/52663544/268960
-#EXTINF:-1 group-title="🐉美国频道🦅",USA HBO Latino UHD
-http://doubleclicktv.live/70376812/52663544/268959
-#EXTINF:-1 group-title="🐉美国频道🦅",USA HBO Signature East UHD
-http://doubleclicktv.live/70376812/52663544/268956
-#EXTINF:-1 group-title="🐉美国频道🦅",USA HBO West UHD
-http://doubleclicktv.live/70376812/52663544/268955
-#EXTINF:-1 group-title="🐉美国频道🦅",USA HBO Latino WEST
-http://doubleclicktv.live/70376812/52663544/290172
-#EXTINF:-1 group-title="🐉美国频道🦅",USA HBO Zone UHD
-http://doubleclicktv.live/70376812/52663544/268954
-#EXTINF:-1 group-title="🐉美国频道🦅",Disney+ Premiere 1
-http://doubleclicktv.live/70376812/52663544/271153
-#EXTINF:-1 group-title="🐉美国频道🦅",Disney+ Premiere 2
-http://doubleclicktv.live/70376812/52663544/271152
-#EXTINF:-1 group-title="🐉美国频道🦅",Disney+ Series 1
-http://doubleclicktv.live/70376812/52663544/271150
-#EXTINF:-1 group-title="🐉美国频道🦅",Disney+ Series 2
-http://doubleclicktv.live/70376812/52663544/271149
-#EXTINF:-1 group-title="🐉美国频道🦅",Disney+ Series 3
-http://doubleclicktv.live/70376812/52663544/271148
-#EXTINF:-1 group-title="🐉美国频道🦅",Disney+ Series 4
-http://doubleclicktv.live/70376812/52663544/271147
-#EXTINF:-1 group-title="🐉美国频道🦅",Disney+ Series 5
-http://doubleclicktv.live/70376812/52663544/271146
-#EXTINF:-1 group-title="🐉美国频道🦅",Disney+ Series 6
-http://doubleclicktv.live/70376812/52663544/271145
-#EXTINF:-1 group-title="🐉美国频道🦅",Disney+ Series 7
-http://doubleclicktv.live/70376812/52663544/271144
-#EXTINF:-1 group-title="🐉美国频道🦅",Disney+ Series 8
-http://doubleclicktv.live/70376812/52663544/271143
-#EXTINF:-1 group-title="🐉美国频道🦅",Disney+ Series 9
-http://doubleclicktv.live/70376812/52663544/271142
-#EXTINF:-1 group-title="🐉美国频道🦅",Disney+ Series 10
-http://doubleclicktv.live/70376812/52663544/271141
-#EXTINF:-1 group-title="🐉美国频道🦅",Disney+ Series info
-http://doubleclicktv.live/70376812/52663544/271151
-#EXTINF:-1 group-title="🐉美国频道🦅",Netflix Series 1
-http://doubleclicktv.live/70376812/52663544/271163
-#EXTINF:-1 group-title="🐉美国频道🦅",Netflix Series 2
-http://doubleclicktv.live/70376812/52663544/271162
-#EXTINF:-1 group-title="🐉美国频道🦅",Netflix Series 3
-http://doubleclicktv.live/70376812/52663544/271161
-#EXTINF:-1 group-title="🐉美国频道🦅",Netflix Series 4
-http://doubleclicktv.live/70376812/52663544/271160
-#EXTINF:-1 group-title="🐉美国频道🦅",Netflix Series 5
-http://doubleclicktv.live/70376812/52663544/271159
-#EXTINF:-1 group-title="🐉美国频道🦅",Netflix Series 6
-http://doubleclicktv.live/70376812/52663544/271158
-#EXTINF:-1 group-title="🐉美国频道🦅",Netflix Series 7
-http://doubleclicktv.live/70376812/52663544/271157
-#EXTINF:-1 group-title="🐉美国频道🦅",Netflix Series 8
-http://doubleclicktv.live/70376812/52663544/271156
-#EXTINF:-1 group-title="🐉美国频道🦅",Netflix Series 9
-http://doubleclicktv.live/70376812/52663544/271155
-#EXTINF:-1 group-title="🐉美国频道🦅",Netflix Series 10
-http://doubleclicktv.live/70376812/52663544/271154
-#EXTINF:-1 group-title="🐉美国频道🦅",Netflix Series info
-http://doubleclicktv.live/70376812/52663544/271164
-#EXTINF:-1 group-title="🐉美国频道🦅",Amc+ Original 1
-http://doubleclicktv.live/70376812/52663544/271201
-#EXTINF:-1 group-title="🐉美国频道🦅",Amc+ Original 2
-http://doubleclicktv.live/70376812/52663544/271200
-#EXTINF:-1 group-title="🐉美国频道🦅",Amc+ Original 3
-http://doubleclicktv.live/70376812/52663544/271199
-#EXTINF:-1 group-title="🐉美国频道🦅",Amc+ Original 4
-http://doubleclicktv.live/70376812/52663544/271198
-#EXTINF:-1 group-title="🐉美国频道🦅",Amc+ Original 5
-http://doubleclicktv.live/70376812/52663544/271197
-#EXTINF:-1 group-title="🐉美国频道🦅",Amc+ Original 6
-http://doubleclicktv.live/70376812/52663544/271196
-#EXTINF:-1 group-title="🐉美国频道🦅",Amc+ Original 7
-http://doubleclicktv.live/70376812/52663544/271195
-#EXTINF:-1 group-title="🐉美国频道🦅",Amc+ Original 8
-http://doubleclicktv.live/70376812/52663544/271194
-#EXTINF:-1 group-title="🐉美国频道🦅",Amc+ Original 9
-http://doubleclicktv.live/70376812/52663544/271193
-#EXTINF:-1 group-title="🐉美国频道🦅",Amc+ Original info
-http://doubleclicktv.live/70376812/52663544/271202
+#EXTINF:-1 tvg-name="------|USA|------" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/------|USA|------.png" group-title="🐉美国频道🦅",|新闻+综合频道|
+http://152.89.62.76:8880/60mk100012/14668115/3168
+#EXTINF:-1 tvg-id="cbssnhd.us" tvg-name="US018:CBSN HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US018CBSN-HD.png" group-title="🐉美国频道🦅",US018:CBSN HD
+http://152.89.62.76:8880/60mk100012/14668115/3150
+#EXTINF:-1 tvg-name="US003:ABC-NEWS" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US003ABC-NEWS.png" group-title="🐉美国频道🦅",US003:ABC-NEWS
+http://152.89.62.76:8880/60mk100012/14668115/3165
+#EXTINF:-1 tvg-id="cnbc.usa.us" tvg-name="US020:CNBC HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US020CNBC.png" group-title="🐉美国频道🦅",US020:CNBC HD
+http://152.89.62.76:8880/60mk100012/14668115/3148
+#EXTINF:-1 tvg-id="cnn.us" tvg-name="US021:CNN HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US021CNN-HD.png" group-title="🐉美国频道🦅",US021:CNN HD
+http://152.89.62.76:8880/60mk100012/14668115/3147
+#EXTINF:-1 tvg-id="a.e.eastern.us" tvg-name="US001:A&E HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US001A&E-HD.png" group-title="🐉美国频道🦅",US001:A&E HD
+http://152.89.62.76:8880/60mk100012/14668115/3167
+#EXTINF:-1 tvg-id="starz.eastern.us" tvg-name="US019:STARZ EAST" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US019StarzEast.png" group-title="🐉美国频道🦅",US019:STARZ EAST
+http://152.89.62.76:8880/60mk100012/14668115/3149
+#EXTINF:-1 tvg-name="US002:ABC HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US002ABCHD.png" group-title="🐉美国频道🦅",US002:ABC HD
+http://152.89.62.76:8880/60mk100012/14668115/3166
+#EXTINF:-1 tvg-name="US004:ABC 7" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US004ABC7.png" group-title="🐉美国频道🦅",US004:ABC 7
+http://152.89.62.76:8880/60mk100012/14668115/3164
+#EXTINF:-1 tvg-id="actionmax.eastern.us" tvg-name="US005:ACTION MAX" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US005ACTION-MAX.png" group-title="🐉美国频道🦅",US005:ACTION MAX
+http://152.89.62.76:8880/60mk100012/14668115/3163
+#EXTINF:-1 tvg-id="amc.eastern.us" tvg-name="US006:AMC HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US006AMC-HD.png" group-title="🐉美国频道🦅",US006:AMC HD
+http://152.89.62.76:8880/60mk100012/14668115/3162
+#EXTINF:-1 tvg-id="animal.planet.east.us" tvg-name="US007:Animal Planet HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US007ANIMAL-PLANET.png" group-title="🐉美国频道🦅",US007:Animal Planet HD
+http://152.89.62.76:8880/60mk100012/14668115/3161
+#EXTINF:-1 tvg-id="bbc.america.east.us" tvg-name="US008:BBC America HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US008BBC-America.png" group-title="🐉美国频道🦅",US008:BBC America HD
+http://152.89.62.76:8880/60mk100012/14668115/3160
+#EXTINF:-1 tvg-id="bet.eastern.us" tvg-name="US010:BET HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US010BET-HD.png" group-title="🐉美国频道🦅",US010:BET HD
+http://152.89.62.76:8880/60mk100012/14668115/3158
+#EXTINF:-1 tvg-id="bravo.usa.eastern.us" tvg-name="US011:BRAVO HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US011BRAVO-HD.png" group-title="🐉美国频道🦅",US011:BRAVO HD
+http://152.89.62.76:8880/60mk100012/14668115/3157
+#EXTINF:-1 tvg-id="pac.12.washington.us" tvg-name="US012:PAC-12 Insider" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US012PAC-12Washington.png" group-title="🐉美国频道🦅",US012:PAC-12 Insider
+http://152.89.62.76:8880/60mk100012/14668115/3156
+#EXTINF:-1 tvg-id="pac.12.la.us" tvg-name="US013:PAC-12 Los Angeles" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US013PAC-12LosAngeles.png" group-title="🐉美国频道🦅",US013:PAC-12 Los Angeles
+http://152.89.62.76:8880/60mk100012/14668115/3155
+#EXTINF:-1 tvg-id="pac.12.oregon.us" tvg-name="US014:PAC-12 Oregon" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US014PAC-12Oregon.png" group-title="🐉美国频道🦅",US014:PAC-12 Oregon
+http://152.89.62.76:8880/60mk100012/14668115/3154
+#EXTINF:-1 tvg-id="vice.us" tvg-name="US015:Viceland HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US015Viceland.png" group-title="🐉美国频道🦅",US015:Viceland HD
+http://152.89.62.76:8880/60mk100012/14668115/3153
+#EXTINF:-1 tvg-id="cartoon.network.usa.eastern.us" tvg-name="US016:Cartoon Network HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US016CARTOON-NETWORK.png" group-title="🐉美国频道🦅",US016:Cartoon Network HD
+http://152.89.62.76:8880/60mk100012/14668115/3152
+#EXTINF:-1 tvg-name="US017:CBS-HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US017CBS-HD.png" group-title="🐉美国频道🦅",US017:CBS-HD
+http://152.89.62.76:8880/60mk100012/14668115/3151
+#EXTINF:-1 tvg-id="comedy.us" tvg-name="US022:Comedy Central HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US022COMEDY-CENTRAL.png" group-title="🐉美国频道🦅",US022:Comedy Central HD
+http://152.89.62.76:8880/60mk100012/14668115/3146
+#EXTINF:-1 tvg-id="cw.austin.tx.us" tvg-name="US023:CW HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US023CW-HD.png" group-title="🐉美国频道🦅",US023:CW HD
+http://152.89.62.76:8880/60mk100012/14668115/3145
+#EXTINF:-1 tvg-id="destination.america.us" tvg-name="US024:Destination America HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US024DESTINATION-AMERICA.png" group-title="🐉美国频道🦅",US024:Destination America HD
+http://152.89.62.76:8880/60mk100012/14668115/3144
+#EXTINF:-1 tvg-id="discovery.on.demand.us" tvg-name="US025:Discovery HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US025Discovery-HD.png" group-title="🐉美国频道🦅",US025:Discovery HD
+http://152.89.62.76:8880/60mk100012/14668115/3143
+#EXTINF:-1 tvg-id="disney.eastern.us" tvg-name="US026:Disney Channel HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US026Disney-Channel.png" group-title="🐉美国频道🦅",US026:Disney Channel HD
+http://152.89.62.76:8880/60mk100012/14668115/3142
+#EXTINF:-1 tvg-id="disney.junior.usa.east.us" tvg-name="US027:Disney JR HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US027Disney-JR.png" group-title="🐉美国频道🦅",US027:Disney JR HD
+http://152.89.62.76:8880/60mk100012/14668115/3141
+#EXTINF:-1 tvg-id="disney.xd.usa.eastern.us" tvg-name="US028:Disney XD HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US028Disney-XD.png" group-title="🐉美国频道🦅",US028:Disney XD HD
+http://152.89.62.76:8880/60mk100012/14668115/3140
+#EXTINF:-1 tvg-id="diya.houston.tx.us" tvg-name="US029:DIY Network HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US029DIYNetwork.png" group-title="🐉美国频道🦅",US029:DIY Network HD
+http://152.89.62.76:8880/60mk100012/14668115/3139
+#EXTINF:-1 tvg-name="------|USA|------" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/------|USA|------.png" group-title="🐉美国频道🦅",|体育频道|
+#EXTINF:-1 tvg-id="bein.sports.us" tvg-name="US009:BeIN Sports 1 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US009Bein-Sports.png" group-title="🐉美国频道🦅",US009:BeIN Sports 1 HD
+http://152.89.62.76:8880/60mk100012/14668115/3159
+http://152.89.62.76:8880/60mk100012/14668115/3168
+#EXTINF:-1 tvg-id="68730" tvg-name="PPV001:PPV EVENTS 01" group-title="🐉美国频道🦅",PPV001:PPV EVENTS 01
+http://mohdtv.com:8880//voby3837/28337929/68730
+#EXTINF:-1 tvg-id="68731" tvg-name="PPV002:PPV EVENTS 02" group-title="🐉美国频道🦅",PPV002:PPV EVENTS 02
+http://mohdtv.com:8880//voby3837/28337929/68731
+#EXTINF:-1 tvg-id="68732" tvg-name="PPV003:PPV EVENTS 03" group-title="🐉美国频道🦅",PPV003:PPV EVENTS 03
+http://mohdtv.com:8880//voby3837/28337929/68732
+#EXTINF:-1 tvg-id="68733" tvg-name="PPV004:PPV EVENTS 04" group-title="🐉美国频道🦅",PPV004:PPV EVENTS 04
+http://mohdtv.com:8880//voby3837/28337929/68733
+#EXTINF:-1 tvg-id="espn2.us" tvg-name="US031:ESPN-2" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US031ESPN-2.png" group-title="🐉美国频道🦅",US031:ESPN-2
+http://152.89.62.76:8880/60mk100012/14668115/3137
+#EXTINF:-1 tvg-id="espn.us" tvg-name="US032:ESPN-HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US032ESPN-HD.png" group-title="🐉美国频道🦅",US032:ESPN-HD
+http://152.89.62.76:8880/60mk100012/14668115/3136
+#EXTINF:-1 tvg-id="espn.news.us" tvg-name="US033:ESPN-News" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US033ESPN-News.png" group-title="🐉美国频道🦅",US033:ESPN-News
+http://152.89.62.76:8880/60mk100012/14668115/3135
+#EXTINF:-1 tvg-id="espn.u.us" tvg-name="US034:ESPN-U" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US034ESPN-U.png" group-title="🐉美国频道🦅",US034:ESPN-U
+http://152.89.62.76:8880/60mk100012/14668115/3134
+#EXTINF:-1 tvg-id="3113" tvg-name="US055:HBO 2" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US055HBO2.png" group-title="🐉美国频道🦅",US055:HBO 2
+http://mohdtv.com:8880//voby3837/28337929/3113
+#EXTINF:-1 tvg-id="3111" tvg-name="US057:MSNBC HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US057MSNBC-HD.png" group-title="🐉美国频道🦅",US057:MSNBC HD
+http://mohdtv.com:8880//voby3837/28337929/3111
+#EXTINF:-1 tvg-id="3110" tvg-name="US058:MTV HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US058MTV.png" group-title="🐉美国频道🦅",US058:MTV HD
+http://mohdtv.com:8880//voby3837/28337929/3110
+#EXTINF:-1 tvg-id="3109" tvg-name="US059:NAT GEO HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US059NAT-GEO.png" group-title="🐉美国频道🦅",US059:NAT GEO HD
+http://mohdtv.com:8880//voby3837/28337929/3109
+#EXTINF:-1 tvg-id="3107" tvg-name="US061:NBC-Golf" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US061NBC-Golf.png" group-title="🐉美国频道🦅",US061:NBC-Golf
+http://mohdtv.com:8880//voby3837/28337929/3107
+#EXTINF:-1 tvg-id="3106" tvg-name="US062:NBC-HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US062NBC-HD.png" group-title="🐉美国频道🦅",US062:NBC-HD
+http://mohdtv.com:8880//voby3837/28337929/3106
+#EXTINF:-1 tvg-id="3105" tvg-name="US063:NBCSN HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US063NBCSN-HD.png" group-title="🐉美国频道🦅",US063:NBCSN HD
+http://mohdtv.com:8880//voby3837/28337929/3105
+#EXTINF:-1 tvg-id="fox.news.us" tvg-name="US037:FOX-News" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US037FOX-News.png" group-title="🐉美国频道🦅",US037:FOX-News
+http://152.89.62.76:8880/60mk100012/14668115/3131
+#EXTINF:-1 tvg-id="fox.sports.1.us" tvg-name="US038:FOX-Sports1" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US038FOX-Sports1.png" group-title="🐉美国频道🦅",US038:FOX-Sports1
+http://152.89.62.76:8880/60mk100012/14668115/3130
+#EXTINF:-1 tvg-id="fox.sports.2.us" tvg-name="US039:FOX-Sports2" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US039FOX-Sports2.png" group-title="🐉美国频道🦅",US039:FOX-Sports2
+http://152.89.62.76:8880/60mk100012/14668115/3129
+#EXTINF:-1 tvg-id="3103" tvg-name="US065:Nicktoons HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US065Nicktoons.png" group-title="🐉美国频道🦅",US065:Nicktoons HD
+http://mohdtv.com:8880//voby3837/28337929/3103
+#EXTINF:-1 tvg-id="3102" tvg-name="US066:INSP HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US066INSP.png" group-title="🐉美国频道🦅",US066:INSP HD
+http://mohdtv.com:8880//voby3837/28337929/3102
+#EXTINF:-1 tvg-id="food.network.usa.eastern.us" tvg-name="US035:Food Network HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US035Food-Network.png" group-title="🐉美国频道🦅",US035:Food Network HD
+http://152.89.62.76:8880/60mk100012/14668115/3133
+#EXTINF:-1 tvg-id="fox.hd.english.bein" tvg-name="US036:FOX-HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US036FOX-HD.png" group-title="🐉美国频道🦅",US036:FOX-HD
+http://152.89.62.76:8880/60mk100012/14668115/3132
+#EXTINF:-1 tvg-id="freeform.east.us" tvg-name="US040:Freeform HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US040Freeform.png" group-title="🐉美国频道🦅",US040:Freeform HD
+http://152.89.62.76:8880/60mk100012/14668115/3128
+#EXTINF:-1 tvg-id="fxx.usa.eastern.us" tvg-name="US041:FX HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US041FX-HD.png" group-title="🐉美国频道🦅",US041:FX HD
+http://152.89.62.76:8880/60mk100012/14668115/3127
+#EXTINF:-1 tvg-id="fxx.usa.eastern.us" tvg-name="US042:FXX HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US042FXX.png" group-title="🐉美国频道🦅",US042:FXX HD
+http://152.89.62.76:8880/60mk100012/14668115/3126
+#EXTINF:-1 tvg-id="hallmark.eastern.us" tvg-name="US043:Hallmark Channel" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US043HALLMARK.png" group-title="🐉美国频道🦅",US043:Hallmark Channel
+http://152.89.62.76:8880/60mk100012/14668115/3125
+#EXTINF:-1 tvg-id="hallmark.movies.mysteries.eastern.us" tvg-name="US044:Hallmark Movies & Mysteries" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US044HALLMARK-MOVIES.png" group-title="🐉美国频道🦅",US044:Hallmark Movies & Mysteries
+http://152.89.62.76:8880/60mk100012/14668115/3124
+#EXTINF:-1 tvg-id="comedy.us" tvg-name="US045:HBO Comedy" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US045HBOComedyEast.png" group-title="🐉美国频道🦅",US045:HBO Comedy
+http://152.89.62.76:8880/60mk100012/14668115/3123
+#EXTINF:-1 tvg-id="hbo.eastern.us" tvg-name="US046:HBO East" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US046HBOEast.png" group-title="🐉美国频道🦅",US046:HBO East
+http://152.89.62.76:8880/60mk100012/14668115/3122
+#EXTINF:-1 tvg-id="hbo.signature.eastern.us" tvg-name="US047:HBO Signature" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US047HBOSignatureWest.png" group-title="🐉美国频道🦅",US047:HBO Signature
+http://152.89.62.76:8880/60mk100012/14668115/3121
+#EXTINF:-1 tvg-id="hbo.zone.east.us" tvg-name="US048:HBO Zone" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US048HBOZoneEast.png" group-title="🐉美国频道🦅",US048:HBO Zone
+http://152.89.62.76:8880/60mk100012/14668115/3120
+#EXTINF:-1 tvg-id="hgtv.usa.eastern.us" tvg-name="US049:HGTV HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US049HGTV-HD.png" group-title="🐉美国频道🦅",US049:HGTV HD
+http://152.89.62.76:8880/60mk100012/14668115/3119
+#EXTINF:-1 tvg-id="history.eastern.us" tvg-name="US050:History HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US050HISTORY-HD.png" group-title="🐉美国频道🦅",US050:History HD
+http://152.89.62.76:8880/60mk100012/14668115/3118
+#EXTINF:-1 tvg-id="investigation.discovery.usa.eastern.us" tvg-name="US051:Investigation Discovery HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US051 ID-HD.png" group-title="🐉美国频道🦅",US051:Investigation Discovery HD
+http://152.89.62.76:8880/60mk100012/14668115/3117
+#EXTINF:-1 tvg-id="tv.land.eastern.us" tvg-name="US052:TV Land HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US052TVLand.png" group-title="🐉美国频道🦅",US052:TV Land HD
+http://152.89.62.76:8880/60mk100012/14668115/3116
+#EXTINF:-1 tvg-id="lifetime.network.eastern.us" tvg-name="US053:Lifetime HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US053LifetimeUS.png" group-title="🐉美国频道🦅",US053:Lifetime HD
+http://152.89.62.76:8880/60mk100012/14668115/3115
+#EXTINF:-1 tvg-id="lifetime.movies.east.us" tvg-name="US054:Lifetime Movie" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US054LifetimeMovie.png" group-title="🐉美国频道🦅",US054:Lifetime Movie
+http://152.89.62.76:8880/60mk100012/14668115/3114
+#EXTINF:-1 tvg-id="hbo.2.eastern.us" tvg-name="US055:HBO 2" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US055HBO2.png" group-title="🐉美国频道🦅",US055:HBO 2
+http://152.89.62.76:8880/60mk100012/14668115/3113
+#EXTINF:-1 tvg-id="msnbc.usa.us" tvg-name="US057:MSNBC HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US057MSNBC-HD.png" group-title="🐉美国频道🦅",US057:MSNBC HD
+http://152.89.62.76:8880/60mk100012/14668115/3111
+#EXTINF:-1 tvg-id="mtv.usa.eastern.us" tvg-name="US058:MTV HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US058MTV.png" group-title="🐉美国频道🦅",US058:MTV HD
+http://152.89.62.76:8880/60mk100012/14668115/3110
+#EXTINF:-1 tvg-id="national.geographic.eastern.us" tvg-name="US059:NAT GEO HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US059NAT-GEO.png" group-title="🐉美国频道🦅",US059:NAT GEO HD
+http://152.89.62.76:8880/60mk100012/14668115/3109
+#EXTINF:-1 tvg-name="US061:NBC-Golf" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US061NBC-Golf.png" group-title="🐉美国频道🦅",US061:NBC-Golf
+http://152.89.62.76:8880/60mk100012/14668115/3107
+#EXTINF:-1 tvg-name="US062:NBC-HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US062NBC-HD.png" group-title="🐉美国频道🦅",US062:NBC-HD
+http://152.89.62.76:8880/60mk100012/14668115/3106
+#EXTINF:-1 tvg-id="nbcsn.us" tvg-name="US063:NBCSN HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US063NBCSN-HD.png" group-title="🐉美国频道🦅",US063:NBCSN HD
+http://152.89.62.76:8880/60mk100012/14668115/3105
+#EXTINF:-1 tvg-id="nicktoons.east.us" tvg-name="US065:Nicktoons HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US065Nicktoons.png" group-title="🐉美国频道🦅",US065:Nicktoons HD
+http://152.89.62.76:8880/60mk100012/14668115/3103
+#EXTINF:-1 tvg-id="insp.us" tvg-name="US066:INSP HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US066INSP.png" group-title="🐉美国频道🦅",US066:INSP HD
+http://152.89.62.76:8880/60mk100012/14668115/3102
+#EXTINF:-1 tvg-id="oprah.winfrey.network.usa.eastern.us" tvg-name="US067:Oprah Winfrey Network" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US067OWN.png" group-title="🐉美国频道🦅",US067:Oprah Winfrey Network
+http://152.89.62.76:8880/60mk100012/14668115/3101
+#EXTINF:-1 tvg-id="science.us" tvg-name="US068:Discovery Science HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US068Science.png" group-title="🐉美国频道🦅",US068:Discovery Science HD
+http://152.89.62.76:8880/60mk100012/14668115/3100
+#EXTINF:-1 tvg-id="showtime.west.us" tvg-name="US069:Showtime HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US069SHOWTIME.png" group-title="🐉美国频道🦅",US069:Showtime HD
+http://152.89.62.76:8880/60mk100012/14668115/3099
+#EXTINF:-1 tvg-id="showtime.2.eastern.us" tvg-name="US070:Showtime 2 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US070SHOWTIME2.png" group-title="🐉美国频道🦅",US070:Showtime 2 HD
+http://152.89.62.76:8880/60mk100012/14668115/3098
+#EXTINF:-1 tvg-id="21.junior.al" tvg-name="US071:SONIC" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US071SPIKE-HD.png" group-title="🐉美国频道🦅",US071:SONIC
+http://152.89.62.76:8880/60mk100012/14668115/3097
+#EXTINF:-1 tvg-id="syfy.eastern.us" tvg-name="US072:SyFy HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US072SYFY.png" group-title="🐉美国频道🦅",US072:SyFy HD
+http://152.89.62.76:8880/60mk100012/14668115/3096
+#EXTINF:-1 tvg-id="tbs.east.us" tvg-name="US073:TBS HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US073TBS-HD.png" group-title="🐉美国频道🦅",US073:TBS HD
+http://152.89.62.76:8880/60mk100012/14668115/3095
+#EXTINF:-1 tvg-id="pac.12.bay.area.us" tvg-name="US074:PAC-12 Bay Area" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US074PAC-12BayArea.png" group-title="🐉美国频道🦅",US074:PAC-12 Bay Area
+http://152.89.62.76:8880/60mk100012/14668115/3094
+#EXTINF:-1 tvg-id="tlc.usa.eastern.us" tvg-name="US075:TLC HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US075TLC-HD.png" group-title="🐉美国频道🦅",US075:TLC HD
+http://152.89.62.76:8880/60mk100012/14668115/3093
+#EXTINF:-1 tvg-id="tnt.eastern.us" tvg-name="US076:TNT HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US076TNT-HD.png" group-title="🐉美国频道🦅",US076:TNT HD
+http://152.89.62.76:8880/60mk100012/14668115/3092
+#EXTINF:-1 tvg-id="travel.east.us" tvg-name="US077:Travel channel" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US077Travel-channel.png" group-title="🐉美国频道🦅",US077:Travel channel
+http://152.89.62.76:8880/60mk100012/14668115/3091
+#EXTINF:-1 tvg-id="trutv.usa.eastern.us" tvg-name="US078:TRU TV" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US078TRU-TV.png" group-title="🐉美国频道🦅",US078:TRU TV
+http://152.89.62.76:8880/60mk100012/14668115/3090
+#EXTINF:-1 tvg-id="usa.network.east.us" tvg-name="US079:USA Network HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US079USA-Network.png" group-title="🐉美国频道🦅",US079:USA Network HD
+http://152.89.62.76:8880/60mk100012/14668115/3089
+#EXTINF:-1 tvg-name="US080:DEUTSCHE WELLE TV" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ZA/ZA003DW.png" group-title="🐉美国频道🦅",US080:DEUTSCHE WELLE TV
+http://152.89.62.76:8880/60mk100012/14668115/3088
+#EXTINF:-1 tvg-id="vh1.eastern.us" tvg-name="US081:VH1 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US081VH1.png" group-title="🐉美国频道🦅",US081:VH1 HD
+http://152.89.62.76:8880/60mk100012/14668115/3087
+#EXTINF:-1 tvg-id="we.us" tvg-name="US082:WE TV HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US082WE-TV.png" group-title="🐉美国频道🦅",US082:WE TV HD
+http://152.89.62.76:8880/60mk100012/14668115/3086
+#EXTINF:-1 tvg-id="the.weather.us" tvg-name="US083:The Weather Channel HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US083WEATHER.png" group-title="🐉美国频道🦅",US083:The Weather Channel HD
+http://152.89.62.76:8880/60mk100012/14668115/3085
+#EXTINF:-1 tvg-name="US084:UFC Network" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US084UFCNetwork.png" group-title="🐉美国频道🦅",US084:UFC Network
+http://152.89.62.76:8880/60mk100012/14668115/3084
+#EXTINF:-1 tvg-id="wwe.us" tvg-name="US085:WWE-Network" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US085WWE-Network.png" group-title="🐉美国频道🦅",US085:WWE-Network
+http://152.89.62.76:8880/60mk100012/14668115/3083
+#EXTINF:-1 tvg-id="the.tennis.us" tvg-name="US086:Tennis HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US086Tennis.png" group-title="🐉美国频道🦅",US086:Tennis HD
+http://152.89.62.76:8880/60mk100012/14668115/3082
+#EXTINF:-1 tvg-id="nesn.us" tvg-name="US087:NESN" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US087NESN.png" group-title="🐉美国频道🦅",US087:NESN
+http://152.89.62.76:8880/60mk100012/14668115/3081
+#EXTINF:-1 tvg-id="cbs.sports.network.usa.us" tvg-name="US088:CBS Sports Network" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US088CBSSportsNetwork.png" group-title="🐉美国频道🦅",US088:CBS Sports Network
+http://152.89.62.76:8880/60mk100012/14668115/3080
+#EXTINF:-1 tvg-id="fox.sports.1.us" tvg-name="US090:Fox Sports Yes" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US090FoxSportsYes.png" group-title="🐉美国频道🦅",US090:Fox Sports Yes
+http://152.89.62.76:8880/60mk100012/14668115/3078
+#EXTINF:-1 tvg-id="sec.network.us" tvg-name="US091:SEC Network HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US091SecNetwork.png" group-title="🐉美国频道🦅",US091:SEC Network HD
+http://152.89.62.76:8880/60mk100012/14668115/3077
+#EXTINF:-1 tvg-id="big.ten.network.us" tvg-name="US092:Big Ten Network" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US092BigTenNetwork.png" group-title="🐉美国频道🦅",US092:Big Ten Network
+http://152.89.62.76:8880/60mk100012/14668115/3076
+#EXTINF:-1 tvg-name="US093:COMET" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US093COMET.png" group-title="🐉美国频道🦅",US093:COMET
+http://152.89.62.76:8880/60mk100012/14668115/3075
+#EXTINF:-1 tvg-id="fox.business.us" tvg-name="US094:Fox Business Network" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US094FoxBusinessNetwork.png" group-title="🐉美国频道🦅",US094:Fox Business Network
+http://152.89.62.76:8880/60mk100012/14668115/3074
+#EXTINF:-1 tvg-id="pbs.kids.austin.tx.us" tvg-name="US095:PBS Kids HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US095PBSKids.png" group-title="🐉美国频道🦅",US095:PBS Kids HD
+http://152.89.62.76:8880/60mk100012/14668115/3073
+#EXTINF:-1 tvg-id="cbn.news.us" tvg-name="US096:CBN HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US096CBN.png" group-title="🐉美国频道🦅",US096:CBN HD
+http://152.89.62.76:8880/60mk100012/14668115/3072
+#EXTINF:-1 tvg-id="circle.houston.tx.us" tvg-name="US097:Circle" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US097" group-title="🐉美国频道🦅",US097:Circle
+http://152.89.62.76:8880/60mk100012/14668115/3071
+#EXTINF:-1 tvg-id="peace.urdu.gb" tvg-name="US098:News 12 Westchester" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US098PeaceTV.png" group-title="🐉美国频道🦅",US098:News 12 Westchester
+http://152.89.62.76:8880/60mk100012/14668115/3070
+#EXTINF:-1 tvg-id="nickelodeon.usa.east.us" tvg-name="US141:Nickelodeon HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US141Nickelodeon.png" group-title="🐉美国频道🦅",US141:Nickelodeon HD
+http://152.89.62.76:8880/60mk100012/14668115/30049
+#EXTINF:-1 tvg-id="marquee.sports.network.us" tvg-name="US142:Marquee Sports Network" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US142MarqueeSportsNetwork.png" group-title="🐉美国频道🦅",US142:Marquee Sports Network
+http://152.89.62.76:8880/60mk100012/14668115/30048
+#EXTINF:-1 tvg-id="national.geographic.wild.us" tvg-name="US130:NAT GEO WILD HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US130NATGEOWILD.png" group-title="🐉美国频道🦅",US130:NAT GEO WILD HD
+http://152.89.62.76:8880/60mk100012/14668115/30060
+#EXTINF:-1 tvg-id="game.show.network.east.us" tvg-name="US131:Game Show Network HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US131Game_Show_Network.png" group-title="🐉美国频道🦅",US131:Game Show Network HD
+http://152.89.62.76:8880/60mk100012/14668115/30059
+#EXTINF:-1 tvg-id="axs.usa.us" tvg-name="US143:AXS TV HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US143AXSTVHD.png" group-title="🐉美国频道🦅",US143:AXS TV HD
+http://152.89.62.76:8880/60mk100012/14668115/30047
+#EXTINF:-1 tvg-id="big.ten.network.us" tvg-name="US144:Bally Sports Carolinas" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US144Big_Ten_Network.png" group-title="🐉美国频道🦅",US144:Bally Sports Carolinas
+http://152.89.62.76:8880/60mk100012/14668115/30046
+#EXTINF:-1 tvg-id="fight.network.usa.us" tvg-name="US145:Fight Network" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US145Fight_Network.png" group-title="🐉美国频道🦅",US145:Fight Network
+http://152.89.62.76:8880/60mk100012/14668115/30045
+#EXTINF:-1 tvg-id="fight.network.usa.us" tvg-name="US146:FNTSY Sports Network" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US146FNTSY_Sports_Network.png" group-title="🐉美国频道🦅",US146:FNTSY Sports Network
+http://152.89.62.76:8880/60mk100012/14668115/30044
+#EXTINF:-1 tvg-id="vsin.us" tvg-name="US147:News 12 Connecticut" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US147VSiN.png" group-title="🐉美国频道🦅",US147:News 12 Connecticut
+http://152.89.62.76:8880/60mk100012/14668115/30043
+#EXTINF:-1 tvg-id="buzzr.us" tvg-name="US167:BUZZR HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US167BUZZR.png" group-title="🐉美国频道🦅",US167:BUZZR HD
+http://152.89.62.76:8880/60mk100012/14668115/30023
+#EXTINF:-1 tvg-id="adult.swim.usa.us" tvg-name="US315:Adult Swim HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US315AdultSwim.png" group-title="🐉美国频道🦅",US315:Adult Swim HD
+http://152.89.62.76:8880/60mk100012/14668115/29875
+#EXTINF:-1 tvg-id="discovery.family.us" tvg-name="US767:Discovery Family" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US767DISCOVERYFAMILYCHANNEL.png" group-title="🐉美国频道🦅",US767:Discovery Family
+http://152.89.62.76:8880/60mk100012/14668115/64342
+#EXTINF:-1 tvg-id="discovery.life.us" tvg-name="US768:Discovery Life HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US768DiscoveryLifeHD.png" group-title="🐉美国频道🦅",US768:Discovery Life HD
+http://152.89.62.76:8880/60mk100012/14668115/64343
+#EXTINF:-1 tvg-id="teennick.eastern.us" tvg-name="US769:Teennick HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US769TEENNICKHD.png" group-title="🐉美国频道🦅",US769:Teennick HD
+http://152.89.62.76:8880/60mk100012/14668115/64344
+#EXTINF:-1 tvg-id="3137" tvg-name="US031:ESPN-2" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US031ESPN-2.png" group-title="🐉美国频道🦅",US031:ESPN-2
+http://mohdtv.com:8880//voby3837/28337929/3137
+#EXTINF:-1 tvg-id="3136" tvg-name="US032:ESPN-HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US032ESPN-HD.png" group-title="🐉美国频道🦅",US032:ESPN-HD
+http://mohdtv.com:8880//voby3837/28337929/3136
+#EXTINF:-1 tvg-id="3135" tvg-name="US033:ESPN-News" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US033ESPN-News.png" group-title="🐉美国频道🦅",US033:ESPN-News
+http://mohdtv.com:8880//voby3837/28337929/3135
+#EXTINF:-1 tvg-id="3134" tvg-name="US034:ESPN-U" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US034ESPN-U.png" group-title="🐉美国频道🦅",US034:ESPN-U
+http://mohdtv.com:8880//voby3837/28337929/3134
+#EXTINF:-1 tvg-id="3133" tvg-name="US035:Food Network HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US035Food-Network.png" group-title="🐉美国频道🦅",US035:Food Network HD
+http://mohdtv.com:8880//voby3837/28337929/3133
+#EXTINF:-1 tvg-id="3132" tvg-name="US036:FOX-HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US036FOX-HD.png" group-title="🐉美国频道🦅",US036:FOX-HD
+http://mohdtv.com:8880//voby3837/28337929/3132
+#EXTINF:-1 tvg-id="3131" tvg-name="US037:FOX-News" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US037FOX-News.png" group-title="🐉美国频道🦅",US037:FOX-News
+http://mohdtv.com:8880//voby3837/28337929/3131
+#EXTINF:-1 tvg-id="3130" tvg-name="US038:FOX-Sports1" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US038FOX-Sports1.png" group-title="🐉美国频道🦅",US038:FOX-Sports1
+http://mohdtv.com:8880//voby3837/28337929/3130
+#EXTINF:-1 tvg-id="3129" tvg-name="US039:FOX-Sports2" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US039FOX-Sports2.png" group-title="🐉美国频道🦅",US039:FOX-Sports2
+http://mohdtv.com:8880//voby3837/28337929/3129
+#EXTINF:-1 tvg-id="3128" tvg-name="US040:Freeform HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US040Freeform.png" group-title="🐉美国频道🦅",US040:Freeform HD
+http://mohdtv.com:8880//voby3837/28337929/3128
+#EXTINF:-1 tvg-id="3127" tvg-name="US041:FX HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US041FX-HD.png" group-title="🐉美国频道🦅",US041:FX HD
+http://mohdtv.com:8880//voby3837/28337929/3127
+#EXTINF:-1 tvg-id="3126" tvg-name="US042:FXX HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US042FXX.png" group-title="🐉美国频道🦅",US042:FXX HD
+http://mohdtv.com:8880//voby3837/28337929/3126
+#EXTINF:-1 tvg-id="3125" tvg-name="US043:Hallmark Channel" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US043HALLMARK.png" group-title="🐉美国频道🦅",US043:Hallmark Channel
+http://mohdtv.com:8880//voby3837/28337929/3125
+#EXTINF:-1 tvg-id="3124" tvg-name="US044:Hallmark Movies & Mysteries" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US044HALLMARK-MOVIES.png" group-title="🐉美国频道🦅",US044:Hallmark Movies & Mysteries
+http://mohdtv.com:8880//voby3837/28337929/3124
+#EXTINF:-1 tvg-id="3123" tvg-name="US045:HBO Comedy" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US045HBOComedyEast.png" group-title="🐉美国频道🦅",US045:HBO Comedy
+http://mohdtv.com:8880//voby3837/28337929/3123
+#EXTINF:-1 tvg-id="3122" tvg-name="US046:HBO East" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US046HBOEast.png" group-title="🐉美国频道🦅",US046:HBO East
+http://mohdtv.com:8880//voby3837/28337929/3122
+#EXTINF:-1 tvg-id="3121" tvg-name="US047:HBO Signature" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US047HBOSignatureWest.png" group-title="🐉美国频道🦅",US047:HBO Signature
+http://mohdtv.com:8880//voby3837/28337929/3121
+#EXTINF:-1 tvg-id="3120" tvg-name="US048:HBO Zone" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US048HBOZoneEast.png" group-title="🐉美国频道🦅",US048:HBO Zone
+http://mohdtv.com:8880//voby3837/28337929/3120
+#EXTINF:-1 tvg-id="3119" tvg-name="US049:HGTV HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US049HGTV-HD.png" group-title="🐉美国频道🦅",US049:HGTV HD
+http://mohdtv.com:8880//voby3837/28337929/3119
+#EXTINF:-1 tvg-id="3118" tvg-name="US050:History HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US050HISTORY-HD.png" group-title="🐉美国频道🦅",US050:History HD
+http://mohdtv.com:8880//voby3837/28337929/3118
+#EXTINF:-1 tvg-id="3117" tvg-name="US051:Investigation Discovery HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US051 ID-HD.png" group-title="🐉美国频道🦅",US051:Investigation Discovery HD
+http://mohdtv.com:8880//voby3837/28337929/3117
+#EXTINF:-1 tvg-id="3116" tvg-name="US052:TV Land HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US052TVLand.png" group-title="🐉美国频道🦅",US052:TV Land HD
+http://mohdtv.com:8880//voby3837/28337929/3116
+#EXTINF:-1 tvg-id="3115" tvg-name="US053:Lifetime HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US053LifetimeUS.png" group-title="🐉美国频道🦅",US053:Lifetime HD
+http://mohdtv.com:8880//voby3837/28337929/3115
+#EXTINF:-1 tvg-id="3114" tvg-name="US054:Lifetime Movie" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US054LifetimeMovie.png" group-title="🐉美国频道🦅",US054:Lifetime Movie
+http://mohdtv.com:8880//voby3837/28337929/3114
+#EXTINF:-1 tvg-id="3113" tvg-name="US055:HBO 2" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US055HBO2.png" group-title="🐉美国频道🦅",US055:HBO 2
+http://mohdtv.com:8880//voby3837/28337929/3113
+#EXTINF:-1 tvg-id="3111" tvg-name="US057:MSNBC HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US057MSNBC-HD.png" group-title="🐉美国频道🦅",US057:MSNBC HD
+http://mohdtv.com:8880//voby3837/28337929/3111
+#EXTINF:-1 tvg-id="3110" tvg-name="US058:MTV HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US058MTV.png" group-title="🐉美国频道🦅",US058:MTV HD
+http://mohdtv.com:8880//voby3837/28337929/3110
+#EXTINF:-1 tvg-id="3109" tvg-name="US059:NAT GEO HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US059NAT-GEO.png" group-title="🐉美国频道🦅",US059:NAT GEO HD
+http://mohdtv.com:8880//voby3837/28337929/3109
+#EXTINF:-1 tvg-id="3107" tvg-name="US061:NBC-Golf" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US061NBC-Golf.png" group-title="🐉美国频道🦅",US061:NBC-Golf
+http://mohdtv.com:8880//voby3837/28337929/3107
+#EXTINF:-1 tvg-id="3106" tvg-name="US062:NBC-HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US062NBC-HD.png" group-title="🐉美国频道🦅",US062:NBC-HD
+http://mohdtv.com:8880//voby3837/28337929/3106
+#EXTINF:-1 tvg-id="3105" tvg-name="US063:NBCSN HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US063NBCSN-HD.png" group-title="🐉美国频道🦅",US063:NBCSN HD
+http://mohdtv.com:8880//voby3837/28337929/3105
+#EXTINF:-1 tvg-id="3103" tvg-name="US065:Nicktoons HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US065Nicktoons.png" group-title="🐉美国频道🦅",US065:Nicktoons HD
+http://mohdtv.com:8880//voby3837/28337929/3103
+#EXTINF:-1 tvg-id="3102" tvg-name="US066:INSP HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US066INSP.png" group-title="🐉美国频道🦅",US066:INSP HD
+http://mohdtv.com:8880//voby3837/28337929/3102
+#EXTINF:-1 tvg-id="3101" tvg-name="US067:Oprah Winfrey Network" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US067OWN.png" group-title="🐉美国频道🦅",US067:Oprah Winfrey Network
+http://mohdtv.com:8880//voby3837/28337929/3101
+#EXTINF:-1 tvg-id="3100" tvg-name="US068:Discovery Science HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US068Science.png" group-title="🐉美国频道🦅",US068:Discovery Science HD
+http://mohdtv.com:8880//voby3837/28337929/3100
+#EXTINF:-1 tvg-id="3099" tvg-name="US069:Showtime HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US069SHOWTIME.png" group-title="🐉美国频道🦅",US069:Showtime HD
+http://mohdtv.com:8880//voby3837/28337929/3099
+#EXTINF:-1 tvg-id="3098" tvg-name="US070:Showtime 2 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US070SHOWTIME2.png" group-title="🐉美国频道🦅",US070:Showtime 2 HD
+http://mohdtv.com:8880//voby3837/28337929/3098
+#EXTINF:-1 tvg-id="3097" tvg-name="US071:SONIC" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US071SPIKE-HD.png" group-title="🐉美国频道🦅",US071:SONIC
+http://mohdtv.com:8880//voby3837/28337929/3097
+#EXTINF:-1 tvg-id="3096" tvg-name="US072:SyFy HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US072SYFY.png" group-title="🐉美国频道🦅",US072:SyFy HD
+http://mohdtv.com:8880//voby3837/28337929/3096
+#EXTINF:-1 tvg-id="3095" tvg-name="US073:TBS HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US073TBS-HD.png" group-title="🐉美国频道🦅",US073:TBS HD
+http://mohdtv.com:8880//voby3837/28337929/3095
+#EXTINF:-1 tvg-id="3094" tvg-name="US074:PAC-12 Bay Area" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US074PAC-12BayArea.png" group-title="🐉美国频道🦅",US074:PAC-12 Bay Area
+http://mohdtv.com:8880//voby3837/28337929/3094
+#EXTINF:-1 tvg-id="3093" tvg-name="US075:TLC HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US075TLC-HD.png" group-title="🐉美国频道🦅",US075:TLC HD
+http://mohdtv.com:8880//voby3837/28337929/3093
+#EXTINF:-1 tvg-id="3092" tvg-name="US076:TNT HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US076TNT-HD.png" group-title="🐉美国频道🦅",US076:TNT HD
+http://mohdtv.com:8880//voby3837/28337929/3092
+#EXTINF:-1 tvg-id="3091" tvg-name="US077:Travel channel" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US077Travel-channel.png" group-title="🐉美国频道🦅",US077:Travel channel
+http://mohdtv.com:8880//voby3837/28337929/3091
+#EXTINF:-1 tvg-id="3090" tvg-name="US078:TRU TV" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US078TRU-TV.png" group-title="🐉美国频道🦅",US078:TRU TV
+http://mohdtv.com:8880//voby3837/28337929/3090
+#EXTINF:-1 tvg-id="3089" tvg-name="US079:USA Network HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US079USA-Network.png" group-title="🐉美国频道🦅",US079:USA Network HD
+http://mohdtv.com:8880//voby3837/28337929/3089
+#EXTINF:-1 tvg-id="3088" tvg-name="US080:DEUTSCHE WELLE TV" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ZA/ZA003DW.png" group-title="🐉美国频道🦅",US080:DEUTSCHE WELLE TV
+http://mohdtv.com:8880//voby3837/28337929/3088
+#EXTINF:-1 tvg-id="3087" tvg-name="US081:VH1 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US081VH1.png" group-title="🐉美国频道🦅",US081:VH1 HD
+http://mohdtv.com:8880//voby3837/28337929/3087
+#EXTINF:-1 tvg-id="3086" tvg-name="US082:WE TV HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US082WE-TV.png" group-title="🐉美国频道🦅",US082:WE TV HD
+http://mohdtv.com:8880//voby3837/28337929/3086
+#EXTINF:-1 tvg-id="3085" tvg-name="US083:The Weather Channel HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US083WEATHER.png" group-title="🐉美国频道🦅",US083:The Weather Channel HD
+http://mohdtv.com:8880//voby3837/28337929/3085
+#EXTINF:-1 tvg-id="3084" tvg-name="US084:UFC Network" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US084UFCNetwork.png" group-title="🐉美国频道🦅",US084:UFC Network
+http://mohdtv.com:8880//voby3837/28337929/3084
+#EXTINF:-1 tvg-id="3083" tvg-name="US085:WWE-Network" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US085WWE-Network.png" group-title="🐉美国频道🦅",US085:WWE-Network
+http://mohdtv.com:8880//voby3837/28337929/3083
+#EXTINF:-1 tvg-id="3082" tvg-name="US086:Tennis HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US086Tennis.png" group-title="🐉美国频道🦅",US086:Tennis HD
+http://mohdtv.com:8880//voby3837/28337929/3082
+#EXTINF:-1 tvg-id="3081" tvg-name="US087:NESN" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US087NESN.png" group-title="🐉美国频道🦅",US087:NESN
+http://mohdtv.com:8880//voby3837/28337929/3081
+#EXTINF:-1 tvg-id="3080" tvg-name="US088:CBS Sports Network" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US088CBSSportsNetwork.png" group-title="🐉美国频道🦅",US088:CBS Sports Network
+http://mohdtv.com:8880//voby3837/28337929/3080
+#EXTINF:-1 tvg-id="3078" tvg-name="US090:Fox Sports Yes" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US090FoxSportsYes.png" group-title="🐉美国频道🦅",US090:Fox Sports Yes
+http://mohdtv.com:8880//voby3837/28337929/3078
+#EXTINF:-1 tvg-id="3077" tvg-name="US091:SEC Network HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US091SecNetwork.png" group-title="🐉美国频道🦅",US091:SEC Network HD
+http://mohdtv.com:8880//voby3837/28337929/3077
+#EXTINF:-1 tvg-id="3076" tvg-name="US092:Big Ten Network" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US092BigTenNetwork.png" group-title="🐉美国频道🦅",US092:Big Ten Network
+http://mohdtv.com:8880//voby3837/28337929/3076
+#EXTINF:-1 tvg-id="3075" tvg-name="US093:COMET" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US093COMET.png" group-title="🐉美国频道🦅",US093:COMET
+http://mohdtv.com:8880//voby3837/28337929/3075
+#EXTINF:-1 tvg-id="3074" tvg-name="US094:Fox Business Network" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US094FoxBusinessNetwork.png" group-title="🐉美国频道🦅",US094:Fox Business Network
+http://mohdtv.com:8880//voby3837/28337929/3074
+#EXTINF:-1 tvg-id="3073" tvg-name="US095:PBS Kids HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US095PBSKids.png" group-title="🐉美国频道🦅",US095:PBS Kids HD
+http://mohdtv.com:8880//voby3837/28337929/3073
+#EXTINF:-1 tvg-id="3072" tvg-name="US096:CBN HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US096CBN.png" group-title="🐉美国频道🦅",US096:CBN HD
+http://mohdtv.com:8880//voby3837/28337929/3072
+#EXTINF:-1 tvg-id="3071" tvg-name="US097:Circle" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US097" group-title="🐉美国频道🦅",US097:Circle
+http://mohdtv.com:8880//voby3837/28337929/3071
+#EXTINF:-1 tvg-id="3070" tvg-name="US098:News 12 Westchester" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US098PeaceTV.png" group-title="🐉美国频道🦅",US098:News 12 Westchester
+http://mohdtv.com:8880//voby3837/28337929/3070
+#EXTINF:-1 tvg-id="30091" tvg-name="US099:Fox Sports NetBase" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US099Fox_Sports_NetBase.png" group-title="🐉美国频道🦅",US099:Fox Sports NetBase
+http://mohdtv.com:8880//voby3837/28337929/30091
+#EXTINF:-1 tvg-id="30090" tvg-name="US100:Fox Sports Sportstime Ohio" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US100Fox_Sports_SportsTime_Ohio.png" group-title="🐉美国频道🦅",US100:Fox Sports Sportstime Ohio
+http://mohdtv.com:8880//voby3837/28337929/30090
+#EXTINF:-1 tvg-id="30089" tvg-name="US101:Fox Sports Yes Network" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US101Fox_Sports_YES_Network.png" group-title="🐉美国频道🦅",US101:Fox Sports Yes Network
+http://mohdtv.com:8880//voby3837/28337929/30089
+#EXTINF:-1 tvg-id="30088" tvg-name="US102:Fox Sports San Diego" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US102Fox_Sports_San_Diego.png" group-title="🐉美国频道🦅",US102:Fox Sports San Diego
+http://mohdtv.com:8880//voby3837/28337929/30088
+#EXTINF:-1 tvg-id="30087" tvg-name="US103:Fox Sports Sun" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US103Fox_Sports_Sun.png" group-title="🐉美国频道🦅",US103:Fox Sports Sun
+http://mohdtv.com:8880//voby3837/28337929/30087
+#EXTINF:-1 tvg-id="30086" tvg-name="US104:Fox Sports Detroit" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US104Fox_Sports_Detroit.png" group-title="🐉美国频道🦅",US104:Fox Sports Detroit
+http://mohdtv.com:8880//voby3837/28337929/30086
+#EXTINF:-1 tvg-id="30085" tvg-name="US105:Fox Sports Ohio" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US105Fox_Sports_Ohio.png" group-title="🐉美国频道🦅",US105:Fox Sports Ohio
+http://mohdtv.com:8880//voby3837/28337929/30085
+#EXTINF:-1 tvg-id="30084" tvg-name="US106:Fox Sports North" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US106Fox_Sports_North.png" group-title="🐉美国频道🦅",US106:Fox Sports North
+http://mohdtv.com:8880//voby3837/28337929/30084
+#EXTINF:-1 tvg-id="30083" tvg-name="US107:Fox Sports Indiana" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US107Fox_Sports_Midwest.png" group-title="🐉美国频道🦅",US107:Fox Sports Indiana
+http://mohdtv.com:8880//voby3837/28337929/30083
+#EXTINF:-1 tvg-id="30082" tvg-name="US108:Fox Sports Florida" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US108Fox_Sports_Florida.png" group-title="🐉美国频道🦅",US108:Fox Sports Florida
+http://mohdtv.com:8880//voby3837/28337929/30082
+#EXTINF:-1 tvg-id="30081" tvg-name="US109:Fox Sports Arizona" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US109Fox_Sports_Arizona.png" group-title="🐉美国频道🦅",US109:Fox Sports Arizona
+http://mohdtv.com:8880//voby3837/28337929/30081
+#EXTINF:-1 tvg-id="30080" tvg-name="US110:Fox Sports Wisconsin" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US110Fox_Sports_Wisconsin.png" group-title="🐉美国频道🦅",US110:Fox Sports Wisconsin
+http://mohdtv.com:8880//voby3837/28337929/30080
+#EXTINF:-1 tvg-id="30079" tvg-name="US111:Fox Sports West" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US111Fox_Sports_West.png" group-title="🐉美国频道🦅",US111:Fox Sports West
+http://mohdtv.com:8880//voby3837/28337929/30079
+#EXTINF:-1 tvg-id="30078" tvg-name="US112:Fox Sports South" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US112Fox_Sports_South.png" group-title="🐉美国频道🦅",US112:Fox Sports South
+http://mohdtv.com:8880//voby3837/28337929/30078
+#EXTINF:-1 tvg-id="30077" tvg-name="US113:Fox Sports Southeast" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US113Fox_Sports_Southeast.png" group-title="🐉美国频道🦅",US113:Fox Sports Southeast
+http://mohdtv.com:8880//voby3837/28337929/30077
+#EXTINF:-1 tvg-id="30076" tvg-name="US114:Fox Sports Southwest Plus" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US114Fox_Sports_Southwest_Plus.png" group-title="🐉美国频道🦅",US114:Fox Sports Southwest Plus
+http://mohdtv.com:8880//voby3837/28337929/30076
+#EXTINF:-1 tvg-id="30075" tvg-name="US115:Fox Sports Southwest" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US115Fox_Sports_Southwest.png" group-title="🐉美国频道🦅",US115:Fox Sports Southwest
+http://mohdtv.com:8880//voby3837/28337929/30075
+#EXTINF:-1 tvg-id="30074" tvg-name="US116:ABC 33 (KSPR) Missouri" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US116Fox_College_Sports_Atlantic.png" group-title="🐉美国频道🦅",US116:ABC 33 (KSPR) Missouri
+http://mohdtv.com:8880//voby3837/28337929/30074
+#EXTINF:-1 tvg-id="30073" tvg-name="US117:Fox Sports 2" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US117Fox_College_Sports_Pacific.png" group-title="🐉美国频道🦅",US117:Fox Sports 2
+http://mohdtv.com:8880//voby3837/28337929/30073
+#EXTINF:-1 tvg-id="30072" tvg-name="US118:Fox Sports Oklahoma" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US118Fox_College_Sports_Central.png" group-title="🐉美国频道🦅",US118:Fox Sports Oklahoma
+http://mohdtv.com:8880//voby3837/28337929/30072
+#EXTINF:-1 tvg-id="30071" tvg-name="US119:Fox Sacramento" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US119Fox_Sports_Soccer_Plus.png" group-title="🐉美国频道🦅",US119:Fox Sacramento
+http://mohdtv.com:8880//voby3837/28337929/30071
+#EXTINF:-1 tvg-id="30070" tvg-name="US120:Fox Sports Kansas City Plu" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US120Fox_Sports_2.png" group-title="🐉美国频道🦅",US120:Fox Sports Kansas City Plu
+http://mohdtv.com:8880//voby3837/28337929/30070
+#EXTINF:-1 tvg-id="30069" tvg-name="US121:Fox Sports Prime Ticket" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US121Fox_Sports_1.png" group-title="🐉美国频道🦅",US121:Fox Sports Prime Ticket
+http://mohdtv.com:8880//voby3837/28337929/30069
+#EXTINF:-1 tvg-id="30068" tvg-name="US122:NBC 13 (WHO) Des Moines" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US122OlympicChannel.png" group-title="🐉美国频道🦅",US122:NBC 13 (WHO) Des Moines
+http://mohdtv.com:8880//voby3837/28337929/30068
+#EXTINF:-1 tvg-id="30067" tvg-name="US123:Root Sports Northwest Plus" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US123BeIN8Sports.png" group-title="🐉美国频道🦅",US123:Root Sports Northwest Plus
+http://mohdtv.com:8880//voby3837/28337929/30067
+#EXTINF:-1 tvg-id="30066" tvg-name="US124:AT&T Sportsnet Southwest ALT" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/" group-title="🐉美国频道🦅",US124:AT&T Sportsnet Southwest ALT
+http://mohdtv.com:8880//voby3837/28337929/30066
+#EXTINF:-1 tvg-id="30065" tvg-name="US125:AT&T SportsNet Pittsburgh" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/" group-title="🐉美国频道🦅",US125:AT&T SportsNet Pittsburgh
+http://mohdtv.com:8880//voby3837/28337929/30065
+#EXTINF:-1 tvg-id="30064" tvg-name="US126:AT&T SportsNet Pittsburgh Alternate" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/" group-title="🐉美国频道🦅",US126:AT&T SportsNet Pittsburgh Alternate
+http://mohdtv.com:8880//voby3837/28337929/30064
+#EXTINF:-1 tvg-id="31051" tvg-name="US933:AT&T SportsNet Southwest" group-title="🐉美国频道🦅",US933:AT&T SportsNet Southwest
+http://mohdtv.com:8880//voby3837/28337929/31051
+#EXTINF:-1 tvg-id="31050" tvg-name="US934:UFC FIGHT PASS" group-title="🐉美国频道🦅",US934:UFC FIGHT PASS
+http://mohdtv.com:8880//voby3837/28337929/31050
+#EXTINF:-1 tvg-id="30062" tvg-name="US128:Root Sports Northwest" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US128BeIN2Sports.png" group-title="🐉美国频道🦅",US128:Root Sports Northwest
+http://mohdtv.com:8880//voby3837/28337929/30062
+#EXTINF:-1 tvg-id="30060" tvg-name="US130:NAT GEO WILD HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US130NATGEOWILD.png" group-title="🐉美国频道🦅",US130:NAT GEO WILD HD
+http://mohdtv.com:8880//voby3837/28337929/30060
+#EXTINF:-1 tvg-id="30059" tvg-name="US131:Game Show Network HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US131Game_Show_Network.png" group-title="🐉美国频道🦅",US131:Game Show Network HD
+http://mohdtv.com:8880//voby3837/28337929/30059
+#EXTINF:-1 tvg-id="30058" tvg-name="US132:Stadium Sports 1" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US132Stadium3.png" group-title="🐉美国频道🦅",US132:Stadium Sports 1
+http://mohdtv.com:8880//voby3837/28337929/30058
+#EXTINF:-1 tvg-id="30057" tvg-name="US133:Stadium Sports 2" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US133Stadium2.png" group-title="🐉美国频道🦅",US133:Stadium Sports 2
+http://mohdtv.com:8880//voby3837/28337929/30057
+#EXTINF:-1 tvg-id="30056" tvg-name="US134:Stadium Sports 3" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US134Stadium1.png" group-title="🐉美国频道🦅",US134:Stadium Sports 3
+http://mohdtv.com:8880//voby3837/28337929/30056
+#EXTINF:-1 tvg-id="30055" tvg-name="US135:SportsNet New York" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US135Stadium.png" group-title="🐉美国频道🦅",US135:SportsNet New York
+http://mohdtv.com:8880//voby3837/28337929/30055
+#EXTINF:-1 tvg-id="30054" tvg-name="US136:TyC Sports" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US136TyCSports.png" group-title="🐉美国频道🦅",US136:TyC Sports
+http://mohdtv.com:8880//voby3837/28337929/30054
+#EXTINF:-1 tvg-id="30053" tvg-name="US137:TCM" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US137TCM.png" group-title="🐉美国频道🦅",US137:TCM
+http://mohdtv.com:8880//voby3837/28337929/30053
+#EXTINF:-1 tvg-id="30052" tvg-name="US138:MSG HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US138MSG2.png" group-title="🐉美国频道🦅",US138:MSG HD
+http://mohdtv.com:8880//voby3837/28337929/30052
+#EXTINF:-1 tvg-id="30051" tvg-name="US139:MSG 2 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US139MSGPlus.png" group-title="🐉美国频道🦅",US139:MSG 2 HD
+http://mohdtv.com:8880//voby3837/28337929/30051
+#EXTINF:-1 tvg-id="30050" tvg-name="US140:MSG Plus" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US140MSG.png" group-title="🐉美国频道🦅",US140:MSG Plus
+http://mohdtv.com:8880//voby3837/28337929/30050
+#EXTINF:-1 tvg-id="30049" tvg-name="US141:Nickelodeon HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US141Nickelodeon.png" group-title="🐉美国频道🦅",US141:Nickelodeon HD
+http://mohdtv.com:8880//voby3837/28337929/30049
+#EXTINF:-1 tvg-id="30048" tvg-name="US142:Marquee Sports Network" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US142MarqueeSportsNetwork.png" group-title="🐉美国频道🦅",US142:Marquee Sports Network
+http://mohdtv.com:8880//voby3837/28337929/30048
+#EXTINF:-1 tvg-id="30047" tvg-name="US143:AXS TV HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US143AXSTVHD.png" group-title="🐉美国频道🦅",US143:AXS TV HD
+http://mohdtv.com:8880//voby3837/28337929/30047
+#EXTINF:-1 tvg-id="30046" tvg-name="US144:Bally Sports Carolinas" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US144Big_Ten_Network.png" group-title="🐉美国频道🦅",US144:Bally Sports Carolinas
+http://mohdtv.com:8880//voby3837/28337929/30046
+#EXTINF:-1 tvg-id="30045" tvg-name="US145:Fight Network" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US145Fight_Network.png" group-title="🐉美国频道🦅",US145:Fight Network
+http://mohdtv.com:8880//voby3837/28337929/30045
+#EXTINF:-1 tvg-id="30044" tvg-name="US146:FNTSY Sports Network" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US146FNTSY_Sports_Network.png" group-title="🐉美国频道🦅",US146:FNTSY Sports Network
+http://mohdtv.com:8880//voby3837/28337929/30044
+#EXTINF:-1 tvg-id="30043" tvg-name="US147:News 12 Connecticut" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US147VSiN.png" group-title="🐉美国频道🦅",US147:News 12 Connecticut
+http://mohdtv.com:8880//voby3837/28337929/30043
+#EXTINF:-1 tvg-id="30042" tvg-name="US148:TRACE URBAN" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US148Ginx_TV.png" group-title="🐉美国频道🦅",US148:TRACE URBAN
+http://mohdtv.com:8880//voby3837/28337929/30042
+#EXTINF:-1 tvg-id="30041" tvg-name="US149:AT&T Sportsnet" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US149ATT_SportsNet_SW_ALT.png" group-title="🐉美国频道🦅",US149:AT&T Sportsnet
+http://mohdtv.com:8880//voby3837/28337929/30041
+#EXTINF:-1 tvg-id="30040" tvg-name="US150:World_Fishing_Network" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US150World_Fishing_Network.png" group-title="🐉美国频道🦅",US150:World_Fishing_Network
+http://mohdtv.com:8880//voby3837/28337929/30040
+#EXTINF:-1 tvg-id="30039" tvg-name="US151:NESN_BOS" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US151NESN_BOS.png" group-title="🐉美国频道🦅",US151:NESN_BOS
+http://mohdtv.com:8880//voby3837/28337929/30039
+#EXTINF:-1 tvg-id="30038" tvg-name="US152:NESN_PLUS" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US152NESN_PLUS.png" group-title="🐉美国频道🦅",US152:NESN_PLUS
+http://mohdtv.com:8880//voby3837/28337929/30038
+#EXTINF:-1 tvg-id="30037" tvg-name="US153:Sportsman_Channel" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US153Sportsman_Channel.png" group-title="🐉美国频道🦅",US153:Sportsman_Channel
+http://mohdtv.com:8880//voby3837/28337929/30037
+#EXTINF:-1 tvg-id="30036" tvg-name="US154:CBS (KCBS) Los Angeles" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US154CBS_Sports_Network.png" group-title="🐉美国频道🦅",US154:CBS (KCBS) Los Angeles
+http://mohdtv.com:8880//voby3837/28337929/30036
+#EXTINF:-1 tvg-id="30035" tvg-name="US155:Eleven_Sports" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US155Eleven_Sports.png" group-title="🐉美国频道🦅",US155:Eleven_Sports
+http://mohdtv.com:8880//voby3837/28337929/30035
+#EXTINF:-1 tvg-id="30034" tvg-name="US156:NBC_Golf_Channel" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US156NBC_Golf_Channel.png" group-title="🐉美国频道🦅",US156:NBC_Golf_Channel
+http://mohdtv.com:8880//voby3837/28337929/30034
+#EXTINF:-1 tvg-id="30033" tvg-name="US157:NBC Sports Philadelfia" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US157NBC_Sports_Philadelfia.png" group-title="🐉美国频道🦅",US157:NBC Sports Philadelfia
+http://mohdtv.com:8880//voby3837/28337929/30033
+#EXTINF:-1 tvg-id="30032" tvg-name="US158:NBC Sports Washington" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US158NBC_Sports_Washington.png" group-title="🐉美国频道🦅",US158:NBC Sports Washington
+http://mohdtv.com:8880//voby3837/28337929/30032
+#EXTINF:-1 tvg-id="30031" tvg-name="US159:NBC (WESH)" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US159NBC_Sports_California.png" group-title="🐉美国频道🦅",US159:NBC (WESH)
+http://mohdtv.com:8880//voby3837/28337929/30031
+#EXTINF:-1 tvg-id="30030" tvg-name="US160:NBC Sports Chicago" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US160NBC_Sports_Chicago.png" group-title="🐉美国频道🦅",US160:NBC Sports Chicago
+http://mohdtv.com:8880//voby3837/28337929/30030
+#EXTINF:-1 tvg-id="30029" tvg-name="US161:NBC Sports Bay Area" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US161NBC_Sports_Bay_Area.png" group-title="🐉美国频道🦅",US161:NBC Sports Bay Area
+http://mohdtv.com:8880//voby3837/28337929/30029
+#EXTINF:-1 tvg-id="30028" tvg-name="US162:NBC Sports Network" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US162NBC_Sports_Northwest.png" group-title="🐉美国频道🦅",US162:NBC Sports Network
+http://mohdtv.com:8880//voby3837/28337929/30028
+#EXTINF:-1 tvg-id="30025" tvg-name="US165:NBC Sports Network" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US165NBC_Sports_Network.png" group-title="🐉美国频道🦅",US165:NBC Sports Network
+http://mohdtv.com:8880//voby3837/28337929/30025
+#EXTINF:-1 tvg-id="30024" tvg-name="US166:CBS (WWJ) Detroit" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US166CBS_WKBN.png" group-title="🐉美国频道🦅",US166:CBS (WWJ) Detroit
+http://mohdtv.com:8880//voby3837/28337929/30024
+#EXTINF:-1 tvg-id="30023" tvg-name="US167:BUZZR HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US167BUZZR.png" group-title="🐉美国频道🦅",US167:BUZZR HD
+http://mohdtv.com:8880//voby3837/28337929/30023
+#EXTINF:-1 tvg-id="30022" tvg-name="US168:CBS BOSTON" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US168CBS_WWAY.png" group-title="🐉美国频道🦅",US168:CBS BOSTON
+http://mohdtv.com:8880//voby3837/28337929/30022
+#EXTINF:-1 tvg-id="30021" tvg-name="US169:CBS 7 SEATTLE KIRO-TV" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US169CBS_WYOU.png" group-title="🐉美国频道🦅",US169:CBS 7 SEATTLE KIRO-TV
+http://mohdtv.com:8880//voby3837/28337929/30021
+#EXTINF:-1 tvg-id="30018" tvg-name="US172:CBS 2 LOS ANGELES" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US172CBS_WPEC.png" group-title="🐉美国频道🦅",US172:CBS 2 LOS ANGELES
+http://mohdtv.com:8880//voby3837/28337929/30018
+#EXTINF:-1 tvg-id="30015" tvg-name="US175:CBS 4 (WIVB) Buffalo" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US175CBS_WTVH.png" group-title="🐉美国频道🦅",US175:CBS 4 (WIVB) Buffalo
+http://mohdtv.com:8880//voby3837/28337929/30015
+#EXTINF:-1 tvg-id="30011" tvg-name="US179:CBS CHARLOTTE" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US179CBS_WJHL.png" group-title="🐉美国频道🦅",US179:CBS CHARLOTTE
+http://mohdtv.com:8880//voby3837/28337929/30011
+#EXTINF:-1 tvg-id="30008" tvg-name="US182:CBS ATLANTA" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US182CBS_KOLR.png" group-title="🐉美国频道🦅",US182:CBS ATLANTA
+http://mohdtv.com:8880//voby3837/28337929/30008
+#EXTINF:-1 tvg-id="30006" tvg-name="US184:CBS 58 MILWAUKEE WDJT-TV" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US184CBS_WCIA.png" group-title="🐉美国频道🦅",US184:CBS 58 MILWAUKEE WDJT-TV
+http://mohdtv.com:8880//voby3837/28337929/30006
+#EXTINF:-1 tvg-id="30004" tvg-name="US186:CBS 10 COLUMBUS" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US186CBS_KELO.png" group-title="🐉美国频道🦅",US186:CBS 10 COLUMBUS
+http://mohdtv.com:8880//voby3837/28337929/30004
+#EXTINF:-1 tvg-id="30003" tvg-name="US187:CBS SAN FRANCISCO" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US187CBS_KUTV.png" group-title="🐉美国频道🦅",US187:CBS SAN FRANCISCO
+http://mohdtv.com:8880//voby3837/28337929/30003
+#EXTINF:-1 tvg-id="29997" tvg-name="US193:CBS 4 SAINT LUIS KMOV" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US193CBS_KTVN.png" group-title="🐉美国频道🦅",US193:CBS 4 SAINT LUIS KMOV
+http://mohdtv.com:8880//voby3837/28337929/29997
+#EXTINF:-1 tvg-id="29993" tvg-name="US197:CBS 3 OMAHA KMTV-TV" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US197CBS_WNCN.png" group-title="🐉美国频道🦅",US197:CBS 3 OMAHA KMTV-TV
+http://mohdtv.com:8880//voby3837/28337929/29993
+#EXTINF:-1 tvg-id="29991" tvg-name="US199:CBS GREENSBORO" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US199CBS_WPRI.png" group-title="🐉美国频道🦅",US199:CBS GREENSBORO
+http://mohdtv.com:8880//voby3837/28337929/29991
+#EXTINF:-1 tvg-id="29990" tvg-name="US200:CBS 4 MINNEAPOLIS WCCO-TV" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US200CBS_KOIN.png" group-title="🐉美国频道🦅",US200:CBS 4 MINNEAPOLIS WCCO-TV
+http://mohdtv.com:8880//voby3837/28337929/29990
+#EXTINF:-1 tvg-id="29989" tvg-name="US201:CBS 13 BALTIMORE" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US201CBS_WGME.png" group-title="🐉美国频道🦅",US201:CBS 13 BALTIMORE
+http://mohdtv.com:8880//voby3837/28337929/29989
+#EXTINF:-1 tvg-id="29988" tvg-name="US202:CBS 3 PHILADELPHIA KYW-TV" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US202CBS_WMBD.png" group-title="🐉美国频道🦅",US202:CBS 3 PHILADELPHIA KYW-TV
+http://mohdtv.com:8880//voby3837/28337929/29988
+#EXTINF:-1 tvg-id="29987" tvg-name="US203:CBS 3 HARTFORD WFSB" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US203CBS_WBTW.png" group-title="🐉美国频道🦅",US203:CBS 3 HARTFORD WFSB
+http://mohdtv.com:8880//voby3837/28337929/29987
+#EXTINF:-1 tvg-id="29986" tvg-name="US204:CBS 4 NEW ORLEANS WWL-TV" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US204CBS_WAKA.png" group-title="🐉美国频道🦅",US204:CBS 4 NEW ORLEANS WWL-TV
+http://mohdtv.com:8880//voby3837/28337929/29986
+#EXTINF:-1 tvg-id="29985" tvg-name="US205:CBS 4 MIAMI WFOR-TV" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US205CBS_WKRG.png" group-title="🐉美国频道🦅",US205:CBS 4 MIAMI WFOR-TV
+http://mohdtv.com:8880//voby3837/28337929/29985
+#EXTINF:-1 tvg-id="29984" tvg-name="US206:CBS 4 DENVER" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US206CBS_KLAS.png" group-title="🐉美国频道🦅",US206:CBS 4 DENVER
+http://mohdtv.com:8880//voby3837/28337929/29984
 
+#EXTINF:-1 tvg-id="2939" tvg-name="UK018:CNN" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK018CNN.png" group-title="🐉英国频道🦁",新闻频道
+http://mohdtv.com:8880//voby3837/28337929/2939
+#EXTINF:-1 tvg-id="2946" tvg-name="UK011:BBC News" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK011BBCNews.png" group-title="🐉英国频道🦁",UK011:BBC News
+http://mohdtv.com:8880//voby3837/28337929/2946
+#EXTINF:-1 tvg-id="2939" tvg-name="UK018:CNN" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK018CNN.png" group-title="🐉英国频道🦁",UK018:CNN
+http://mohdtv.com:8880//voby3837/28337929/2939
+#EXTINF:-1 tvg-id="2901" tvg-name="UK056:RTE One" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK056RTEOne.png" group-title="🐉英国频道🦁",UK056:RTE One
+http://mohdtv.com:8880//voby3837/28337929/2901
+#EXTINF:-1 tvg-id="2886" tvg-name="UK071:Sky News HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK071SkyNews.png" group-title="🐉英国频道🦁",UK071:Sky News HD
+http://mohdtv.com:8880//voby3837/28337929/2886
+#EXTINF:-1 tvg-id="2869" tvg-name="UK088:RTE Two" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK088RTETwo.png" group-title="🐉英国频道🦁",UK088:RTE Two
+http://mohdtv.com:8880//voby3837/28337929/2869
+#EXTINF:-1 tvg-id="28905" tvg-name="UK154:ABP NEWS" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK154Yesterday.png" group-title="🐉英国频道🦁",UK154:ABP NEWS
+http://mohdtv.com:8880//voby3837/28337929/28905
+#EXTINF:-1 tvg-id="28889" tvg-name="UK170:London Live" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK170LondonLive.png" group-title="🐉英国频道🦁",UK170:London Live
+http://mohdtv.com:8880//voby3837/28337929/28889
+#EXTINF:-1 tvg-id="28888" tvg-name="UK171:FOX NEWS " tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK171" group-title="🐉英国频道🦁",UK171:FOX NEWS 
+http://mohdtv.com:8880//voby3837/28337929/28888
+#EXTINF:-1 tvg-id="28886" tvg-name="UK173:RTE NEWS" group-title="🐉英国频道🦁",UK173:RTE NEWS
+http://mohdtv.com:8880//voby3837/28337929/28886
+#EXTINF:-1 tvg-id="28885" tvg-name="UK174:EURONEWS" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK174" group-title="🐉英国频道🦁",UK174:EURONEWS
+http://mohdtv.com:8880//voby3837/28337929/28885
+#EXTINF:-1 tvg-id="28869" tvg-name="UK190:BBC WORLD NEWS" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK190" group-title="🐉英国频道🦁",UK190:BBC WORLD NEWS
+http://mohdtv.com:8880//voby3837/28337929/28869
+#EXTINF:-1 tvg-id="28864" tvg-name="UK195:BBC PARLIAMENT" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK195" group-title="🐉英国频道🦁",UK195:BBC PARLIAMENT
+http://mohdtv.com:8880//voby3837/28337929/28864
+#EXTINF:-1 tvg-id="28863" tvg-name="UK196:BBC Ireland" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/" group-title="🐉英国频道🦁",UK196:BBC Ireland
+http://mohdtv.com:8880//voby3837/28337929/28863
+#EXTINF:-1 tvg-id="28827" tvg-name="UK232:FRANCE 24" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK232" group-title="🐉英国频道🦁",UK232:FRANCE 24
+http://mohdtv.com:8880//voby3837/28337929/28827
+#EXTINF:-1 tvg-id="28814" tvg-name="UK245:GB NEWS" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK245" group-title="🐉英国频道🦁",UK245:GB NEWS
+http://mohdtv.com:8880//voby3837/28337929/28814
+#EXTINF:-1 tvg-id="28813" tvg-name="UK246:CHALLENGE" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK246FRANCE24.png" group-title="🐉英国频道🦁",UK246:CHALLENGE
+http://mohdtv.com:8880//voby3837/28337929/28813
+#EXTINF:-1 tvg-id="28754" tvg-name="UK305:Bloomberg HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK305BloombergHD.png" group-title="🐉英国频道🦁",UK305:Bloomberg HD
+http://mohdtv.com:8880//voby3837/28337929/28754
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉英国频道🦁",👉此处以下频道需要魔法👈
+XTINF:-1 tvg-name="订阅问客服" tvg-logo="https://epg.iill.top/logo/温馨提示.png" group-title="🐉英国频道🦁",👉以下频道需要魔法👈
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉英国频道🦁",新闻频道
-http://doubleclicktv.live/70376812/52663544/277194
-#EXTINF:-1 tvg-id="664" tvg-name="BBCWorldNews" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/BBCWORLDNEWSASIA.png" group-title="🐉英国频道🦁",UK BBC NEWS FHD
-http://doubleclicktv.live/70376812/52663544/277195
-#EXTINF:-1 tvg-id="664" tvg-name="BBCWorldNews" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/BBCWORLDNEWSASIA.png" group-title="🐉英国频道🦁",UK BBC News
-http://doubleclicktv.live/70376812/52663544/277194
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉英国频道🦁",UK CNN UK
-http://doubleclicktv.live/70376812/52663544/277193
-#EXTINF:-1 tvg-id="6183" tvg-name="Euronews" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/euronews.png" group-title="🐉英国频道🦁",UK Euronews
-http://doubleclicktv.live/70376812/52663544/277192
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉英国频道🦁",UK London Live
-http://doubleclicktv.live/70376812/52663544/277191
-#EXTINF:-1 tvg-id="742" tvg-name="SkyNews" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/SkyNews.png" group-title="🐉英国频道🦁",UK Sky News HD
-http://doubleclicktv.live/70376812/52663544/277190
-#EXTINF:-1 tvg-id="742" tvg-name="SkyNews" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/SkyNews.png" group-title="🐉英国频道🦁",UK Sky News
-http://doubleclicktv.live/70376812/52663544/277189
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉英国频道🦁",UK Dunya News
-http://doubleclicktv.live/70376812/52663544/277188
-#EXTINF:-1 tvg-id="734" tvg-name="france24" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/france24.png" group-title="🐉英国频道🦁",UK FRANCE 24 FHD
-http://doubleclicktv.live/70376812/52663544/277187
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉英国频道🦁",UK GEO News
-http://doubleclicktv.live/70376812/52663544/277186
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉英国频道🦁",UK IRE  RTE News
-http://doubleclicktv.live/70376812/52663544/277185
-#EXTINF:-1 tvg-id="688" tvg-name="CNBCHongKong" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CNBC.png" group-title="🐉英国频道🦁",UK CNBC HD
-http://doubleclicktv.live/70376812/52663544/277184
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉英国频道🦁",UK PBS America
-http://doubleclicktv.live/70376812/52663544/277183
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉英国频道🦁",UK GB News
-http://doubleclicktv.live/70376812/52663544/277182
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉英国频道🦁",UK CNN HD
-http://doubleclicktv.live/70376812/52663544/277181
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉英国频道🦁",UK TRT World HD
-http://doubleclicktv.live/70376812/52663544/277180
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉英国频道🦁",UK Russia Today HD
-http://doubleclicktv.live/70376812/52663544/277179
-#EXTINF:-1 tvg-id="742" tvg-name="SkyNews" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/SkyNews.png" group-title="🐉英国频道🦁",UK Sky News FHD
-http://doubleclicktv.live/70376812/52663544/277178
-#EXTINF:-1 tvg-id="734" tvg-name="france24" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/france24.png" group-title="🐉英国频道🦁",UK France 24 HD
-http://doubleclicktv.live/70376812/52663544/277177
-#EXTINF:-1 tvg-id="6140" tvg-name="BloombergTV" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/BloombergTV.png" group-title="🐉英国频道🦁",UK Bloomberg HD
-http://doubleclicktv.live/70376812/52663544/277176
-#EXTINF:-1 tvg-id="664" tvg-name="BBCWorldNews" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/BBCWORLDNEWSASIA.png" group-title="🐉英国频道🦁",UK BBC News HD
-http://doubleclicktv.live/70376812/52663544/277175
-#EXTINF:-1 tvg-id="7183" tvg-name="aljazeera" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/aljazeera.png" group-title="🐉英国频道🦁",UK Al Jazeera HD
-http://doubleclicktv.live/70376812/52663544/277174
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉英国频道🦁",UK Info Wars
-http://doubleclicktv.live/70376812/52663544/277173
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉英国频道🦁",UK Talk TV
-http://doubleclicktv.live/70376812/52663544/277172
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉英国频道🦁",UK Court TV
-http://doubleclicktv.live/70376812/52663544/277171
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉英国频道🦁",UK Hum Europe
-http://doubleclicktv.live/70376812/52663544/277170
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉英国频道🦁",体育频道
-http://doubleclicktv.live/70376812/52663544/277194
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉英国频道🦁",UK Sky Sports Main Event FHD 50fps
-http://doubleclicktv.live/70376812/52663544/276918
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉英国频道🦁",UK Sky Sports F1 FHD 50fps
-http://doubleclicktv.live/70376812/52663544/276927
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉英国频道🦁",UK Sky Sports Tennis FHD 50fps
-http://doubleclicktv.live/70376812/52663544/318045
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉英国频道🦁",UK Sky Sports Arena FHD
-http://doubleclicktv.live/70376812/52663544/276933
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉英国频道🦁",UK Sky Sports Cricket FHD
-http://doubleclicktv.live/70376812/52663544/276930
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉英国频道🦁",UK Sky Sports Football FHD 50fps
-http://doubleclicktv.live/70376812/52663544/276924
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉英国频道🦁",UK Sky Sports Golf FHD 50fps
-http://doubleclicktv.live/70376812/52663544/276921
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉英国频道🦁",UK Sky Sports Mix FHD 50fps
-http://doubleclicktv.live/70376812/52663544/276915
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉英国频道🦁",UK Sky Sports News FHD 50fps
-http://doubleclicktv.live/70376812/52663544/276912
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉英国频道🦁",UK Sky Sports Action FHD 50fps
-http://doubleclicktv.live/70376812/52663544/276909
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉英国频道🦁",UK Sky Sports Premier League 50fps
-http://doubleclicktv.live/70376812/52663544/276906
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉英国频道🦁",UK Sky Sports Racing FHD 50fps
-http://doubleclicktv.live/70376812/52663544/276903
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉英国频道🦁",UK TNT Sport Ultimate 4K
-http://doubleclicktv.live/70376812/52663544/276789
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉英国频道🦁",UK TNT Sport 1 50FPS
-http://doubleclicktv.live/70376812/52663544/276802
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉英国频道🦁",UK TNT Sport 2 50FPS
-http://doubleclicktv.live/70376812/52663544/276801
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉英国频道🦁",UK TNT Sport 3 50FPS
-http://doubleclicktv.live/70376812/52663544/276800
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉英国频道🦁",UK TNT Sport 4 50FPS
-http://doubleclicktv.live/70376812/52663544/276799
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉英国频道🦁",UK TNT Sport 5
-http://doubleclicktv.live/70376812/52663544/276890
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉英国频道🦁",UK TNT Sport 6
-http://doubleclicktv.live/70376812/52663544/276889
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉英国频道🦁",UK TNT Sport 7
-http://doubleclicktv.live/70376812/52663544/276888
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉英国频道🦁",UK TNT Sport 8
-http://doubleclicktv.live/70376812/52663544/276887
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉英国频道🦁",UK TNT Sport 9
-http://doubleclicktv.live/70376812/52663544/276886
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉英国频道🦁",UK TNT Sport 10
-http://doubleclicktv.live/70376812/52663544/276885
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉英国频道🦁",UK DAZN1 FHD
-http://doubleclicktv.live/70376812/52663544/276786
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉英国频道🦁",UK Boxnation HD
-http://doubleclicktv.live/70376812/52663544/276884
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉英国频道🦁",UK BoxNation
-http://doubleclicktv.live/70376812/52663544/276883
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉英国频道🦁",UK Sporty Stuff HD
-http://doubleclicktv.live/70376812/52663544/276882
-#EXTINF:-1 tvg-id="7215" tvg-name="EUROSPORT" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/eurosport.png" group-title="🐉英国频道🦁",UK Eurosport 1
-http://doubleclicktv.live/70376812/52663544/276881
-#EXTINF:-1 tvg-id="7215" tvg-name="EUROSPORT" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/eurosport.png" group-title="🐉英国频道🦁",UK Eurosport 2
-http://doubleclicktv.live/70376812/52663544/276879
-#EXTINF:-1 tvg-id="7215" tvg-name="EUROSPORT" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/eurosport.png" group-title="🐉英国频道🦁",UK Eurosport 3
-http://doubleclicktv.live/70376812/52663544/276819
-#EXTINF:-1 tvg-id="7215" tvg-name="EUROSPORT" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/eurosport.png" group-title="🐉英国频道🦁",UK Eurosport 4
-http://doubleclicktv.live/70376812/52663544/276818
-#EXTINF:-1 tvg-id="7215" tvg-name="EUROSPORT" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/eurosport.png" group-title="🐉英国频道🦁",UK Eurosport 5
-http://doubleclicktv.live/70376812/52663544/276817
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉英国频道🦁",UK Viaplay Xtra  FHD
-http://doubleclicktv.live/70376812/52663544/276877
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉英国频道🦁",UK LaLigaTV FHD
-http://doubleclicktv.live/70376812/52663544/276875
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉英国频道🦁",UK MUTV FHD
-http://doubleclicktv.live/70376812/52663544/276873
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉英国频道🦁",UK Viaplay Sports 1 FHD
-http://doubleclicktv.live/70376812/52663544/276870
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉英国频道🦁",UK Viaplay Sports UK 1 HD
-http://doubleclicktv.live/70376812/52663544/276869
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉英国频道🦁",UK Viaplay Sports 2  FHD
-http://doubleclicktv.live/70376812/52663544/276866
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉英国频道🦁",UK Viaplay Sports UK 2 HD
-http://doubleclicktv.live/70376812/52663544/276865
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉英国频道🦁",UK Racing TV  FHD
-http://doubleclicktv.live/70376812/52663544/276862
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉英国频道🦁",UK Racing TV HD
-http://doubleclicktv.live/70376812/52663544/276861
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉英国频道🦁",BBC Red Button 1
-http://doubleclicktv.live/70376812/52663544/276858
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉英国频道🦁",BBC Red Button 2
-http://doubleclicktv.live/70376812/52663544/276857
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉英国频道🦁",BBC Red Button 3
-http://doubleclicktv.live/70376812/52663544/276856
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉英国频道🦁",BBC Red Button 4
-http://doubleclicktv.live/70376812/52663544/276855
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉英国频道🦁",BBC Red Button 5
-http://doubleclicktv.live/70376812/52663544/276854
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉英国频道🦁",BBC Red Button 6
-http://doubleclicktv.live/70376812/52663544/276853
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉英国频道🦁",BBC Red Button 7
-http://doubleclicktv.live/70376812/52663544/276852
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉英国频道🦁",BBC Red Button 8
-http://doubleclicktv.live/70376812/52663544/276851
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉英国频道🦁",BBC Red Button 9
-http://doubleclicktv.live/70376812/52663544/276850
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉英国频道🦁",BBC Red Button 10
-http://doubleclicktv.live/70376812/52663544/276849
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉英国频道🦁",BBC Red Button 11
-http://doubleclicktv.live/70376812/52663544/276848
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉英国频道🦁",BBC Red Button 12
-http://doubleclicktv.live/70376812/52663544/276847
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉英国频道🦁",BBC Red Button 13
-http://doubleclicktv.live/70376812/52663544/276846
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉英国频道🦁",BBC Red Button 14
-http://doubleclicktv.live/70376812/52663544/276845
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉英国频道🦁",BBC Red Button 15
-http://doubleclicktv.live/70376812/52663544/276844
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉英国频道🦁",UK LFC TV FHD
-http://doubleclicktv.live/70376812/52663544/276843
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉英国频道🦁",UK BT Sport Mosaic 1
-http://doubleclicktv.live/70376812/52663544/276840
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉英国频道🦁",UK BT Sport Mosaic 2
-http://doubleclicktv.live/70376812/52663544/276835
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉英国频道🦁",WWE Network,
-http://doubleclicktv.live/70376812/52663544/276834
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉英国频道🦁",CBS Sports Network
-http://doubleclicktv.live/70376812/52663544/276833
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉英国频道🦁",Willow Cricket
-http://doubleclicktv.live/70376812/52663544/276832
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉英国频道🦁",UFC FIGHT PASS
-http://doubleclicktv.live/70376812/52663544/276831
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉英国频道🦁",UK Sky Sports Arena FHD
-http://doubleclicktv.live/70376812/52663544/276830
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉英国频道🦁",UK Sky Sports Cricket FHD
-http://doubleclicktv.live/70376812/52663544/276829
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉英国频道🦁",UK Sky Sports F1 FHD HEVC
-http://doubleclicktv.live/70376812/52663544/276828
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉英国频道🦁",UK Sky Sports Football FH
-http://doubleclicktv.live/70376812/52663544/276827
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉英国频道🦁",UK Sky Sports Golf FHD HE
-http://doubleclicktv.live/70376812/52663544/276826
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉英国频道🦁",UK Sky Sports Main Event 
-http://doubleclicktv.live/70376812/52663544/276825
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉英国频道🦁",UK Sky Sports Mix FHD HEV
-http://doubleclicktv.live/70376812/52663544/276824
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉英国频道🦁",UK Sky Sports News FHD HE
-http://doubleclicktv.live/70376812/52663544/276823
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉英国频道🦁",UK Sky Sports NFL/ACTION 
-http://doubleclicktv.live/70376812/52663544/276822
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉英国频道🦁",UK Sky Sports Premier League
-http://doubleclicktv.live/70376812/52663544/276821
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉英国频道🦁",UK Sky Sports Racing FHD 
-http://doubleclicktv.live/70376812/52663544/276820
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉英国频道🦁",Sky Red Button 01
-http://doubleclicktv.live/70376812/52663544/276816
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉英国频道🦁",Sky Red Button 02
-http://doubleclicktv.live/70376812/52663544/276815
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉英国频道🦁",Sky Red Button 03
-http://doubleclicktv.live/70376812/52663544/276814
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉英国频道🦁",Sky Red Button 04
-http://doubleclicktv.live/70376812/52663544/276813
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉英国频道🦁",Sky Red Button 05
-http://doubleclicktv.live/70376812/52663544/276812
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉英国频道🦁",Sky Red Button 06
-http://doubleclicktv.live/70376812/52663544/276811
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉英国频道🦁",Sky Red Button 07
-http://doubleclicktv.live/70376812/52663544/276810
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉英国频道🦁",Sky Red Button 08
-http://doubleclicktv.live/70376812/52663544/276809
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉英国频道🦁",Sky Red Button 09
-http://doubleclicktv.live/70376812/52663544/276808
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉英国频道🦁",Sky Red Button 10
-http://doubleclicktv.live/70376812/52663544/276807
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉英国频道🦁",Sky Red Button 11
-http://doubleclicktv.live/70376812/52663544/276798
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉英国频道🦁",Sky Red Button 12
-http://doubleclicktv.live/70376812/52663544/276797
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉英国频道🦁",Sky Red Button 13
-http://doubleclicktv.live/70376812/52663544/276796
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉英国频道🦁",Sky Red Button 14
-http://doubleclicktv.live/70376812/52663544/276795
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉英国频道🦁",Sky Red Button 15
-http://doubleclicktv.live/70376812/52663544/276794
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉英国频道🦁",Sky Red Button 16
-http://doubleclicktv.live/70376812/52663544/276793
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉英国频道🦁",Sky Red Button 17
-http://doubleclicktv.live/70376812/52663544/276792
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉英国频道🦁",Sky Red Button 18
-http://doubleclicktv.live/70376812/52663544/276791
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉英国频道🦁",Sky Red Button 19
-http://doubleclicktv.live/70376812/52663544/276790
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉英国频道🦁",UK Premier Sport 1 (IRE)
-http://doubleclicktv.live/70376812/52663544/276788
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉英国频道🦁",UK Premier Sport 2 (IRE)
-http://doubleclicktv.live/70376812/52663544/276787
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉英国频道🦁",少儿频道
-http://doubleclicktv.live/70376812/52663544/277194
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉英国频道🦁",UK BabyTV
-http://doubleclicktv.live/70376812/52663544/277152
-#EXTINF:-1 tvg-id="6188" tvg-name="Boomerang" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/BOOMERANG.png" group-title="🐉英国频道🦁",UK Boomerang
-http://doubleclicktv.live/70376812/52663544/277151
-#EXTINF:-1 tvg-id="6188" tvg-name="Boomerang" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/BOOMERANG.png" group-title="🐉英国频道🦁",UK Boomerang+1
-http://doubleclicktv.live/70376812/52663544/277150
-#EXTINF:-1 tvg-id="6188" tvg-name="Boomerang" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/BOOMERANG.png" group-title="🐉英国频道🦁",UK Boomerang FHD
-http://doubleclicktv.live/70376812/52663544/277149
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉英国频道🦁",UK Cartoon Network FHD
-http://doubleclicktv.live/70376812/52663544/277148
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉英国频道🦁",UK Cartoon Network
-http://doubleclicktv.live/70376812/52663544/277147
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉英国频道🦁",UK Cartoonito
-http://doubleclicktv.live/70376812/52663544/277146
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉英国频道🦁",UK CBBC FHD
-http://doubleclicktv.live/70376812/52663544/277145
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉英国频道🦁",UK CBeebies FHD
-http://doubleclicktv.live/70376812/52663544/277144
-#EXTINF:-1 tvg-id="6185" tvg-name="NickJr." tvg-logo="http://epg.51zmt.top:8000/tb1/gt/NickJr.png" group-title="🐉英国频道🦁",UK Nick Jr. FHD
-http://doubleclicktv.live/70376812/52663544/277143
-#EXTINF:-1 tvg-id="6185" tvg-name="NickJr." tvg-logo="http://epg.51zmt.top:8000/tb1/gt/NickJr.png" group-title="🐉英国频道🦁",UK Nick Jr.
-http://doubleclicktv.live/70376812/52663544/277142
-#EXTINF:-1 tvg-id="6185" tvg-name="NickJr." tvg-logo="http://epg.51zmt.top:8000/tb1/gt/NickJr.png" group-title="🐉英国频道🦁",UK Nick Jr. +1
-http://doubleclicktv.live/70376812/52663544/277141
-#EXTINF:-1 tvg-id="6185" tvg-name="NickJr." tvg-logo="http://epg.51zmt.top:8000/tb1/gt/NickJr.png" group-title="🐉英国频道🦁",UK Nick  Jr. Too
-http://doubleclicktv.live/70376812/52663544/277140
-#EXTINF:-1 tvg-id="6184" tvg-name="Nickelodeon" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/Nickelodeon.png" group-title="🐉英国频道🦁",UK Nickelodeon FHD
-http://doubleclicktv.live/70376812/52663544/277139
-#EXTINF:-1 tvg-id="6184" tvg-name="Nickelodeon" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/Nickelodeon.png" group-title="🐉英国频道🦁",UK Nickelodeon +1
-http://doubleclicktv.live/70376812/52663544/277138
-#EXTINF:-1 tvg-id="6184" tvg-name="Nickelodeon" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/Nickelodeon.png" group-title="🐉英国频道🦁",UK Nickelodeon
-http://doubleclicktv.live/70376812/52663544/277137
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉英国频道🦁",UK Nicktoons
-http://doubleclicktv.live/70376812/52663544/277136
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉英国频道🦁",UK POP
-http://doubleclicktv.live/70376812/52663544/277135
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉英国频道🦁",UK POP+1
-http://doubleclicktv.live/70376812/52663544/277134
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉英国频道🦁",UK POP Max
-http://doubleclicktv.live/70376812/52663544/277133
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉英国频道🦁",UK POP Max+1
-http://doubleclicktv.live/70376812/52663544/277132
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉英国频道🦁",UK Tiny Pop
-http://doubleclicktv.live/70376812/52663544/277131
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉英国频道🦁",UK Tiny Pop+1
-http://doubleclicktv.live/70376812/52663544/277130
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉英国频道🦁",UK Sky Kids FHD
-http://doubleclicktv.live/70376812/52663544/277120
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉英国频道🦁",UK Discovery FHD
-http://doubleclicktv.live/70376812/52663544/277114
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉英国频道🦁",UK Discovery+1
-http://doubleclicktv.live/70376812/52663544/277112
-#EXTINF:-1 tvg-id="7152" tvg-name="History" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HistoryChannel.png" group-title="🐉英国频道🦁",UK Disc.History+1
-http://doubleclicktv.live/70376812/52663544/277110
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉英国频道🦁",UK Disc.Sci+1
-http://doubleclicktv.live/70376812/52663544/277108
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉英国频道🦁",UK Disc.Turbo+1
-http://doubleclicktv.live/70376812/52663544/277106
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉英国频道🦁",UK Nat Geo FHD
-http://doubleclicktv.live/70376812/52663544/277101
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉英国频道🦁",UK Nat Geo Wild FHD
-http://doubleclicktv.live/70376812/52663544/277100
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉英国频道🦁",UK Sky Crime FHD
-http://doubleclicktv.live/70376812/52663544/277097
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉英国频道🦁",UK Sky Documentries FHD
-http://doubleclicktv.live/70376812/52663544/277095
-#EXTINF:-1 tvg-id="7152" tvg-name="History" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HistoryChannel.png" group-title="🐉英国频道🦁",UK Sky History FHD
-http://doubleclicktv.live/70376812/52663544/277094
-#EXTINF:-1 tvg-id="7152" tvg-name="History" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HistoryChannel.png" group-title="🐉英国频道🦁",UK Sky History 2 FHD
-http://doubleclicktv.live/70376812/52663544/277093
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉英国频道🦁",UK Sky Nature FHD
-http://doubleclicktv.live/70376812/52663544/277092
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉英国频道🦁",娱乐综合
-http://doubleclicktv.live/70376812/52663544/277194
-#EXTINF:-1 tvg-id="6039" tvg-name="动物星球" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/AnimalPlanet.png" group-title="🐉英国频道🦁",UK Animal Planet
-http://doubleclicktv.live/70376812/52663544/277117
-#EXTINF:-1 tvg-id="6039" tvg-name="动物星球" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/AnimalPlanet.png" group-title="🐉英国频道🦁",UK Animal Planet +1
-http://doubleclicktv.live/70376812/52663544/277116
-#EXTINF:-1 tvg-id="7178" tvg-name="CI" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CrimeInvestigation.png" group-title="🐉英国频道🦁",UK Crime & Investigation 
-http://doubleclicktv.live/70376812/52663544/277115
-#EXTINF:-1 tvg-id="6158" tvg-name="FoodNetwork美食台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/FoodNetwork.png" group-title="🐉英国频道🦁",UK Food Network
-http://doubleclicktv.live/70376812/52663544/277105
-#EXTINF:-1 tvg-id="6158" tvg-name="FoodNetwork美食台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/FoodNetwork.png" group-title="🐉英国频道🦁",UK Food Network+1
-http://doubleclicktv.live/70376812/52663544/277104
-#EXTINF:-1 tvg-id="6037" tvg-name="Discovery" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/DiscoveryHD.png" group-title="🐉英国频道🦁",UK Investigation Discover
-http://doubleclicktv.live/70376812/52663544/277103
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉英国频道🦁",UK Investigation Discover
-http://doubleclicktv.live/70376812/52663544/277102
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉英国频道🦁",UK BBC One South East
-http://doubleclicktv.live/70376812/52663544/276783
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉英国频道🦁",UK BBC One NI FHD
-http://doubleclicktv.live/70376812/52663544/276782
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉英国频道🦁",UK BBC One Wal FHD
-http://doubleclicktv.live/70376812/52663544/276781
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉英国频道🦁",UK BBC Two Wal FHD
-http://doubleclicktv.live/70376812/52663544/276780
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉英国频道🦁",UK BBC One ScotFHD
-http://doubleclicktv.live/70376812/52663544/276778
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉英国频道🦁",UK ITV Anglia East HD
-http://doubleclicktv.live/70376812/52663544/276777
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉英国频道🦁",UK ITV Meridian North HD
-http://doubleclicktv.live/70376812/52663544/276774
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉英国频道🦁",UK ITV Meridian South HD
-http://doubleclicktv.live/70376812/52663544/276773
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉英国频道🦁",UK ITV Tyne Tees HD
-http://doubleclicktv.live/70376812/52663544/276772
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉英国频道🦁",UK ITV Wales HD
-http://doubleclicktv.live/70376812/52663544/276771
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉英国频道🦁",UK ITV West Country West 
-http://doubleclicktv.live/70376812/52663544/276770
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉英国频道🦁",UK STV Central East Regio
-http://doubleclicktv.live/70376812/52663544/276769
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉英国频道🦁",UK STV Central West Regio
-http://doubleclicktv.live/70376812/52663544/276768
-#EXTINF:-1 tvg-id="6159" tvg-name="tvN" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/tvN.png" group-title="🐉英国频道🦁",UK STV North Region (UK R
-http://doubleclicktv.live/70376812/52663544/276767
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉英国频道🦁",UK ITV Ireland
-http://doubleclicktv.live/70376812/52663544/276766
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉英国频道🦁",UK ITV Scotland
-http://doubleclicktv.live/70376812/52663544/276765
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉英国频道🦁",UK BBC One London
-http://doubleclicktv.live/70376812/52663544/276764
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉英国频道🦁",UK BBC One North West
-http://doubleclicktv.live/70376812/52663544/276763
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉英国频道🦁",UK ITV London
-http://doubleclicktv.live/70376812/52663544/276762
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉英国频道🦁",UK BBC Two NI
-http://doubleclicktv.live/70376812/52663544/276761
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉英国频道🦁",UK ITV Central West
-http://doubleclicktv.live/70376812/52663544/276760
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉英国频道🦁",UK BBC Alba
-http://doubleclicktv.live/70376812/52663544/276759
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉英国频道🦁",UK BBC One West Midlands
-http://doubleclicktv.live/70376812/52663544/276758
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉英国频道🦁",UK BBC One East Midlands
-http://doubleclicktv.live/70376812/52663544/276757
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉英国频道🦁",UK BBC One North East & C
-http://doubleclicktv.live/70376812/52663544/276756
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉英国频道🦁",UK BBC One FHD
-http://doubleclicktv.live/70376812/52663544/276755
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉英国频道🦁",UK BBC Two FHD
-http://doubleclicktv.live/70376812/52663544/276752
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉英国频道🦁",UK BBC Three HD
-http://doubleclicktv.live/70376812/52663544/276749
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉英国频道🦁",UK BBC Entertainment
-http://doubleclicktv.live/70376812/52663544/276748
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉英国频道🦁",UK ITV FHD
-http://doubleclicktv.live/70376812/52663544/276747
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉英国频道🦁",UK ITV+1
-http://doubleclicktv.live/70376812/52663544/276744
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉英国频道🦁",UK Channel 4 FHD
-http://doubleclicktv.live/70376812/52663544/276743
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉英国频道🦁",UK Channel 4+1
-http://doubleclicktv.live/70376812/52663544/276740
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉英国频道🦁",UK Channel 5 FHD
-http://doubleclicktv.live/70376812/52663544/276739
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉英国频道🦁",UK Channel 5+1
-http://doubleclicktv.live/70376812/52663544/276736
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉英国频道🦁",UK ITV2 FHD
-http://doubleclicktv.live/70376812/52663544/276735
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉英国频道🦁",UK ITV3 FHD
-http://doubleclicktv.live/70376812/52663544/276731
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉英国频道🦁",UK ITV4 FHD
-http://doubleclicktv.live/70376812/52663544/276727
+#EXTINF:-1 tvg-id="2943" tvg-name="UK014:BT Sport 1 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK014BTSport1.png" group-title="🐉英国频道🦁",体育频道
+http://mohdtv.com:8880//voby3837/28337929/2943
+#EXTINF:-1 tvg-id="2943" tvg-name="UK014:BT Sport 1 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK014BTSport1.png" group-title="🐉英国频道🦁",UK014:BT Sport 1 HD
+http://mohdtv.com:8880//voby3837/28337929/2943
+#EXTINF:-1 tvg-id="2942" tvg-name="UK015:BT Sport 2 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK015BTSport2.png" group-title="🐉英国频道🦁",UK015:BT Sport 2 HD
+http://mohdtv.com:8880//voby3837/28337929/2942
+#EXTINF:-1 tvg-id="2941" tvg-name="UK016:BT Sport 3 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK016BTSport3.png" group-title="🐉英国频道🦁",UK016:BT Sport 3 HD
+http://mohdtv.com:8880//voby3837/28337929/2941
+#EXTINF:-1 tvg-id="2940" tvg-name="UK017:BT Sport ESPN FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK017BTSportESPN.png" group-title="🐉英国频道🦁",UK017:BT Sport ESPN FHD
+http://mohdtv.com:8880//voby3837/28337929/2940
+#EXTINF:-1 tvg-id="2917" tvg-name="UK040:Euro Sport 1 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK040EuroSport1.png" group-title="🐉英国频道🦁",UK040:Euro Sport 1 HD
+http://mohdtv.com:8880//voby3837/28337929/2917
+#EXTINF:-1 tvg-id="2916" tvg-name="UK041:Euro Sport 2 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK041EuroSport2.png" group-title="🐉英国频道🦁",UK041:Euro Sport 2 HD
+http://mohdtv.com:8880//voby3837/28337929/2916
+#EXTINF:-1 tvg-id="2902" tvg-name="UK055:Sky Sports Arena HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK055SkySportsArena.png" group-title="🐉英国频道🦁",UK055:Sky Sports Arena HD
+http://mohdtv.com:8880//voby3837/28337929/2902
+#EXTINF:-1 tvg-id="2895" tvg-name="UK062:MUTV HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK062MUTV.png" group-title="🐉英国频道🦁",UK062:MUTV HD
+http://mohdtv.com:8880//voby3837/28337929/2895
+#EXTINF:-1 tvg-id="2882" tvg-name="UK075:Sky Sports Mix FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK075SkySportsMix.png" group-title="🐉英国频道🦁",UK075:Sky Sports Mix FHD
+http://mohdtv.com:8880//voby3837/28337929/2882
+#EXTINF:-1 tvg-id="2881" tvg-name="UK076:Sky Sports MainEvent HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK076SkySportsMainEvent.png" group-title="🐉英国频道🦁",UK076:Sky Sports MainEvent HD
+http://mohdtv.com:8880//voby3837/28337929/2881
+#EXTINF:-1 tvg-id="2880" tvg-name="UK077:Sky Sports Action HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK077SkySportsAction.png" group-title="🐉英国频道🦁",UK077:Sky Sports Action HD
+http://mohdtv.com:8880//voby3837/28337929/2880
+#EXTINF:-1 tvg-id="2879" tvg-name="UK078:Sky Sports Cricket HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK078SkySportsCricket.png" group-title="🐉英国频道🦁",UK078:Sky Sports Cricket HD
+http://mohdtv.com:8880//voby3837/28337929/2879
+#EXTINF:-1 tvg-id="2878" tvg-name="UK079:Sky Sports Golf HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK079SkySportsGolf.png" group-title="🐉英国频道🦁",UK079:Sky Sports Golf HD
+http://mohdtv.com:8880//voby3837/28337929/2878
+#EXTINF:-1 tvg-id="2877" tvg-name="UK080:Sky Sports PremierLeague HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK080SkySportsPremierLeague.png" group-title="🐉英国频道🦁",UK080:Sky Sports PremierLeague HD
+http://mohdtv.com:8880//voby3837/28337929/2877
+#EXTINF:-1 tvg-id="2876" tvg-name="UK081:Sky Sports F1 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK081SkySportsF1.png" group-title="🐉英国频道🦁",UK081:Sky Sports F1 HD
+http://mohdtv.com:8880//voby3837/28337929/2876
+#EXTINF:-1 tvg-id="2871" tvg-name="UK086:Racing" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK086RacingUK.png" group-title="🐉英国频道🦁",UK086:Racing
+http://mohdtv.com:8880//voby3837/28337929/2871
+#EXTINF:-1 tvg-id="2870" tvg-name="UK087:Sky Sports Football HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK087SkySportsFootball.png" group-title="🐉英国频道🦁",UK087:Sky Sports Football HD
+http://mohdtv.com:8880//voby3837/28337929/2870
+#EXTINF:-1 tvg-id="2868" tvg-name="UK089:Eir Sport 1" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK089EirSport1.png" group-title="🐉英国频道🦁",UK089:Eir Sport 1
+http://mohdtv.com:8880//voby3837/28337929/2868
+#EXTINF:-1 tvg-id="28949" tvg-name="UK110:LFC TV" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK110LFCTV.png" group-title="🐉英国频道🦁",UK110:LFC TV
+http://mohdtv.com:8880//voby3837/28337929/28949
+#EXTINF:-1 tvg-id="28948" tvg-name="UK111:Horror Channel" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK111HorrorChannel1.png" group-title="🐉英国频道🦁",UK111:Horror Channel
+http://mohdtv.com:8880//voby3837/28337929/28948
+#EXTINF:-1 tvg-id="28947" tvg-name="UK112:BT Sports 4 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK112" group-title="🐉英国频道🦁",UK112:BT Sports 4 HD
+http://mohdtv.com:8880//voby3837/28337929/28947
+#EXTINF:-1 tvg-id="28946" tvg-name="UK113:TNT SPORTS 1 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK113" group-title="🐉英国频道🦁",UK113:TNT SPORTS 1 HD
+http://mohdtv.com:8880//voby3837/28337929/28946
+#EXTINF:-1 tvg-id="28945" tvg-name="UK114:TNT SPORTS 2 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK114StingrayKaraoke.png" group-title="🐉英国频道🦁",UK114:TNT SPORTS 2 HD
+http://mohdtv.com:8880//voby3837/28337929/28945
+#EXTINF:-1 tvg-id="28943" tvg-name="UK116:TNT SPORTS 3 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK116" group-title="🐉英国频道🦁",UK116:TNT SPORTS 3 HD
+http://mohdtv.com:8880//voby3837/28337929/28943
+#EXTINF:-1 tvg-id="28942" tvg-name="UK117:TNT SPORTS 4 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK117SkySportsPremierLeagueSD.png" group-title="🐉英国频道🦁",UK117:TNT SPORTS 4 HD
+http://mohdtv.com:8880//voby3837/28337929/28942
+#EXTINF:-1 tvg-id="28941" tvg-name="UK118:TNT SPORTS 5 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK118Challenge1.png" group-title="🐉英国频道🦁",UK118:TNT SPORTS 5 HD
+http://mohdtv.com:8880//voby3837/28337929/28941
+#EXTINF:-1 tvg-id="28940" tvg-name="UK119:TNT SPORTS 6 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK119S4C.png" group-title="🐉英国频道🦁",UK119:TNT SPORTS 6 HD
+http://mohdtv.com:8880//voby3837/28337929/28940
+#EXTINF:-1 tvg-id="28939" tvg-name="UK120:TNT SPORTS 7 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK120BTSportExtra4.png" group-title="🐉英国频道🦁",UK120:TNT SPORTS 7 HD
+http://mohdtv.com:8880//voby3837/28337929/28939
+#EXTINF:-1 tvg-id="28938" tvg-name="UK121:BT SPORT EXTRA 3" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK121" group-title="🐉英国频道🦁",UK121:BT SPORT EXTRA 3
+http://mohdtv.com:8880//voby3837/28337929/28938
+#EXTINF:-1 tvg-id="28937" tvg-name="UK122:BT SPORT EXTRA 4" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK122BTSportExtra1.png" group-title="🐉英国频道🦁",UK122:BT SPORT EXTRA 4
+http://mohdtv.com:8880//voby3837/28337929/28937
+#EXTINF:-1 tvg-id="28881" tvg-name="UK178:MOTORS" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK178BTSportEuropeHD.png" group-title="🐉英国频道🦁",UK178:MOTORS
+http://mohdtv.com:8880//voby3837/28337929/28881
+#EXTINF:-1 tvg-id="28880" tvg-name="UK179:Eir Sport 2" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK179Boxnation.png" group-title="🐉英国频道🦁",UK179:Eir Sport 2
+http://mohdtv.com:8880//voby3837/28337929/28880
+#EXTINF:-1 tvg-id="28878" tvg-name="UK181:FREE SPORTS" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK181BritishMuslimTV.png" group-title="🐉英国频道🦁",UK181:FREE SPORTS
+http://mohdtv.com:8880//voby3837/28337929/28878
+#EXTINF:-1 tvg-id="28862" tvg-name="UK197:PREMIER SPORTS 1" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK197BBCEntertainmentHD.png" group-title="🐉英国频道🦁",UK197:PREMIER SPORTS 1
+http://mohdtv.com:8880//voby3837/28337929/28862
+#EXTINF:-1 tvg-id="28861" tvg-name="UK198:PREMIER SPORTS 2" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK198BBCParliament.png" group-title="🐉英国频道🦁",UK198:PREMIER SPORTS 2
+http://mohdtv.com:8880//voby3837/28337929/28861
+#EXTINF:-1 tvg-id="28848" tvg-name="UK211:SuperSport Premier League FHD (Match Time)" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK211EPL8.png" group-title="🐉英国频道🦁",UK211:SuperSport Premier League FHD (Match Time)
+http://mohdtv.com:8880//voby3837/28337929/28848
+#EXTINF:-1 tvg-id="28832" tvg-name="UK227:UFC fight night Pass" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK227ClublandTV.png" group-title="🐉英国频道🦁",UK227:UFC fight night Pass
+http://mohdtv.com:8880//voby3837/28337929/28832
+#EXTINF:-1 tvg-id="28831" tvg-name="UK228:TNT SPORTS EXTRA 2" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK228CNBC.png" group-title="🐉英国频道🦁",UK228:TNT SPORTS EXTRA 2
+http://mohdtv.com:8880//voby3837/28337929/28831
+#EXTINF:-1 tvg-id="28820" tvg-name="UK239:TNT SPORTS EXTRA 4" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK239EURONEWSHD.png" group-title="🐉英国频道🦁",UK239:TNT SPORTS EXTRA 4
+http://mohdtv.com:8880//voby3837/28337929/28820
+#EXTINF:-1 tvg-id="28817" tvg-name="UK242:Fightbox HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK242FightboxHD.png" group-title="🐉英国频道🦁",UK242:Fightbox HD
+http://mohdtv.com:8880//voby3837/28337929/28817
+#EXTINF:-1 tvg-id="28812" tvg-name="UK247:KERRANG!" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK247FreeSportsTV.png" group-title="🐉英国频道🦁",UK247:KERRANG!
+http://mohdtv.com:8880//voby3837/28337929/28812
+#EXTINF:-1 tvg-id="28811" tvg-name="UK248:Celtic TV (LIVE Matches only)" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK248CELTICTV(LIVEMATCHESONLY).png" group-title="🐉英国频道🦁",UK248:Celtic TV (LIVE Matches only)
+http://mohdtv.com:8880//voby3837/28337929/28811
+#EXTINF:-1 tvg-id="28808" tvg-name="UK251:BEIN SPORTS 1 " tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/" group-title="🐉英国频道🦁",UK251:BEIN SPORTS 1 
+http://mohdtv.com:8880//voby3837/28337929/28808
+#EXTINF:-1 tvg-id="28807" tvg-name="UK252:BEIN SPORTS 2 " tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/" group-title="🐉英国频道🦁",UK252:BEIN SPORTS 2 
+http://mohdtv.com:8880//voby3837/28337929/28807
+#EXTINF:-1 tvg-id="28805" tvg-name="UK254:BEIN SPORTS 4 " tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK254Home.png" group-title="🐉英国频道🦁",UK254:BEIN SPORTS 4 
+http://mohdtv.com:8880//voby3837/28337929/28805
+#EXTINF:-1 tvg-id="28803" tvg-name="UK256:Horse Country" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK256HorseCountry.png" group-title="🐉英国频道🦁",UK256:Horse Country
+http://mohdtv.com:8880//voby3837/28337929/28803
+#EXTINF:-1 tvg-id="28802" tvg-name="UK257:BEIN SPORTS 7 " tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/" group-title="🐉英国频道🦁",UK257:BEIN SPORTS 7 
+http://mohdtv.com:8880//voby3837/28337929/28802
+#EXTINF:-1 tvg-id="28800" tvg-name="UK259:TNT SPORTS ESPN" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK259" group-title="🐉英国频道🦁",UK259:TNT SPORTS ESPN
+http://mohdtv.com:8880//voby3837/28337929/28800
+#EXTINF:-1 tvg-id="28768" tvg-name="UK291:Sky Sports NFL" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK291RTEJunior.png" group-title="🐉英国频道🦁",UK291:Sky Sports NFL
+http://mohdtv.com:8880//voby3837/28337929/28768
+#EXTINF:-1 tvg-id="28767" tvg-name="UK292:TNT SPORTS EXTRA 1" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK292RTENEWS.png" group-title="🐉英国频道🦁",UK292:TNT SPORTS EXTRA 1
+http://mohdtv.com:8880//voby3837/28337929/28767
+#EXTINF:-1 tvg-id="28741" tvg-name="UK318:Sky Sports Racing FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK318SkySportsRacingFHD.png" group-title="🐉英国频道🦁",UK318:Sky Sports Racing FHD
+http://mohdtv.com:8880//voby3837/28337929/28741
+#EXTINF:-1 tvg-id="2957" tvg-name="------|United Kingdom|------" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/------|UnitedKingdom|------.png" group-title="🐉英国频道🦁",--|综合频道|--
+http://mohdtv.com:8880//voby3837/28337929/2957
+#EXTINF:-1 tvg-id="2952" tvg-name="UK005:Animal Planet" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK005AnimalPlanet.png" group-title="🐉英国频道🦁",UK005:Animal Planet
+http://mohdtv.com:8880//voby3837/28337929/2952
+#EXTINF:-1 tvg-id="2951" tvg-name="UK006:Baby TV" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK006BabyTV.png" group-title="🐉英国频道🦁",UK006:Baby TV
+http://mohdtv.com:8880//voby3837/28337929/2951
+#EXTINF:-1 tvg-id="2950" tvg-name="UK007:BBC 1 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK007BBC1.png" group-title="🐉英国频道🦁",UK007:BBC 1 HD
+http://mohdtv.com:8880//voby3837/28337929/2950
+#EXTINF:-1 tvg-id="2949" tvg-name="UK008:BBC 2 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK008BBC2.png" group-title="🐉英国频道🦁",UK008:BBC 2 HD
+http://mohdtv.com:8880//voby3837/28337929/2949
+#EXTINF:-1 tvg-id="2948" tvg-name="UK009:BBC 3" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK009" group-title="🐉英国频道🦁",UK009:BBC 3
+http://mohdtv.com:8880//voby3837/28337929/2948
+#EXTINF:-1 tvg-id="2947" tvg-name="UK010:BBC 4 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK010BBC4.png" group-title="🐉英国频道🦁",UK010:BBC 4 HD
+http://mohdtv.com:8880//voby3837/28337929/2947
+#EXTINF:-1 tvg-id="2946" tvg-name="UK011:BBC News" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK011BBCNews.png" group-title="🐉英国频道🦁",UK011:BBC News
+http://mohdtv.com:8880//voby3837/28337929/2946
+#EXTINF:-1 tvg-id="2945" tvg-name="UK012:BLAZE" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK012BET.png" group-title="🐉英国频道🦁",UK012:BLAZE
+http://mohdtv.com:8880//voby3837/28337929/2945
+#EXTINF:-1 tvg-id="2944" tvg-name="UK013:Boomerang" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK013Boomerang.png" group-title="🐉英国频道🦁",UK013:Boomerang
+http://mohdtv.com:8880//voby3837/28337929/2944
+#EXTINF:-1 tvg-id="2938" tvg-name="UK019:Cartoon network" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK019Cartoonnetwork.png" group-title="🐉英国频道🦁",UK019:Cartoon network
+http://mohdtv.com:8880//voby3837/28337929/2938
+#EXTINF:-1 tvg-id="2937" tvg-name="UK020:Cartoonito" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK020Cartoonito.png" group-title="🐉英国频道🦁",UK020:Cartoonito
+http://mohdtv.com:8880//voby3837/28337929/2937
+#EXTINF:-1 tvg-id="2936" tvg-name="UK021:CBBC" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK021CBBC.png" group-title="🐉英国频道🦁",UK021:CBBC
+http://mohdtv.com:8880//voby3837/28337929/2936
+#EXTINF:-1 tvg-id="2956" tvg-name="UK001:4Music" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK001" group-title="🐉英国频道🦁",UK001:4Music
+http://mohdtv.com:8880//voby3837/28337929/2956
+#EXTINF:-1 tvg-id="2955" tvg-name="UK002:4Seven" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK0024Seven.png" group-title="🐉英国频道🦁",UK002:4Seven
+http://mohdtv.com:8880//voby3837/28337929/2955
+#EXTINF:-1 tvg-id="2954" tvg-name="UK003:5Star" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK0035Star.png" group-title="🐉英国频道🦁",UK003:5Star
+http://mohdtv.com:8880//voby3837/28337929/2954
+#EXTINF:-1 tvg-id="2953" tvg-name="UK004:5USA" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK0045USA.png" group-title="🐉英国频道🦁",UK004:5USA
+http://mohdtv.com:8880//voby3837/28337929/2953
+#EXTINF:-1 tvg-id="2935" tvg-name="UK022:CBS Action" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK022CBSAction.png" group-title="🐉英国频道🦁",UK022:CBS Action
+http://mohdtv.com:8880//voby3837/28337929/2935
+#EXTINF:-1 tvg-id="2934" tvg-name="UK023:CBS Drama" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK023CBSDrama.png" group-title="🐉英国频道🦁",UK023:CBS Drama
+http://mohdtv.com:8880//voby3837/28337929/2934
+#EXTINF:-1 tvg-id="2933" tvg-name="UK024:CBS Reality" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK024CBSReality.png" group-title="🐉英国频道🦁",UK024:CBS Reality
+http://mohdtv.com:8880//voby3837/28337929/2933
+#EXTINF:-1 tvg-id="2932" tvg-name="UK025:Channel 4" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK025Channel4.png" group-title="🐉英国频道🦁",UK025:Channel 4
+http://mohdtv.com:8880//voby3837/28337929/2932
+#EXTINF:-1 tvg-id="2931" tvg-name="UK026:Channel 5" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK026Channel5.png" group-title="🐉英国频道🦁",UK026:Channel 5
+http://mohdtv.com:8880//voby3837/28337929/2931
+#EXTINF:-1 tvg-id="2930" tvg-name="UK027:Sky Cinema Modern Greats HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK027" group-title="🐉英国频道🦁",UK027:Sky Cinema Modern Greats HD
+http://mohdtv.com:8880//voby3837/28337929/2930
+#EXTINF:-1 tvg-id="2929" tvg-name="UK028:Watch" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK028WWatch.png" group-title="🐉英国频道🦁",UK028:Watch
+http://mohdtv.com:8880//voby3837/28337929/2929
+#EXTINF:-1 tvg-id="2928" tvg-name="UK029:Comedy Central" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK029ComedyCentral.png" group-title="🐉英国频道🦁",UK029:Comedy Central
+http://mohdtv.com:8880//voby3837/28337929/2928
+#EXTINF:-1 tvg-id="2927" tvg-name="UK030:Crime Investigiation" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK030CrimeInvestigiation.png" group-title="🐉英国频道🦁",UK030:Crime Investigiation
+http://mohdtv.com:8880//voby3837/28337929/2927
+#EXTINF:-1 tvg-id="2926" tvg-name="UK031:Dave" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK031Dave.png" group-title="🐉英国频道🦁",UK031:Dave
+http://mohdtv.com:8880//voby3837/28337929/2926
+#EXTINF:-1 tvg-id="2925" tvg-name="UK032:Discovery" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK032Discovery.png" group-title="🐉英国频道🦁",UK032:Discovery
+http://mohdtv.com:8880//voby3837/28337929/2925
+#EXTINF:-1 tvg-id="2924" tvg-name="UK033:Discovery Science" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK033DiscoveryScience.png" group-title="🐉英国频道🦁",UK033:Discovery Science
+http://mohdtv.com:8880//voby3837/28337929/2924
+#EXTINF:-1 tvg-id="2923" tvg-name="UK034:Disney Channel" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK034DisneyUK.png" group-title="🐉英国频道🦁",UK034:Disney Channel
+http://mohdtv.com:8880//voby3837/28337929/2923
+#EXTINF:-1 tvg-id="2922" tvg-name="UK035:Disney Junior UK" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK035DisneyJuniorUK.png" group-title="🐉英国频道🦁",UK035:Disney Junior UK
+http://mohdtv.com:8880//voby3837/28337929/2922
+#EXTINF:-1 tvg-id="2921" tvg-name="UK036:Disney XD UK" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK036DisneyXDUK.png" group-title="🐉英国频道🦁",UK036:Disney XD UK
+http://mohdtv.com:8880//voby3837/28337929/2921
+#EXTINF:-1 tvg-id="2920" tvg-name="UK037:Sky Witness" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK037SkyDrama.png" group-title="🐉英国频道🦁",UK037:Sky Witness
+http://mohdtv.com:8880//voby3837/28337929/2920
+#EXTINF:-1 tvg-id="2919" tvg-name="UK038:E! UK" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK038E!UK.png" group-title="🐉英国频道🦁",UK038:E! UK
+http://mohdtv.com:8880//voby3837/28337929/2919
+#EXTINF:-1 tvg-id="2918" tvg-name="UK039:E4" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK039E4.png" group-title="🐉英国频道🦁",UK039:E4
+http://mohdtv.com:8880//voby3837/28337929/2918
+#EXTINF:-1 tvg-id="2915" tvg-name="UK042:Film 4" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK042Film4.png" group-title="🐉英国频道🦁",UK042:Film 4
+http://mohdtv.com:8880//voby3837/28337929/2915
+#EXTINF:-1 tvg-id="2914" tvg-name="UK043:Good Food" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK043GoodFood.png" group-title="🐉英国频道🦁",UK043:Good Food
+http://mohdtv.com:8880//voby3837/28337929/2914
+#EXTINF:-1 tvg-id="2913" tvg-name="UK044:FOX UK" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK044FOXUK.png" group-title="🐉英国频道🦁",UK044:FOX UK
+http://mohdtv.com:8880//voby3837/28337929/2913
+#EXTINF:-1 tvg-id="2912" tvg-name="UK045:MTV UK" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK045MTVUK.png" group-title="🐉英国频道🦁",UK045:MTV UK
+http://mohdtv.com:8880//voby3837/28337929/2912
+#EXTINF:-1 tvg-id="2911" tvg-name="UK046:Starz TV" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK046" group-title="🐉英国频道🦁",UK046:Starz TV
+http://mohdtv.com:8880//voby3837/28337929/2911
+#EXTINF:-1 tvg-id="2909" tvg-name="UK048:Food Network" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK048FoodNetwork.png" group-title="🐉英国频道🦁",UK048:Food Network
+http://mohdtv.com:8880//voby3837/28337929/2909
+#EXTINF:-1 tvg-id="2908" tvg-name="UK049:History" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK049HistoryUK.png" group-title="🐉英国频道🦁",UK049:History
+http://mohdtv.com:8880//voby3837/28337929/2908
+#EXTINF:-1 tvg-id="2907" tvg-name="UK050:Investigation Discovery" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK050IDUK.png" group-title="🐉英国频道🦁",UK050:Investigation Discovery
+http://mohdtv.com:8880//voby3837/28337929/2907
+#EXTINF:-1 tvg-id="2906" tvg-name="UK051:ITV 1 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK051ITV1.png" group-title="🐉英国频道🦁",UK051:ITV 1 HD
+http://mohdtv.com:8880//voby3837/28337929/2906
+#EXTINF:-1 tvg-id="2905" tvg-name="UK052:ITV 2 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK052ITV2.png" group-title="🐉英国频道🦁",UK052:ITV 2 HD
+http://mohdtv.com:8880//voby3837/28337929/2905
+#EXTINF:-1 tvg-id="2904" tvg-name="UK053:ITV 3 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK053ITV3.png" group-title="🐉英国频道🦁",UK053:ITV 3 HD
+http://mohdtv.com:8880//voby3837/28337929/2904
+#EXTINF:-1 tvg-id="2903" tvg-name="UK054:ITV 4 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK054ITV4.png" group-title="🐉英国频道🦁",UK054:ITV 4 HD
+http://mohdtv.com:8880//voby3837/28337929/2903
+#EXTINF:-1 tvg-id="2900" tvg-name="UK057:Life Time" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK057LifeTime.png" group-title="🐉英国频道🦁",UK057:Life Time
+http://mohdtv.com:8880//voby3837/28337929/2900
+#EXTINF:-1 tvg-id="2899" tvg-name="UK058:S4C" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK058" group-title="🐉英国频道🦁",UK058:S4C
+http://mohdtv.com:8880//voby3837/28337929/2899
+#EXTINF:-1 tvg-id="2898" tvg-name="UK059:More 4" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK059More4.png" group-title="🐉英国频道🦁",UK059:More 4
+http://mohdtv.com:8880//voby3837/28337929/2898
+#EXTINF:-1 tvg-id="2897" tvg-name="UK060:MTV Base" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK060MTVBase.png" group-title="🐉英国频道🦁",UK060:MTV Base
+http://mohdtv.com:8880//voby3837/28337929/2897
+#EXTINF:-1 tvg-id="2896" tvg-name="UK061:MTV Hits" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK061MTVClass.png" group-title="🐉英国频道🦁",UK061:MTV Hits
+http://mohdtv.com:8880//voby3837/28337929/2896
+#EXTINF:-1 tvg-id="2894" tvg-name="UK063:VH1 UK" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK063VH1UK.png" group-title="🐉英国频道🦁",UK063:VH1 UK
+http://mohdtv.com:8880//voby3837/28337929/2894
+#EXTINF:-1 tvg-id="2893" tvg-name="UK064:NAT GEO" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK064NATGEO.png" group-title="🐉英国频道🦁",UK064:NAT GEO
+http://mohdtv.com:8880//voby3837/28337929/2893
+#EXTINF:-1 tvg-id="2892" tvg-name="UK065:UTV" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK065UTV.png" group-title="🐉英国频道🦁",UK065:UTV
+http://mohdtv.com:8880//voby3837/28337929/2892
+#EXTINF:-1 tvg-id="2890" tvg-name="UK067:Sky Comedy" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK067SkyComedy.png" group-title="🐉英国频道🦁",UK067:Sky Comedy
+http://mohdtv.com:8880//voby3837/28337929/2890
+#EXTINF:-1 tvg-id="2889" tvg-name="UK068:Sky Disney" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK068SkyDisney.png" group-title="🐉英国频道🦁",UK068:Sky Disney
+http://mohdtv.com:8880//voby3837/28337929/2889
+#EXTINF:-1 tvg-id="2888" tvg-name="UK069:SKY 2" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/" group-title="🐉英国频道🦁",UK069:SKY 2
+http://mohdtv.com:8880//voby3837/28337929/2888
+#EXTINF:-1 tvg-id="2887" tvg-name="UK070:Sky Arts" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK070SkyArts.png" group-title="🐉英国频道🦁",UK070:Sky Arts
+http://mohdtv.com:8880//voby3837/28337929/2887
+#EXTINF:-1 tvg-id="2885" tvg-name="UK072:Sky Premiere" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK072SkyPremiere.png" group-title="🐉英国频道🦁",UK072:Sky Premiere
+http://mohdtv.com:8880//voby3837/28337929/2885
+#EXTINF:-1 tvg-id="2883" tvg-name="UK074:Showcase" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK074SkyShowcase.png" group-title="🐉英国频道🦁",UK074:Showcase
+http://mohdtv.com:8880//voby3837/28337929/2883
+#EXTINF:-1 tvg-id="2874" tvg-name="UK083:Sky Thriller" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK083SkyThriller.png" group-title="🐉英国频道🦁",UK083:Sky Thriller
+http://mohdtv.com:8880//voby3837/28337929/2874
+#EXTINF:-1 tvg-id="2873" tvg-name="UK084:TLC" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK084TLC.png" group-title="🐉英国频道🦁",UK084:TLC
+http://mohdtv.com:8880//voby3837/28337929/2873
+#EXTINF:-1 tvg-id="2872" tvg-name="UK085:Travel Channel" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK085TravelChannel.png" group-title="🐉英国频道🦁",UK085:Travel Channel
+http://mohdtv.com:8880//voby3837/28337929/2872
+#EXTINF:-1 tvg-id="2867" tvg-name="UK090:SKY 1" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK090SkyOne.png" group-title="🐉英国频道🦁",UK090:SKY 1
+http://mohdtv.com:8880//voby3837/28337929/2867
+#EXTINF:-1 tvg-id="28958" tvg-name="UK101:SKY SELECT HORROR" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/" group-title="🐉英国频道🦁",UK101:SKY SELECT HORROR
+http://mohdtv.com:8880//voby3837/28337929/28958
+#EXTINF:-1 tvg-id="28952" tvg-name="UK107:Nickelodeon" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK107Nickelodeon.png" group-title="🐉英国频道🦁",UK107:Nickelodeon
+http://mohdtv.com:8880//voby3837/28337929/28952
+#EXTINF:-1 tvg-id="28951" tvg-name="UK108:Nick Jr Too" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK108NickJrToo.png" group-title="🐉英国频道🦁",UK108:Nick Jr Too
+http://mohdtv.com:8880//voby3837/28337929/28951
+#EXTINF:-1 tvg-id="28950" tvg-name="UK109:Nat Geo Wild" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK109NatGeoWild.png" group-title="🐉英国频道🦁",UK109:Nat Geo Wild
+http://mohdtv.com:8880//voby3837/28337929/28950
+#EXTINF:-1 tvg-id="28948" tvg-name="UK111:Horror Channel" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK111HorrorChannel1.png" group-title="🐉英国频道🦁",UK111:Horror Channel
+http://mohdtv.com:8880//voby3837/28337929/28948
+#EXTINF:-1 tvg-id="28944" tvg-name="UK115:Discovery History" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK115DiscoveryHistory1.png" group-title="🐉英国频道🦁",UK115:Discovery History
+http://mohdtv.com:8880//voby3837/28337929/28944
+#EXTINF:-1 tvg-id="28936" tvg-name="UK123:SKY CINEMA FAMILY" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK123" group-title="🐉英国频道🦁",UK123:SKY CINEMA FAMILY
+http://mohdtv.com:8880//voby3837/28337929/28936
+#EXTINF:-1 tvg-id="28935" tvg-name="UK124:SKY CINEMA PREMIERE" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK124" group-title="🐉英国频道🦁",UK124:SKY CINEMA PREMIERE
+http://mohdtv.com:8880//voby3837/28337929/28935
+#EXTINF:-1 tvg-id="28934" tvg-name="UK125:SKY CINEMA SCI-FI" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK125" group-title="🐉英国频道🦁",UK125:SKY CINEMA SCI-FI
+http://mohdtv.com:8880//voby3837/28337929/28934
+#EXTINF:-1 tvg-id="28933" tvg-name="UK126:SKY CINEMA SELECT" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK126" group-title="🐉英国频道🦁",UK126:SKY CINEMA SELECT
+http://mohdtv.com:8880//voby3837/28337929/28933
+#EXTINF:-1 tvg-id="28932" tvg-name="UK127:SKY CINEMA SHOWCASE" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK127BBCALBA.png" group-title="🐉英国频道🦁",UK127:SKY CINEMA SHOWCASE
+http://mohdtv.com:8880//voby3837/28337929/28932
+#EXTINF:-1 tvg-id="28931" tvg-name="UK128:SKY CINEMA THRILLER" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK128BBCParliament.png" group-title="🐉英国频道🦁",UK128:SKY CINEMA THRILLER
+http://mohdtv.com:8880//voby3837/28337929/28931
+#EXTINF:-1 tvg-id="28930" tvg-name="UK129:SKY CINEMA DISNEY" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK129CNBCEurope.png" group-title="🐉英国频道🦁",UK129:SKY CINEMA DISNEY
+http://mohdtv.com:8880//voby3837/28337929/28930
+#EXTINF:-1 tvg-id="28928" tvg-name="UK131:SKY CINEMA GREATS" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK131KERRANG.png" group-title="🐉英国频道🦁",UK131:SKY CINEMA GREATS
+http://mohdtv.com:8880//voby3837/28337929/28928
+#EXTINF:-1 tvg-id="28927" tvg-name="UK132:SKY CINEMA HITS" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK132KISSUK.png" group-title="🐉英国频道🦁",UK132:SKY CINEMA HITS
+http://mohdtv.com:8880//voby3837/28337929/28927
+#EXTINF:-1 tvg-id="28926" tvg-name="UK133:SKY CINEMA ACTION" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK133" group-title="🐉英国频道🦁",UK133:SKY CINEMA ACTION
+http://mohdtv.com:8880//voby3837/28337929/28926
+#EXTINF:-1 tvg-id="28925" tvg-name="UK134:SKY CINEMA ANIMATION" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK134QUEST.png" group-title="🐉英国频道🦁",UK134:SKY CINEMA ANIMATION
+http://mohdtv.com:8880//voby3837/28337929/28925
+#EXTINF:-1 tvg-id="28924" tvg-name="UK135:SKY CINEMA DRAMA" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK135" group-title="🐉英国频道🦁",UK135:SKY CINEMA DRAMA
+http://mohdtv.com:8880//voby3837/28337929/28924
+#EXTINF:-1 tvg-id="28923" tvg-name="UK136:Sky Store 4" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK136SonyMovie.png" group-title="🐉英国频道🦁",UK136:Sky Store 4
+http://mohdtv.com:8880//voby3837/28337929/28923
+#EXTINF:-1 tvg-id="28904" tvg-name="UK155:B4U MOVIES" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK155" group-title="🐉英国频道🦁",UK155:B4U MOVIES
+http://mohdtv.com:8880//voby3837/28337929/28904
+#EXTINF:-1 tvg-id="28903" tvg-name="UK156:B4U PLUS" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/" group-title="🐉英国频道🦁",UK156:B4U PLUS
+http://mohdtv.com:8880//voby3837/28337929/28903
+#EXTINF:-1 tvg-id="28902" tvg-name="UK157:SKY Atlantic HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK157SKYAtlanticHD.png" group-title="🐉英国频道🦁",UK157:SKY Atlantic HD
+http://mohdtv.com:8880//voby3837/28337929/28902
+#EXTINF:-1 tvg-id="28901" tvg-name="UK158:B4U MUSIC" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK158" group-title="🐉英国频道🦁",UK158:B4U MUSIC
+http://mohdtv.com:8880//voby3837/28337929/28901
+#EXTINF:-1 tvg-id="28900" tvg-name="UK159:CHELSEA TV" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK159MototrsTV.png" group-title="🐉英国频道🦁",UK159:CHELSEA TV
+http://mohdtv.com:8880//voby3837/28337929/28900
+#EXTINF:-1 tvg-id="28899" tvg-name="UK160:DRAMA" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK160" group-title="🐉英国频道🦁",UK160:DRAMA
+http://mohdtv.com:8880//voby3837/28337929/28899
+#EXTINF:-1 tvg-id="28898" tvg-name="UK161:CBEEBIES" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK161LivingUK.png" group-title="🐉英国频道🦁",UK161:CBEEBIES
+http://mohdtv.com:8880//voby3837/28337929/28898
+#EXTINF:-1 tvg-id="28897" tvg-name="UK162:MTV CLASSIC" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK162Eden.png" group-title="🐉英国频道🦁",UK162:MTV CLASSIC
+http://mohdtv.com:8880//voby3837/28337929/28897
+#EXTINF:-1 tvg-id="28896" tvg-name="UK163:CLUBLAND" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK163ZEECINEMA.png" group-title="🐉英国频道🦁",UK163:CLUBLAND
+http://mohdtv.com:8880//voby3837/28337929/28896
+#EXTINF:-1 tvg-id="28895" tvg-name="UK164:TALKING PICTURES TV" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/" group-title="🐉英国频道🦁",UK164:TALKING PICTURES TV
+http://mohdtv.com:8880//voby3837/28337929/28895
+#EXTINF:-1 tvg-id="28894" tvg-name="UK165:MTV ROCKS" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK165" group-title="🐉英国频道🦁",UK165:MTV ROCKS
+http://mohdtv.com:8880//voby3837/28337929/28894
+#EXTINF:-1 tvg-id="28893" tvg-name="UK166:MTV LIVE" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK166" group-title="🐉英国频道🦁",UK166:MTV LIVE
+http://mohdtv.com:8880//voby3837/28337929/28893
+#EXTINF:-1 tvg-id="28892" tvg-name="UK167:MTV MUSIC" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK167SkyMovieSci-Fi.png" group-title="🐉英国频道🦁",UK167:MTV MUSIC
+http://mohdtv.com:8880//voby3837/28337929/28892
+#EXTINF:-1 tvg-id="28891" tvg-name="UK168:Nicktoons" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK168Nicktoons.png" group-title="🐉英国频道🦁",UK168:Nicktoons
+http://mohdtv.com:8880//voby3837/28337929/28891
+#EXTINF:-1 tvg-id="28890" tvg-name="UK169:Nick Jr" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK169NickJr.png" group-title="🐉英国频道🦁",UK169:Nick Jr
+http://mohdtv.com:8880//voby3837/28337929/28890
+#EXTINF:-1 tvg-id="28887" tvg-name="UK172:RTE JR" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK172" group-title="🐉英国频道🦁",UK172:RTE JR
+http://mohdtv.com:8880//voby3837/28337929/28887
+#EXTINF:-1 tvg-id="28884" tvg-name="UK175:AT THE RACES" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK175" group-title="🐉英国频道🦁",UK175:AT THE RACES
+http://mohdtv.com:8880//voby3837/28337929/28884
+#EXTINF:-1 tvg-id="28883" tvg-name="UK176:Discovery Turbo" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK176DiscoveryTurbo.png" group-title="🐉英国频道🦁",UK176:Discovery Turbo
+http://mohdtv.com:8880//voby3837/28337929/28883
+#EXTINF:-1 tvg-id="28882" tvg-name="UK177:POP" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK177" group-title="🐉英国频道🦁",UK177:POP
+http://mohdtv.com:8880//voby3837/28337929/28882
+#EXTINF:-1 tvg-id="28879" tvg-name="UK180:LALIGA TV" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK180Pick(1).png" group-title="🐉英国频道🦁",UK180:LALIGA TV
+http://mohdtv.com:8880//voby3837/28337929/28879
+#EXTINF:-1 tvg-id="28877" tvg-name="UK182:VIVA" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK182AtTheRaces.png" group-title="🐉英国频道🦁",UK182:VIVA
+http://mohdtv.com:8880//voby3837/28337929/28877
+#EXTINF:-1 tvg-id="28876" tvg-name="UK183:QVC BEAUTY" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK183QVC.png" group-title="🐉英国频道🦁",UK183:QVC BEAUTY
+http://mohdtv.com:8880//voby3837/28337929/28876
+#EXTINF:-1 tvg-id="28875" tvg-name="UK184:QVC EXTRA" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK184TrueCrime.png" group-title="🐉英国频道🦁",UK184:QVC EXTRA
+http://mohdtv.com:8880//voby3837/28337929/28875
+#EXTINF:-1 tvg-id="28874" tvg-name="UK185:QVC STYLE " tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK185SkyWitnessHD.png" group-title="🐉英国频道🦁",UK185:QVC STYLE 
+http://mohdtv.com:8880//voby3837/28337929/28874
+#EXTINF:-1 tvg-id="28873" tvg-name="UK186:VH1 CLASSIC" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK186VH1CLASSIC.png" group-title="🐉英国频道🦁",UK186:VH1 CLASSIC
+http://mohdtv.com:8880//voby3837/28337929/28873
+#EXTINF:-1 tvg-id="28872" tvg-name="UK187:VH1" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK1874MUSICHD.png" group-title="🐉英国频道🦁",UK187:VH1
+http://mohdtv.com:8880//voby3837/28337929/28872
+#EXTINF:-1 tvg-id="28871" tvg-name="UK188:BBC SCOTLAND" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK188NewsMax.png" group-title="🐉英国频道🦁",UK188:BBC SCOTLAND
+http://mohdtv.com:8880//voby3837/28337929/28871
+#EXTINF:-1 tvg-id="28870" tvg-name="UK189:BBC ALBA" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK189" group-title="🐉英国频道🦁",UK189:BBC ALBA
+http://mohdtv.com:8880//voby3837/28337929/28870
+#EXTINF:-1 tvg-id="28868" tvg-name="UK191:Alibi FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK191AlibiFHD.png" group-title="🐉英国频道🦁",UK191:Alibi FHD
+http://mohdtv.com:8880//voby3837/28337929/28868
+#EXTINF:-1 tvg-id="28867" tvg-name="UK192:Al JazeeraHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK192ALJAZEERAHD.png" group-title="🐉英国频道🦁",UK192:Al JazeeraHD
+http://mohdtv.com:8880//voby3837/28337929/28867
+#EXTINF:-1 tvg-id="28866" tvg-name="UK193:AMC HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK193AMCHD.png" group-title="🐉英国频道🦁",UK193:AMC HD
+http://mohdtv.com:8880//voby3837/28337929/28866
+#EXTINF:-1 tvg-id="28865" tvg-name="UK194:BBC ENTERTAINMENT" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK194BBC3HD.png" group-title="🐉英国频道🦁",UK194:BBC ENTERTAINMENT
+http://mohdtv.com:8880//voby3837/28337929/28865
+#EXTINF:-1 tvg-id="28860" tvg-name="UK199:Virgin Media 1" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK199VirginMedia1.png" group-title="🐉英国频道🦁",UK199:Virgin Media 1
+http://mohdtv.com:8880//voby3837/28337929/28860
+#EXTINF:-1 tvg-id="28859" tvg-name="UK200:Virgin Media 2" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK200VIRGINMEDIA2.png" group-title="🐉英国频道🦁",UK200:Virgin Media 2
+http://mohdtv.com:8880//voby3837/28337929/28859
+#EXTINF:-1 tvg-id="28858" tvg-name="UK201:REALLY" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/" group-title="🐉英国频道🦁",UK201:REALLY
+http://mohdtv.com:8880//voby3837/28337929/28858
+#EXTINF:-1 tvg-id="28857" tvg-name="UK202:PICK" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK202" group-title="🐉英国频道🦁",UK202:PICK
+http://mohdtv.com:8880//voby3837/28337929/28857
+#EXTINF:-1 tvg-id="28856" tvg-name="UK203:CBS JUSTICE" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK203" group-title="🐉英国频道🦁",UK203:CBS JUSTICE
+http://mohdtv.com:8880//voby3837/28337929/28856
+#EXTINF:-1 tvg-id="28845" tvg-name="UK214:Magic TV" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK214SyFyFHD.png" group-title="🐉英国频道🦁",UK214:Magic TV
+http://mohdtv.com:8880//voby3837/28337929/28845
+#EXTINF:-1 tvg-id="28844" tvg-name="UK215:SYFY" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK215BTSportExtra1.png" group-title="🐉英国频道🦁",UK215:SYFY
+http://mohdtv.com:8880//voby3837/28337929/28844
+#EXTINF:-1 tvg-id="28843" tvg-name="UK216:PARAMOUNT" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK216BTSportExtra2.png" group-title="🐉英国频道🦁",UK216:PARAMOUNT
+http://mohdtv.com:8880//voby3837/28337929/28843
+#EXTINF:-1 tvg-id="28842" tvg-name="UK217:QUEST RED" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK217BTSportExtra3.png" group-title="🐉英国频道🦁",UK217:QUEST RED
+http://mohdtv.com:8880//voby3837/28337929/28842
+#EXTINF:-1 tvg-id="28841" tvg-name="UK218:QUEST" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK218BTSportExtra4.png" group-title="🐉英国频道🦁",UK218:QUEST
+http://mohdtv.com:8880//voby3837/28337929/28841
+#EXTINF:-1 tvg-id="28840" tvg-name="UK219:CITV" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK219CITVHD.png" group-title="🐉英国频道🦁",UK219:CITV
+http://mohdtv.com:8880//voby3837/28337929/28840
+#EXTINF:-1 tvg-id="28839" tvg-name="UK220:RISHTEY" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK220CBeebiesHD.png" group-title="🐉英国频道🦁",UK220:RISHTEY
+http://mohdtv.com:8880//voby3837/28337929/28839
+#EXTINF:-1 tvg-id="28838" tvg-name="UK221:TCM MOVIES" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK221" group-title="🐉英国频道🦁",UK221:TCM MOVIES
+http://mohdtv.com:8880//voby3837/28337929/28838
+#EXTINF:-1 tvg-id="28837" tvg-name="UK222:5 Select" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK2225SELECT.png" group-title="🐉英国频道🦁",UK222:5 Select
+http://mohdtv.com:8880//voby3837/28337929/28837
+#EXTINF:-1 tvg-id="28836" tvg-name="UK223:EDEN" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK223" group-title="🐉英国频道🦁",UK223:EDEN
+http://mohdtv.com:8880//voby3837/28337929/28836
+#EXTINF:-1 tvg-id="28835" tvg-name="UK224:NHK WORLD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK224" group-title="🐉英国频道🦁",UK224:NHK WORLD
+http://mohdtv.com:8880//voby3837/28337929/28835
+#EXTINF:-1 tvg-id="28834" tvg-name="UK225:TRAVEL XP" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK225CHELSEATVHD.png" group-title="🐉英国频道🦁",UK225:TRAVEL XP
+http://mohdtv.com:8880//voby3837/28337929/28834
+#EXTINF:-1 tvg-id="28833" tvg-name="UK226:HGTV" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK226ClubMTV.png" group-title="🐉英国频道🦁",UK226:HGTV
+http://mohdtv.com:8880//voby3837/28337929/28833
+#EXTINF:-1 tvg-id="28830" tvg-name="UK229:NOW 70S" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK229" group-title="🐉英国频道🦁",UK229:NOW 70S
+http://mohdtv.com:8880//voby3837/28337929/28830
+#EXTINF:-1 tvg-id="28829" tvg-name="UK230:UNIVERSAL CHANNEL " tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK230DiscoveryHH.png" group-title="🐉英国频道🦁",UK230:UNIVERSAL CHANNEL 
+http://mohdtv.com:8880//voby3837/28337929/28829
+#EXTINF:-1 tvg-id="28828" tvg-name="UK231:VIRGIN MEDIA 3" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK231" group-title="🐉英国频道🦁",UK231:VIRGIN MEDIA 3
+http://mohdtv.com:8880//voby3837/28337929/28828
+#EXTINF:-1 tvg-id="28826" tvg-name="UK233:DMAX HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK233DMAXHD.png" group-title="🐉英国频道🦁",UK233:DMAX HD
+http://mohdtv.com:8880//voby3837/28337929/28826
+#EXTINF:-1 tvg-id="28825" tvg-name="UK234:SONY CHANNEL" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK234Drama.png" group-title="🐉英国频道🦁",UK234:SONY CHANNEL
+http://mohdtv.com:8880//voby3837/28337929/28825
+#EXTINF:-1 tvg-id="28824" tvg-name="UK235:SONY MOVIE" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK235" group-title="🐉英国频道🦁",UK235:SONY MOVIE
+http://mohdtv.com:8880//voby3837/28337929/28824
+#EXTINF:-1 tvg-id="28823" tvg-name="UK236:SONY MAX" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/" group-title="🐉英国频道🦁",UK236:SONY MAX
+http://mohdtv.com:8880//voby3837/28337929/28823
+#EXTINF:-1 tvg-id="28822" tvg-name="UK237:SONY MAX 2" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK237ELEVENSPORTS2FHD.png" group-title="🐉英国频道🦁",UK237:SONY MAX 2
+http://mohdtv.com:8880//voby3837/28337929/28822
+#EXTINF:-1 tvg-id="28821" tvg-name="UK238:SONY SAB" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK238BBCOneScotland.png" group-title="🐉英国频道🦁",UK238:SONY SAB
+http://mohdtv.com:8880//voby3837/28337929/28821
+#EXTINF:-1 tvg-id="28819" tvg-name="UK240:NOW 90S " tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK240" group-title="🐉英国频道🦁",UK240:NOW 90S 
+http://mohdtv.com:8880//voby3837/28337929/28819
+#EXTINF:-1 tvg-id="28816" tvg-name="UK243:Box Hits" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK243" group-title="🐉英国频道🦁",UK243:Box Hits
+http://mohdtv.com:8880//voby3837/28337929/28816
+#EXTINF:-1 tvg-id="28810" tvg-name="UK249:Gold TV FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK249GOLDFHD.png" group-title="🐉英国频道🦁",UK249:Gold TV FHD
+http://mohdtv.com:8880//voby3837/28337929/28810
+#EXTINF:-1 tvg-id="28809" tvg-name="UK250:History Channel 2 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK250H2FHD.png" group-title="🐉英国频道🦁",UK250:History Channel 2 HD
+http://mohdtv.com:8880//voby3837/28337929/28809
+#EXTINF:-1 tvg-id="28801" tvg-name="UK258:ITVBE" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK258ITVBE.png" group-title="🐉英国频道🦁",UK258:ITVBE
+http://mohdtv.com:8880//voby3837/28337929/28801
+#EXTINF:-1 tvg-id="28793" tvg-name="UK266:Love Nature" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK266LoveNature.png" group-title="🐉英国频道🦁",UK266:Love Nature
+http://mohdtv.com:8880//voby3837/28337929/28793
+#EXTINF:-1 tvg-id="28791" tvg-name="UK268:COMEDY CENTRAL EXTRA" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/" group-title="🐉英国频道🦁",UK268:COMEDY CENTRAL EXTRA
+http://mohdtv.com:8880//voby3837/28337929/28791
+#EXTINF:-1 tvg-id="28790" tvg-name="UK269:SKY CRIME " tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/" group-title="🐉英国频道🦁",UK269:SKY CRIME 
+http://mohdtv.com:8880//voby3837/28337929/28790
+#EXTINF:-1 tvg-id="28789" tvg-name="UK270:Five HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK270MOVIES4MEN.png" group-title="🐉英国频道🦁",UK270:Five HD
+http://mohdtv.com:8880//voby3837/28337929/28789
+#EXTINF:-1 tvg-id="28785" tvg-name="UK274:NOW 80S" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK274MTVRocksHD.png" group-title="🐉英国频道🦁",UK274:NOW 80S
+http://mohdtv.com:8880//voby3837/28337929/28785
+#EXTINF:-1 tvg-id="28779" tvg-name="UK280:PBS America" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK280PBSAmerica.png" group-title="🐉英国频道🦁",UK280:PBS America
+http://mohdtv.com:8880//voby3837/28337929/28779
+#EXTINF:-1 tvg-id="28773" tvg-name="UK286:STV " tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK286RedBullHD.png" group-title="🐉英国频道🦁",UK286:STV 
+http://mohdtv.com:8880//voby3837/28337929/28773
+#EXTINF:-1 tvg-id="28771" tvg-name="UK288:YESTERDAY " tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK288RedBull.png" group-title="🐉英国频道🦁",UK288:YESTERDAY 
+http://mohdtv.com:8880//voby3837/28337929/28771
+#EXTINF:-1 tvg-id="28770" tvg-name="UK289:SKY NATURE " tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/" group-title="🐉英国频道🦁",UK289:SKY NATURE 
+http://mohdtv.com:8880//voby3837/28337929/28770
+#EXTINF:-1 tvg-id="28769" tvg-name="UK290:SKY DOCUMENTARIES " tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK290" group-title="🐉英国频道🦁",UK290:SKY DOCUMENTARIES 
+http://mohdtv.com:8880//voby3837/28337929/28769
+#EXTINF:-1 tvg-id="28766" tvg-name="UK293:ZING " tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/" group-title="🐉英国频道🦁",UK293:ZING 
+http://mohdtv.com:8880//voby3837/28337929/28766
+#EXTINF:-1 tvg-id="28765" tvg-name="UK294:VICELAND " tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK294" group-title="🐉英国频道🦁",UK294:VICELAND 
+http://mohdtv.com:8880//voby3837/28337929/28765
 
 
 #EXTINF:-1 group-title="🐉电影频道🎥",超级电影
@@ -8803,24 +8902,7 @@ http://116.226.8.253:8881/udp/239.45.1.127:5140
 http://116.226.8.253:8881/udp/239.45.3.237:5140
 #EXTINF:-1 tvg-name="「电信3」欢笑剧场" tvg-logo="https://live.fanmingming.com/tv/「电信3」欢笑剧场.png" group-title="🐉上海频道",「电信3」欢笑剧场
 http://116.226.8.253:8881/udp/239.45.3.196:5140
-#EXTINF:-1 tvg-name="上海新闻综合" tvg-logo="https://live.fanmingming.com/tv/上视新闻.png" group-title="上海频道2",上海新闻
-http://[2409:8087:5e08:24::11]:6610/000000001000/2000000002000000005/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000005&IASHttpSessionId=OTT19019320240419154124000281
-#EXTINF:-1 tvg-name="上海都市" tvg-logo="https://live.fanmingming.com/tv/上海都市.png" group-title="上海频道2",上海都市
-http://[2409:8087:5e08:24::11]:6610/000000001000/2000000002000000012/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000012&IASHttpSessionId=OTT19019320240419154124000281
-#EXTINF:-1 tvg-name="上海外语" tvg-logo="https://live.fanmingming.com/tv/上海外语.png" group-title="上海频道2",上海外语
-http://[2409:8087:5e08:24::11]:6610/000000001000/2000000002000000001/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000001&IASHttpSessionId=OTT19019320240419154124000281
-#EXTINF:-1 tvg-name="七彩戏剧" tvg-logo="https://live.fanmingming.com/tv/七彩戏剧.png" group-title="上海频道2",七彩戏剧
-http://[2409:8087:5e08:24::11]:6610/000000001000/2000000002000000010/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000010&IASHttpSessionId=OTT19019320240419154124000281
-#EXTINF:-1 tvg-name="五星体育" tvg-logo="https://live.fanmingming.com/tv/五星体育.png" group-title="上海频道2",五星体育
-http://[2409:8087:5e08:24::11]:6610/000000001000/2000000002000000007/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000007&IASHttpSessionId=OTT19019320240419154124000281
-#EXTINF:-1 tvg-name="东方影视" tvg-logo="https://live.fanmingming.com/tv/东方影视.png" group-title="上海频道2",东方影视
-http://[2409:8087:5e08:24::11]:6610/000000001000/2000000002000000013/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000013&IASHttpSessionId=OTT19019320240419154124000281
-#EXTINF:-1 tvg-name="东方财经" tvg-logo="https://live.fanmingming.com/tv/东方财经.png" group-title="上海频道2",东方财经
-http://[2409:8087:5e08:24::11]:6610/000000001000/2000000002000000090/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000090&IASHttpSessionId=OTT19019320240419154124000281
-#EXTINF:-1 tvg-name="法治天地" tvg-logo="https://live.fanmingming.com/tv/法治天地.png" group-title="上海频道2",法治天地
-http://[2409:8087:5e08:24::11]:6610/000000001000/2000000002000000014/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000014&IASHttpSessionId=OTT19019320240419154124000281
-#EXTINF:-1 tvg-name="第一财经" tvg-logo="https://live.fanmingming.com/tv/上海第一财经.png" group-title="上海频道2,第一财经
-http://[2409:8087:5e08:24::11]:6610/000000001000/2000000002000000004/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000004&IASHttpSessionId=OTT19019320240419154124000281
+
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🐉广东频道",广州综合
 https://www.tfiplaytv.vip:3344/PLTV/d576c9ff9034305c70e14eaa7df61759e479faa57cd84db508ae6193688f567b6607f10da3f098d8e8b1d596330ef66b/df.php?id=zhonghe&token=97e87ad51e378c60f5b6fad4443d5ce7fda52abf4c24dd77a0dfd9ee963a4dd3
