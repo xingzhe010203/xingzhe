@@ -9,18 +9,29 @@
 #EXTINF:-1 tvg-name="订阅问客服" tvg-logo="https://epg.iill.top/logo/温馨提示.png" group-title="👉不加此微信无售后👈",👉不加此微信无售后👈
 
 
+#EXTINF:-1 tvg-logo="https://assets.livednow.com/sport/美网.png" group-title="🎾2024美网🎾",咪咕直播信号
+http://[2409:8087:1a01:df::4046]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226472/index.m3u8
+#EXTINF:-1 tvg-logo="https://assets.livednow.com/sport/美网.png" group-title="🎾2024美网🎾",《早安美网》第11期
+https://livednow.com/iqiyi/list?id=0770882a2a604e6db8221027b52763f8&token=15PkZVDZyd9QNSfgURpgL3QJV2Nxm2tN4hb7HSoO0wK3H8swKLnDKp6KNm14O7DI65xI7a
+#EXTINF:-1 tvg-logo="https://assets.livednow.com/sport/美网.png" group-title="🎾2024美网🎾",美网女单1/4决赛 郑钦文0-2萨巴伦卡
+https://mgsp.vod.miguvideo.com/depository_nas03/asset/zhengshi/5105/585/266/5105585266/media/5105585266_5278248621_56.mp4.m3u8?msisdn=861c65bfe7928b484a3758db9814b318&mdspid=&spid=800033&netType=0&sid=5700942409&pid=2028600738&timestamp=20240907183942&Channel_ID=0132_10010001005&ProgramID=931028591&ParentNodeID=-99&assertID=5700942409&client_ip=218.14.62.101&SecurityKey=20240907183942&promotionId=&mvid=5105585266&mcid=1003&mpid=120000520614&playurlVersion=WX-A1-7.8.2-RELEASE&userid=1046696912&jmhm=861c65bfe7928b484a3758db9814b318&videocodec=h264&bean=mgspwww&encrypt=d5f414f1bab9f62697579e1fca79a2ec&sv=10000&ct=www
 
-
-
-
-#EXTINF:-1 tvg-id="621" tvg-name="Now Sports 英超1台" tvg-logo="https://live.hkdvb.com/static/logos/621.jpg" group-title="🦁欧洲五大联赛🦁", Now Sports 英超1台
+#EXTINF:-1 tvg-id="621" tvg-name="Now Sports 英超1台" tvg-logo="https://live.hkdvb.com/static/logos/621.jpg" group-title="🦁Now体育🦁", Now Sports 英超1台
 https://live.hkdvb.com/hls/live/621.m3u8?token=645582076445879
-#EXTINF:-1 tvg-id="630" tvg-name="Now Sports Prime" tvg-logo="https://live.hkdvb.com/static/logos/630.png" group-title="🦁欧洲五大联赛🦁", Now Sports Prime
+#EXTINF:-1 tvg-id="630" tvg-name="Now Sports Prime" tvg-logo="https://live.hkdvb.com/static/logos/630.png" group-title="🦁Now体育🦁", Now Sports Prime
 https://live.hkdvb.com/hls/live/630.m3u8?token=645582076445879
-#EXTINF:-1 tvg-id="632" tvg-name="Now Sports 632" tvg-logo="https://live.hkdvb.com/static/logos/632.jpg" group-title="🦁欧洲五大联赛🦁", Now Sports 632
+#EXTINF:-1 tvg-id="632" tvg-name="Now Sports 632" tvg-logo="https://live.hkdvb.com/static/logos/632.jpg" group-title="🦁Now体育🦁", Now Sports 632
 https://live.hkdvb.com/hls/live/632.m3u8?token=645582076445879
-#EXTINF:-1,tvg-id="NOWSPORTS英超1" tvg-name="NOWSPORTS英超1" tvg-logo="https://epg.v1.mk/logo/NOWSPORTS英超1.png" group-title="🦁欧洲五大联赛🦁",Now Sports  4K 
+#EXTINF:-1,tvg-id="NOWSPORTS英超1" tvg-name="NOWSPORTS英超1" tvg-logo="https://epg.v1.mk/logo/NOWSPORTS英超1.png" 
+#EXTINF:-1,tvg-id="NOWSPORTSPLUS" tvg-name="NOWSPORTSPLUS" tvg-logo="https://epg.v1.mk/logo/NOWSPORTSPLUS.png" group-title="🦁Now体育🦁",Now Sports Plus
+https://sxj.livednow.us.kg/ziyong?id=now-sports-plus
+#EXTINF:-1,tvg-id="NOWSPORTS英超1" tvg-name="NOWSPORTS英超1" tvg-logo="https://epg.v1.mk/logo/NOWSPORTS英超1.png" group-title="🦁Now体育🦁",Now Sports 英超1
+https://sxj.livednow.us.kg/ziyong?id=now-sports-premier-league1
+#EXTINF:-1,tvg-id="NOWSPORTS英超1" tvg-name="NOWSPORTS英超1" tvg-logo="https://epg.v1.mk/logo/NOWSPORTS英超1.png" group-title="🦁Now体育🦁",Now Sports  4K 
 http://apptv.xyz:80/alia4remz/rrynDeBGS/86258
+#EXTINF:-1,tvg-id="NOWSPORTS英超1" tvg-name="NOWSPORTS英超1" tvg-logo="https://epg.v1.mk/logo/NOWSPORTS英超1.png" group-title="🦁Now体育🦁",英超4K(测试)
+https://live.9528.eu.org/a1e47204bb4070bfc7a79c10d3c64611.m3u8
+
 #EXTINF:-1 tvg-id="MytvSuper" tvg-name="myTV SUPER 直播足球3台" tvg-logo="https://assets.livednow.com/logo/MytvSuper.png" group-title="🦁欧洲五大联赛🦁", myTV SUPER 直播足球3台
 https://docker.mytvsuper.us.kg/stream/tvb/mytvsuper3/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
 #EXTINF:-1 tvg-id="MytvSuper" tvg-name="myTV SUPER 直播足球4台" tvg-logo="https://assets.livednow.com/logo/MytvSuper.png" group-title="🦁欧洲五大联赛🦁", myTV SUPER 直播足球4台
@@ -29,28 +40,26 @@ https://docker.mytvsuper.us.kg/stream/tvb/mytvsuper4/master.m3u8?u=btjson&p=213f
 https://docker.mytvsuper.us.kg/stream/tvb/mytvsuper5/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
 #EXTINF:-1 tvg-id="MytvSuper" tvg-name="myTV SUPER 直播足球6台" tvg-logo="https://assets.livednow.com/logo/MytvSuper.png" group-title="🦁欧洲五大联赛🦁", myTV SUPER 直播足球6台
 https://docker.mytvsuper.us.kg/stream/tvb/mytvsuper6/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
-#EXTINF:-1,tvg-id="NOWSPORTS英超1" tvg-name="NOWSPORTS英超1" tvg-logo="https://epg.v1.mk/logo/NOWSPORTS英超1.png" group-title="🦁欧洲五大联赛🦁",UK: Sky Sports Premier League FHD 1
+#EXTINF:-1,tvg-id="NOWSPORTS英超1" tvg-name="NOWSPORTS英超1" tvg-logo="https://gitee.com/n7y7/Logo/raw/master/Sky%20Sports%20Premier%20League.png" group-title="🦁欧洲五大联赛🦁",UK: Sky Sports Premier League FHD 1
 http://rhsbjv7k.tvclub.xyz/iptv/FAGK589PV9BQAG/9334/index.m3u8
-#EXTINF:-1,tvg-id="NOWSPORTS英超1" tvg-name="NOWSPORTS英超1" tvg-logo="https://epg.v1.mk/logo/NOWSPORTS英超1.png" group-title="🦁欧洲五大联赛🦁",UK: Sky Sports Premier League FHD 2
+#EXTINF:-1,tvg-id="NOWSPORTS英超1" tvg-name="NOWSPORTS英超1" tvg-logo="https://gitee.com/n7y7/Logo/raw/master/Sky%20Sports%20Premier%20League.png" group-title="🦁欧洲五大联赛🦁",UK: Sky Sports Premier League FHD 2
 http://rhsbjv7k.tvclub.xyz/iptv/FAGK589PV9BQAG/7335/index.m3u8
-#EXTINF:-1,tvg-id="NOWSPORTS英超1" tvg-name="NOWSPORTS英超1" tvg-logo="https://epg.v1.mk/logo/NOWSPORTS英超1.png" group-title="🦁欧洲五大联赛🦁",NO: VIASAT SPORTS 1 FHD
+#EXTINF:-1,tvg-id="NOWSPORTS英超1" tvg-name="NOWSPORTS英超1" tvg-logo="https://gitee.com/n7y7/Logo/raw/master/VIASAT%20SPORTS%20premier%20league.png" group-title="🦁欧洲五大联赛🦁",NO: VIASAT SPORTS 1 FHD
 http://extraott.com//7795309038/1092686646/63953
-#EXTINF:-1,tvg-id="NOWSPORTS英超1" tvg-name="NOWSPORTS英超1" tvg-logo="https://epg.v1.mk/logo/NOWSPORTS英超1.png" group-title="🦁欧洲五大联赛🦁",NO: VIASAT SPORTS 2 FHD
+#EXTINF:-1,tvg-id="NOWSPORTS英超1" tvg-name="NOWSPORTS英超1" tvg-logo="https://gitee.com/n7y7/Logo/raw/master/VIASAT%20SPORTS%20premier%20league.png" group-title="🦁欧洲五大联赛🦁",NO: VIASAT SPORTS 2 FHD
 http://extraott.com//7795309038/1092686646/63951
-#EXTINF:-1,tvg-id="NOWSPORTS英超1" tvg-name="NOWSPORTS英超1" tvg-logo="https://epg.v1.mk/logo/NOWSPORTS英超1.png" group-title="🦁欧洲五大联赛🦁",PPV| HUB PREMIER 2 FHD
+#EXTINF:-1,tvg-id="NOWSPORTS英超1" tvg-name="NOWSPORTS英超1" tvg-logo="https://gitee.com/n7y7/Logo/raw/master/HUB%20PREMIER%202%20FHD.png" group-title="🦁欧洲五大联赛🦁",PPV| HUB PREMIER 2 FHD
 http://extraott.com//7795309038/1092686646/9060
-#EXTINF:-1,tvg-id="NOWSPORTS英超1" tvg-name="NOWSPORTS英超1" tvg-logo="https://epg.v1.mk/logo/NOWSPORTS英超1.png" group-title="🦁欧洲五大联赛🦁",Hub Premier 2 4K
+#EXTINF:-1,tvg-id="NOWSPORTS英超1" tvg-name="NOWSPORTS英超1" tvg-logo="https://gitee.com/n7y7/Logo/raw/master/HUB%20PREMIER%202%20FHD.png" group-title="🦁欧洲五大联赛🦁",Hub Premier 2 4K
 http://apptv.xyz:80/alia4remz/rrynDeBGS/86270
-#EXTINF:-1,tvg-id="NOWSPORTS英超1" tvg-name="NOWSPORTS英超1" tvg-logo="https://epg.v1.mk/logo/NOWSPORTS英超1.png" group-title="🦁欧洲五大联赛🦁",Eleven Sports 1 4K
+#EXTINF:-1,tvg-id="NOWSPORTS英超1" tvg-name="NOWSPORTS英超1" tvg-logo="https://gitee.com/n7y7/Logo/raw/master/Eleven%20Sports%204K.png" group-title="🦁欧洲五大联赛🦁",Eleven Sports 1 4K
 https://stream1.freetv.fun/eleven-sports-1-4k-1.ctv
-#EXTINF:-1,tvg-id="NOWSPORTS英超1" tvg-name="NOWSPORTS英超1" tvg-logo="https://epg.v1.mk/logo/NOWSPORTS英超1.png" group-title="🦁欧洲五大联赛🦁",Astro SuperSport 4K
+#EXTINF:-1,tvg-id="NOWSPORTS英超1" tvg-name="NOWSPORTS英超1" tvg-logo="https://gitee.com/n7y7/Logo/raw/master/Astro%20SuperSport.png" group-title="🦁欧洲五大联赛🦁",Astro SuperSport 4K
 http://apptv.xyz:80/alia4remz/rrynDeBGS/86257
-#EXTINF:-1,tvg-id="NOWSPORTS英超1" tvg-name="NOWSPORTS英超1" tvg-logo="https://epg.v1.mk/logo/NOWSPORTS英超1.png" group-title="🦁欧洲五大联赛🦁",BeIN Sport Arabic 4K
+#EXTINF:-1,tvg-id="NOWSPORTS英超1" tvg-name="NOWSPORTS英超1" tvg-logo="https://gitee.com/n7y7/Logo/raw/master/BeIN%20Sport%20Arabic%204K.png" group-title="🦁欧洲五大联赛🦁",BeIN Sport Arabic 4K
 http://apptv.xyz:80/alia4remz/rrynDeBGS/86259
-#EXTINF:-1,tvg-id="NOWSPORTS英超1" tvg-name="NOWSPORTS英超1" tvg-logo="https://epg.v1.mk/logo/NOWSPORTS英超1.png" group-title="🦁欧洲五大联赛🦁",Sky Sports Main Event 4K
+#EXTINF:-1,tvg-id="NOWSPORTS英超1" tvg-name="NOWSPORTS英超1" tvg-logo="https://gitee.com/n7y7/Logo/raw/master/sky-sports-main-event-1.webp" group-title="🦁欧洲五大联赛🦁",UK: Sky Sports Main Event 4K
 http://doubleclicktv.live/70376812/52663544/620667
-
-
 
 
 #EXTINF:-1 tvg-id="1987" tvg-name="五星体育频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/wuxingtiyu.png" group-title="🐉国内体育🐉",五星体育「IPV6」
