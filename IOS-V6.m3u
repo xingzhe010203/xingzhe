@@ -1121,6 +1121,7 @@ http://shuma004.chunfengyun.top:8080/live/109/hls.m3u8
 http://37.27.111.214:8080/live/111/hls.m3u8
 #EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/影视3.png" group-title="港澳频道",影视3
 http://shuma004.chunfengyun.top:8080/live/111/hls.m3u8
+
 #EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/AMC电影台.png" group-title="港澳A组",AMC电影台
 https://litv.zapi.us.kg/?id=4gtv-4gtv017
 #EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/CAT电影台.png" group-title="港澳A组",CAT电影台
@@ -1385,6 +1386,8 @@ http://37.27.111.214:8080/live/48/hls.m3u8
 http://37.27.111.214:8080/live/35/hls.m3u8
 #EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/综艺.png" group-title="港澳B组",综艺
 http://37.27.111.214:8080/live/67/hls.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/BLOOMBERG.png" group-title="港澳C组",BLOOMBERG
 http://shuma004.chunfengyun.top:8080/live/34/hls.m3u8
 #EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/CINEMAWOR.png" group-title="港澳C组",CINEMAWOR
@@ -1510,6 +1513,27 @@ http://shuma004.chunfengyun.top:8080/live/67/hls.m3u8
 
 
 
+
+#EXTINF:-1 tvg-id="10031" tvg-name="英超-1" tvg-logo="https://gitee.com/ttxsxs/home-tv/raw/master/tvicon/SliveYC.png" group-title="🦁欧洲五大联赛🦁",Now Sports  4K
+http://apptv.xyz:80/alia4remz/rrynDeBGS/86258
+#EXTINF:-1 tvg-id="10031" tvg-name="英超-1" tvg-logo="https://gitee.com/ttxsxs/home-tv/raw/master/tvicon/SliveYC.png" group-title="🦁欧洲五大联赛🦁",UK: Sky Sports Premier League FHD 1
+http://rhsbjv7k.tvclub.xyz/iptv/FAGK589PV9BQAG/9334/index.m3u8
+#EXTINF:-1 tvg-id="10031" tvg-name="英超-1" tvg-logo="https://gitee.com/ttxsxs/home-tv/raw/master/tvicon/SliveYC.png" group-title="🦁欧洲五大联赛🦁",UK: Sky Sports Premier League FHD 2
+http://rhsbjv7k.tvclub.xyz/iptv/FAGK589PV9BQAG/7335/index.m3u8
+#EXTINF:-1 tvg-id="10031" tvg-name="英超-1" tvg-logo="https://gitee.com/ttxsxs/home-tv/raw/master/tvicon/SliveYC.png" group-title="🦁欧洲五大联赛🦁",NO: VIASAT SPORTS 1 FHD
+http://extraott.com//7795309038/1092686646/63953
+#EXTINF:-1 tvg-id="10031" tvg-name="英超-1" tvg-logo="https://gitee.com/ttxsxs/home-tv/raw/master/tvicon/SliveYC.png" group-title="🦁欧洲五大联赛🦁",NO: VIASAT SPORTS 2 FHD
+http://extraott.com//7795309038/1092686646/63951
+#EXTINF:-1 tvg-id="10031" tvg-name="英超-1" tvg-logo="https://gitee.com/ttxsxs/home-tv/raw/master/tvicon/SliveYC.png" group-title="🦁欧洲五大联赛🦁",Hub Premier 2 4K
+http://apptv.xyz:80/alia4remz/rrynDeBGS/86270
+#EXTINF:-1 tvg-id="10031" tvg-name="英超-1" tvg-logo="https://gitee.com/ttxsxs/home-tv/raw/master/tvicon/SliveYC.png" group-title="🦁欧洲五大联赛🦁",Eleven Sports 1 4K
+https://stream1.freetv.fun/eleven-sports-1-4k-1.ctv
+#EXTINF:-1 tvg-id="10031" tvg-name="英超-1" tvg-logo="https://gitee.com/ttxsxs/home-tv/raw/master/tvicon/SliveYC.png" group-title="🦁欧洲五大联赛🦁",Astro SuperSport 4K
+http://apptv.xyz:80/alia4remz/rrynDeBGS/86257
+#EXTINF:-1 tvg-id="10031" tvg-name="英超-1" tvg-logo="https://gitee.com/ttxsxs/home-tv/raw/master/tvicon/SliveYC.png" group-title="🦁欧洲五大联赛🦁",BeIN Sport Arabic 4K
+http://apptv.xyz:80/alia4remz/rrynDeBGS/86259
+#EXTINF:-1 tvg-id="10031" tvg-name="英超-1" tvg-logo="https://gitee.com/ttxsxs/home-tv/raw/master/tvicon/SliveYC.png" group-title="🦁欧洲五大联赛🦁",Sky Sports Main Event 4K
+http://doubleclicktv.live/70376812/52663544/620667
 
 
 
@@ -2768,8 +2792,11 @@ http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/
 http://[2409:8087:1a0b:df::4013]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226425/index.m3u8
 #EXTINF:-1 tvg-name="CETV4" tvg-logo="https://live.fanmingming.com/tv/CETV4.png" group-title="🐉数字高清🐯",CETV4
 http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225783/index.m3u8
+
 #EXTINF:-1 group-title="🐉4K-8K频道",江苏频道 4K
 http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
+#EXTINF:-1 tvg-id="CCTV4K" tvg-name="CCTV4K" tvg-logo="https://live.fanmingming.com/tv/CCTV4K.png" group-title="🐉4K-8K频道",CCTV4K 超高清
+http://148.135.93.213:81/live.php?id=CCTV4K
 #EXTINF:-1 tvg-id="7245" tvg-name="中国教育4台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育4台.png" group-title="🐉4K-8K频道",4K·UHD「IPV6」
 http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010006/1.m3u8
 #EXTINF:-1 tvg-id="7245" tvg-name="中国教育4台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育4台.png" group-title="🐉4K-8K频道",4K 影视2「IPV6」
@@ -3928,557 +3955,579 @@ http://free.xiptv.x10.bz/4gtv.php?id=litv-longturn22
 https://cloud.wujiyan.cc/f/Wk6Hy/1.mp4
 #EXTINF:-1 tvg-name="订阅问客服" tvg-logo="https://epg.iill.top/logo/温馨提示.png" group-title="🐉湾湾频道「线路2」",👉以下频道需要魔法👈
 https://cloud.wujiyan.cc/f/Wk6Hy/1.mp4
-#EXTINF:-1 tvg-id="民視" tvg-name="民視" tvg-logo="https://assets.livednow.com/logo/民視.png" group-title="🐉湾湾频道「线路2」",民視
-https://4gtv.livednow.us.kg/litv/4gtv-4gtv002
-#EXTINF:-1 tvg-id="民視第一台" tvg-name="民視第一台" tvg-logo="https://assets.livednow.com/logo/民視第一台.png" group-title="🐉湾湾频道「线路2」",民視第一台
-https://4gtv.livednow.us.kg/litv/4gtv-4gtv003
-#EXTINF:-1 tvg-id="民視新聞台" tvg-name="民視新聞台" tvg-logo="https://assets.livednow.com/logo/民視新聞台.png" group-title="🐉湾湾频道「线路2」",民視新聞台
-https://4gtv.livednow.us.kg/litv/litv-ftv13
-#EXTINF:-1 tvg-id="民視台灣台" tvg-name="民視台灣台" tvg-logo="https://assets.livednow.com/logo/民視台灣台.png" group-title="🐉湾湾频道「线路2」",民視台灣台
-https://4gtv.livednow.us.kg/litv/4gtv-4gtv001
-#EXTINF:-1 tvg-id="民視影劇台" tvg-name="民視影劇台" tvg-logo="https://assets.livednow.com/logo/民視影劇台.png" group-title="🐉湾湾频道「线路2」",民視影劇台
-https://4gtv.livednow.us.kg/litv/litv-ftv09
-#EXTINF:-1 tvg-id="民視旅遊台" tvg-name="民視旅遊台" tvg-logo="https://assets.livednow.com/logo/民視旅遊台.png" group-title="🐉湾湾频道「线路2」",民視旅遊台
-https://4gtv.livednow.us.kg/litv/litv-ftv07
-#EXTINF:-1 tvg-id="民視綜藝台" tvg-name="民視綜藝台" tvg-logo="https://assets.livednow.com/logo/民視綜藝台.png" group-title="🐉湾湾频道「线路2」",民視綜藝台
-https://4gtv.livednow.us.kg/litv/4gtv-4gtv004
-#EXTINF:-1 tvg-id="中視" tvg-name="中視" tvg-logo="https://assets.livednow.com/logo/中視.png" group-title="🐉湾湾频道「线路2」",中視
-https://4gtv.livednow.us.kg/litv/4gtv-4gtv040
-#EXTINF:-1 tvg-id="中視新聞台" tvg-name="中視新聞台" tvg-logo="https://assets.livednow.com/logo/中視新聞台.png" group-title="🐉湾湾频道「线路2」",中視新聞台
-https://4gtv.livednow.us.kg/litv/4gtv-4gtv074
-#EXTINF:-1 tvg-id="中視經典台" tvg-name="中視經典台" tvg-logo="https://assets.livednow.com/logo/中視經典台.png" group-title="🐉湾湾频道「线路2」",中視經典台
-https://4gtv.livednow.us.kg/litv/4gtv-4gtv080
-#EXTINF:-1 tvg-id="中視菁采台" tvg-name="中視菁采台" tvg-logo="https://assets.livednow.com/logo/中視菁采台.png" group-title="🐉湾湾频道「线路2」",中視菁采台
-https://4gtv.livednow.us.kg/litv/4gtv-4gtv064
-#EXTINF:-1 tvg-id="中天新聞台" tvg-name="中天新聞台" tvg-logo="https://assets.livednow.com/logo/中天新聞台.png" group-title="🐉湾湾频道「线路2」",中天新聞台
-https://4gtv.livednow.us.kg/litv/4gtv-4gtv009
-#EXTINF:-1 tvg-id="中天亞洲台" tvg-name="中天亞洲台" tvg-logo="https://assets.livednow.com/logo/中天亞洲台.png" group-title="🐉湾湾频道「线路2」",中天亞洲台
-https://4gtv.livednow.us.kg/litv/4gtv-4gtv109
-#EXTINF:-1 tvg-id="華視" tvg-name="華視" tvg-logo="https://assets.livednow.com/logo/華視.png" group-title="🐉湾湾频道「线路2」",華視
-https://4gtv.livednow.us.kg/litv/4gtv-4gtv041
-#EXTINF:-1 tvg-id="華視新聞" tvg-name="華視新聞" tvg-logo="https://assets.livednow.com/logo/華視新聞.png" group-title="🐉湾湾频道「线路2」",華視新聞
-https://4gtv.livednow.us.kg/litv/4gtv-4gtv052
-#EXTINF:-1 tvg-id="靖天綜合台" tvg-name="靖天綜合台" tvg-logo="https://assets.livednow.com/logo/靖天綜合台.png" group-title="🐉湾湾频道「线路2」",靖天綜合台
-https://4gtv.livednow.us.kg/litv/4gtv-4gtv046
-#EXTINF:-1 tvg-id="靖天國際台" tvg-name="靖天國際台" tvg-logo="https://assets.livednow.com/logo/靖天國際台.png" group-title="🐉湾湾频道「线路2」",靖天國際台
-https://4gtv.livednow.us.kg/litv/4gtv-4gtv063
-#EXTINF:-1 tvg-id="靖天戲劇台" tvg-name="靖天戲劇台" tvg-logo="https://assets.livednow.com/logo/靖天戲劇台.png" group-title="🐉湾湾频道「线路2」",靖天戲劇台
-https://4gtv.livednow.us.kg/litv/4gtv-4gtv058
-#EXTINF:-1 tvg-id="靖天日本台" tvg-name="靖天日本台" tvg-logo="https://assets.livednow.com/logo/靖天日本台.png" group-title="🐉湾湾频道「线路2」",靖天日本台
-https://4gtv.livednow.us.kg/litv/4gtv-4gtv047
-#EXTINF:-1 tvg-id="靖天映畫台" tvg-name="靖天映畫台" tvg-logo="https://assets.livednow.com/logo/靖天映畫台.png" group-title="🐉湾湾频道「线路2」",靖天映畫台
-https://4gtv.livednow.us.kg/litv/4gtv-4gtv055
-#EXTINF:-1 tvg-id="靖天卡通台" tvg-name="靖天卡通台" tvg-logo="https://assets.livednow.com/logo/靖天卡通台.png" group-title="🐉湾湾频道「线路2」",靖天卡通台
-https://4gtv.livednow.us.kg/litv/4gtv-4gtv044
-#EXTINF:-1 tvg-id="靖天育樂台" tvg-name="靖天育樂台" tvg-logo="https://assets.livednow.com/logo/靖天育樂台.png" group-title="🐉湾湾频道「线路2」",靖天育樂台
-https://4gtv.livednow.us.kg/litv/4gtv-4gtv062
-#EXTINF:-1 tvg-id="靖天資訊台" tvg-name="靖天資訊台" tvg-logo="https://assets.livednow.com/logo/靖天資訊台.png" group-title="🐉湾湾频道「线路2」",靖天資訊台
-https://4gtv.livednow.us.kg/litv/4gtv-4gtv065
-#EXTINF:-1 tvg-id="靖天電影台" tvg-name="靖天電影台" tvg-logo="https://assets.livednow.com/logo/靖天電影台.png" group-title="🐉湾湾频道「线路2」",靖天電影台
-https://4gtv.livednow.us.kg/litv/4gtv-4gtv061
-#EXTINF:-1 tvg-id="靖天歡樂台" tvg-name="靖天歡樂台" tvg-logo="https://assets.livednow.com/logo/靖天歡樂台.png" group-title="🐉湾湾频道「线路2」",靖天歡樂台
-https://4gtv.livednow.us.kg/litv/4gtv-4gtv054
-#EXTINF:-1 tvg-id="龍華偶像台" tvg-name="龍華偶像台" tvg-logo="https://assets.livednow.com/logo/龍華偶像台.png" group-title="🐉湾湾频道「线路2」",龍華偶像台
-https://4gtv.livednow.us.kg/litv/litv-longturn12
-#EXTINF:-1 tvg-id="龍華卡通台" tvg-name="龍華卡通台" tvg-logo="https://assets.livednow.com/logo/龍華卡通台.png" group-title="🐉湾湾频道「线路2」",龍華卡通台
-https://4gtv.livednow.us.kg/litv/litv-longturn01
-#EXTINF:-1 tvg-id="龍華戲劇台" tvg-name="龍華戲劇台" tvg-logo="https://assets.livednow.com/logo/龍華戲劇台.png" group-title="🐉湾湾频道「线路2」",龍華戲劇台
-https://4gtv.livednow.us.kg/litv/litv-longturn18
-#EXTINF:-1 tvg-id="龍華日韓台" tvg-name="龍華日韓台" tvg-logo="https://assets.livednow.com/logo/龍華日韓台.png" group-title="🐉湾湾频道「线路2」",龍華日韓台
-https://4gtv.livednow.us.kg/litv/litv-longturn11
-#EXTINF:-1 tvg-id="龍華經典台" tvg-name="龍華經典台" tvg-logo="https://assets.livednow.com/logo/龍華經典台.png" group-title="🐉湾湾频道「线路2」",龍華經典台
-https://4gtv.livednow.us.kg/litv/litv-longturn21
-#EXTINF:-1 tvg-id="龍華電影台" tvg-name="龍華電影台" tvg-logo="https://assets.livednow.com/logo/龍華電影台.png" group-title="🐉湾湾频道「线路2」",龍華電影台
-https://4gtv.livednow.us.kg/litv/litv-longturn03
-#EXTINF:-1 tvg-id="靖洋戲劇台" tvg-name="靖洋戲劇台" tvg-logo="https://assets.livednow.com/logo/靖洋戲劇台.png" group-title="🐉湾湾频道「线路2」",靖洋戲劇台
-https://4gtv.livednow.us.kg/litv/4gtv-4gtv045
-#EXTINF:-1 tvg-id="靖洋卡通-Nice-Bingo" tvg-name="靖洋卡通 Nice Bingo" tvg-logo="https://assets.livednow.com/logo/靖洋卡通-Nice-Bingo.png" group-title="🐉湾湾频道「线路2」",靖洋卡通 Nice Bingo
-https://4gtv.livednow.us.kg/litv/4gtv-4gtv057
-#EXTINF:-1 tvg-id="寰宇新聞台" tvg-name="寰宇新聞台" tvg-logo="https://assets.livednow.com/logo/寰宇新聞台.png" group-title="🐉湾湾频道「线路2」",寰宇新聞台
-https://4gtv.livednow.us.kg/litv/litv-longturn14
-#EXTINF:-1 tvg-id="寰宇新聞台灣台" tvg-name="寰宇新聞台灣台" tvg-logo="https://assets.livednow.com/logo/寰宇新聞台灣台.png" group-title="🐉湾湾频道「线路2」",寰宇新聞台灣台
-https://4gtv.livednow.us.kg/litv/litv-longturn15
-#EXTINF:-1 tvg-id="寰宇財經台" tvg-name="寰宇財經台" tvg-logo="https://assets.livednow.com/logo/寰宇財經台.png" group-title="🐉湾湾频道「线路2」",寰宇財經台
-https://4gtv.livednow.us.kg/litv/litv-longturn23
-#EXTINF:-1 tvg-id="TVBS" tvg-name="TVBS" tvg-logo="https://assets.livednow.com/logo/TVBS.png" group-title="🐉湾湾频道「线路2」",TVBS
-https://4gtv.livednow.us.kg/litv/4gtv-4gtv073
-#EXTINF:-1 tvg-id="TVBS-新聞台" tvg-name="TVBS 新聞台" tvg-logo="https://assets.livednow.com/logo/TVBS-新聞台.png" group-title="🐉湾湾频道「线路2」",TVBS 新聞台
-https://4gtv.livednow.us.kg/litv/4gtv-4gtv072
-#EXTINF:-1 tvg-id="TVBS-綜藝台" tvg-name="TVBS 綜藝台" tvg-logo="https://assets.livednow.com/logo/TVBS-綜藝台.png" group-title="🐉湾湾频道「线路2」",TVBS 綜藝台
-https://4gtv.livednow.us.kg/4gtv/284
-#EXTINF:-1 tvg-id="TVBS-歡樂台" tvg-name="TVBS 歡樂台" tvg-logo="https://assets.livednow.com/logo/TVBS-歡樂台.png" group-title="🐉湾湾频道「线路2」",TVBS 歡樂台
-https://4gtv.livednow.us.kg/litv/4gtv-4gtv068
-#EXTINF:-1 tvg-id="TVBS-精采台" tvg-name="TVBS 精采台" tvg-logo="https://assets.livednow.com/logo/TVBS-精采台.png" group-title="🐉湾湾频道「线路2」",TVBS 精采台
-https://4gtv.livednow.us.kg/litv/4gtv-4gtv067
-#EXTINF:-1 tvg-id="TVBS-台劇台" tvg-name="TVBS 台劇台" tvg-logo="https://assets.livednow.com/logo/TVBS-台劇台.png" group-title="🐉湾湾频道「线路2」",TVBS 台劇台
-https://4gtv.livednow.us.kg/4gtv/285
-#EXTINF:-1 tvg-id="八大精彩台" tvg-name="八大精彩台" tvg-logo="https://assets.livednow.com/logo/八大精彩台.png" group-title="🐉湾湾频道「线路2」",八大精彩台
-https://4gtv.livednow.us.kg/litv/4gtv-4gtv034
-#EXTINF:-1 tvg-id="八大綜藝台" tvg-name="八大綜藝台" tvg-logo="https://assets.livednow.com/logo/八大綜藝台.png" group-title="🐉湾湾频道「线路2」",八大綜藝台
-https://4gtv.livednow.us.kg/litv/4gtv-4gtv039
-#EXTINF:-1 tvg-id="三立新聞" tvg-name="三立新聞" tvg-logo="https://assets.livednow.com/logo/三立新聞.png" group-title="🐉湾湾频道「线路2」",三立新聞
-https://4gtv.livednow.us.kg/4gtv/229
-#EXTINF:-1 tvg-id="三立綜合台" tvg-name="三立綜合台" tvg-logo="https://assets.livednow.com/logo/三立綜合台.png" group-title="🐉湾湾频道「线路2」",三立綜合台
-https://4gtv.livednow.us.kg/4gtv/169
-#EXTINF:-1 tvg-id="台視" tvg-name="台視" tvg-logo="https://assets.livednow.com/logo/台視.png" group-title="🐉湾湾频道「线路2」",台視
-https://4gtv.livednow.us.kg/litv/4gtv-4gtv066
-#EXTINF:-1 tvg-id="台視新聞台" tvg-name="台視新聞台" tvg-logo="https://assets.livednow.com/logo/台視新聞台.png" group-title="🐉湾湾频道「线路2」",台視新聞台
-https://4gtv.livednow.us.kg/litv/4gtv-4gtv051
-#EXTINF:-1 tvg-id="台視財經台" tvg-name="台視財經台" tvg-logo="https://assets.livednow.com/logo/台視財經台.png" group-title="🐉湾湾频道「线路2」",台視財經台
-https://4gtv.livednow.us.kg/litv/4gtv-4gtv056
-#EXTINF:-1 tvg-id="博斯運動一台" tvg-name="博斯運動一台" tvg-logo="https://assets.livednow.com/logo/博斯運動一台.png" group-title="🐉湾湾频道「线路2」",博斯運動一台
-https://4gtv.livednow.us.kg/litv/litv-longturn07
-#EXTINF:-1 tvg-id="博斯運動二台" tvg-name="博斯運動二台" tvg-logo="https://assets.livednow.com/logo/博斯運動二台.png" group-title="🐉湾湾频道「线路2」",博斯運動二台
-https://4gtv.livednow.us.kg/litv/litv-longturn08
-#EXTINF:-1 tvg-id="博斯無限台" tvg-name="博斯無限台" tvg-logo="https://assets.livednow.com/logo/博斯無限台.png" group-title="🐉湾湾频道「线路2」",博斯無限台
-https://4gtv.livednow.us.kg/litv/litv-longturn10
-#EXTINF:-1 tvg-id="博斯無限二台" tvg-name="博斯無限二台" tvg-logo="https://assets.livednow.com/logo/博斯無限二台.png" group-title="🐉湾湾频道「线路2」",博斯無限二台
-https://4gtv.livednow.us.kg/litv/litv-longturn13
-#EXTINF:-1 tvg-id="博斯網球台" tvg-name="博斯網球台" tvg-logo="https://assets.livednow.com/logo/博斯網球台.png" group-title="🐉湾湾频道「线路2」",博斯網球台
-https://4gtv.livednow.us.kg/litv/litv-longturn09
-#EXTINF:-1 tvg-id="博斯高球台" tvg-name="博斯高球台" tvg-logo="https://assets.livednow.com/logo/博斯高球台.png" group-title="🐉湾湾频道「线路2」",博斯高球台
-https://4gtv.livednow.us.kg/litv/litv-longturn05
-#EXTINF:-1 tvg-id="博斯高球二台" tvg-name="博斯高球二台" tvg-logo="https://assets.livednow.com/logo/博斯高球二台.png" group-title="🐉湾湾频道「线路2」",博斯高球二台
-https://4gtv.livednow.us.kg/litv/litv-longturn06
-#EXTINF:-1 tvg-id="博斯魅力台" tvg-name="博斯魅力台" tvg-logo="https://assets.livednow.com/logo/博斯魅力台.png" group-title="🐉湾湾频道「线路2」",博斯魅力台
-https://4gtv.livednow.us.kg/litv/litv-longturn04
-#EXTINF:-1 tvg-id="ELTA娛樂" tvg-name="ELTA 娛樂台" tvg-logo="https://assets.livednow.com/logo/ELTA娛樂.png" group-title="🐉湾湾频道「线路2」",ELTA 娛樂台
-https://4gtv.livednow.us.kg/litv/4gtv-4gtv070
-#EXTINF:-1 tvg-id="ELTA生活旅遊" tvg-name="ELTA 生活旅遊" tvg-logo="https://assets.livednow.com/logo/ELTA生活旅遊.png" group-title="🐉湾湾频道「线路2」",ELTA 生活旅遊
-https://4gtv.livednow.us.kg/4gtv/237
-#EXTINF:-1 tvg-id="ELTA生活英語" tvg-name="ELTA生活英語" tvg-logo="https://assets.livednow.com/logo/ELTA生活英語.png" group-title="🐉湾湾频道「线路2」",ELTA生活英語
-https://4gtv.livednow.us.kg/litv/litv-longturn20
-#EXTINF:-1 tvg-id="東森新聞" tvg-name="東森新聞" tvg-logo="https://assets.livednow.com/logo/東森新聞.png" group-title="🐉湾湾频道「线路2」",東森新聞
-https://4gtv.livednow.us.kg/litv/4gtv-4gtv152
-#EXTINF:-1 tvg-id="東森財經新聞" tvg-name="東森財經新聞" tvg-logo="https://assets.livednow.com/logo/東森財經新聞.png" group-title="🐉湾湾频道「线路2」",東森財經新聞
-https://4gtv.livednow.us.kg/litv/4gtv-4gtv153
-#EXTINF:-1 tvg-id="非凡新聞台" tvg-name="非凡新聞台" tvg-logo="https://assets.livednow.com/logo/非凡新聞台.png" group-title="🐉湾湾频道「线路2」",非凡新聞台
-https://4gtv.livednow.us.kg/litv/4gtv-4gtv010
-#EXTINF:-1 tvg-id="非凡商業台" tvg-name="非凡商業台" tvg-logo="https://assets.livednow.com/logo/非凡商業台.png" group-title="🐉湾湾频道「线路2」",非凡商業台
-https://4gtv.livednow.us.kg/litv/4gtv-4gtv048
-#EXTINF:-1 tvg-id="鏡電視新聞台" tvg-name="鏡電視新聞台" tvg-logo="https://assets.livednow.com/logo/鏡電視新聞台.png" group-title="🐉湾湾频道「线路2」",鏡電視新聞台
-https://4gtv.livednow.us.kg/litv/4gtv-4gtv075
-#EXTINF:-1 tvg-id="CNBC-Asia-財經台" tvg-name="CNBC Asia 財經台" tvg-logo="https://assets.livednow.com/logo/CNBC-Asia-財經台.png" group-title="🐉湾湾频道「线路2」",CNBC Asia 財經台
-https://4gtv.livednow.us.kg/4gtv/235
-#EXTINF:-1 tvg-id="亞洲旅遊台" tvg-name="亞洲旅遊台" tvg-logo="https://assets.livednow.com/logo/亞洲旅遊台.png" group-title="🐉湾湾频道「线路2」",亞洲旅遊台
-https://4gtv.livednow.us.kg/litv/litv-longturn17
-#EXTINF:-1 tvg-id="GINX-Esports-TV" tvg-name="GINX Esports TV" tvg-logo="https://assets.livednow.com/logo/GINX-Esports-TV.png" group-title="🐉湾湾频道「线路2」",GINX Esports TV
-https://4gtv.livednow.us.kg/litv/4gtv-4gtv053
-#EXTINF:-1 tvg-id="TechStorm" tvg-name="TechStorm" tvg-logo="https://assets.livednow.com/logo/TechStorm.png" group-title="🐉湾湾频道「线路2」",TechStorm
-https://4gtv.livednow.us.kg/4gtv/181
-#EXTINF:-1 tvg-id="時尚運動X" tvg-name="時尚運動X" tvg-logo="https://assets.livednow.com/logo/時尚運動X.png" group-title="🐉湾湾频道「线路2」",時尚運動X
-https://4gtv.livednow.us.kg/4gtv/277
-#EXTINF:-1 tvg-id="智林體育台" tvg-name="智林體育台" tvg-logo="https://assets.livednow.com/logo/智林體育台.png" group-title="🐉湾湾频道「线路2」",智林體育台
-https://4gtv.livednow.us.kg/litv/4gtv-4gtv101
-#EXTINF:-1 tvg-id="TraceSports" tvg-name="TraceSports" tvg-logo="https://assets.livednow.com/logo/TraceSports.png" group-title="🐉湾湾频道「线路2」",TraceSports
-https://4gtv.livednow.us.kg/litv/4gtv-4gtv077
-#EXTINF:-1 tvg-id="影迷數位紀實台" tvg-name="影迷數位紀實台" tvg-logo="https://assets.livednow.com/logo/影迷數位紀實台.png" group-title="🐉湾湾频道「线路2」",影迷數位紀實台
-https://4gtv.livednow.us.kg/4gtv/212
-#EXTINF:-1 tvg-id="影迷數位電影台" tvg-name="影迷數位電影台" tvg-logo="https://assets.livednow.com/logo/影迷數位電影台.png" group-title="🐉湾湾频道「线路2」",影迷數位電影台
-https://4gtv.livednow.us.kg/litv/4gtv-4gtv011
-#EXTINF:-1 tvg-id="AMC電影台" tvg-name="AMC 電影台" tvg-logo="https://assets.livednow.com/logo/AMC電影台.png" group-title="🐉湾湾频道「线路2」",AMC 電影台
-https://4gtv.livednow.us.kg/litv/4gtv-4gtv017
-#EXTINF:-1 tvg-id="CatchPlay-電影台" tvg-name="CatchPlay 電影台" tvg-logo="https://assets.livednow.com/logo/CatchPlay-電影台.png" group-title="🐉湾湾频道「线路2」",CatchPlay 電影台
-https://4gtv.livednow.us.kg/litv/4gtv-4gtv076
-#EXTINF:-1 tvg-id="My-Cinema-Europe-HD-我的歐洲電影" tvg-name="My Cinema Europe HD 我的歐洲電影" tvg-logo="https://assets.livednow.com/logo/My-Cinema-Europe-HD-我的歐洲電影.png" group-title="🐉湾湾频道「线路2」",My Cinema Europe HD 我的歐洲電影
-https://4gtv.livednow.us.kg/4gtv/176
-#EXTINF:-1 tvg-id="公視戲劇台" tvg-name="公視戲劇台" tvg-logo="https://assets.livednow.com/logo/公視戲劇台.png" group-title="🐉湾湾频道「线路2」",公視戲劇台
-https://4gtv.livednow.us.kg/litv/4gtv-4gtv042
-#EXTINF:-1 tvg-id="采昌影劇台" tvg-name="采昌影劇台" tvg-logo="https://assets.livednow.com/logo/采昌影劇台.png" group-title="🐉湾湾频道「线路2」",采昌影劇台
-https://4gtv.livednow.us.kg/litv/4gtv-4gtv049
-#EXTINF:-1 tvg-id="台灣戲劇台" tvg-name="台灣戲劇台" tvg-logo="https://assets.livednow.com/logo/台灣戲劇台.png" group-title="🐉湾湾频道「线路2」",台灣戲劇台
-https://4gtv.livednow.us.kg/litv/litv-longturn22
-#EXTINF:-1 tvg-id="戲劇免費看-1台" tvg-name="戲劇免費看 1台" tvg-logo="https://assets.livednow.com/logo/戲劇免費看-1台.png" group-title="🐉湾湾频道「线路2」",戲劇免費看 1台
-https://4gtv.livednow.us.kg/4gtv/270
-#EXTINF:-1 tvg-id="戲劇免費看-2台" tvg-name="戲劇免費看 2台" tvg-logo="https://assets.livednow.com/logo/戲劇免費看-2台.png" group-title="🐉湾湾频道「线路2」",戲劇免費看 2台
-https://4gtv.livednow.us.kg/4gtv/244
-#EXTINF:-1 tvg-id="經典電影台" tvg-name="經典電影台" tvg-logo="https://assets.livednow.com/logo/經典電影台.png" group-title="🐉湾湾频道「线路2」",經典電影台
-https://4gtv.livednow.us.kg/4gtv/201
-#EXTINF:-1 tvg-id="電影免費看-2台" tvg-name="電影免費看 2台" tvg-logo="https://assets.livednow.com/logo/電影免費看-2台.png" group-title="🐉湾湾频道「线路2」",電影免費看 2台
-https://4gtv.livednow.us.kg/4gtv/245
-#EXTINF:-1 tvg-id="電影原聲台CMusic" tvg-name="電影原聲台 CMusic" tvg-logo="https://assets.livednow.com/logo/電影原聲台CMusic.png" group-title="🐉湾湾频道「线路2」",電影原聲台 CMusic
-https://4gtv.livednow.us.kg/4gtv/218
-#EXTINF:-1 tvg-id="花系列-經典劇場" tvg-name="花系列 經典劇場" tvg-logo="https://assets.livednow.com/logo/花系列-經典劇場.png" group-title="🐉湾湾频道「线路2」",花系列 經典劇場
-https://4gtv.livednow.us.kg/4gtv/279
-#EXTINF:-1 tvg-id="CinemaWorld" tvg-name="CinemaWorld" tvg-logo="https://assets.livednow.com/logo/CinemaWorld.png" group-title="🐉湾湾频道「线路2」",CinemaWorld
-https://4gtv.livednow.us.kg/4gtv/225
-#EXTINF:-1 tvg-id="HITS-頻道" tvg-name="HITS 頻道" tvg-logo="https://assets.livednow.com/logo/HITS-頻道.png" group-title="🐉湾湾频道「线路2」",HITS 頻道
-https://4gtv.livednow.us.kg/4gtv/186
-#EXTINF:-1 tvg-id="Rock-Action" tvg-name="Rock Action" tvg-logo="https://assets.livednow.com/logo/Rock-Action.png" group-title="🐉湾湾频道「线路2」",Rock Action
-https://4gtv.livednow.us.kg/4gtv/180
-#EXTINF:-1 tvg-id="Rock-Entertainment" tvg-name="Rock Entertainment" tvg-logo="https://assets.livednow.com/logo/Rock-Entertainment.png" group-title="🐉湾湾频道「线路2」",Rock Entertainment
-https://4gtv.livednow.us.kg/4gtv/275
-#EXTINF:-1 tvg-id="金光布袋戲" tvg-name="金光布袋戲" tvg-logo="https://assets.livednow.com/logo/金光布袋戲.png" group-title="🐉湾湾频道「线路2」",金光布袋戲
-https://4gtv.livednow.us.kg/4gtv/236
-#EXTINF:-1 tvg-id="霹靂布袋戲" tvg-name="霹靂布袋戲" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live145_mobile.png" group-title="🐉湾湾频道「线路2」",霹靂布袋戲
-https://4gtv.livednow.us.kg/4gtv/301
-#EXTINF:-1 tvg-id="DreamWorks-夢工廠動畫" tvg-name="DreamWorks 夢工廠動畫" tvg-logo="https://assets.livednow.com/logo/DreamWorks-夢工廠動畫.png" group-title="🐉湾湾频道「线路2」",DreamWorks 夢工廠動畫
-https://4gtv.livednow.us.kg/4gtv/282
-#EXTINF:-1 tvg-id="Nickelodeon" tvg-name="Nickelodeon" tvg-logo="https://assets.livednow.com/logo/Nickelodeon.png" group-title="🐉湾湾频道「线路2」",Nickelodeon
-https://4gtv.livednow.us.kg/4gtv/185
-#EXTINF:-1 tvg-id="Nick-Jr." tvg-name="Nick Jr. 兒童頻道" tvg-logo="https://assets.livednow.com/logo/Nick-Jr..png" group-title="🐉湾湾频道「线路2」",Nick Jr. 兒童頻道
-https://4gtv.livednow.us.kg/4gtv/219
-#EXTINF:-1 tvg-id="i-Fun-動漫台" tvg-name="i-Fun 動漫台" tvg-logo="https://assets.livednow.com/logo/i-Fun-動漫台.png" group-title="🐉湾湾频道「线路2」",i-Fun 動漫台
-https://4gtv.livednow.us.kg/litv/litv-ftv15
-#EXTINF:-1 tvg-id="兒童卡通台" tvg-name="兒童卡通台" tvg-logo="https://assets.livednow.com/logo/兒童卡通台.png" group-title="🐉湾湾频道「线路2」",兒童卡通台
-https://4gtv.livednow.us.kg/4gtv/269
-#EXTINF:-1 tvg-id="精選動漫台" tvg-name="精選動漫台" tvg-logo="https://assets.livednow.com/logo/精選動漫台.png" group-title="🐉湾湾频道「线路2」",精選動漫台
-https://4gtv.livednow.us.kg/4gtv/204
-#EXTINF:-1 tvg-id="經典卡通台" tvg-name="經典卡通台" tvg-logo="https://assets.livednow.com/logo/經典卡通台.png" group-title="🐉湾湾频道「线路2」",經典卡通台
-https://4gtv.livednow.us.kg/4gtv/202
-#EXTINF:-1 tvg-id="達文西頻道" tvg-name="達文西頻道" tvg-logo="https://assets.livednow.com/logo/達文西頻道.png" group-title="🐉湾湾频道「线路2」",達文西頻道
-https://4gtv.livednow.us.kg/litv/4gtv-4gtv018
-#EXTINF:-1 tvg-id="超人力霸王整套看" tvg-name="超人力霸王整套看" tvg-logo="https://assets.livednow.com/logo/超人力霸王整套看.png" group-title="🐉湾湾频道「线路2」",超人力霸王整套看
-https://4gtv.livednow.us.kg/4gtv/278
-#EXTINF:-1 tvg-id="MOMO-親子台" tvg-name="MOMO 親子台" tvg-logo="https://assets.livednow.com/logo/MOMO-親子台.png" group-title="🐉湾湾频道「线路2」",MOMO 親子台
-https://4gtv.livednow.us.kg/4gtv/231
-#EXTINF:-1 tvg-id="LiveABC-互動英語台" tvg-name="LiveABC 互動英語台" tvg-logo="https://assets.livednow.com/logo/LiveABC-互動英語台.png" group-title="🐉湾湾频道「线路2」",LiveABC 互動英語台
-https://4gtv.livednow.us.kg/4gtv/188
-#EXTINF:-1 tvg-id="Classica-古典樂" tvg-name="Classica 古典樂" tvg-logo="https://assets.livednow.com/logo/Classica-古典樂.png" group-title="🐉湾湾频道「线路2」",Classica 古典樂
-https://4gtv.livednow.us.kg/litv/4gtv-4gtv059
-#EXTINF:-1 tvg-id="Lifetime-娛樂頻道" tvg-name="Lifetime 娛樂頻道" tvg-logo="https://assets.livednow.com/logo/Lifetime-娛樂頻道.png" group-title="🐉湾湾频道「线路2」",Lifetime 娛樂頻道
-https://4gtv.livednow.us.kg/4gtv/217
-#EXTINF:-1 tvg-id="MTV-Live-HD-音樂頻道" tvg-name="MTV Live HD 音樂頻道" tvg-logo="https://assets.livednow.com/logo/MTV-Live-HD-音樂頻道.png" group-title="🐉湾湾频道「线路2」",MTV Live HD 音樂頻道
-https://4gtv.livednow.us.kg/4gtv/213
-#EXTINF:-1 tvg-id="Mezzo-Live" tvg-name="Mezzo Live" tvg-logo="https://assets.livednow.com/logo/Mezzo-Live.png" group-title="🐉湾湾频道「线路2」",Mezzo Live
-https://4gtv.livednow.us.kg/litv/4gtv-4gtv083
-#EXTINF:-1 tvg-id="豬哥亮歌廳秀" tvg-name="豬哥亮歌廳秀" tvg-logo="https://assets.livednow.com/logo/豬哥亮歌廳秀.png" group-title="🐉湾湾频道「线路2」",豬哥亮歌廳秀
-https://4gtv.livednow.us.kg/litv/4gtv-4gtv006
-#EXTINF:-1 tvg-id="Trace-Urban" tvg-name="Trace Urban" tvg-logo="https://assets.livednow.com/logo/Trace-Urban.png" group-title="🐉湾湾频道「线路2」",Trace Urban
-https://4gtv.livednow.us.kg/litv/4gtv-4gtv082
-#EXTINF:-1 tvg-id="Global-Trekker" tvg-name="Global Trekker" tvg-logo="https://assets.livednow.com/logo/Global-Trekker.png" group-title="🐉湾湾频道「线路2」",Global Trekker
-https://4gtv.livednow.us.kg/4gtv/252
-#EXTINF:-1 tvg-id="Globetrotter-環遊旅行家" tvg-name="Globetrotter 環遊旅行家" tvg-logo="https://assets.livednow.com/logo/Globetrotter-環遊旅行家.png" group-title="🐉湾湾频道「线路2」",Globetrotter 環遊旅行家
-https://4gtv.livednow.us.kg/litv/4gtv-4gtv016
-#EXTINF:-1 tvg-id="LUXE-TV" tvg-name="LUXE TV" tvg-logo="https://assets.livednow.com/logo/LUXE-TV.png" group-title="🐉湾湾频道「线路2」",LUXE TV
-https://4gtv.livednow.us.kg/4gtv/175
-#EXTINF:-1 tvg-id="Pet-Club-TV" tvg-name="Pet Club TV" tvg-logo="https://assets.livednow.com/logo/Pet-Club-TV.png" group-title="🐉湾湾频道「线路2」",Pet Club TV
-https://4gtv.livednow.us.kg/4gtv/182
-#EXTINF:-1 tvg-id="TV5MONDE-Style" tvg-name="TV5MONDE Style" tvg-logo="https://assets.livednow.com/logo/TV5MONDE-Style.png" group-title="🐉湾湾频道「线路2」",TV5MONDE Style
-https://4gtv.livednow.us.kg/4gtv/178
-#EXTINF:-1 tvg-id="車迷-TV" tvg-name="車迷 TV" tvg-logo="https://assets.livednow.com/logo/車迷-TV.png" group-title="🐉湾湾频道「线路2」",車迷 TV
-https://4gtv.livednow.us.kg/4gtv/160
-#EXTINF:-1 tvg-id="Love-Nature" tvg-name="Love Nature" tvg-logo="https://assets.livednow.com/logo/Love-Nature.png" group-title="🐉湾湾频道「线路2」",Love Nature
-https://4gtv.livednow.us.kg/4gtv/139
-#EXTINF:-1 tvg-id="Fun-探索娛樂台" tvg-name="Fun 探索娛樂台" tvg-logo="https://assets.livednow.com/logo/Fun-探索娛樂台.png" group-title="🐉湾湾频道「线路2」",Fun 探索娛樂台
-https://4gtv.livednow.us.kg/4gtv/274
-#EXTINF:-1 tvg-id="幸福空間居家台" tvg-name="幸福空間居家台" tvg-logo="https://assets.livednow.com/logo/幸福空間居家台.png" group-title="🐉湾湾频道「线路2」",幸福空間居家台
-https://4gtv.livednow.us.kg/4gtv/168
-#EXTINF:-1 tvg-id="Arirang-TV" tvg-name="Arirang TV" tvg-logo="https://assets.livednow.com/logo/Arirang-TV.png" group-title="🐉湾湾频道「线路2」",Arirang TV
-https://4gtv.livednow.us.kg/litv/4gtv-4gtv079
-#EXTINF:-1 tvg-id="BloombergTV" tvg-name="Bloomberg TV" tvg-logo="https://assets.livednow.com/logo/BloombergTV.png" group-title="🐉湾湾频道「线路2」",Bloomberg TV
-https://4gtv.livednow.us.kg/4gtv/283
-#EXTINF:-1 tvg-id="VOA-美國之音" tvg-name="VOA 美國之音" tvg-logo="https://assets.livednow.com/logo/VOA-美國之音.png" group-title="🐉湾湾频道「线路2」",VOA 美國之音
-https://4gtv.livednow.us.kg/litv/litv-ftv03
-#EXTINF:-1 tvg-id="DW" tvg-name="DW德國之聲" tvg-logo="https://assets.livednow.com/logo/DW.png" group-title="🐉湾湾频道「线路2」",DW德國之聲
-https://4gtv.livednow.us.kg/4gtv/226
-#EXTINF:-1 tvg-id="SBN-全球財經台" tvg-name="SBN 全球財經台" tvg-logo="https://assets.livednow.com/logo/SBN-全球財經台.png" group-title="🐉湾湾频道「线路2」",SBN 全球財經台
-https://4gtv.livednow.us.kg/4gtv/224
-#EXTINF:-1 tvg-id="半島國際新聞台" tvg-name="半島國際新聞台" tvg-logo="https://assets.livednow.com/logo/半島國際新聞台.png" group-title="🐉湾湾频道「线路2」",半島國際新聞台
-https://4gtv.livednow.us.kg/litv/litv-ftv10
-#EXTINF:-1 tvg-id="第1商業台" tvg-name="第1商業台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv104_tv.png" group-title="🐉湾湾频道「线路2」",第1商業台
-https://4gtv.livednow.us.kg/litv/4gtv-4gtv104
-#EXTINF:-1 tvg-id="History-歷史頻道" tvg-name="History 歷史頻道" tvg-logo="https://assets.livednow.com/logo/History-歷史頻道.png" group-title="🐉湾湾频道「线路2」",History 歷史頻道
-https://4gtv.livednow.us.kg/4gtv/214
-#EXTINF:-1 tvg-id="CI-罪案偵查頻道" tvg-name="CI 罪案偵查頻道" tvg-logo="https://assets.livednow.com/logo/CI-罪案偵查頻道.png" group-title="🐉湾湾频道「线路2」",CI 罪案偵查頻道
-https://4gtv.livednow.us.kg/4gtv/215
-#EXTINF:-1 tvg-id="Smart-知識台" tvg-name="Smart 知識台" tvg-logo="https://assets.livednow.com/logo/Smart-知識台.png" group-title="🐉湾湾频道「线路2」",Smart 知識台
-https://4gtv.livednow.us.kg/litv/litv-longturn19
-#EXTINF:-1 tvg-id="視納華仁紀實頻道" tvg-name="視納華仁紀實頻道" tvg-logo="https://assets.livednow.com/logo/視納華仁紀實頻道.png" group-title="🐉湾湾频道「线路2」",視納華仁紀實頻道
-https://4gtv.livednow.us.kg/litv/4gtv-4gtv013
-#EXTINF:-1 tvg-id="原住民族電視台" tvg-name="原住民族電視台" tvg-logo="https://assets.livednow.com/logo/原住民族電視台.png" group-title="🐉湾湾频道「线路2」",原住民族電視台
-https://4gtv.livednow.us.kg/4gtv/273
-#EXTINF:-1 tvg-id="客家電視台" tvg-name="客家電視台" tvg-logo="https://assets.livednow.com/logo/客家電視台.png" group-title="🐉湾湾频道「线路2」",客家電視台
-https://4gtv.livednow.us.kg/litv/4gtv-4gtv043
-#EXTINF:-1 tvg-id="滾動力-Rollor" tvg-name="滾動力 Rollor" tvg-logo="https://assets.livednow.com/logo/滾動力-Rollor.png" group-title="🐉湾湾频道「线路2」",滾動力 Rollor
-https://4gtv.livednow.us.kg/4gtv/249
-#EXTINF:-1 tvg-id="好消息" tvg-name="好消息" tvg-logo="https://assets.livednow.com/logo/好消息.png" group-title="🐉湾湾频道「线路2」",好消息
-https://4gtv.livednow.us.kg/litv/litv-ftv16
-#EXTINF:-1 tvg-id="好消息2台" tvg-name="好消息2台" tvg-logo="https://assets.livednow.com/logo/好消息2台.png" group-title="🐉湾湾频道「线路2」",好消息2台
-https://4gtv.livednow.us.kg/litv/litv-ftv17
-#EXTINF:-1 tvg-id="大愛電視" tvg-name="大愛電視" tvg-logo="https://assets.livednow.com/logo/大愛電視.png" group-title="🐉湾湾频道「线路2」",大愛電視
-https://4gtv.livednow.us.kg/4gtv/209
-#EXTINF:-1 tvg-id="大愛電視" tvg-name="大愛電視2" tvg-logo="https://assets.livednow.com/logo/大愛電視.png" group-title="🐉湾湾频道「线路2」",大愛電視2
-https://4gtv.livednow.us.kg/4gtv/230
-#EXTINF:-1 tvg-id="人間衛視" tvg-name="人間衛視" tvg-logo="https://assets.livednow.com/logo/人間衛視.png" group-title="🐉湾湾频道「线路2」",人間衛視
-https://4gtv.livednow.us.kg/4gtv/210
-#EXTINF:-1 tvg-id="國會頻道1" tvg-name="國會頻道1" tvg-logo="https://assets.livednow.com/logo/國會頻道1.png" group-title="🐉湾湾频道「线路2」",國會頻道1
-https://4gtv.livednow.us.kg/litv/4gtv-4gtv084
-#EXTINF:-1 tvg-id="國會頻道2" tvg-name="國會頻道2" tvg-logo="https://assets.livednow.com/logo/國會頻道2.png" group-title="🐉湾湾频道「线路2」",國會頻道2
-https://4gtv.livednow.us.kg/litv/4gtv-4gtv085
+#EXTINF:-1 tvg-id="民視" tvg-name="民視" tvg-logo="https://assets.livednow.com/logo/民視.png" group-title="🐉湾湾频道「线路2」", 民視
+http://vip.wanwanji.cn:5000/litv/4gtv-4gtv002
+#EXTINF:-1 tvg-id="民視第一台" tvg-name="民視第一台" tvg-logo="https://assets.livednow.com/logo/民視第一台.png" group-title="🐉湾湾频道「线路2」", 民視第一台
+http://vip.wanwanji.cn:5000/litv/4gtv-4gtv003
+#EXTINF:-1 tvg-id="民視新聞台" tvg-name="民視新聞台" tvg-logo="https://assets.livednow.com/logo/民視新聞台.png" group-title="🐉湾湾频道「线路2」", 民視新聞台
+http://vip.wanwanji.cn:5000/litv/litv-ftv13
+#EXTINF:-1 tvg-id="民視台灣台" tvg-name="民視台灣台" tvg-logo="https://assets.livednow.com/logo/民視台灣台.png" group-title="🐉湾湾频道「线路2」", 民視台灣台
+http://vip.wanwanji.cn:5000/litv/4gtv-4gtv001
+#EXTINF:-1 tvg-id="民視影劇台" tvg-name="民視影劇台" tvg-logo="https://assets.livednow.com/logo/民視影劇台.png" group-title="🐉湾湾频道「线路2」", 民視影劇台
+http://vip.wanwanji.cn:5000/litv/litv-ftv09
+#EXTINF:-1 tvg-id="民視旅遊台" tvg-name="民視旅遊台" tvg-logo="https://assets.livednow.com/logo/民視旅遊台.png" group-title="🐉湾湾频道「线路2」", 民視旅遊台
+http://vip.wanwanji.cn:5000/litv/litv-ftv07
+#EXTINF:-1 tvg-id="民視綜藝台" tvg-name="民視綜藝台" tvg-logo="https://assets.livednow.com/logo/民視綜藝台.png" group-title="🐉湾湾频道「线路2」", 民視綜藝台
+http://vip.wanwanji.cn:5000/litv/4gtv-4gtv004
+#EXTINF:-1 tvg-id="中視" tvg-name="中視" tvg-logo="https://assets.livednow.com/logo/中視.png" group-title="🐉湾湾频道「线路2」", 中視
+http://vip.wanwanji.cn:5000/litv/4gtv-4gtv040
+#EXTINF:-1 tvg-id="中視新聞台" tvg-name="中視新聞台" tvg-logo="https://assets.livednow.com/logo/中視新聞台.png" group-title="🐉湾湾频道「线路2」", 中視新聞台
+http://vip.wanwanji.cn:5000/litv/4gtv-4gtv074
+#EXTINF:-1 tvg-id="中視經典台" tvg-name="中視經典台" tvg-logo="https://assets.livednow.com/logo/中視經典台.png" group-title="🐉湾湾频道「线路2」", 中視經典台
+http://vip.wanwanji.cn:5000/litv/4gtv-4gtv080
+#EXTINF:-1 tvg-id="中視菁采台" tvg-name="中視菁采台" tvg-logo="https://assets.livednow.com/logo/中視菁采台.png" group-title="🐉湾湾频道「线路2」", 中視菁采台
+http://vip.wanwanji.cn:5000/litv/4gtv-4gtv064
+#EXTINF:-1 tvg-id="中天新聞台" tvg-name="中天新聞台" tvg-logo="https://assets.livednow.com/logo/中天新聞台.png" group-title="🐉湾湾频道「线路2」", 中天新聞台
+http://vip.wanwanji.cn:5000/litv/4gtv-4gtv009
+#EXTINF:-1 tvg-id="中天亞洲台" tvg-name="中天亞洲台" tvg-logo="https://assets.livednow.com/logo/中天亞洲台.png" group-title="🐉湾湾频道「线路2」", 中天亞洲台
+http://vip.wanwanji.cn:5000/litv/4gtv-4gtv109
+#EXTINF:-1 tvg-id="華視" tvg-name="華視" tvg-logo="https://assets.livednow.com/logo/華視.png" group-title="🐉湾湾频道「线路2」", 華視
+http://vip.wanwanji.cn:5000/litv/4gtv-4gtv041
+#EXTINF:-1 tvg-id="華視新聞" tvg-name="華視新聞" tvg-logo="https://assets.livednow.com/logo/華視新聞.png" group-title="🐉湾湾频道「线路2」", 華視新聞
+http://vip.wanwanji.cn:5000/litv/4gtv-4gtv052
+#EXTINF:-1 tvg-id="靖天綜合台" tvg-name="靖天綜合台" tvg-logo="https://assets.livednow.com/logo/靖天綜合台.png" group-title="🐉湾湾频道「线路2」", 靖天綜合台
+http://vip.wanwanji.cn:5000/litv/4gtv-4gtv046
+#EXTINF:-1 tvg-id="靖天國際台" tvg-name="靖天國際台" tvg-logo="https://assets.livednow.com/logo/靖天國際台.png" group-title="🐉湾湾频道「线路2」", 靖天國際台
+http://vip.wanwanji.cn:5000/litv/4gtv-4gtv063
+#EXTINF:-1 tvg-id="靖天戲劇台" tvg-name="靖天戲劇台" tvg-logo="https://assets.livednow.com/logo/靖天戲劇台.png" group-title="🐉湾湾频道「线路2」", 靖天戲劇台
+http://vip.wanwanji.cn:5000/litv/4gtv-4gtv058
+#EXTINF:-1 tvg-id="靖天日本台" tvg-name="靖天日本台" tvg-logo="https://assets.livednow.com/logo/靖天日本台.png" group-title="🐉湾湾频道「线路2」", 靖天日本台
+http://vip.wanwanji.cn:5000/litv/4gtv-4gtv047
+#EXTINF:-1 tvg-id="靖天映畫台" tvg-name="靖天映畫台" tvg-logo="https://assets.livednow.com/logo/靖天映畫台.png" group-title="🐉湾湾频道「线路2」", 靖天映畫台
+http://vip.wanwanji.cn:5000/litv/4gtv-4gtv055
+#EXTINF:-1 tvg-id="靖天卡通台" tvg-name="靖天卡通台" tvg-logo="https://assets.livednow.com/logo/靖天卡通台.png" group-title="🐉湾湾频道「线路2」", 靖天卡通台
+http://vip.wanwanji.cn:5000/litv/4gtv-4gtv044
+#EXTINF:-1 tvg-id="靖天育樂台" tvg-name="靖天育樂台" tvg-logo="https://assets.livednow.com/logo/靖天育樂台.png" group-title="🐉湾湾频道「线路2」", 靖天育樂台
+http://vip.wanwanji.cn:5000/litv/4gtv-4gtv062
+#EXTINF:-1 tvg-id="靖天資訊台" tvg-name="靖天資訊台" tvg-logo="https://assets.livednow.com/logo/靖天資訊台.png" group-title="🐉湾湾频道「线路2」", 靖天資訊台
+http://vip.wanwanji.cn:5000/litv/4gtv-4gtv065
+#EXTINF:-1 tvg-id="靖天電影台" tvg-name="靖天電影台" tvg-logo="https://assets.livednow.com/logo/靖天電影台.png" group-title="🐉湾湾频道「线路2」", 靖天電影台
+http://vip.wanwanji.cn:5000/litv/4gtv-4gtv061
+#EXTINF:-1 tvg-id="靖天歡樂台" tvg-name="靖天歡樂台" tvg-logo="https://assets.livednow.com/logo/靖天歡樂台.png" group-title="🐉湾湾频道「线路2」", 靖天歡樂台
+http://vip.wanwanji.cn:5000/litv/4gtv-4gtv054
+#EXTINF:-1 tvg-id="龍華偶像台" tvg-name="龍華偶像台" tvg-logo="https://assets.livednow.com/logo/龍華偶像台.png" group-title="🐉湾湾频道「线路2」", 龍華偶像台
+http://vip.wanwanji.cn:5000/litv/litv-longturn12
+#EXTINF:-1 tvg-id="龍華卡通台" tvg-name="龍華卡通台" tvg-logo="https://assets.livednow.com/logo/龍華卡通台.png" group-title="🐉湾湾频道「线路2」", 龍華卡通台
+http://vip.wanwanji.cn:5000/litv/litv-longturn01
+#EXTINF:-1 tvg-id="龍華戲劇台" tvg-name="龍華戲劇台" tvg-logo="https://assets.livednow.com/logo/龍華戲劇台.png" group-title="🐉湾湾频道「线路2」", 龍華戲劇台
+http://vip.wanwanji.cn:5000/litv/litv-longturn18
+#EXTINF:-1 tvg-id="龍華日韓台" tvg-name="龍華日韓台" tvg-logo="https://assets.livednow.com/logo/龍華日韓台.png" group-title="🐉湾湾频道「线路2」", 龍華日韓台
+http://vip.wanwanji.cn:5000/litv/litv-longturn11
+#EXTINF:-1 tvg-id="龍華經典台" tvg-name="龍華經典台" tvg-logo="https://assets.livednow.com/logo/龍華經典台.png" group-title="🐉湾湾频道「线路2」", 龍華經典台
+http://vip.wanwanji.cn:5000/litv/litv-longturn21
+#EXTINF:-1 tvg-id="龍華電影台" tvg-name="龍華電影台" tvg-logo="https://assets.livednow.com/logo/龍華電影台.png" group-title="🐉湾湾频道「线路2」", 龍華電影台
+http://vip.wanwanji.cn:5000/litv/litv-longturn03
+#EXTINF:-1 tvg-id="靖洋戲劇台" tvg-name="靖洋戲劇台" tvg-logo="https://assets.livednow.com/logo/靖洋戲劇台.png" group-title="🐉湾湾频道「线路2」", 靖洋戲劇台
+http://vip.wanwanji.cn:5000/litv/4gtv-4gtv045
+#EXTINF:-1 tvg-id="靖洋卡通-Nice-Bingo" tvg-name="靖洋卡通 Nice Bingo" tvg-logo="https://assets.livednow.com/logo/靖洋卡通-Nice-Bingo.png" group-title="🐉湾湾频道「线路2」", 靖洋卡通 Nice Bingo
+http://vip.wanwanji.cn:5000/litv/4gtv-4gtv057
+#EXTINF:-1 tvg-id="寰宇新聞台" tvg-name="寰宇新聞台" tvg-logo="https://assets.livednow.com/logo/寰宇新聞台.png" group-title="🐉湾湾频道「线路2」", 寰宇新聞台
+http://vip.wanwanji.cn:5000/litv/litv-longturn14
+#EXTINF:-1 tvg-id="寰宇新聞台灣台" tvg-name="寰宇新聞台灣台" tvg-logo="https://assets.livednow.com/logo/寰宇新聞台灣台.png" group-title="🐉湾湾频道「线路2」", 寰宇新聞台灣台
+http://vip.wanwanji.cn:5000/litv/litv-longturn15
+#EXTINF:-1 tvg-id="寰宇財經台" tvg-name="寰宇財經台" tvg-logo="https://assets.livednow.com/logo/寰宇財經台.png" group-title="🐉湾湾频道「线路2」", 寰宇財經台
+http://vip.wanwanji.cn:5000/litv/litv-longturn23
+#EXTINF:-1 tvg-id="TVBS" tvg-name="TVBS" tvg-logo="https://assets.livednow.com/logo/TVBS.png" group-title="🐉湾湾频道「线路2」", TVBS
+http://vip.wanwanji.cn:5000/litv/4gtv-4gtv073
+#EXTINF:-1 tvg-id="TVBS-新聞台" tvg-name="TVBS 新聞台" tvg-logo="https://assets.livednow.com/logo/TVBS-新聞台.png" group-title="🐉湾湾频道「线路2」", TVBS 新聞台
+http://vip.wanwanji.cn:5000/litv/4gtv-4gtv072
+#EXTINF:-1 tvg-id="TVBS-綜藝台" tvg-name="TVBS 綜藝台" tvg-logo="https://assets.livednow.com/logo/TVBS-綜藝台.png" group-title="🐉湾湾频道「线路2」", TVBS 綜藝台
+http://vip.wanwanji.cn:5000/4gtv/284
+#EXTINF:-1 tvg-id="TVBS-歡樂台" tvg-name="TVBS 歡樂台" tvg-logo="https://assets.livednow.com/logo/TVBS-歡樂台.png" group-title="🐉湾湾频道「线路2」", TVBS 歡樂台
+http://vip.wanwanji.cn:5000/litv/4gtv-4gtv068
+#EXTINF:-1 tvg-id="TVBS-精采台" tvg-name="TVBS 精采台" tvg-logo="https://assets.livednow.com/logo/TVBS-精采台.png" group-title="🐉湾湾频道「线路2」", TVBS 精采台
+http://vip.wanwanji.cn:5000/litv/4gtv-4gtv067
+
+#EXTINF:-1 tvg-id="TVBS-台劇台" tvg-name="TVBS 台劇台" tvg-logo="https://assets.livednow.com/logo/TVBS-台劇台.png" group-title="🐉湾湾频道「线路2」", TVBS 台劇台
+http://vip.wanwanji.cn:5000/4gtv/285
+
+#EXTINF:-1 tvg-id="八大精彩台" tvg-name="八大精彩台" tvg-logo="https://assets.livednow.com/logo/八大精彩台.png" group-title="🐉湾湾频道「线路2」", 八大精彩台
+http://vip.wanwanji.cn:5000/litv/4gtv-4gtv034
+
+#EXTINF:-1 tvg-id="八大綜藝台" tvg-name="八大綜藝台" tvg-logo="https://assets.livednow.com/logo/八大綜藝台.png" group-title="🐉湾湾频道「线路2」", 八大綜藝台
+http://vip.wanwanji.cn:5000/litv/4gtv-4gtv039
+
+#EXTINF:-1 tvg-id="三立新聞" tvg-name="三立新聞" tvg-logo="https://assets.livednow.com/logo/三立新聞.png" group-title="🐉湾湾频道「线路2」", 三立新聞
+http://vip.wanwanji.cn:5000/4gtv/229
+
+#EXTINF:-1 tvg-id="三立綜合台" tvg-name="三立綜合台" tvg-logo="https://assets.livednow.com/logo/三立綜合台.png" group-title="🐉湾湾频道「线路2」", 三立綜合台
+http://vip.wanwanji.cn:5000/4gtv/169
+
+#EXTINF:-1 tvg-id="台視" tvg-name="台視" tvg-logo="https://assets.livednow.com/logo/台視.png" group-title="🐉湾湾频道「线路2」", 台視
+http://vip.wanwanji.cn:5000/litv/4gtv-4gtv066
+
+#EXTINF:-1 tvg-id="台視新聞台" tvg-name="台視新聞台" tvg-logo="https://assets.livednow.com/logo/台視新聞台.png" group-title="🐉湾湾频道「线路2」", 台視新聞台
+http://vip.wanwanji.cn:5000/litv/4gtv-4gtv051
+
+#EXTINF:-1 tvg-id="台視財經台" tvg-name="台視財經台" tvg-logo="https://assets.livednow.com/logo/台視財經台.png" group-title="🐉湾湾频道「线路2」", 台視財經台
+http://vip.wanwanji.cn:5000/litv/4gtv-4gtv056
+
+#EXTINF:-1 tvg-id="博斯運動一台" tvg-name="博斯運動一台" tvg-logo="https://assets.livednow.com/logo/博斯運動一台.png" group-title="體育", 博斯運動一台
+http://vip.wanwanji.cn:5000/litv/litv-longturn07
+
+#EXTINF:-1 tvg-id="博斯運動二台" tvg-name="博斯運動二台" tvg-logo="https://assets.livednow.com/logo/博斯運動二台.png" group-title="體育", 博斯運動二台
+http://vip.wanwanji.cn:5000/litv/litv-longturn08
+
+#EXTINF:-1 tvg-id="博斯無限台" tvg-name="博斯無限台" tvg-logo="https://assets.livednow.com/logo/博斯無限台.png" group-title="體育", 博斯無限台
+http://vip.wanwanji.cn:5000/litv/litv-longturn10
+
+#EXTINF:-1 tvg-id="博斯無限二台" tvg-name="博斯無限二台" tvg-logo="https://assets.livednow.com/logo/博斯無限二台.png" group-title="體育", 博斯無限二台
+http://vip.wanwanji.cn:5000/litv/litv-longturn13
+
+#EXTINF:-1 tvg-id="博斯網球台" tvg-name="博斯網球台" tvg-logo="https://assets.livednow.com/logo/博斯網球台.png" group-title="體育", 博斯網球台
+http://vip.wanwanji.cn:5000/litv/litv-longturn09
+
+#EXTINF:-1 tvg-id="博斯高球台" tvg-name="博斯高球台" tvg-logo="https://assets.livednow.com/logo/博斯高球台.png" group-title="體育", 博斯高球台
+http://vip.wanwanji.cn:5000/litv/litv-longturn05
+
+#EXTINF:-1 tvg-id="博斯高球二台" tvg-name="博斯高球二台" tvg-logo="https://assets.livednow.com/logo/博斯高球二台.png" group-title="體育", 博斯高球二台
+http://vip.wanwanji.cn:5000/litv/litv-longturn06
+
+#EXTINF:-1 tvg-id="博斯魅力台" tvg-name="博斯魅力台" tvg-logo="https://assets.livednow.com/logo/博斯魅力台.png" group-title="體育", 博斯魅力台
+http://vip.wanwanji.cn:5000/litv/litv-longturn04
+
+#EXTINF:-1 tvg-id="ELTA娛樂" tvg-name="ELTA 娛樂台" tvg-logo="https://assets.livednow.com/logo/ELTA娛樂.png" group-title="🐉湾湾频道「线路2」", ELTA 娛樂台
+http://vip.wanwanji.cn:5000/litv/4gtv-4gtv070
+
+#EXTINF:-1 tvg-id="ELTA生活旅遊" tvg-name="ELTA 生活旅遊" tvg-logo="https://assets.livednow.com/logo/ELTA生活旅遊.png" group-title="🐉湾湾频道「线路2」", ELTA 生活旅遊
+http://vip.wanwanji.cn:5000/4gtv/237
+
+#EXTINF:-1 tvg-id="ELTA生活英語" tvg-name="ELTV 生活英語" tvg-logo="https://assets.livednow.com/logo/ELTA生活英語.png" group-title="🐉湾湾频道「线路2」", ELTV 生活英語
+http://vip.wanwanji.cn:5000/litv/litv-longturn20
+
+#EXTINF:-1 tvg-id="東森新聞" tvg-name="東森新聞" tvg-logo="https://assets.livednow.com/logo/東森新聞.png" group-title="🐉湾湾频道「线路2」", 東森新聞
+http://vip.wanwanji.cn:5000/litv/4gtv-4gtv152
+
+#EXTINF:-1 tvg-id="東森財經新聞" tvg-name="東森財經新聞" tvg-logo="https://assets.livednow.com/logo/東森財經新聞.png" group-title="🐉湾湾频道「线路2」", 東森財經新聞
+http://vip.wanwanji.cn:5000/litv/4gtv-4gtv153
+
+#EXTINF:-1 tvg-id="非凡新聞台" tvg-name="非凡新聞台" tvg-logo="https://assets.livednow.com/logo/非凡新聞台.png" group-title="🐉湾湾频道「线路2」", 非凡新聞台
+http://vip.wanwanji.cn:5000/litv/4gtv-4gtv010
+
+#EXTINF:-1 tvg-id="非凡商業台" tvg-name="非凡商業台" tvg-logo="https://assets.livednow.com/logo/非凡商業台.png" group-title="🐉湾湾频道「线路2」", 非凡商業台
+http://vip.wanwanji.cn:5000/litv/4gtv-4gtv048
+
+#EXTINF:-1 tvg-id="鏡電視新聞台" tvg-name="鏡電視新聞台" tvg-logo="https://assets.livednow.com/logo/鏡電視新聞台.png" group-title="🐉湾湾频道「线路2」", 鏡電視新聞台
+http://vip.wanwanji.cn:5000/litv/4gtv-4gtv075
+
+#EXTINF:-1 tvg-id="CNBC-Asia-財經台" tvg-name="CNBC Asia 財經台" tvg-logo="https://assets.livednow.com/logo/CNBC-Asia-財經台.png" group-title="🐉湾湾频道「线路2」", CNBC Asia 財經台
+http://vip.wanwanji.cn:5000/4gtv/235
+
+#EXTINF:-1 tvg-id="亞洲旅遊台" tvg-name="亞洲旅遊台" tvg-logo="https://assets.livednow.com/logo/亞洲旅遊台.png" group-title="🐉湾湾频道「线路2」", 亞洲旅遊台
+http://vip.wanwanji.cn:5000/litv/litv-longturn17
+
+#EXTINF:-1 tvg-id="GINX-Esports-TV" tvg-name="GINX Esports TV" tvg-logo="https://assets.livednow.com/logo/GINX-Esports-TV.png" group-title="體育", GINX Esports TV
+http://vip.wanwanji.cn:5000/litv/4gtv-4gtv053
+
+#EXTINF:-1 tvg-id="TechStorm" tvg-name="TechStorm" tvg-logo="https://assets.livednow.com/logo/TechStorm.png" group-title="體育", TechStorm
+http://vip.wanwanji.cn:5000/4gtv/181
+
+#EXTINF:-1 tvg-id="時尚運動X" tvg-name="時尚運動X" tvg-logo="https://assets.livednow.com/logo/時尚運動X.png" group-title="體育", 時尚運動X
+http://vip.wanwanji.cn:5000/4gtv/277
+
+#EXTINF:-1 tvg-id="智林體育台" tvg-name="智林體育台" tvg-logo="https://assets.livednow.com/logo/智林體育台.png" group-title="體育", 智林體育台
+http://vip.wanwanji.cn:5000/litv/4gtv-4gtv101
+
+#EXTINF:-1 tvg-id="TraceSports" tvg-name="TraceSports" tvg-logo="https://assets.livednow.com/logo/TraceSports.png" group-title="體育", TraceSports
+http://vip.wanwanji.cn:5000/litv/4gtv-4gtv077
+
+#EXTINF:-1 tvg-id="影迷數位紀實台" tvg-name="影迷數位紀實台" tvg-logo="https://assets.livednow.com/logo/影迷數位紀實台.png" group-title="🐉湾湾频道「线路2」", 影迷數位紀實台
+http://vip.wanwanji.cn:5000/4gtv/212
+
+#EXTINF:-1 tvg-id="影迷數位電影台" tvg-name="影迷數位電影台" tvg-logo="https://assets.livednow.com/logo/影迷數位電影台.png" group-title="🐉湾湾频道「线路2」", 影迷數位電影台
+http://vip.wanwanji.cn:5000/litv/4gtv-4gtv011
+
+#EXTINF:-1 tvg-id="AMC電影台" tvg-name="AMC 電影台" tvg-logo="https://assets.livednow.com/logo/AMC電影台.png" group-title="🐉湾湾频道「线路2」", AMC 電影台
+http://vip.wanwanji.cn:5000/litv/4gtv-4gtv017
+
+#EXTINF:-1 tvg-id="CatchPlay-電影台" tvg-name="CatchPlay 電影台" tvg-logo="https://assets.livednow.com/logo/CatchPlay-電影台.png" group-title="🐉湾湾频道「线路2」", CatchPlay 電影台
+http://vip.wanwanji.cn:5000/litv/4gtv-4gtv076
+
+#EXTINF:-1 tvg-id="My-Cinema-Europe-HD-我的歐洲電影" tvg-name="My Cinema Europe HD 我的歐洲電影" tvg-logo="https://assets.livednow.com/logo/My-Cinema-Europe-HD-我的歐洲電影.png" group-title="🐉湾湾频道「线路2」", My Cinema Europe HD 我的歐洲電影
+http://vip.wanwanji.cn:5000/4gtv/176
+
+#EXTINF:-1 tvg-id="公視戲劇台" tvg-name="公視戲劇台" tvg-logo="https://assets.livednow.com/logo/公視戲劇台.png" group-title="🐉湾湾频道「线路2」", 公視戲劇台
+http://vip.wanwanji.cn:5000/litv/4gtv-4gtv042
+
+#EXTINF:-1 tvg-id="采昌影劇台" tvg-name="采昌影劇台" tvg-logo="https://assets.livednow.com/logo/采昌影劇台.png" group-title="🐉湾湾频道「线路2」", 采昌影劇台
+http://vip.wanwanji.cn:5000/litv/4gtv-4gtv049
+
+#EXTINF:-1 tvg-id="台灣戲劇台" tvg-name="台灣戲劇台" tvg-logo="https://assets.livednow.com/logo/台灣戲劇台.png" group-title="🐉湾湾频道「线路2」", 台灣戲劇台
+http://vip.wanwanji.cn:5000/litv/litv-longturn22
+
+#EXTINF:-1 tvg-id="戲劇免費看-1台" tvg-name="戲劇免費看 1台" tvg-logo="https://assets.livednow.com/logo/戲劇免費看-1台.png" group-title="🐉湾湾频道「线路2」", 戲劇免費看 1台
+http://vip.wanwanji.cn:5000/4gtv/270
+
+#EXTINF:-1 tvg-id="戲劇免費看-2台" tvg-name="戲劇免費看 2台" tvg-logo="https://assets.livednow.com/logo/戲劇免費看-2台.png" group-title="🐉湾湾频道「线路2」", 戲劇免費看 2台
+http://vip.wanwanji.cn:5000/4gtv/244
+
+#EXTINF:-1 tvg-id="經典電影台" tvg-name="經典電影台" tvg-logo="https://assets.livednow.com/logo/經典電影台.png" group-title="🐉湾湾频道「线路2」", 經典電影台
+http://vip.wanwanji.cn:5000/4gtv/201
+
+#EXTINF:-1 tvg-id="電影免費看-2台" tvg-name="電影免費看 2台" tvg-logo="https://assets.livednow.com/logo/電影免費看-2台.png" group-title="🐉湾湾频道「线路2」", 電影免費看 2台
+http://vip.wanwanji.cn:5000/4gtv/245
+
+#EXTINF:-1 tvg-id="電影原聲台CMusic" tvg-name="電影原聲台 CMusic" tvg-logo="https://assets.livednow.com/logo/電影原聲台CMusic.png" group-title="🐉湾湾频道「线路2」", 電影原聲台 CMusic
+http://vip.wanwanji.cn:5000/4gtv/218
+
+#EXTINF:-1 tvg-id="花系列-經典劇場" tvg-name="花系列 經典劇場" tvg-logo="https://assets.livednow.com/logo/花系列-經典劇場.png" group-title="🐉湾湾频道「线路2」", 花系列 經典劇場
+http://vip.wanwanji.cn:5000/4gtv/279
+
+#EXTINF:-1 tvg-id="CinemaWorld" tvg-name="CinemaWorld" tvg-logo="https://assets.livednow.com/logo/CinemaWorld.png" group-title="🐉湾湾频道「线路2」", CinemaWorld
+http://vip.wanwanji.cn:5000/4gtv/225
+
+#EXTINF:-1 tvg-id="HITS-頻道" tvg-name="HITS 頻道" tvg-logo="https://assets.livednow.com/logo/HITS-頻道.png" group-title="🐉湾湾频道「线路2」", HITS 頻道
+http://vip.wanwanji.cn:5000/4gtv/186
+
+#EXTINF:-1 tvg-id="Rock-Action" tvg-name="Rock Action" tvg-logo="https://assets.livednow.com/logo/Rock-Action.png" group-title="🐉湾湾频道「线路2」", Rock Action
+http://vip.wanwanji.cn:5000/4gtv/180
+
+#EXTINF:-1 tvg-id="Rock-Entertainment" tvg-name="Rock Entertainment" tvg-logo="https://assets.livednow.com/logo/Rock-Entertainment.png" group-title="🐉湾湾频道「线路2」", Rock Entertainment
+http://vip.wanwanji.cn:5000/4gtv/275
+
+#EXTINF:-1 tvg-id="金光布袋戲" tvg-name="金光布袋戲" tvg-logo="https://assets.livednow.com/logo/金光布袋戲.png" group-title="🐉湾湾频道「线路2」", 金光布袋戲
+http://vip.wanwanji.cn:5000/4gtv/236
+
+#EXTINF:-1 tvg-id="霹靂布袋戲" tvg-name="霹靂布袋戲" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live145_mobile.png" group-title="🐉湾湾频道「线路2」", 霹靂布袋戲
+http://vip.wanwanji.cn:5000/4gtv/301
+
+#EXTINF:-1 tvg-id="DreamWorks-夢工廠動畫" tvg-name="DreamWorks 夢工廠動畫" tvg-logo="https://assets.livednow.com/logo/DreamWorks-夢工廠動畫.png" group-title="🐉湾湾频道「线路2」", DreamWorks 夢工廠動畫
+http://vip.wanwanji.cn:5000/4gtv/282
+
+#EXTINF:-1 tvg-id="Nickelodeon" tvg-name="Nickelodeon" tvg-logo="https://assets.livednow.com/logo/Nickelodeon.png" group-title="🐉湾湾频道「线路2」", Nickelodeon
+http://vip.wanwanji.cn:5000/4gtv/185
+
+#EXTINF:-1 tvg-id="Nick-Jr." tvg-name="Nick Jr. 兒童頻道" tvg-logo="https://assets.livednow.com/logo/Nick-Jr..png" group-title="🐉湾湾频道「线路2」", Nick Jr. 兒童頻道
+http://vip.wanwanji.cn:5000/4gtv/219
+
+#EXTINF:-1 tvg-id="i-Fun-動漫台" tvg-name="i-Fun 動漫台" tvg-logo="https://assets.livednow.com/logo/i-Fun-動漫台.png" group-title="🐉湾湾频道「线路2」", i-Fun 動漫台
+http://vip.wanwanji.cn:5000/litv/litv-ftv15
+
+#EXTINF:-1 tvg-id="兒童卡通台" tvg-name="兒童卡通台" tvg-logo="https://assets.livednow.com/logo/兒童卡通台.png" group-title="🐉湾湾频道「线路2」", 兒童卡通台
+http://vip.wanwanji.cn:5000/4gtv/269
+
+#EXTINF:-1 tvg-id="精選動漫台" tvg-name="精選動漫台" tvg-logo="https://assets.livednow.com/logo/精選動漫台.png" group-title="🐉湾湾频道「线路2」", 精選動漫台
+http://vip.wanwanji.cn:5000/4gtv/204
+
+#EXTINF:-1 tvg-id="經典卡通台" tvg-name="經典卡通台" tvg-logo="https://assets.livednow.com/logo/經典卡通台.png" group-title="🐉湾湾频道「线路2」", 經典卡通台
+http://vip.wanwanji.cn:5000/4gtv/202
+
+#EXTINF:-1 tvg-id="達文西頻道" tvg-name="達文西頻道" tvg-logo="https://assets.livednow.com/logo/達文西頻道.png" group-title="🐉湾湾频道「线路2」", 達文西頻道
+http://vip.wanwanji.cn:5000/litv/4gtv-4gtv018
+
+#EXTINF:-1 tvg-id="超人力霸王整套看" tvg-name="超人力霸王整套看" tvg-logo="https://assets.livednow.com/logo/超人力霸王整套看.png" group-title="🐉湾湾频道「线路2」", 超人力霸王整套看
+http://vip.wanwanji.cn:5000/4gtv/278
+
+#EXTINF:-1 tvg-id="MOMO-親子台" tvg-name="MOMO 親子台" tvg-logo="https://assets.livednow.com/logo/MOMO-親子台.png" group-title="🐉湾湾频道「线路2」", MOMO 親子台
+http://vip.wanwanji.cn:5000/4gtv/231
+
+#EXTINF:-1 tvg-id="LiveABC-互動英語台" tvg-name="LiveABC 互動英語台" tvg-logo="https://assets.livednow.com/logo/LiveABC-互動英語台.png" group-title="🐉湾湾频道「线路2」", LiveABC 互動英語台
+http://vip.wanwanji.cn:5000/4gtv/188
+
+#EXTINF:-1 tvg-id="Classica-古典樂" tvg-name="Classica 古典樂" tvg-logo="https://assets.livednow.com/logo/Classica-古典樂.png" group-title="🐉湾湾频道「线路2」", Classica 古典樂
+http://vip.wanwanji.cn:5000/litv/4gtv-4gtv059
+
+#EXTINF:-1 tvg-id="Lifetime-娛樂頻道" tvg-name="Lifetime 娛樂頻道" tvg-logo="https://assets.livednow.com/logo/Lifetime-娛樂頻道.png" group-title="🐉湾湾频道「线路2」", Lifetime 娛樂頻道
+http://vip.wanwanji.cn:5000/4gtv/217
+
+#EXTINF:-1 tvg-id="MTV-Live-HD-音樂頻道" tvg-name="MTV Live HD 音樂頻道" tvg-logo="https://assets.livednow.com/logo/MTV-Live-HD-音樂頻道.png" group-title="🐉湾湾频道「线路2」", MTV Live HD 音樂頻道
+http://vip.wanwanji.cn:5000/4gtv/213
+
+#EXTINF:-1 tvg-id="Mezzo-Live" tvg-name="Mezzo Live" tvg-logo="https://assets.livednow.com/logo/Mezzo-Live.png" group-title="🐉湾湾频道「线路2」", Mezzo Live
+http://vip.wanwanji.cn:5000/litv/4gtv-4gtv083
+
+#EXTINF:-1 tvg-id="豬哥亮歌廳秀" tvg-name="豬哥亮歌廳秀" tvg-logo="https://assets.livednow.com/logo/豬哥亮歌廳秀.png" group-title="🐉湾湾频道「线路2」", 豬哥亮歌廳秀
+http://vip.wanwanji.cn:5000/litv/4gtv-4gtv006
+
+#EXTINF:-1 tvg-id="Trace-Urban" tvg-name="Trace Urban" tvg-logo="https://assets.livednow.com/logo/Trace-Urban.png" group-title="🐉湾湾频道「线路2」", Trace Urban
+http://vip.wanwanji.cn:5000/litv/4gtv-4gtv082
+
+#EXTINF:-1 tvg-id="Global-Trekker" tvg-name="Global Trekker" tvg-logo="https://assets.livednow.com/logo/Global-Trekker.png" group-title="🐉湾湾频道「线路2」", Global Trekker
+http://vip.wanwanji.cn:5000/4gtv/252
+
+#EXTINF:-1 tvg-id="Globetrotter-環遊旅行家" tvg-name="Globetrotter 環遊旅行家" tvg-logo="https://assets.livednow.com/logo/Globetrotter-環遊旅行家.png" group-title="🐉湾湾频道「线路2」", Globetrotter 環遊旅行家
+http://vip.wanwanji.cn:5000/litv/4gtv-4gtv016
+
+#EXTINF:-1 tvg-id="LUXE-TV" tvg-name="LUXE TV" tvg-logo="https://assets.livednow.com/logo/LUXE-TV.png" group-title="🐉湾湾频道「线路2」", LUXE TV
+http://vip.wanwanji.cn:5000/4gtv/175
+
+#EXTINF:-1 tvg-id="Pet-Club-TV" tvg-name="Pet Club TV" tvg-logo="https://assets.livednow.com/logo/Pet-Club-TV.png" group-title="🐉湾湾频道「线路2」", Pet Club TV
+http://vip.wanwanji.cn:5000/4gtv/182
+
+#EXTINF:-1 tvg-id="TV5MONDE-Style" tvg-name="TV5MONDE Style" tvg-logo="https://assets.livednow.com/logo/TV5MONDE-Style.png" group-title="🐉湾湾频道「线路2」", TV5MONDE Style
+http://vip.wanwanji.cn:5000/4gtv/178
+
+#EXTINF:-1 tvg-id="車迷-TV" tvg-name="車迷 TV" tvg-logo="https://assets.livednow.com/logo/車迷-TV.png" group-title="🐉湾湾频道「线路2」", 車迷 TV
+http://vip.wanwanji.cn:5000/4gtv/160
+
+#EXTINF:-1 tvg-id="Love-Nature" tvg-name="Love Nature" tvg-logo="https://assets.livednow.com/logo/Love-Nature.png" group-title="🐉湾湾频道「线路2」", Love Nature
+http://vip.wanwanji.cn:5000/4gtv/139
+
+#EXTINF:-1 tvg-id="Fun-探索娛樂台" tvg-name="Fun 探索娛樂台" tvg-logo="https://assets.livednow.com/logo/Fun-探索娛樂台.png" group-title="🐉湾湾频道「线路2」", Fun 探索娛樂台
+http://vip.wanwanji.cn:5000/4gtv/274
+
+#EXTINF:-1 tvg-id="幸福空間居家台" tvg-name="幸福空間居家台" tvg-logo="https://assets.livednow.com/logo/幸福空間居家台.png" group-title="🐉湾湾频道「线路2」", 幸福空間居家台
+http://vip.wanwanji.cn:5000/4gtv/168
+
+#EXTINF:-1 tvg-id="Arirang-TV" tvg-name="Arirang TV" tvg-logo="https://assets.livednow.com/logo/Arirang-TV.png" group-title="🐉湾湾频道「线路2」", Arirang TV
+http://vip.wanwanji.cn:5000/litv/4gtv-4gtv079
+
+#EXTINF:-1 tvg-id="BloombergTV" tvg-name="Bloomberg TV" tvg-logo="https://assets.livednow.com/logo/BloombergTV.png" group-title="🐉湾湾频道「线路2」", Bloomberg TV
+http://vip.wanwanji.cn:5000/4gtv/283
+
+#EXTINF:-1 tvg-id="VOA-美國之音" tvg-name="VOA 美國之音" tvg-logo="https://assets.livednow.com/logo/VOA-美國之音.png" group-title="🐉湾湾频道「线路2」", VOA 美國之音
+http://vip.wanwanji.cn:5000/litv/litv-ftv03
+
+#EXTINF:-1 tvg-id="DW" tvg-name="DW德國之聲" tvg-logo="https://assets.livednow.com/logo/DW.png" group-title="🐉湾湾频道「线路2」", DW德國之聲
+http://vip.wanwanji.cn:5000/4gtv/226
+
+#EXTINF:-1 tvg-id="SBN-全球財經台" tvg-name="SBN 全球財經台" tvg-logo="https://assets.livednow.com/logo/SBN-全球財經台.png" group-title="🐉湾湾频道「线路2」", SBN 全球財經台
+http://vip.wanwanji.cn:5000/4gtv/224
+
+#EXTINF:-1 tvg-id="半島國際新聞台" tvg-name="半島國際新聞台" tvg-logo="https://assets.livednow.com/logo/半島國際新聞台.png" group-title="🐉湾湾频道「线路2」", 半島國際新聞台
+http://vip.wanwanji.cn:5000/litv/litv-ftv10
+
+#EXTINF:-1 tvg-id="第1商業台" tvg-name="第1商業台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv104_tv.png" group-title="🐉湾湾频道「线路2」", 第1商業台
+http://vip.wanwanji.cn:5000/litv/4gtv-4gtv104
+
+#EXTINF:-1 tvg-id="History-歷史頻道" tvg-name="History 歷史頻道" tvg-logo="https://assets.livednow.com/logo/History-歷史頻道.png" group-title="🐉湾湾频道「线路2」", History 歷史頻道
+http://vip.wanwanji.cn:5000/4gtv/214
+
+#EXTINF:-1 tvg-id="CI-罪案偵查頻道" tvg-name="CI 罪案偵查頻道" tvg-logo="https://assets.livednow.com/logo/CI-罪案偵查頻道.png" group-title="🐉湾湾频道「线路2」", CI 罪案偵查頻道
+http://vip.wanwanji.cn:5000/4gtv/215
+
+#EXTINF:-1 tvg-id="Smart-知識台" tvg-name="Smart 知識台" tvg-logo="https://assets.livednow.com/logo/Smart-知識台.png" group-title="🐉湾湾频道「线路2」", Smart 知識台
+http://vip.wanwanji.cn:5000/litv/litv-longturn19
+
+#EXTINF:-1 tvg-id="視納華仁紀實頻道" tvg-name="視納華仁紀實頻道" tvg-logo="https://assets.livednow.com/logo/視納華仁紀實頻道.png" group-title="🐉湾湾频道「线路2」", 視納華仁紀實頻道
+http://vip.wanwanji.cn:5000/litv/4gtv-4gtv013
+
+#EXTINF:-1 tvg-id="原住民族電視台" tvg-name="原住民族電視台" tvg-logo="https://assets.livednow.com/logo/原住民族電視台.png" group-title="🐉湾湾频道「线路2」", 原住民族電視台
+http://vip.wanwanji.cn:5000/4gtv/273
+
+#EXTINF:-1 tvg-id="客家電視台" tvg-name="客家電視台" tvg-logo="https://assets.livednow.com/logo/客家電視台.png" group-title="🐉湾湾频道「线路2」", 客家電視台
+http://vip.wanwanji.cn:5000/litv/4gtv-4gtv043
+
+#EXTINF:-1 tvg-id="滾動力-Rollor" tvg-name="滾動力 Rollor" tvg-logo="https://assets.livednow.com/logo/滾動力-Rollor.png" group-title="🐉湾湾频道「线路2」", 滾動力 Rollor
+http://vip.wanwanji.cn:5000/4gtv/249
+
+#EXTINF:-1 tvg-id="好消息" tvg-name="好消息" tvg-logo="https://assets.livednow.com/logo/好消息.png" group-title="🐉湾湾频道「线路2」", 好消息
+http://vip.wanwanji.cn:5000/litv/litv-ftv16
+
+#EXTINF:-1 tvg-id="好消息2台" tvg-name="好消息2台" tvg-logo="https://assets.livednow.com/logo/好消息2台.png" group-title="🐉湾湾频道「线路2」", 好消息2台
+http://vip.wanwanji.cn:5000/litv/litv-ftv17
+
+#EXTINF:-1 tvg-id="大愛電視" tvg-name="大愛電視" tvg-logo="https://assets.livednow.com/logo/大愛電視.png" group-title="🐉湾湾频道「线路2」", 大愛電視
+http://vip.wanwanji.cn:5000/4gtv/209
+
+#EXTINF:-1 tvg-id="大愛電視" tvg-name="大愛電視2" tvg-logo="https://assets.livednow.com/logo/大愛電視.png" group-title="🐉湾湾频道「线路2」", 大愛電視2
+http://vip.wanwanji.cn:5000/4gtv/230
+
+#EXTINF:-1 tvg-id="人間衛視" tvg-name="人間衛視" tvg-logo="https://assets.livednow.com/logo/人間衛視.png" group-title="🐉湾湾频道「线路2」", 人間衛視
+http://vip.wanwanji.cn:5000/4gtv/210
+
+#EXTINF:-1 tvg-id="國會頻道1" tvg-name="國會頻道1" tvg-logo="https://assets.livednow.com/logo/國會頻道1.png" group-title="🐉湾湾频道「线路2」", 國會頻道1
+http://vip.wanwanji.cn:5000/litv/4gtv-4gtv084
+
+#EXTINF:-1 tvg-id="國會頻道2" tvg-name="國會頻道2" tvg-logo="https://assets.livednow.com/logo/國會頻道2.png" group-title="🐉湾湾频道「线路2」", 國會頻道2
+http://vip.wanwanji.cn:5000/litv/4gtv-4gtv085
+
+#EXTINF:-1 tvg-id="東森購物" tvg-name="東森購物一台" tvg-logo="https://assets.livednow.com/logo/東森購物.png" group-title="🐉湾湾频道「线路2」", 東森購物一台
+http://vip.wanwanji.cn:5000/4gtv/173
+
+#EXTINF:-1 tvg-id="東森購物" tvg-name="東森購物二台" tvg-logo="https://assets.livednow.com/logo/東森購物.png" group-title="🐉湾湾频道「线路2」", 東森購物二台
+http://vip.wanwanji.cn:5000/4gtv/174
+
+#EXTINF:-1 tvg-id="東森購物" tvg-name="東森購物三台" tvg-logo="https://assets.livednow.com/logo/東森購物.png" group-title="🐉湾湾频道「线路2」", 東森購物三台
+http://vip.wanwanji.cn:5000/4gtv/287
+
+#EXTINF:-1 tvg-id="東森購物" tvg-name="東森購物四台" tvg-logo="https://assets.livednow.com/logo/東森購物.png" group-title="🐉湾湾频道「线路2」", 東森購物四台
+http://vip.wanwanji.cn:5000/4gtv/286
 
 #EXTINF:-1 tvg-name="订阅问客服" tvg-logo="https://epg.iill.top/logo/温馨提示.png" group-title="🐉湾湾频道「线路3」",👉扫码获取最新链接👈
 https://cloud.wujiyan.cc/f/Wk6Hy/1.mp4
 #EXTINF:-1 tvg-name="订阅问客服" tvg-logo="https://epg.iill.top/logo/温馨提示.png" group-title="🐉湾湾频道「线路3」",👉以下频道需要魔法👈
 https://cloud.wujiyan.cc/f/Wk6Hy/1.mp4
-#EXTINF:-1 tvg-name="民视第一台" tvg-logo="https://live.fanmingming.com/tv/民视第一台.png" group-title="🐉湾湾频道「线路3」",民视第一台
-http://95.179.139.113:5566/4gtv/1
 #EXTINF:-1 tvg-name="民视台湾台" tvg-logo="https://live.fanmingming.com/tv/民视台湾台.png" group-title="🐉湾湾频道「线路3」",民视台湾台
-http://95.179.139.113:5566/4gtv/2
-#EXTINF:-1 tvg-name="中视" tvg-logo="https://live.fanmingming.com/tv/中视.png" group-title="🐉湾湾频道「线路3」",中视
-http://95.179.139.113:5566/4gtv/4
-#EXTINF:-1 tvg-name="华视" tvg-logo="https://live.fanmingming.com/tv/华视.png" group-title="🐉湾湾频道「线路3」",华视
-http://95.179.139.113:5566/4gtv/6
-#EXTINF:-1 tvg-name="公视戏剧" tvg-logo="https://live.fanmingming.com/tv/公视戏剧.png" group-title="🐉湾湾频道「线路3」",公视戏剧
-http://95.179.139.113:5566/4gtv/7
-#EXTINF:-1 tvg-name="好消息2台" tvg-logo="https://live.fanmingming.com/tv/好消息2台.png" group-title="🐉湾湾频道「线路3」",好消息2台
-http://95.179.139.113:5566/4gtv/8
-#EXTINF:-1 tvg-name="好消息" tvg-logo="https://live.fanmingming.com/tv/好消息.png" group-title="🐉湾湾频道「线路3」",好消息
-http://95.179.139.113:5566/4gtv/9
-#EXTINF:-1 tvg-name="达文西频道" tvg-logo="https://live.fanmingming.com/tv/达文西频道.png" group-title="🐉湾湾频道「线路3」",达文西频道
-http://95.179.139.113:5566/4gtv/11
-#EXTINF:-1 tvg-name="靖天卡通台" tvg-logo="https://live.fanmingming.com/tv/靖天卡通台.png" group-title="🐉湾湾频道「线路3」",靖天卡通台
-http://95.179.139.113:5566/4gtv/15
-#EXTINF:-1 tvg-name="民视综艺台" tvg-logo="https://live.fanmingming.com/tv/民视综艺台.png" group-title="🐉湾湾频道「线路3」",民视综艺台
-http://95.179.139.113:5566/4gtv/16
-#EXTINF:-1 tvg-name="爱尔达娱乐台" tvg-logo="https://live.fanmingming.com/tv/爱尔达娱乐台.png" group-title="🐉湾湾频道「线路3」",爱尔达娱乐台
-http://95.179.139.113:5566/4gtv/19
-#EXTINF:-1 tvg-name="靖天综合台" tvg-logo="https://live.fanmingming.com/tv/靖天综合台.png" group-title="🐉湾湾频道「线路3」",靖天综合台
-http://95.179.139.113:5566/4gtv/21
-#EXTINF:-1 tvg-name="靖天日本台" tvg-logo="https://live.fanmingming.com/tv/靖天日本台.png" group-title="🐉湾湾频道「线路3」",靖天日本台
-http://95.179.139.113:5566/4gtv/22
-#EXTINF:-1 tvg-name="民视影剧台" tvg-logo="https://live.fanmingming.com/tv/民视影剧台.png" group-title="🐉湾湾频道「线路3」",民视影剧台
-http://95.179.139.113:5566/4gtv/24
-#EXTINF:-1 tvg-name="中天新闻台" tvg-logo="https://live.fanmingming.com/tv/中天新闻台.png" group-title="🐉湾湾频道「线路3」",中天新闻台
-http://95.179.139.113:5566/4gtv/30
-#EXTINF:-1 tvg-name="民视新闻台" tvg-logo="https://live.fanmingming.com/tv/民视新闻台.png" group-title="🐉湾湾频道「线路3」",民视新闻台
-http://95.179.139.113:5566/4gtv/31
-#EXTINF:-1 tvg-name="中视新闻" tvg-logo="https://live.fanmingming.com/tv/中视新闻.png" group-title="🐉湾湾频道「线路3」",中视新闻
-http://95.179.139.113:5566/4gtv/33
-#EXTINF:-1 tvg-name="华视新闻" tvg-logo="https://live.fanmingming.com/tv/华视新闻.png" group-title="🐉湾湾频道「线路3」",华视新闻
-http://95.179.139.113:5566/4gtv/34
-#EXTINF:-1 tvg-name="AMC电影台" tvg-logo="https://live.fanmingming.com/tv/AMC电影台.png" group-title="🐉湾湾频道「线路3」",AMC电影台
-http://95.179.139.113:5566/4gtv/39
-#EXTINF:-1 tvg-name="靖天映画" tvg-logo="https://live.fanmingming.com/tv/靖天映画.png" group-title="🐉湾湾频道「线路3」",靖天映画
-http://95.179.139.113:5566/4gtv/42
-#EXTINF:-1 tvg-name="博斯高球台" tvg-logo="https://live.fanmingming.com/tv/博斯高球台.png" group-title="🐉湾湾频道「线路3」",博斯高球台
-http://95.179.139.113:5566/4gtv/48
-#EXTINF:-1 tvg-name="博斯运动一台" tvg-logo="https://live.fanmingming.com/tv/博斯运动一台.png" group-title="🐉湾湾频道「线路3」",博斯运动一台
-http://95.179.139.113:5566/4gtv/50
-#EXTINF:-1 tvg-name="博斯无限台" tvg-logo="https://live.fanmingming.com/tv/博斯无限台.png" group-title="🐉湾湾频道「线路3」",博斯无限台
-http://95.179.139.113:5566/4gtv/51
-#EXTINF:-1 tvg-name="博斯网球台" tvg-logo="https://live.fanmingming.com/tv/博斯网球台.png" group-title="🐉湾湾频道「线路3」",博斯网球台
-http://95.179.139.113:5566/4gtv/52
-#EXTINF:-1 tvg-name="智林体育台" tvg-logo="https://live.fanmingming.com/tv/智林体育台.png" group-title="🐉湾湾频道「线路3」",智林体育台
-http://95.179.139.113:5566/4gtv/58
-#EXTINF:-1 tvg-name="靖洋卡通NICEBINGO" tvg-logo="https://live.fanmingming.com/tv/靖洋卡通NICEBINGO.png" group-title="🐉湾湾频道「线路3」",靖洋卡通NICEBINGO
-http://95.179.139.113:5566/4gtv/59
-#EXTINF:-1 tvg-name="民视旅游台" tvg-logo="https://live.fanmingming.com/tv/民视旅游台.png" group-title="🐉湾湾频道「线路3」",民视旅游台
-http://95.179.139.113:5566/4gtv/61
-#EXTINF:-1 tvg-name="靖天电影台" tvg-logo="https://live.fanmingming.com/tv/靖天电影台.png" group-title="🐉湾湾频道「线路3」",靖天电影台
-http://95.179.139.113:5566/4gtv/82
-#EXTINF:-1 tvg-name="靖天育乐台" tvg-logo="https://live.fanmingming.com/tv/靖天育乐台.png" group-title="🐉湾湾频道「线路3」",靖天育乐台
-http://95.179.139.113:5566/4gtv/83
-#EXTINF:-1 tvg-name="KLT靖天国际台" tvg-logo="https://live.fanmingming.com/tv/KLT靖天国际台.png" group-title="🐉湾湾频道「线路3」",KLT靖天国际台
-http://95.179.139.113:5566/4gtv/84
-#EXTINF:-1 tvg-name="半岛国际新闻台" tvg-logo="https://live.fanmingming.com/tv/半岛国际新闻台.png" group-title="🐉湾湾频道「线路3」",半岛国际新闻台
-http://95.179.139.113:5566/4gtv/85
-#EXTINF:-1 tvg-name="靖天资讯台" tvg-logo="https://live.fanmingming.com/tv/靖天资讯台.png" group-title="🐉湾湾频道「线路3」",靖天资讯台
-http://95.179.139.113:5566/4gtv/88
-#EXTINF:-1 tvg-name="客家电视台" tvg-logo="https://live.fanmingming.com/tv/客家电视台.png" group-title="🐉湾湾频道「线路3」",客家电视台
-http://95.179.139.113:5566/4gtv/107
-#EXTINF:-1 tvg-name="八大综艺台" tvg-logo="https://live.fanmingming.com/tv/八大综艺台.png" group-title="🐉湾湾频道「线路3」",八大综艺台
-http://95.179.139.113:5566/4gtv/114
-#EXTINF:-1 tvg-name="靖天戏剧台" tvg-logo="https://live.fanmingming.com/tv/靖天戏剧台.png" group-title="🐉湾湾频道「线路3」",靖天戏剧台
-http://95.179.139.113:5566/4gtv/116
-#EXTINF:-1 tvg-name="中视菁采台" tvg-logo="https://live.fanmingming.com/tv/中视菁采台.png" group-title="🐉湾湾频道「线路3」",中视菁采台
-http://95.179.139.113:5566/4gtv/123
-#EXTINF:-1 tvg-name="中视经典台" tvg-logo="https://live.fanmingming.com/tv/中视经典台.png" group-title="🐉湾湾频道「线路3」",中视经典台
-http://95.179.139.113:5566/4gtv/124
-#EXTINF:-1 tvg-name="幸福空间居家台" tvg-logo="https://live.fanmingming.com/tv/幸福空间居家台.png" group-title="🐉湾湾频道「线路3」",幸福空间居家台
-http://95.179.139.113:5566/4gtv/168
-#EXTINF:-1 tvg-name="三立综合台" tvg-logo="https://live.fanmingming.com/tv/三立综合台.png" group-title="🐉湾湾频道「线路3」",三立综合台
-http://95.179.139.113:5566/4gtv/169
-#EXTINF:-1 tvg-name="八大精彩台" tvg-logo="https://live.fanmingming.com/tv/八大精彩台.png" group-title="🐉湾湾频道「线路3」",八大精彩台
-http://95.179.139.113:5566/4gtv/172
-#EXTINF:-1 tvg-name="东森购物一台" tvg-logo="https://live.fanmingming.com/tv/东森购物一台.png" group-title="🐉湾湾频道「线路3」",东森购物一台
-http://95.179.139.113:5566/4gtv/173
-#EXTINF:-1 tvg-name="东森购物二台" tvg-logo="https://live.fanmingming.com/tv/东森购物二台.png" group-title="🐉湾湾频道「线路3」",东森购物二台
-http://95.179.139.113:5566/4gtv/174
-#EXTINF:-1 tvg-name="LUXETVCHANNEL" tvg-logo="https://live.fanmingming.com/tv/LUXETVCHANNEL.png" group-title="🐉湾湾频道「线路3」",LUXETVCHANNEL
-http://95.179.139.113:5566/4gtv/175
-#EXTINF:-1 tvg-name="MYCINEMAEUROPE我的欧洲电" tvg-logo="https://live.fanmingming.com/tv/MYCINEMAEUROPE我的欧洲电.png" group-title="🐉湾湾频道「线路3」",MYCINEMAEUROPE我的欧洲电
-http://95.179.139.113:5566/4gtv/176
-#EXTINF:-1 tvg-name="ROCKACTION" tvg-logo="https://live.fanmingming.com/tv/ROCKACTION.png" group-title="🐉湾湾频道「线路3」",ROCKACTION
-http://95.179.139.113:5566/4gtv/180
-#EXTINF:-1 tvg-name="TECHSTORM" tvg-logo="https://live.fanmingming.com/tv/TECHSTORM.png" group-title="🐉湾湾频道「线路3」",TECHSTORM
-http://95.179.139.113:5566/4gtv/181
-#EXTINF:-1 tvg-name="TVBS" tvg-logo="https://live.fanmingming.com/tv/TVBS.png" group-title="🐉湾湾频道「线路3」",TVBS
-http://95.179.139.113:5566/4gtv/183
-#EXTINF:-1 tvg-name="TVBS欢乐台" tvg-logo="https://live.fanmingming.com/tv/TVBS欢乐台.png" group-title="🐉湾湾频道「线路3」",TVBS欢乐台
-http://95.179.139.113:5566/4gtv/184
-#EXTINF:-1 tvg-name="尼克儿童频道" tvg-logo="https://live.fanmingming.com/tv/尼克儿童频道.png" group-title="🐉湾湾频道「线路3」",尼克儿童频道
-http://95.179.139.113:5566/4gtv/185
-#EXTINF:-1 tvg-name="HITS频道" tvg-logo="https://live.fanmingming.com/tv/HITS频道.png" group-title="🐉湾湾频道「线路3」",HITS频道
-http://95.179.139.113:5566/4gtv/186
-#EXTINF:-1 tvg-name="ARIRANG阿里郎频道" tvg-logo="https://live.fanmingming.com/tv/ARIRANG阿里郎频道.png" group-title="🐉湾湾频道「线路3」",ARIRANG阿里郎频道
-http://95.179.139.113:5566/4gtv/189
-#EXTINF:-1 tvg-name="大爱电视" tvg-logo="https://live.fanmingming.com/tv/大爱电视.png" group-title="🐉湾湾频道「线路3」",大爱电视
-http://95.179.139.113:5566/4gtv/209
-#EXTINF:-1 tvg-name="人间卫视" tvg-logo="https://live.fanmingming.com/tv/人间卫视.png" group-title="🐉湾湾频道「线路3」",人间卫视
-http://95.179.139.113:5566/4gtv/210
-#EXTINF:-1 tvg-name="MTVLIVE音乐频道" tvg-logo="https://live.fanmingming.com/tv/MTVLIVE音乐频道.png" group-title="🐉湾湾频道「线路3」",MTVLIVE音乐频道
-http://95.179.139.113:5566/4gtv/213
-#EXTINF:-1 tvg-name="HISTORY历史频道" tvg-logo="https://live.fanmingming.com/tv/HISTORY历史频道.png" group-title="🐉湾湾频道「线路3」",HISTORY历史频道
-http://95.179.139.113:5566/4gtv/214
-#EXTINF:-1 tvg-name="CI罪案侦查频道" tvg-logo="https://live.fanmingming.com/tv/CI罪案侦查频道.png" group-title="🐉湾湾频道「线路3」",CI罪案侦查频道
-http://95.179.139.113:5566/4gtv/215
-#EXTINF:-1 tvg-name="LIFETIME娱乐频道" tvg-logo="https://live.fanmingming.com/tv/LIFETIME娱乐频道.png" group-title="🐉湾湾频道「线路3」",LIFETIME娱乐频道
-http://95.179.139.113:5566/4gtv/217
-#EXTINF:-1 tvg-name="NICKJR.儿童频道" tvg-logo="https://live.fanmingming.com/tv/NICKJR.儿童频道.png" group-title="🐉湾湾频道「线路3」",NICKJR.儿童频道
-http://95.179.139.113:5566/4gtv/219
-#EXTINF:-1 tvg-name="CINEMAWORLD" tvg-logo="https://live.fanmingming.com/tv/CINEMAWORLD.png" group-title="🐉湾湾频道「线路3」",CINEMAWORLD
-http://95.179.139.113:5566/4gtv/225
-#EXTINF:-1 tvg-name="TVBS精采台" tvg-logo="https://live.fanmingming.com/tv/TVBS精采台.png" group-title="🐉湾湾频道「线路3」",TVBS精采台
-http://95.179.139.113:5566/4gtv/227
-#EXTINF:-1 tvg-name="三立新闻INEWS" tvg-logo="https://live.fanmingming.com/tv/三立新闻INEWS.png" group-title="🐉湾湾频道「线路3」",三立新闻INEWS
-http://95.179.139.113:5566/4gtv/229
-#EXTINF:-1 tvg-name="大爱二台" tvg-logo="https://live.fanmingming.com/tv/大爱二台.png" group-title="🐉湾湾频道「线路3」",大爱二台
-http://95.179.139.113:5566/4gtv/230
-#EXTINF:-1 tvg-name="MOMO亲子台" tvg-logo="https://live.fanmingming.com/tv/MOMO亲子台.png" group-title="🐉湾湾频道「线路3」",MOMO亲子台
-http://95.179.139.113:5566/4gtv/231
-#EXTINF:-1 tvg-name="CNBCASIA财经台" tvg-logo="https://live.fanmingming.com/tv/CNBCASIA财经台.png" group-title="🐉湾湾频道「线路3」",CNBCASIA财经台
-http://95.179.139.113:5566/4gtv/235
-#EXTINF:-1 tvg-name="爱尔达生活旅游" tvg-logo="https://live.fanmingming.com/tv/爱尔达生活旅游.png" group-title="🐉湾湾频道「线路3」",爱尔达生活旅游
-http://95.179.139.113:5566/4gtv/237
+http://tw.ts138.top/4g/?id=4gtv-4gtv001
 #EXTINF:-1 tvg-name="民视" tvg-logo="https://live.fanmingming.com/tv/民视.png" group-title="🐉湾湾频道「线路3」",民视
-http://95.179.139.113:5566/4gtv/246
-#EXTINF:-1 tvg-name="滚动力ROLLOR" tvg-logo="https://live.fanmingming.com/tv/滚动力ROLLOR.png" group-title="🐉湾湾频道「线路3」",滚动力ROLLOR
-http://95.179.139.113:5566/4gtv/249
-#EXTINF:-1 tvg-name="亚洲旅游台" tvg-logo="https://live.fanmingming.com/tv/亚洲旅游台.png" group-title="🐉湾湾频道「线路3」",亚洲旅游台
-http://95.179.139.113:5566/4gtv/250
-#EXTINF:-1 tvg-name="GLOBALTREKKER" tvg-logo="https://live.fanmingming.com/tv/GLOBALTREKKER.png" group-title="🐉湾湾频道「线路3」",GLOBALTREKKER
-http://95.179.139.113:5566/4gtv/252
+http://tw.ts138.top/4g/?id=4gtv-4gtv002
 #EXTINF:-1 tvg-name="民视第一台" tvg-logo="https://live.fanmingming.com/tv/民视第一台.png" group-title="🐉湾湾频道「线路3」",民视第一台
-http://95.179.139.113:5566/4gtv/254
-#EXTINF:-1 tvg-name="民视台湾台" tvg-logo="https://live.fanmingming.com/tv/民视台湾台.png" group-title="🐉湾湾频道「线路3」",民视台湾台
-http://95.179.139.113:5566/4gtv/255
+http://tw.ts138.top/4g/?id=4gtv-4gtv003
+#EXTINF:-1 tvg-name="民视综艺" tvg-logo="https://live.fanmingming.com/tv/民视综艺.png" group-title="🐉湾湾频道「线路3」",民视综艺
+http://tw.ts138.top/4g/?id=4gtv-4gtv004
+#EXTINF:-1 tvg-name="中天新闻" tvg-logo="https://live.fanmingming.com/tv/中天新闻.png" group-title="🐉湾湾频道「线路3」",中天新闻
+http://tw.ts138.top/4g/?id=4gtv-4gtv009
+#EXTINF:-1 tvg-name="非凡新闻" tvg-logo="https://live.fanmingming.com/tv/非凡新闻.png" group-title="🐉湾湾频道「线路3」",非凡新闻
+http://tw.ts138.top/4g/?id=4gtv-4gtv010
+#EXTINF:-1 tvg-name="AMC电影台" tvg-logo="https://live.fanmingming.com/tv/AMC电影台.png" group-title="🐉湾湾频道「线路3」",AMC电影台
+http://tw.ts138.top/4g/?id=4gtv-4gtv017
+#EXTINF:-1 tvg-name="达文西频道" tvg-logo="https://live.fanmingming.com/tv/达文西频道.png" group-title="🐉湾湾频道「线路3」",达文西频道
+http://tw.ts138.top/4g/?id=4gtv-4gtv018
+#EXTINF:-1 tvg-name="八大精彩台" tvg-logo="https://live.fanmingming.com/tv/八大精彩台.png" group-title="🐉湾湾频道「线路3」",八大精彩台
+http://tw.ts138.top/4g/?id=4gtv-4gtv034
+#EXTINF:-1 tvg-name="八大综艺台" tvg-logo="https://live.fanmingming.com/tv/八大综艺台.png" group-title="🐉湾湾频道「线路3」",八大综艺台
+http://tw.ts138.top/4g/?id=4gtv-4gtv039
+#EXTINF:-1 tvg-name="中视" tvg-logo="https://live.fanmingming.com/tv/中视.png" group-title="🐉湾湾频道「线路3」",中视
+http://tw.ts138.top/4g/?id=4gtv-4gtv040
+#EXTINF:-1 tvg-name="华视" tvg-logo="https://live.fanmingming.com/tv/华视.png" group-title="🐉湾湾频道「线路3」",华视
+http://tw.ts138.top/4g/?id=4gtv-4gtv041
+#EXTINF:-1 tvg-name="公视戏剧" tvg-logo="https://live.fanmingming.com/tv/公视戏剧.png" group-title="🐉湾湾频道「线路3」",公视戏剧
+http://tw.ts138.top/4g/?id=4gtv-4gtv042
+#EXTINF:-1 tvg-name="客家电视台" tvg-logo="https://live.fanmingming.com/tv/客家电视台.png" group-title="🐉湾湾频道「线路3」",客家电视台
+http://tw.ts138.top/4g/?id=4gtv-4gtv043
+#EXTINF:-1 tvg-name="靖天卡通台" tvg-logo="https://live.fanmingming.com/tv/靖天卡通台.png" group-title="🐉湾湾频道「线路3」",靖天卡通台
+http://tw.ts138.top/4g/?id=4gtv-4gtv044
+#EXTINF:-1 tvg-name="靖天综合台" tvg-logo="https://live.fanmingming.com/tv/靖天综合台.png" group-title="🐉湾湾频道「线路3」",靖天综合台
+http://tw.ts138.top/4g/?id=4gtv-4gtv046
+#EXTINF:-1 tvg-name="靖天日本台" tvg-logo="https://live.fanmingming.com/tv/靖天日本台.png" group-title="🐉湾湾频道「线路3」",靖天日本台
+http://tw.ts138.top/4g/?id=4gtv-4gtv047
+#EXTINF:-1 tvg-name="非凡商业" tvg-logo="https://live.fanmingming.com/tv/非凡商业.png" group-title="🐉湾湾频道「线路3」",非凡商业
+http://tw.ts138.top/4g/?id=4gtv-4gtv048
+#EXTINF:-1 tvg-name="台视新闻" tvg-logo="https://live.fanmingming.com/tv/台视新闻.png" group-title="🐉湾湾频道「线路3」",台视新闻
+http://tw.ts138.top/4g/?id=4gtv-4gtv051
 #EXTINF:-1 tvg-name="华视新闻" tvg-logo="https://live.fanmingming.com/tv/华视新闻.png" group-title="🐉湾湾频道「线路3」",华视新闻
-http://95.179.139.113:5566/4gtv/256
-#EXTINF:-1 tvg-name="民视新闻台" tvg-logo="https://live.fanmingming.com/tv/民视新闻台.png" group-title="🐉湾湾频道「线路3」",民视新闻台
-http://95.179.139.113:5566/4gtv/257
-#EXTINF:-1 tvg-name="中视新闻" tvg-logo="https://live.fanmingming.com/tv/中视新闻.png" group-title="🐉湾湾频道「线路3」",中视新闻
-http://95.179.139.113:5566/4gtv/258
-#EXTINF:-1 tvg-name="中天新闻台" tvg-logo="https://live.fanmingming.com/tv/中天新闻台.png" group-title="🐉湾湾频道「线路3」",中天新闻台
-http://95.179.139.113:5566/4gtv/260
-#EXTINF:-1 tvg-name="亚洲旅游台" tvg-logo="https://live.fanmingming.com/tv/亚洲旅游台.png" group-title="🐉湾湾频道「线路3」",亚洲旅游台
-http://95.179.139.113:5566/4gtv/261
-#EXTINF:-1 tvg-name="镜电视新闻台" tvg-logo="https://live.fanmingming.com/tv/镜电视新闻台.png" group-title="🐉湾湾频道「线路3」",镜电视新闻台
-http://95.179.139.113:5566/4gtv/268
-#EXTINF:-1 tvg-name="原住民族电视台" tvg-logo="https://live.fanmingming.com/tv/原住民族电视台.png" group-title="🐉湾湾频道「线路3」",原住民族电视台
-http://95.179.139.113:5566/4gtv/273
-#EXTINF:-1 tvg-name="ROCKENTERTAINMENT" tvg-logo="https://live.fanmingming.com/tv/ROCKENTERTAINMENT.png" group-title="🐉湾湾频道「线路3」",ROCKENTERTAINMENT
-http://95.179.139.113:5566/4gtv/275
-#EXTINF:-1 tvg-name="寰宇新闻台湾台" tvg-logo="https://live.fanmingming.com/tv/寰宇新闻台湾台.png" group-title="🐉湾湾频道「线路3」",寰宇新闻台湾台
-http://95.179.139.113:5566/4gtv/280
-#EXTINF:-1 tvg-name="DREAMWORKS梦工厂动画" tvg-logo="https://live.fanmingming.com/tv/DREAMWORKS梦工厂动画.png" group-title="🐉湾湾频道「线路3」",DREAMWORKS梦工厂动画
-http://95.179.139.113:5566/4gtv/282
-#EXTINF:-1 tvg-name="BLOOMBERGTV" tvg-logo="https://live.fanmingming.com/tv/BLOOMBERGTV.png" group-title="🐉湾湾频道「线路3」",BLOOMBERGTV
-http://95.179.139.113:5566/4gtv/283
-#EXTINF:-1 tvg-name="TVBS综艺台" tvg-logo="https://live.fanmingming.com/tv/TVBS综艺台.png" group-title="🐉湾湾频道「线路3」",TVBS综艺台
-http://95.179.139.113:5566/4gtv/284
-#EXTINF:-1 tvg-name="TVBS台剧台" tvg-logo="https://live.fanmingming.com/tv/TVBS台剧台.png" group-title="🐉湾湾频道「线路3」",TVBS台剧台
-http://95.179.139.113:5566/4gtv/285
-#EXTINF:-1 tvg-name="东森购物四台" tvg-logo="https://live.fanmingming.com/tv/东森购物四台.png" group-title="🐉湾湾频道「线路3」",东森购物四台
-http://95.179.139.113:5566/4gtv/286
-#EXTINF:-1 tvg-name="东森购物三台" tvg-logo="https://live.fanmingming.com/tv/东森购物三台.png" group-title="🐉湾湾频道「线路3」",东森购物三台
-http://95.179.139.113:5566/4gtv/287
+http://tw.ts138.top/4g/?id=4gtv-4gtv052
+#EXTINF:-1 tvg-name="靖天欢乐台" tvg-logo="https://live.fanmingming.com/tv/靖天欢乐台.png" group-title="🐉湾湾频道「线路3」",靖天欢乐台
+http://tw.ts138.top/4g/?id=4gtv-4gtv054
+#EXTINF:-1 tvg-name="靖天映画" tvg-logo="https://live.fanmingming.com/tv/靖天映画.png" group-title="🐉湾湾频道「线路3」",靖天映画
+http://tw.ts138.top/4g/?id=4gtv-4gtv055
+#EXTINF:-1 tvg-name="台视财经" tvg-logo="https://live.fanmingming.com/tv/台视财经.png" group-title="🐉湾湾频道「线路3」",台视财经
+http://tw.ts138.top/4g/?id=4gtv-4gtv056
+#EXTINF:-1 tvg-name="靖洋卡通台" tvg-logo="https://live.fanmingming.com/tv/靖洋卡通台.png" group-title="🐉湾湾频道「线路3」",靖洋卡通台
+http://tw.ts138.top/4g/?id=4gtv-4gtv057
+#EXTINF:-1 tvg-name="靖天戏剧台" tvg-logo="https://live.fanmingming.com/tv/靖天戏剧台.png" group-title="🐉湾湾频道「线路3」",靖天戏剧台
+http://tw.ts138.top/4g/?id=4gtv-4gtv058
+#EXTINF:-1 tvg-name="古典音乐台" tvg-logo="https://live.fanmingming.com/tv/古典音乐台.png" group-title="🐉湾湾频道「线路3」",古典音乐台
+http://tw.ts138.top/4g/?id=4gtv-4gtv059
+#EXTINF:-1 tvg-name="靖天电影台" tvg-logo="https://live.fanmingming.com/tv/靖天电影台.png" group-title="🐉湾湾频道「线路3」",靖天电影台
+http://tw.ts138.top/4g/?id=4gtv-4gtv061
+#EXTINF:-1 tvg-name="靖天育乐台" tvg-logo="https://live.fanmingming.com/tv/靖天育乐台.png" group-title="🐉湾湾频道「线路3」",靖天育乐台
+http://tw.ts138.top/4g/?id=4gtv-4gtv062
+#EXTINF:-1 tvg-name="靖天国际台" tvg-logo="https://live.fanmingming.com/tv/靖天国际台.png" group-title="🐉湾湾频道「线路3」",靖天国际台
+http://tw.ts138.top/4g/?id=4gtv-4gtv063
+#EXTINF:-1 tvg-name="中视菁采" tvg-logo="https://live.fanmingming.com/tv/中视菁采.png" group-title="🐉湾湾频道「线路3」",中视菁采
+http://tw.ts138.top/4g/?id=4gtv-4gtv064
+#EXTINF:-1 tvg-name="靖天资讯台" tvg-logo="https://live.fanmingming.com/tv/靖天资讯台.png" group-title="🐉湾湾频道「线路3」",靖天资讯台
+http://tw.ts138.top/4g/?id=4gtv-4gtv065
+#EXTINF:-1 tvg-name="台视" tvg-logo="https://live.fanmingming.com/tv/台视.png" group-title="🐉湾湾频道「线路3」",台视
+http://tw.ts138.top/4g/?id=4gtv-4gtv066
+#EXTINF:-1 tvg-name="TVBS精采台" tvg-logo="https://live.fanmingming.com/tv/TVBS精采台.png" group-title="🐉湾湾频道「线路3」",TVBS精采台
+http://tw.ts138.top/4g/?id=4gtv-4gtv067
+#EXTINF:-1 tvg-name="TVBS欢乐台" tvg-logo="https://live.fanmingming.com/tv/TVBS欢乐台.png" group-title="🐉湾湾频道「线路3」",TVBS欢乐台
+http://tw.ts138.top/4g/?id=4gtv-4gtv068
+#EXTINF:-1 tvg-name="爱尔达娱乐" tvg-logo="https://live.fanmingming.com/tv/爱尔达娱乐.png" group-title="🐉湾湾频道「线路3」",爱尔达娱乐
+http://tw.ts138.top/4g/?id=4gtv-4gtv070
 #EXTINF:-1 tvg-name="TVBS新闻台" tvg-logo="https://live.fanmingming.com/tv/TVBS新闻台.png" group-title="🐉湾湾频道「线路3」",TVBS新闻台
-http://95.179.139.113:5566/4gtv/291
-#EXTINF:-1 tvg-name="东森新闻台" tvg-logo="https://live.fanmingming.com/tv/东森新闻台.png" group-title="🐉湾湾频道「线路3」",东森新闻台
-http://95.179.139.113:5566/4gtv/292
-#EXTINF:-1 tvg-name="东森财经新闻台" tvg-logo="https://live.fanmingming.com/tv/东森财经新闻台.png" group-title="🐉湾湾频道「线路3」",东森财经新闻台
-http://95.179.139.113:5566/4gtv/293
-#EXTINF:-1 tvg-name="龙华戏剧台" tvg-logo="https://live.fanmingming.com/tv/龙华戏剧台.png" group-title="🐉湾湾频道「线路3」",龙华戏剧台
-http://95.179.139.113:5566/4gtv/23
-#EXTINF:-1 tvg-name="龙华日韩台" tvg-logo="https://live.fanmingming.com/tv/龙华日韩台.png" group-title="🐉湾湾频道「线路3」",龙华日韩台
-http://95.179.139.113:5566/4gtv/28
-#EXTINF:-1 tvg-name="寰宇新闻台" tvg-logo="https://live.fanmingming.com/tv/寰宇新闻台.png" group-title="🐉湾湾频道「线路3」",寰宇新闻台
-http://95.179.139.113:5566/4gtv/36
-#EXTINF:-1 tvg-name="视纳华仁纪实频道" tvg-logo="https://live.fanmingming.com/tv/视纳华仁纪实频道.png" group-title="🐉湾湾频道「线路3」",视纳华仁纪实频道
-http://95.179.139.113:5566/4gtv/38
-#EXTINF:-1 tvg-name="影迷数位电影台" tvg-logo="https://live.fanmingming.com/tv/影迷数位电影台.png" group-title="🐉湾湾频道「线路3」",影迷数位电影台
-http://95.179.139.113:5566/4gtv/40
-#EXTINF:-1 tvg-name="TRACESPORTSTARS" tvg-logo="https://live.fanmingming.com/tv/TRACESPORTSTARS.png" group-title="🐉湾湾频道「线路3」",TRACESPORTSTARS
-http://95.179.139.113:5566/4gtv/57
-#EXTINF:-1 tvg-name="IFUN动漫台" tvg-logo="https://live.fanmingming.com/tv/IFUN动漫台.png" group-title="🐉湾湾频道「线路3」",IFUN动漫台
-http://95.179.139.113:5566/4gtv/60
-#EXTINF:-1 tvg-name="时尚运动X" tvg-logo="https://live.fanmingming.com/tv/时尚运动X.png" group-title="🐉湾湾频道「线路3」",时尚运动X
-http://95.179.139.113:5566/4gtv/69
-#EXTINF:-1 tvg-name="TRACEURBAN" tvg-logo="https://live.fanmingming.com/tv/TRACEURBAN.png" group-title="🐉湾湾频道「线路3」",TRACEURBAN
-http://95.179.139.113:5566/4gtv/78
-#EXTINF:-1 tvg-name="MEZZOLIVE" tvg-logo="https://live.fanmingming.com/tv/MEZZOLIVE.png" group-title="🐉湾湾频道「线路3」",MEZZOLIVE
-http://95.179.139.113:5566/4gtv/79
-#EXTINF:-1 tvg-name="CLASSICA古典乐" tvg-logo="https://live.fanmingming.com/tv/CLASSICA古典乐.png" group-title="🐉湾湾频道「线路3」",CLASSICA古典乐
-http://95.179.139.113:5566/4gtv/80
-#EXTINF:-1 tvg-name="VOA美国之音" tvg-logo="https://live.fanmingming.com/tv/VOA美国之音.png" group-title="🐉湾湾频道「线路3」",VOA美国之音
-http://95.179.139.113:5566/4gtv/86
-#EXTINF:-1 tvg-name="凤梨直击台" tvg-logo="https://live.fanmingming.com/tv/凤梨直击台.png" group-title="🐉湾湾频道「线路3」",凤梨直击台
-http://95.179.139.113:5566/4gtv/93
-#EXTINF:-1 tvg-name="香蕉直击台" tvg-logo="https://live.fanmingming.com/tv/香蕉直击台.png" group-title="🐉湾湾频道「线路3」",香蕉直击台
-http://95.179.139.113:5566/4gtv/94
-#EXTINF:-1 tvg-name="ELTV生活英语台" tvg-logo="https://live.fanmingming.com/tv/ELTV生活英语台.png" group-title="🐉湾湾频道「线路3」",ELTV生活英语台
-http://95.179.139.113:5566/4gtv/106
+http://tw.ts138.top/4g/?id=4gtv-4gtv072
+#EXTINF:-1 tvg-name="TVBS" tvg-logo="https://live.fanmingming.com/tv/TVBS.png" group-title="🐉湾湾频道「线路3」",TVBS
+http://tw.ts138.top/4g/?id=4gtv-4gtv073
+#EXTINF:-1 tvg-name="中视新闻" tvg-logo="https://live.fanmingming.com/tv/中视新闻.png" group-title="🐉湾湾频道「线路3」",中视新闻
+http://tw.ts138.top/4g/?id=4gtv-4gtv074
+#EXTINF:-1 tvg-name="CATCHPLAY电影台" tvg-logo="https://live.fanmingming.com/tv/CATCHPLAY电影台.png" group-title="🐉湾湾频道「线路3」",CATCHPLAY电影台
+http://tw.ts138.top/4g/?id=4gtv-4gtv076
+#EXTINF:-1 tvg-name="中视经典" tvg-logo="https://live.fanmingming.com/tv/中视经典.png" group-title="🐉湾湾频道「线路3」",中视经典
+http://tw.ts138.top/4g/?id=4gtv-4gtv080
+#EXTINF:-1 tvg-name="智林体育台" tvg-logo="https://live.fanmingming.com/tv/智林体育台.png" group-title="🐉湾湾频道「线路3」",智林体育台
+http://tw.ts138.top/4g/?id=4gtv-4gtv101
+#EXTINF:-1 tvg-name="东森新闻" tvg-logo="https://live.fanmingming.com/tv/东森新闻.png" group-title="🐉湾湾频道「线路3」",东森新闻
+http://tw.ts138.top/4g/?id=4gtv-4gtv152
+#EXTINF:-1 tvg-name="东森财经新闻" tvg-logo="https://live.fanmingming.com/tv/东森财经新闻.png" group-title="🐉湾湾频道「线路3」",东森财经新闻
+http://tw.ts138.top/4g/?id=4gtv-4gtv153
+#EXTINF:-1 tvg-name="民视" tvg-logo="https://live.fanmingming.com/tv/民视.png" group-title="🐉湾湾频道「线路3」",民视
+http://tw.ts138.top/4g/?id=4gtv-4gtv155
+#EXTINF:-1 tvg-name="民视台湾台" tvg-logo="https://live.fanmingming.com/tv/民视台湾台.png" group-title="🐉湾湾频道「线路3」",民视台湾台
+http://tw.ts138.top/4g/?id=4gtv-4gtv156
+#EXTINF:-1 tvg-name="民视旅游" tvg-logo="https://live.fanmingming.com/tv/民视旅游.png" group-title="🐉湾湾频道「线路3」",民视旅游
+http://tw.ts138.top/4g/?id=litv-ftv07
+#EXTINF:-1 tvg-name="民视影剧" tvg-logo="https://live.fanmingming.com/tv/民视影剧.png" group-title="🐉湾湾频道「线路3」",民视影剧
+http://tw.ts138.top/4g/?id=litv-ftv09
+#EXTINF:-1 tvg-name="半岛新闻" tvg-logo="https://live.fanmingming.com/tv/半岛新闻.png" group-title="🐉湾湾频道「线路3」",半岛新闻
+http://tw.ts138.top/4g/?id=litv-ftv10
+#EXTINF:-1 tvg-name="民视新闻台" tvg-logo="https://live.fanmingming.com/tv/民视新闻台.png" group-title="🐉湾湾频道「线路3」",民视新闻台
+http://tw.ts138.top/4g/?id=litv-ftv13
+#EXTINF:-1 tvg-name="好消息" tvg-logo="https://live.fanmingming.com/tv/好消息.png" group-title="🐉湾湾频道「线路3」",好消息
+http://tw.ts138.top/4g/?id=litv-ftv16
+#EXTINF:-1 tvg-name="好消息2台" tvg-logo="https://live.fanmingming.com/tv/好消息2台.png" group-title="🐉湾湾频道「线路3」",好消息2台
+http://tw.ts138.top/4g/?id=litv-ftv17
+#EXTINF:-1 tvg-name="博斯魅力" tvg-logo="https://live.fanmingming.com/tv/博斯魅力.png" group-title="🐉湾湾频道「线路3」",博斯魅力
+http://tw.ts138.top/4g/?id=litv-longturn04
+#EXTINF:-1 tvg-name="博斯高球1" tvg-logo="https://live.fanmingming.com/tv/博斯高球1.png" group-title="🐉湾湾频道「线路3」",博斯高球1
+http://tw.ts138.top/4g/?id=litv-longturn05
+#EXTINF:-1 tvg-name="博斯高球2" tvg-logo="https://live.fanmingming.com/tv/博斯高球2.png" group-title="🐉湾湾频道「线路3」",博斯高球2
+http://tw.ts138.top/4g/?id=litv-longturn06
+#EXTINF:-1 tvg-name="博斯运动1" tvg-logo="https://live.fanmingming.com/tv/博斯运动1.png" group-title="🐉湾湾频道「线路3」",博斯运动1
+http://tw.ts138.top/4g/?id=litv-longturn07
+#EXTINF:-1 tvg-name="博斯运动2" tvg-logo="https://live.fanmingming.com/tv/博斯运动2.png" group-title="🐉湾湾频道「线路3」",博斯运动2
+http://tw.ts138.top/4g/?id=litv-longturn08
+#EXTINF:-1 tvg-name="博斯网球" tvg-logo="https://live.fanmingming.com/tv/博斯网球.png" group-title="🐉湾湾频道「线路3」",博斯网球
+http://tw.ts138.top/4g/?id=litv-longturn09
+#EXTINF:-1 tvg-name="博斯无限" tvg-logo="https://live.fanmingming.com/tv/博斯无限.png" group-title="🐉湾湾频道「线路3」",博斯无限
+http://tw.ts138.top/4g/?id=litv-longturn10
+#EXTINF:-1 tvg-name="博斯无限2" tvg-logo="https://live.fanmingming.com/tv/博斯无限2.png" group-title="🐉湾湾频道「线路3」",博斯无限2
+http://tw.ts138.top/4g/?id=litv-longturn13
+#EXTINF:-1 tvg-name="寰宇新闻台湾台" tvg-logo="https://live.fanmingming.com/tv/寰宇新闻台湾台.png" group-title="🐉湾湾频道「线路3」",寰宇新闻台湾台
+http://tw.ts138.top/4g/?id=litv-longturn15
+#EXTINF:-1 tvg-name="亚洲旅游台" tvg-logo="https://live.fanmingming.com/tv/亚洲旅游台.png" group-title="🐉湾湾频道「线路3」",亚洲旅游台
+http://tw.ts138.top/4g/?id=litv-longturn17
+#EXTINF:-1 tvg-name="台湾戏剧台" tvg-logo="https://live.fanmingming.com/tv/台湾戏剧台.png" group-title="🐉湾湾频道「线路3」",台湾戏剧台
+http://tw.ts138.top/4g/?id=litv-longturn22
 #EXTINF:-1 tvg-name="猪哥亮歌厅秀" tvg-logo="https://live.fanmingming.com/tv/猪哥亮歌厅秀.png" group-title="🐉湾湾频道「线路3」",猪哥亮歌厅秀
-http://95.179.139.113:5566/4gtv/113
-#EXTINF:-1 tvg-name="靖洋戏剧台" tvg-logo="https://live.fanmingming.com/tv/靖洋戏剧台.png" group-title="🐉湾湾频道「线路3」",靖洋戏剧台
-http://95.179.139.113:5566/4gtv/118
-#EXTINF:-1 tvg-name="龙华电影台" tvg-logo="https://live.fanmingming.com/tv/龙华电影台.png" group-title="🐉湾湾频道「线路3」",龙华电影台
-http://95.179.139.113:5566/4gtv/121
-#EXTINF:-1 tvg-name="LOVENATURE" tvg-logo="https://live.fanmingming.com/tv/LOVENATURE.png" group-title="🐉湾湾频道「线路3」",LOVENATURE
-http://95.179.139.113:5566/4gtv/139
-#EXTINF:-1 tvg-name="车迷TV" tvg-logo="https://live.fanmingming.com/tv/车迷TV.png" group-title="🐉湾湾频道「线路3」",车迷TV
-http://95.179.139.113:5566/4gtv/160
-#EXTINF:-1 tvg-name="国会频道1" tvg-logo="https://live.fanmingming.com/tv/国会频道1.png" group-title="🐉湾湾频道「线路3」",国会频道1
-http://95.179.139.113:5566/4gtv/170
-#EXTINF:-1 tvg-name="国会频道2" tvg-logo="https://live.fanmingming.com/tv/国会频道2.png" group-title="🐉湾湾频道「线路3」",国会频道2
-http://95.179.139.113:5566/4gtv/171
-#EXTINF:-1 tvg-name="TV5MONDESTYLE生活时尚" tvg-logo="https://live.fanmingming.com/tv/TV5MONDESTYLE生活时尚.png" group-title="🐉湾湾频道「线路3」",TV5MONDESTYLE生活时尚
-http://95.179.139.113:5566/4gtv/178
-#EXTINF:-1 tvg-name="GINXESPORTSTV" tvg-logo="https://live.fanmingming.com/tv/GINXESPORTSTV.png" group-title="🐉湾湾频道「线路3」",GINXESPORTSTV
-http://95.179.139.113:5566/4gtv/179
-#EXTINF:-1 tvg-name="PETCLUBTV" tvg-logo="https://live.fanmingming.com/tv/PETCLUBTV.png" group-title="🐉湾湾频道「线路3」",PETCLUBTV
-http://95.179.139.113:5566/4gtv/182
-#EXTINF:-1 tvg-name="LIVEABC互动英语频道" tvg-logo="https://live.fanmingming.com/tv/LIVEABC互动英语频道.png" group-title="🐉湾湾频道「线路3」",LIVEABC互动英语频道
-http://95.179.139.113:5566/4gtv/188
-#EXTINF:-1 tvg-name="经典电影台" tvg-logo="https://live.fanmingming.com/tv/经典电影台.png" group-title="🐉湾湾频道「线路3」",经典电影台
-http://95.179.139.113:5566/4gtv/201
-#EXTINF:-1 tvg-name="经典卡通台" tvg-logo="https://live.fanmingming.com/tv/经典卡通台.png" group-title="🐉湾湾频道「线路3」",经典卡通台
-http://95.179.139.113:5566/4gtv/202
-#EXTINF:-1 tvg-name="精选动漫台" tvg-logo="https://live.fanmingming.com/tv/精选动漫台.png" group-title="🐉湾湾频道「线路3」",精选动漫台
-http://95.179.139.113:5566/4gtv/204
-#EXTINF:-1 tvg-name="影迷数位纪实台" tvg-logo="https://live.fanmingming.com/tv/影迷数位纪实台.png" group-title="🐉湾湾频道「线路3」",影迷数位纪实台
-http://95.179.139.113:5566/4gtv/212
-#EXTINF:-1 tvg-name="电影原声台CMUSIC" tvg-logo="https://live.fanmingming.com/tv/电影原声台CMUSIC.png" group-title="🐉湾湾频道「线路3」",电影原声台CMUSIC
-http://95.179.139.113:5566/4gtv/218
-#EXTINF:-1 tvg-name="XTR亚太台" tvg-logo="https://live.fanmingming.com/tv/XTR亚太台.png" group-title="🐉湾湾频道「线路3」",XTR亚太台
-http://95.179.139.113:5566/4gtv/223
-#EXTINF:-1 tvg-name="SBN全球财经台" tvg-logo="https://live.fanmingming.com/tv/SBN全球财经台.png" group-title="🐉湾湾频道「线路3」",SBN全球财经台
-http://95.179.139.113:5566/4gtv/224
-#EXTINF:-1 tvg-name="DW德国之声" tvg-logo="https://live.fanmingming.com/tv/DW德国之声.png" group-title="🐉湾湾频道「线路3」",DW德国之声
-http://95.179.139.113:5566/4gtv/226
-#EXTINF:-1 tvg-name="金光布袋戏" tvg-logo="https://live.fanmingming.com/tv/金光布袋戏.png" group-title="🐉湾湾频道「线路3」",金光布袋戏
-http://95.179.139.113:5566/4gtv/236
-#EXTINF:-1 tvg-name="戏剧免费看2台" tvg-logo="https://live.fanmingming.com/tv/戏剧免费看2台.png" group-title="🐉湾湾频道「线路3」",戏剧免费看2台
-http://95.179.139.113:5566/4gtv/244
-#EXTINF:-1 tvg-name="电影免费看2台" tvg-logo="https://live.fanmingming.com/tv/电影免费看2台.png" group-title="🐉湾湾频道「线路3」",电影免费看2台
-http://95.179.139.113:5566/4gtv/245
-#EXTINF:-1 tvg-name="儿童卡通台" tvg-logo="https://live.fanmingming.com/tv/儿童卡通台.png" group-title="🐉湾湾频道「线路3」",儿童卡通台
-http://95.179.139.113:5566/4gtv/269
-#EXTINF:-1 tvg-name="戏剧免费看1台" tvg-logo="https://live.fanmingming.com/tv/戏剧免费看1台.png" group-title="🐉湾湾频道「线路3」",戏剧免费看1台
-http://95.179.139.113:5566/4gtv/270
-#EXTINF:-1 tvg-name="FUN探索娱乐台" tvg-logo="https://live.fanmingming.com/tv/FUN探索娱乐台.png" group-title="🐉湾湾频道「线路3」",FUN探索娱乐台
-http://95.179.139.113:5566/4gtv/274
+http://tw.ts138.top/4g/?id=4gtv-4gtv006
+#EXTINF:-1 tvg-name="影迷數位電影台" tvg-logo="https://live.fanmingming.com/tv/影迷數位電影台.png" group-title="🐉湾湾频道「线路3」",影迷數位電影台
+http://tw.ts138.top/4g/?id=4gtv-4gtv011
+#EXTINF:-1 tvg-name="視納華仁紀實頻道" tvg-logo="https://live.fanmingming.com/tv/視納華仁紀實頻道.png" group-title="🐉湾湾频道「线路3」",視納華仁紀實頻道
+http://tw.ts138.top/4g/?id=4gtv-4gtv013
 #EXTINF:-1 tvg-name="时尚运动X" tvg-logo="https://live.fanmingming.com/tv/时尚运动X.png" group-title="🐉湾湾频道「线路3」",时尚运动X
-http://95.179.139.113:5566/4gtv/277
-#EXTINF:-1 tvg-name="超人力霸王整套看" tvg-logo="https://live.fanmingming.com/tv/超人力霸王整套看.png" group-title="🐉湾湾频道「线路3」",超人力霸王整套看
-http://95.179.139.113:5566/4gtv/278
-#EXTINF:-1 tvg-name="花系列经典剧场" tvg-logo="https://live.fanmingming.com/tv/花系列经典剧场.png" group-title="🐉湾湾频道「线路3」",花系列经典剧场
-http://95.179.139.113:5566/4gtv/279
-#EXTINF:-1 tvg-name="寰宇财经台" tvg-logo="https://live.fanmingming.com/tv/寰宇财经台.png" group-title="🐉湾湾频道「线路3」",寰宇财经台
-http://95.179.139.113:5566/4gtv/281
-#EXTINF:-1 tvg-name="GLOBETROTTER环游旅行家" tvg-logo="https://live.fanmingming.com/tv/GLOBETROTTER环游旅行家.png" group-title="🐉湾湾频道「线路3」",GLOBETROTTER环游旅行家
-http://95.179.139.113:5566/4gtv/288
+http://tw.ts138.top/4g/?id=4gtv-4gtv014
+#EXTINF:-1 tvg-name="GLOBETROTTER" tvg-logo="https://live.fanmingming.com/tv/GLOBETROTTER.png" group-title="🐉湾湾频道「线路3」",GLOBETROTTER
+http://tw.ts138.top/4g/?id=4gtv-4gtv016
+#EXTINF:-1 tvg-name="靖洋戏剧台" tvg-logo="https://live.fanmingming.com/tv/靖洋戏剧台.png" group-title="🐉湾湾频道「线路3」",靖洋戏剧台
+http://tw.ts138.top/4g/?id=4gtv-4gtv045
+#EXTINF:-1 tvg-name="采昌影剧" tvg-logo="https://live.fanmingming.com/tv/采昌影剧.png" group-title="🐉湾湾频道「线路3」",采昌影剧
+http://tw.ts138.top/4g/?id=4gtv-4gtv049
+#EXTINF:-1 tvg-name="GINXTV" tvg-logo="https://live.fanmingming.com/tv/GINXTV.png" group-title="🐉湾湾频道「线路3」",GINXTV
+http://tw.ts138.top/4g/?id=4gtv-4gtv053
+#EXTINF:-1 tvg-name="镜新闻" tvg-logo="https://live.fanmingming.com/tv/镜新闻.png" group-title="🐉湾湾频道「线路3」",镜新闻
+http://tw.ts138.top/4g/?id=4gtv-4gtv075
+#EXTINF:-1 tvg-name="TRACESPORTSSTARS" tvg-logo="https://live.fanmingming.com/tv/TRACESPORTSSTARS.png" group-title="🐉湾湾频道「线路3」",TRACESPORTSSTARS
+http://tw.ts138.top/4g/?id=4gtv-4gtv077
+#EXTINF:-1 tvg-name="阿里郎" tvg-logo="https://live.fanmingming.com/tv/阿里郎.png" group-title="🐉湾湾频道「线路3」",阿里郎
+http://tw.ts138.top/4g/?id=4gtv-4gtv079
+#EXTINF:-1 tvg-name="TRACEURBAN" tvg-logo="https://live.fanmingming.com/tv/TRACEURBAN.png" group-title="🐉湾湾频道「线路3」",TRACEURBAN
+http://tw.ts138.top/4g/?id=4gtv-4gtv082
+#EXTINF:-1 tvg-name="MEZZOLIVE" tvg-logo="https://live.fanmingming.com/tv/MEZZOLIVE.png" group-title="🐉湾湾频道「线路3」",MEZZOLIVE
+http://tw.ts138.top/4g/?id=4gtv-4gtv083
+#EXTINF:-1 tvg-name="国会频道1" tvg-logo="https://live.fanmingming.com/tv/国会频道1.png" group-title="🐉湾湾频道「线路3」",国会频道1
+http://tw.ts138.top/4g/?id=4gtv-4gtv084
+#EXTINF:-1 tvg-name="国会频道2" tvg-logo="https://live.fanmingming.com/tv/国会频道2.png" group-title="🐉湾湾频道「线路3」",国会频道2
+http://tw.ts138.top/4g/?id=4gtv-4gtv085
+#EXTINF:-1 tvg-name="国际财经" tvg-logo="https://live.fanmingming.com/tv/国际财经.png" group-title="🐉湾湾频道「线路3」",国际财经
+http://tw.ts138.top/4g/?id=4gtv-4gtv104
+#EXTINF:-1 tvg-name="第1商業台" tvg-logo="https://live.fanmingming.com/tv/第1商業台.png" group-title="🐉湾湾频道「线路3」",第1商業台
+http://tw.ts138.top/4g/?id=4gtv-4gtv109
+#EXTINF:-1 tvg-name="美国之音" tvg-logo="https://live.fanmingming.com/tv/美国之音.png" group-title="🐉湾湾频道「线路3」",美国之音
+http://tw.ts138.top/4g/?id=litv-ftv03
+#EXTINF:-1 tvg-name="爱放动漫" tvg-logo="https://live.fanmingming.com/tv/爱放动漫.png" group-title="🐉湾湾频道「线路3」",爱放动漫
+http://tw.ts138.top/4g/?id=litv-ftv15
+#EXTINF:-1 tvg-name="龙华卡通" tvg-logo="https://live.fanmingming.com/tv/龙华卡通.png" group-title="🐉湾湾频道「线路3」",龙华卡通
+http://tw.ts138.top/4g/?id=litv-longturn01
+#EXTINF:-1 tvg-name="龙华电影" tvg-logo="https://live.fanmingming.com/tv/龙华电影.png" group-title="🐉湾湾频道「线路3」",龙华电影
+http://tw.ts138.top/4g/?id=litv-longturn03
+#EXTINF:-1 tvg-name="龙华日韩" tvg-logo="https://live.fanmingming.com/tv/龙华日韩.png" group-title="🐉湾湾频道「线路3」",龙华日韩
+http://tw.ts138.top/4g/?id=litv-longturn11
+#EXTINF:-1 tvg-name="龙华偶像" tvg-logo="https://live.fanmingming.com/tv/龙华偶像.png" group-title="🐉湾湾频道「线路3」",龙华偶像
+http://tw.ts138.top/4g/?id=litv-longturn12
+#EXTINF:-1 tvg-name="寰宇新闻台" tvg-logo="https://live.fanmingming.com/tv/寰宇新闻台.png" group-title="🐉湾湾频道「线路3」",寰宇新闻台
+http://tw.ts138.top/4g/?id=litv-longturn14
+#EXTINF:-1 tvg-name="龙华戏剧" tvg-logo="https://live.fanmingming.com/tv/龙华戏剧.png" group-title="🐉湾湾频道「线路3」",龙华戏剧
+http://tw.ts138.top/4g/?id=litv-longturn18
+#EXTINF:-1 tvg-name="SMART知识台" tvg-logo="https://live.fanmingming.com/tv/SMART知识台.png" group-title="🐉湾湾频道「线路3」",SMART知识台
+http://tw.ts138.top/4g/?id=litv-longturn19
+#EXTINF:-1 tvg-name="生活英语台" tvg-logo="https://live.fanmingming.com/tv/生活英语台.png" group-title="🐉湾湾频道「线路3」",生活英语台
+http://tw.ts138.top/4g/?id=litv-longturn20
+#EXTINF:-1 tvg-name="龙华经典" tvg-logo="https://live.fanmingming.com/tv/龙华经典.png" group-title="🐉湾湾频道「线路3」",龙华经典
+http://tw.ts138.top/4g/?id=litv-longturn21
 
 #EXTINF:-1 tvg-name="订阅问客服" tvg-logo="https://epg.iill.top/logo/温馨提示.png" group-title="🐉湾湾频道「线路4」",👉扫码获取最新链接👈
 https://cloud.wujiyan.cc/f/Wk6Hy/1.mp4
@@ -11807,4 +11856,7 @@ https://fanmingming.com/fm?id=845
 oup-title=%22%F0%9F%90%89%E5%B9%BF%E6%92%AD%E5%89%A7%E5%9C%BA%F0%9F%8E%99%22,%E4%B8%8A%E6%B5%B7%E6%96%B0%E9%97%BB%E5%B9%BF%E6%92%AD
 #EXTINF:-1 group-title="🐉广播剧场🎙",五星体育广播
 https://fanmingming.com/fm?id=849
+
+
+
 
