@@ -2662,26 +2662,6 @@ http://mohdtv.com:8880//voby3837/28337929/28770
 #EXTINF:-1 group-title="🐉英国频道🦁" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK294",UK294:VICELAND
 http://mohdtv.com:8880//voby3837/28337929/28765
 
-#EXTINF:-1 tvg-id="10031" tvg-name="英超-1" tvg-logo="https://gitee.com/ttxsxs/home-tv/raw/master/tvicon/SliveYC.png" group-title="🦁欧洲五大联赛🦁",Now Sports  4K
-http://apptv.xyz:80/alia4remz/rrynDeBGS/86258
-#EXTINF:-1 tvg-id="10031" tvg-name="英超-1" tvg-logo="https://gitee.com/ttxsxs/home-tv/raw/master/tvicon/SliveYC.png" group-title="🦁欧洲五大联赛🦁",UK: Sky Sports Premier League FHD 1
-http://rhsbjv7k.tvclub.xyz/iptv/FAGK589PV9BQAG/9334/index.m3u8
-#EXTINF:-1 tvg-id="10031" tvg-name="英超-1" tvg-logo="https://gitee.com/ttxsxs/home-tv/raw/master/tvicon/SliveYC.png" group-title="🦁欧洲五大联赛🦁",UK: Sky Sports Premier League FHD 2
-http://rhsbjv7k.tvclub.xyz/iptv/FAGK589PV9BQAG/7335/index.m3u8
-#EXTINF:-1 tvg-id="10031" tvg-name="英超-1" tvg-logo="https://gitee.com/ttxsxs/home-tv/raw/master/tvicon/SliveYC.png" group-title="🦁欧洲五大联赛🦁",NO: VIASAT SPORTS 1 FHD
-http://extraott.com//7795309038/1092686646/63953
-#EXTINF:-1 tvg-id="10031" tvg-name="英超-1" tvg-logo="https://gitee.com/ttxsxs/home-tv/raw/master/tvicon/SliveYC.png" group-title="🦁欧洲五大联赛🦁",NO: VIASAT SPORTS 2 FHD
-http://extraott.com//7795309038/1092686646/63951
-#EXTINF:-1 tvg-id="10031" tvg-name="英超-1" tvg-logo="https://gitee.com/ttxsxs/home-tv/raw/master/tvicon/SliveYC.png" group-title="🦁欧洲五大联赛🦁",Hub Premier 2 4K
-http://apptv.xyz:80/alia4remz/rrynDeBGS/86270
-#EXTINF:-1 tvg-id="10031" tvg-name="英超-1" tvg-logo="https://gitee.com/ttxsxs/home-tv/raw/master/tvicon/SliveYC.png" group-title="🦁欧洲五大联赛🦁",Eleven Sports 1 4K
-https://stream1.freetv.fun/eleven-sports-1-4k-1.ctv
-#EXTINF:-1 tvg-id="10031" tvg-name="英超-1" tvg-logo="https://gitee.com/ttxsxs/home-tv/raw/master/tvicon/SliveYC.png" group-title="🦁欧洲五大联赛🦁",Astro SuperSport 4K
-http://apptv.xyz:80/alia4remz/rrynDeBGS/86257
-#EXTINF:-1 tvg-id="10031" tvg-name="英超-1" tvg-logo="https://gitee.com/ttxsxs/home-tv/raw/master/tvicon/SliveYC.png" group-title="🦁欧洲五大联赛🦁",BeIN Sport Arabic 4K
-http://apptv.xyz:80/alia4remz/rrynDeBGS/86259
-#EXTINF:-1 tvg-id="10031" tvg-name="英超-1" tvg-logo="https://gitee.com/ttxsxs/home-tv/raw/master/tvicon/SliveYC.png" group-title="🦁欧洲五大联赛🦁",Sky Sports Main Event 4K
-http://doubleclicktv.live/70376812/52663544/620667
 
 
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="🐉秒播线路①💥",CCTV1
@@ -10716,6 +10696,4 @@ https://fanmingming.com/fm?id=1319
 https://fanmingming.com/fm?id=1320
 #EXTINF:-1 group-title="🐉广播剧场🎙",奉贤电台阳光959
 https://fanmingming.com/fm?id=2515
-
-
 
