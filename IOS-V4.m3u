@@ -449,355 +449,244 @@ http://61.221.215.25:8800/hls/41/index.m3u8
 
 
 
-
-#EXTINF:-1 group-title="香港" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/linitfor/epg/main/logo/VIUTV.png",VIUTV
-http://cdn12.1678520.xyz/live/?id=viu
-#EXTINF:-1 group-title="香港" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/linitfor/epg/main/logo/Viu剧集台.png",Viu剧集台
-http://cdn12.1678520.xyz/live/?id=viu2
-#EXTINF:-1 group-title="香港" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/linitfor/epg/main/logo/Now星河台.png",Now星河台
-http://cdn12.1678520.xyz/live/?id=xyt
-#EXTINF:-1 group-title="香港" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/linitfor/epg/main/logo/香港卫视.png",香港卫视
-http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
-#EXTINF:-1 group-title="香港" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/linitfor/epg/main/logo/翡翠台.png",翡翠台
-http://php.jdshipin.com:8880/smt.php?id=jade_twn
-#EXTINF:-1 group-title="香港" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/linitfor/epg/main/logo/星河台.png",星河台
-http://php.jdshipin.com:8880/smt.php?id=Xinhe
-#EXTINF:-1 group-title="香港" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/linitfor/epg/main/logo/RTHK33.png",RTHK33
-https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream05/streamPlaylist.m3u8
-#EXTINF:-1 group-title="香港" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/linitfor/epg/main/logo/RTHK34.png",RTHK34
-https://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/stream05/streamPlaylist.m3u8
-#EXTINF:-1 group-title="香港" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/linitfor/epg/main/logo/RTHK35.png",RTHK35
-https://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/stream05/streamPlaylist.m3u8
-#EXTINF:-1 group-title="灣灣" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/linitfor/epg/main/logo/DW.png",DW
-http://61.221.215.25:8800/hls/1/index.m3u8
-#EXTINF:-1 group-title="灣灣" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/linitfor/epg/main/logo/大爱一台.png",大爱一台
-https://pulltv1.wanfudaluye.com/live/tv1.m3u8
-#EXTINF:-1 group-title="灣灣" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/linitfor/epg/main/logo/大爱二台.png",大爱二台
-https://pulltv2.wanfudaluye.com/live/tv2.m3u8
-#EXTINF:-1 group-title="灣灣" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/linitfor/epg/main/logo/环球电视台.png",环球电视台
-http://zb.xzxwhcb.com:9999/hls/world.m3u8
-#EXTINF:-1 group-title="灣灣" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/linitfor/epg/main/logo/TVBS NEWS.png",TVBS NEWS
-http://61.221.215.25:8800/hls/9/index.m3u8
-#EXTINF:-1 group-title="灣灣" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/linitfor/epg/main/logo/八大戏剧.png",八大戏剧
-http://61.221.215.25:8800/hls/39/index.m3u8
-#EXTINF:-1 group-title="灣灣" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/linitfor/epg/main/logo/八大第一.png",八大第一
-http://61.221.215.25:8800/hls/55/index.m3u8
-#EXTINF:-1 group-title="灣灣" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/linitfor/epg/main/logo/八大综合.png",八大综合
-http://61.221.215.25:8800/hls/56/index.m3u8
-#EXTINF:-1 group-title="灣灣" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/linitfor/epg/main/logo/三立戏剧.png",三立戏剧
-http://61.221.215.25:8800/hls/41/index.m3u8
-#EXTINF:-1 group-title="灣灣" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/linitfor/epg/main/logo/AMC电影台.png",AMC电影台
-http://61.221.215.25:8800/hls/43/index.m3u8
-#EXTINF:-1 group-title="灣灣" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/linitfor/epg/main/logo/纬来精彩.png",纬来精彩
-http://61.221.215.25:8800/hls/48/index.m3u8
-#EXTINF:-1 group-title="灣灣" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/linitfor/epg/main/logo/探索亚洲.png",探索亚洲
-http://61.221.215.25:8800/hls/50/index.m3u8
-#EXTINF:-1 group-title="灣灣" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/linitfor/epg/main/logo/NHK WORLD.png",NHK WORLD
-http://61.221.215.25:8800/hls/51/index.m3u8
-#EXTINF:-1 group-title="灣灣" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/linitfor/epg/main/logo/动物星球.png",动物星球
-http://61.221.215.25:8800/hls/57/index.m3u8
-#EXTINF:-1 group-title="灣灣" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/linitfor/epg/main/logo/中华小当家.png",中华小当家
-http://61.221.215.25:8800/hls/40/index.m3u8
-#EXTINF:-1 group-title="灣灣" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/linitfor/epg/main/logo/凤凰资讯.png",凤凰资讯
-http://61.221.215.25:8800/hls/47/index.m3u8
-#EXTINF:-1 group-title="灣灣" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/linitfor/epg/main/logo/緯來體育.png",緯來體育
-http://125.227.210.55:8155/VideoInput/play.ts
-#EXTINF:-1 group-title="灣灣" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/linitfor/epg/main/logo/三立台灣.png",三立台灣
-http://125.227.210.55:8160/VideoInput/play.ts
-#EXTINF:-1 group-title="灣灣" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/linitfor/epg/main/logo/Bloomberg.png",Bloomberg
-http://125.227.210.55:8161/VideoInput/play.ts
-#EXTINF:-1 group-title="灣灣" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/linitfor/epg/main/logo/CN卡通.png",CN卡通
-http://125.227.210.55:8167/VideoInput/play.ts
-#EXTINF:-1 group-title="灣灣" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/linitfor/epg/main/logo/TVBS新聞.png",TVBS新聞
-http://125.227.210.55:8186/VideoInput/play.ts
-#EXTINF:-1 group-title="灣灣" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/linitfor/epg/main/logo/食尚玩家.png",食尚玩家
-http://125.227.210.55:8187/VideoInput/play.ts
-#EXTINF:-1 group-title="灣灣" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/linitfor/epg/main/logo/三立新聞.png",三立新聞
-http://125.227.210.55:8162/VideoInput/play.ts
-#EXTINF:-1 group-title="灣灣" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/linitfor/epg/main/logo/BBC new.png",BBC new
-http://125.227.210.55:8165/VideoInput/play.ts
-#EXTINF:-1 group-title="灣灣" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/linitfor/epg/main/logo/CNN new.png",CNN new
-http://125.227.210.55:8166/VideoInput/play.ts
-#EXTINF:-1 group-title="湾湾频道「新线路」" tvg-logo="https://live.fanmingming.com/tv/天良[1080p].png",天良[1080p]
-http://60.248.91.20:8000/main
-#EXTINF:-1 group-title="湾湾频道「新线路」" tvg-logo="https://live.fanmingming.com/tv/凤凰资讯[720p].png",凤凰资讯[720p]
-http://58.144.154.93:80/qctv.fengshows.cn/live/0701pin72.m3u8
-#EXTINF:-1 group-title="湾湾频道「新线路」" tvg-logo="https://live.fanmingming.com/tv/人间卫视[720p].png",人间卫视[720p]
-http://61.216.67.119:1935/bltvhd/bltv1/chunklist_w1266569526.m3u
-#EXTINF:-1 group-title="湾湾频道「新线路」" tvg-logo="https://live.fanmingming.com/tv/亚洲卫视[1080p].png",亚洲卫视[1080p]
-https://p2hs.vzan.com/slowlive/821481626725612417/live.m3u8?zbid=2046370057&tpid=330913109&type=0
-#EXTINF:-1 group-title="湾湾频道「新线路」" tvg-logo="https://live.fanmingming.com/tv/CAT电影台[1080p].png",CAT电影台[1080p]
-https://litv.zapi.us.kg/?id=4gtv-4gtv076
-#EXTINF:-1 group-title="湾湾频道「新线路」" tvg-logo="https://live.fanmingming.com/tv/LISTENONSPOTIFY[720p].png",LISTENONSPOTIFY[720p]
-http://61.221.215.25:8800/hls/58/index.m3u8
-#EXTINF:-1 group-title="湾湾频道「新线路」" tvg-logo="https://live.fanmingming.com/tv/US|StarMovies[1080p].png",US|StarMovies[1080p]
-http://doubleclicktv.live/70376812/52663544/276996
-#EXTINF:-1 group-title="湾湾频道「新线路」" tvg-logo="https://live.fanmingming.com/tv/八大综艺台[1080p].png",八大综艺台[1080p]
-https://litv.zapi.us.kg/?id=4gtv-4gtv039
-#EXTINF:-1 group-title="湾湾频道「新线路」" tvg-logo="https://live.fanmingming.com/tv/采昌影剧台[1080p].png",采昌影剧台[1080p]
-https://litv.zapi.us.kg/?id=4gtv-4gtv049
-#EXTINF:-1 group-title="湾湾频道「新线路」" tvg-logo="https://live.fanmingming.com/tv/大爱1[720p].png",大爱1[720p]
-https://pulltv1.wanfudaluye.com/live/tv1.m3u8?
-#EXTINF:-1 group-title="湾湾频道「新线路」" tvg-logo="https://live.fanmingming.com/tv/大爱2[720p].png",大爱2[720p]
-http://pulltv1.wanfudaluye.com/live/tv2.m3u8
-#EXTINF:-1 group-title="湾湾频道「新线路」" tvg-logo="https://live.fanmingming.com/tv/大爱2[720p].png",大爱2[720p]
-https://pulltv1.wanfudaluye.com/live/tv2.m3u8
-#EXTINF:-1 group-title="湾湾频道「新线路」" tvg-logo="https://live.fanmingming.com/tv/凤凰香港[720p].png",凤凰香港[720p]
-http://58.144.154.93/qctv.fengshows.cn/live/0701phk72.m3u8
-#EXTINF:-1 group-title="湾湾频道「新线路」" tvg-logo="https://live.fanmingming.com/tv/靖天国际台[1080p].png",靖天国际台[1080p]
-https://litv.zapi.us.kg/?id=4gtv-4gtv063
-#EXTINF:-1 group-title="湾湾频道「新线路」" tvg-logo="https://live.fanmingming.com/tv/靖天卡通台[1080p].png",靖天卡通台[1080p]
-https://litv.zapi.us.kg/?id=4gtv-4gtv044
-#EXTINF:-1 group-title="湾湾频道「新线路」" tvg-logo="https://live.fanmingming.com/tv/靖天戏剧台[1080p].png",靖天戏剧台[1080p]
-https://litv.zapi.us.kg/?id=4gtv-4gtv058
-#EXTINF:-1 group-title="湾湾频道「新线路」" tvg-logo="https://live.fanmingming.com/tv/靖天资讯台[1080p].png",靖天资讯台[1080p]
-https://litv.zapi.us.kg/?id=4gtv-4gtv065
-#EXTINF:-1 group-title="湾湾频道「新线路」" tvg-logo="https://live.fanmingming.com/tv/镜新闻[720p].png",镜新闻[720p]
-http://61.10.2.141/live_freedirect/freehd209_h.live/playlist.m3u8
-#EXTINF:-1 group-title="湾湾频道「新线路」" tvg-logo="https://live.fanmingming.com/tv/靖洋卡通台[1080p].png",靖洋卡通台[1080p]
-https://litv.zapi.us.kg/?id=4gtv-4gtv057
-#EXTINF:-1 group-title="湾湾频道「新线路」" tvg-logo="https://live.fanmingming.com/tv/龙华偶像台[1080p].png",龙华偶像台[1080p]
-https://litv.zapi.us.kg/?id=litv-longturn12
-#EXTINF:-1 group-title="湾湾频道「新线路」" tvg-logo="https://live.fanmingming.com/tv/龙华日韩台[1080p].png",龙华日韩台[1080p]
-https://litv.zapi.us.kg/?id=litv-longturn11
-#EXTINF:-1 group-title="湾湾频道「新线路」" tvg-logo="https://live.fanmingming.com/tv/美亚C+[1080p].png",美亚C+[1080p]
-http://ottproxy2.ist.ooo/livehls/MOB-U1-NO/03.m3u8
-#EXTINF:-1 group-title="湾湾频道「新线路」" tvg-logo="https://live.fanmingming.com/tv/民视第一台[1080p].png",民视第一台[1080p]
-https://litv.zapi.us.kg/?id=4gtv-4gtv003
-#EXTINF:-1 group-title="湾湾频道「新线路」" tvg-logo="https://live.fanmingming.com/tv/民视闽南台[1080p].png",民视闽南台[1080p]
-https://litv.zapi.us.kg/?id=4gtv-4gtv002
-#EXTINF:-1 group-title="湾湾频道「新线路」" tvg-logo="https://live.fanmingming.com/tv/民视台湾台[1080p].png",民视台湾台[1080p]
-https://litv.zapi.us.kg/?id=4gtv-4gtv001
-#EXTINF:-1 group-title="湾湾频道「新线路」" tvg-logo="https://live.fanmingming.com/tv/民视综艺台[1080p].png",民视综艺台[1080p]
-https://litv.zapi.us.kg/?id=4gtv-4gtv004
-#EXTINF:-1 group-title="湾湾频道「新线路」" tvg-logo="https://live.fanmingming.com/tv/三立新闻[1080p].png",三立新闻[1080p]
-http://211.72.65.236:8543/.m3u8
-#EXTINF:-1 group-title="湾湾频道「新线路」" tvg-logo="https://live.fanmingming.com/tv/神乐影院[1080p].png",神乐影院[1080p]
-http://zzy789.xyz/douyu1.php?id=122402
-#EXTINF:-1 group-title="湾湾频道「新线路」" tvg-logo="https://live.fanmingming.com/tv/半岛新闻[1080p].png",半岛新闻[1080p]
-http://live-hls-web-aje.getaj.net/AJE/01.m3u8
-#EXTINF:-1 group-title="湾湾频道「新线路」" tvg-logo="https://live.fanmingming.com/tv/大爱1[720p].png",大爱1[720p]
-https://pulltv2.wanfudaluye.com/live/tv1.m3u8
-#EXTINF:-1 group-title="湾湾频道「新线路」" tvg-logo="https://live.fanmingming.com/tv/大爱2[720p].png",大爱2[720p]
-http://pulltv2.wanfudaluye.com/live/tv2.m3u8
-#EXTINF:-1 group-title="湾湾频道「新线路」" tvg-logo="https://live.fanmingming.com/tv/大爱2[720p].png",大爱2[720p]
-https://pulltv1.wanfudaluye.com/live/tv2.m3u8?
-#EXTINF:-1 group-title="湾湾频道「新线路」" tvg-logo="https://live.fanmingming.com/tv/大爱2[720p].png",大爱2[720p]
-https://pulltv2.wanfudaluye.com/live/tv2.m3u8?
-#EXTINF:-1 group-title="湾湾频道「新线路」" tvg-logo="https://live.fanmingming.com/tv/凤凰香港[720p].png",凤凰香港[720p]
-http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhhk
-#EXTINF:-1 group-title="湾湾频道「新线路」" tvg-logo="https://live.fanmingming.com/tv/凤凰资讯[1080p].png",凤凰资讯[1080p]
-http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzx
-#EXTINF:-1 group-title="湾湾频道「新线路」" tvg-logo="https://live.fanmingming.com/tv/华视新闻台[1080p].png",华视新闻台[1080p]
-https://litv.zapi.us.kg/?id=4gtv-4gtv052
-#EXTINF:-1 group-title="湾湾频道「新线路」" tvg-logo="https://live.fanmingming.com/tv/靖天电影台[1080p].png",靖天电影台[1080p]
-https://litv.zapi.us.kg/?id=4gtv-4gtv061
-#EXTINF:-1 group-title="湾湾频道「新线路」" tvg-logo="https://live.fanmingming.com/tv/靖天欢乐台[1080p].png",靖天欢乐台[1080p]
-https://litv.zapi.us.kg/?id=4gtv-4gtv054
-#EXTINF:-1 group-title="湾湾频道「新线路」" tvg-logo="https://live.fanmingming.com/tv/靖天日本台[1080p].png",靖天日本台[1080p]
-https://litv.zapi.us.kg/?id=4gtv-4gtv047
-#EXTINF:-1 group-title="湾湾频道「新线路」" tvg-logo="https://live.fanmingming.com/tv/靖天映画台[1080p].png",靖天映画台[1080p]
-https://litv.zapi.us.kg/?id=4gtv-4gtv055
-#EXTINF:-1 group-title="湾湾频道「新线路」" tvg-logo="https://live.fanmingming.com/tv/靖天综合台[1080p].png",靖天综合台[1080p]
-https://litv.zapi.us.kg/?id=4gtv-4gtv046
-#EXTINF:-1 group-title="湾湾频道「新线路」" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视[720p].png",凤凰卫视[720p]
-http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzw
-#EXTINF:-1 group-title="湾湾频道「新线路」" tvg-logo="https://live.fanmingming.com/tv/人间卫视[720p].png",人间卫视[720p]
-https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/chunklist_w511254805.m3u8
-#EXTINF:-1 group-title="湾湾频道「新线路」" tvg-logo="https://live.fanmingming.com/tv/台视新闻[1080p].png",台视新闻[1080p]
-https://litv.zapi.us.kg/?id=4gtv-4gtv051
-#EXTINF:-1 group-title="湾湾频道「新线路」" tvg-logo="https://live.fanmingming.com/tv/CMUSIC音乐台[720p].png",CMUSIC音乐台[720p]
-http://37.27.111.214:8080/live/72/hls.m3u8
-#EXTINF:-1 group-title="湾湾频道「新线路」" tvg-logo="https://live.fanmingming.com/tv/CNBC[720p].png",CNBC[720p]
-http://37.27.111.214:8080/live/102/hls.m3u8
-#EXTINF:-1 group-title="湾湾频道「新线路」" tvg-logo="https://live.fanmingming.com/tv/DWNEWS[720p].png",DWNEWS[720p]
-http://37.27.111.214:8080/live/46/hls.m3u8
-#EXTINF:-1 group-title="湾湾频道「新线路」" tvg-logo="https://live.fanmingming.com/tv/Dbox[720p].png",Dbox[720p]
-http://61.221.215.25:8800/hls/54/index.m3u8
-#EXTINF:-1 group-title="湾湾频道「新线路」" tvg-logo="https://live.fanmingming.com/tv/ELTV生活英语台[720p].png",ELTV生活英语台[720p]
-http://37.27.111.214:8080/live/56/hls.m3u8
-#EXTINF:-1 group-title="湾湾频道「新线路」" tvg-logo="https://live.fanmingming.com/tv/FESTIVAL[720p].png",FESTIVAL[720p]
-http://37.27.111.214:8080/live/83/hls.m3u8
-#EXTINF:-1 group-title="湾湾频道「新线路」" tvg-logo="https://live.fanmingming.com/tv/GOOD2[720p].png",GOOD2[720p]
-http://37.27.111.214:8080/live/99/hls.m3u8
-#EXTINF:-1 group-title="湾湾频道「新线路」" tvg-logo="https://live.fanmingming.com/tv/HISTORY[720p].png",HISTORY[720p]
-http://37.27.111.214:8080/live/27/hls.m3u8
-#EXTINF:-1 group-title="湾湾频道「新线路」" tvg-logo="https://live.fanmingming.com/tv/HITS[720p].png",HITS[720p]
-http://37.27.111.214:8080/live/28/hls.m3u8
-#EXTINF:-1 group-title="湾湾频道「新线路」" tvg-logo="https://live.fanmingming.com/tv/猪哥亮歌厅秀[1080p].png",猪哥亮歌厅秀[1080p]
-https://litv.zapi.us.kg/?id=4gtv-4gtv006
-#EXTINF:-1 group-title="湾湾频道「新线路」" tvg-logo="https://live.fanmingming.com/tv/番薯[1080p].png",番薯[1080p]
-http://61.216.67.119:1935/TWHG/E1/chunklist_w7058102.m3u8
-#EXTINF:-1 group-title="湾湾频道「新线路」" tvg-logo="https://live.fanmingming.com/tv/番薯[1080p].png",番薯[1080p]
-http://61.216.67.119:1935/TWHG/E1/chunklist_w705811302.m3u8
-#EXTINF:-1 group-title="湾湾频道「新线路」" tvg-logo="https://live.fanmingming.com/tv/影迷[720p].png",影迷[720p]
-http://37.27.111.214:8080/live/92/hls.m3u8
-#EXTINF:-1 group-title="湾湾频道「新线路」" tvg-logo="https://live.fanmingming.com/tv/亚洲卫视[1080p].png",亚洲卫视[1080p]
-http://play-hsbj.vzan.com/slowlive/821481626725612417/live.m3u8
-#EXTINF:-1 group-title="湾湾频道「新线路」" tvg-logo="https://live.fanmingming.com/tv/BLOOMBERG[720p].png",BLOOMBERG[720p]
-http://37.27.111.214:8080/live/34/hls.m3u8
-#EXTINF:-1 group-title="湾湾频道「新线路」" tvg-logo="https://live.fanmingming.com/tv/CINEMAWORLD[720p].png",CINEMAWORLD[720p]
-http://37.27.111.214:8080/live/30/hls.m3u8
-#EXTINF:-1 group-title="湾湾频道「新线路」" tvg-logo="https://live.fanmingming.com/tv/ROCK[720p].png",ROCK[720p]
-http://37.27.111.214:8080/live/70/hls.m3u8
-#EXTINF:-1 group-title="湾湾频道「新线路」" tvg-logo="https://live.fanmingming.com/tv/ROCKACTION[720p].png",ROCKACTION[720p]
-http://37.27.111.214:8080/live/94/hls.m3u8
-#EXTINF:-1 group-title="湾湾频道「新线路」" tvg-logo="https://live.fanmingming.com/tv/TECHSTORM[720p].png",TECHSTORM[720p]
-http://37.27.111.214:8080/live/80/hls.m3u8
-#EXTINF:-1 group-title="湾湾频道「新线路」" tvg-logo="https://live.fanmingming.com/tv/TV5MONDE[720p].png",TV5MONDE[720p]
-http://37.27.111.214:8080/live/9/hls.m3u8
-#EXTINF:-1 group-title="湾湾频道「新线路」" tvg-logo="https://live.fanmingming.com/tv/TVBS欢乐台[720p].png",TVBS欢乐台[720p]
-http://37.27.111.214:8080/live/24/hls.m3u8
-#EXTINF:-1 group-title="湾湾频道「新线路」" tvg-logo="https://live.fanmingming.com/tv/TVBS新闻[1080p].png",TVBS新闻[1080p]
-http://211.72.65.236:8574/.m3u8
-#EXTINF:-1 group-title="湾湾频道「新线路」" tvg-logo="https://live.fanmingming.com/tv/TVBS[720p].png",TVBS[720p]
-http://37.27.111.214:8080/live/23/hls.m3u8
-#EXTINF:-1 group-title="湾湾频道「新线路」" tvg-logo="https://live.fanmingming.com/tv/TiTV[720p].png",TiTV[720p]
-http://37.27.111.214:8080/live/2/hls.m3u8
-#EXTINF:-1 group-title="湾湾频道「新线路」" tvg-logo="https://live.fanmingming.com/tv/KOREA[720p].png",KOREA[720p]
-http://37.27.111.214:8080/live/52/hls.m3u8
-#EXTINF:-1 group-title="湾湾频道「新线路」" tvg-logo="https://live.fanmingming.com/tv/LIFETIME[720p].png",LIFETIME[720p]
-http://37.27.111.214:8080/live/71/hls.m3u8
-#EXTINF:-1 group-title="湾湾频道「新线路」" tvg-logo="https://live.fanmingming.com/tv/LOVENATURE[720p].png",LOVENATURE[720p]
-http://37.27.111.214:8080/live/84/hls.m3u8
-#EXTINF:-1 group-title="湾湾频道「新线路」" tvg-logo="https://live.fanmingming.com/tv/博斯无限[720p].png",博斯无限[720p]
-http://37.27.111.214:8080/live/15/hls.m3u8
-#EXTINF:-1 group-title="湾湾频道「新线路」" tvg-logo="https://live.fanmingming.com/tv/博斯运动1[720p].png",博斯运动1[720p]
-http://37.27.111.214:8080/live/14/hls.m3u8
-#EXTINF:-1 group-title="湾湾频道「新线路」" tvg-logo="https://live.fanmingming.com/tv/超人[720p].png",超人[720p]
-http://37.27.111.214:8080/live/110/hls.m3u8
-#EXTINF:-1 group-title="湾湾频道「新线路」" tvg-logo="https://live.fanmingming.com/tv/大立电视[720p].png",大立电视[720p]
-http://www.dalitv.com.tw:4568/live/dali/index.m3u8
-#EXTINF:-1 group-title="湾湾频道「新线路」" tvg-logo="https://live.fanmingming.com/tv/电视剧[720p].png",电视剧[720p]
-http://37.27.111.214:8080/live/108/hls.m3u8
-#EXTINF:-1 group-title="湾湾频道「新线路」" tvg-logo="https://live.fanmingming.com/tv/台湾戏剧台[1080p].png",台湾戏剧台[1080p]
-https://litv.zapi.us.kg/?id=litv-longturn22
-#EXTINF:-1 group-title="湾湾频道「新线路」" tvg-logo="https://live.fanmingming.com/tv/tvbs新闻台[1080p].png",tvbs新闻台[1080p]
-https://litv.zapi.us.kg/?id=4gtv-4gtv072
-#EXTINF:-1 group-title="湾湾频道「新线路」" tvg-logo="https://live.fanmingming.com/tv/亚洲新闻[720p].png",亚洲新闻[720p]
-http://mohdtv.com:8880//voby3837/28337929/71065
-#EXTINF:-1 group-title="湾湾频道「新线路」" tvg-logo="https://live.fanmingming.com/tv/亚洲新闻[720p].png",亚洲新闻[720p]
-https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
-#EXTINF:-1 group-title="湾湾频道「新线路」" tvg-logo="https://live.fanmingming.com/tv/亚洲新闻[1080p].png",亚洲新闻[1080p]
-https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
-#EXTINF:-1 group-title="湾湾频道「新线路」" tvg-logo="https://live.fanmingming.com/tv/中视菁采台[1080p].png",中视菁采台[1080p]
-https://litv.zapi.us.kg/?id=4gtv-4gtv064
-#EXTINF:-1 group-title="湾湾频道「新线路」" tvg-logo="https://live.fanmingming.com/tv/中视新闻台[1080p].png",中视新闻台[1080p]
-https://litv.zapi.us.kg/?id=4gtv-4gtv074
-#EXTINF:-1 group-title="湾湾频道「新线路」" tvg-logo="https://live.fanmingming.com/tv/中天新闻台[1080p].png",中天新闻台[1080p]
-https://litv.zapi.us.kg/?id=4gtv-4gtv009
-#EXTINF:-1 group-title="湾湾频道「新线路」" tvg-logo="https://live.fanmingming.com/tv/哆啦A梦[720p].png",哆啦A梦[720p]
-http://37.27.111.214:8080/live/107/hls.m3u8
-#EXTINF:-1 group-title="湾湾频道「新线路」" tvg-logo="https://live.fanmingming.com/tv/elta生活旅游[720p].png",elta生活旅游[720p]
-http://37.27.111.214:8080/live/85/hls.m3u8
-#EXTINF:-1 group-title="湾湾频道「新线路」" tvg-logo="https://live.fanmingming.com/tv/非凡新闻台[1080p].png",非凡新闻台[1080p]
-https://litv.zapi.us.kg/?id=4gtv-4gtv010
-#EXTINF:-1 group-title="湾湾频道「新线路」" tvg-logo="https://live.fanmingming.com/tv/公视戏剧[720p].png",公视戏剧[720p]
-http://37.27.111.214:8080/live/87/hls.m3u8
-#EXTINF:-1 group-title="湾湾频道「新线路」" tvg-logo="https://live.fanmingming.com/tv/LUXE[720p].png",LUXE[720p]
-http://37.27.111.214:8080/live/86/hls.m3u8
-#EXTINF:-1 group-title="湾湾频道「新线路」" tvg-logo="https://live.fanmingming.com/tv/MCE[720p].png",MCE[720p]
-http://37.27.111.214:8080/live/98/hls.m3u8
-#EXTINF:-1 group-title="湾湾频道「新线路」" tvg-logo="https://live.fanmingming.com/tv/Nickelodeon[720p].png",Nickelodeon[720p]
-http://37.27.111.214:8080/live/12/hls.m3u8
-#EXTINF:-1 group-title="湾湾频道「新线路」" tvg-logo="https://live.fanmingming.com/tv/PETCLUB[720p].png",PETCLUB[720p]
-http://37.27.111.214:8080/live/81/hls.m3u8
-#EXTINF:-1 group-title="湾湾频道「新线路」" tvg-logo="https://live.fanmingming.com/tv/电视剧2[720p].png",电视剧2[720p]
-http://37.27.111.214:8080/live/109/hls.m3u8
-#EXTINF:-1 group-title="湾湾频道「新线路」" tvg-logo="https://live.fanmingming.com/tv/电视剧3[720p].png",电视剧3[720p]
-http://37.27.111.214:8080/live/111/hls.m3u8
-#EXTINF:-1 group-title="湾湾频道「新线路」" tvg-logo="https://live.fanmingming.com/tv/动画台[720p].png",动画台[720p]
-http://37.27.111.214:8080/live/57/hls.m3u8
-#EXTINF:-1 group-title="湾湾频道「新线路」" tvg-logo="https://live.fanmingming.com/tv/动漫[720p].png",动漫[720p]
-http://37.27.111.214:8080/live/105/hls.m3u8
-#EXTINF:-1 group-title="湾湾频道「新线路」" tvg-logo="https://live.fanmingming.com/tv/动漫2[720p].png",动漫2[720p]
-http://37.27.111.214:8080/live/106/hls.m3u8
-#EXTINF:-1 group-title="湾湾频道「新线路」" tvg-logo="https://live.fanmingming.com/tv/东森购物[720p].png",东森购物[720p]
-http://37.27.111.214:8080/live/61/hls.m3u8
-#EXTINF:-1 group-title="湾湾频道「新线路」" tvg-logo="https://live.fanmingming.com/tv/momo[720p].png",momo[720p]
-http://37.27.111.214:8080/live/3/hls.m3u8
-#EXTINF:-1 group-title="湾湾频道「新线路」" tvg-logo="https://live.fanmingming.com/tv/东森新闻[720p].png",东森新闻[720p]
-http://37.27.111.214:8080/live/20/hls.m3u8
-#EXTINF:-1 group-title="湾湾频道「新线路」" tvg-logo="https://live.fanmingming.com/tv/nickjr[720p].png",nickjr[720p]
-http://37.27.111.214:8080/live/22/hls.m3u8
-#EXTINF:-1 group-title="湾湾频道「新线路」" tvg-logo="https://live.fanmingming.com/tv/探案台[720p].png",探案台[720p]
-http://37.27.111.214:8080/live/11/hls.m3u8
-#EXTINF:-1 group-title="湾湾频道「新线路」" tvg-logo="https://live.fanmingming.com/tv/幸福空间[720p].png",幸福空间[720p]
-http://37.27.111.214:8080/live/26/hls.m3u8
-#EXTINF:-1 group-title="湾湾频道「新线路」" tvg-logo="https://live.fanmingming.com/tv/亚洲旅游[720p].png",亚洲旅游[720p]
-http://37.27.111.214:8080/live/10/hls.m3u8
-#EXTINF:-1 group-title="湾湾频道「新线路」" tvg-logo="https://live.fanmingming.com/tv/亚洲旅游台[1080p].png",亚洲旅游台[1080p]
-https://litv.zapi.us.kg/?id=litv-longturn17
-#EXTINF:-1 group-title="湾湾频道「新线路」" tvg-logo="https://live.fanmingming.com/tv/影剧[720p].png",影剧[720p]
-http://37.27.111.214:8080/live/88/hls.m3u8
-#EXTINF:-1 group-title="湾湾频道「新线路」" tvg-logo="https://live.fanmingming.com/tv/智林体育[720p].png",智林体育[720p]
-http://37.27.111.214:8080/live/77/hls.m3u8
-#EXTINF:-1 group-title="湾湾频道「新线路」" tvg-logo="https://live.fanmingming.com/tv/中视[720p].png",中视[720p]
-http://37.27.111.214:8080/live/7/hls.m3u8
-#EXTINF:-1 group-title="湾湾频道「新线路」" tvg-logo="https://live.fanmingming.com/tv/中视经典[720p].png",中视经典[720p]
-http://37.27.111.214:8080/live/47/hls.m3u8
-#EXTINF:-1 group-title="湾湾频道「新线路」" tvg-logo="https://live.fanmingming.com/tv/中视青采[720p].png",中视青采[720p]
-http://37.27.111.214:8080/live/48/hls.m3u8
-#EXTINF:-1 group-title="湾湾频道「新线路」" tvg-logo="https://live.fanmingming.com/tv/猪哥亮[720p].png",猪哥亮[720p]
-http://37.27.111.214:8080/live/35/hls.m3u8
-#EXTINF:-1 group-title="湾湾频道「新线路」" tvg-logo="https://live.fanmingming.com/tv/民视台湾[720p].png",民视台湾[720p]
-http://37.27.111.214:8080/live/5/hls.m3u8
-#EXTINF:-1 group-title="湾湾频道「新线路」" tvg-logo="https://live.fanmingming.com/tv/民视台湾台[1080p].png",民视台湾台[1080p]
-https://litv.zapi.us.kg/?id=4gtv-4gtv156
-#EXTINF:-1 group-title="湾湾频道「新线路」" tvg-logo="https://live.fanmingming.com/tv/MTV[720p].png",MTV[720p]
-http://37.27.111.214:8080/live/25/hls.m3u8
-#EXTINF:-1 group-title="湾湾频道「新线路」" tvg-logo="https://live.fanmingming.com/tv/VOA[720p].png",VOA[720p]
-http://37.27.111.214:8080/live/45/hls.m3u8
-#EXTINF:-1 group-title="湾湾频道「新线路」" tvg-logo="https://live.fanmingming.com/tv/博斯高球1[720p].png",博斯高球1[720p]
-http://37.27.111.214:8080/live/13/hls.m3u8
-#EXTINF:-1 group-title="湾湾频道「新线路」" tvg-logo="https://live.fanmingming.com/tv/hokkotv[720p].png",hokkotv[720p]
-http://37.27.111.214:8080/live/1/hls.m3u8
-#EXTINF:-1 group-title="湾湾频道「新线路」" tvg-logo="https://live.fanmingming.com/tv/寰宇台湾[720p].png",寰宇台湾[720p]
-http://37.27.111.214:8080/live/63/hls.m3u8
-#EXTINF:-1 group-title="湾湾频道「新线路」" tvg-logo="https://live.fanmingming.com/tv/靖天育乐台[1080p].png",靖天育乐台[1080p]
-https://litv.zapi.us.kg/?id=4gtv-4gtv062
-#EXTINF:-1 group-title="湾湾频道「新线路」" tvg-logo="https://live.fanmingming.com/tv/东森购物[720p].png",东森购物[720p]
-http://37.27.111.214:8080/live/66/hls.m3u8
-#EXTINF:-1 group-title="湾湾频道「新线路」" tvg-logo="https://live.fanmingming.com/tv/互动英语[720p].png",互动英语[720p]
-http://37.27.111.214:8080/live/54/hls.m3u8
-#EXTINF:-1 group-title="湾湾频道「新线路」" tvg-logo="https://live.fanmingming.com/tv/镜新闻[720p].png",镜新闻[720p]
-http://37.27.111.214:8080/live/62/hls.m3u8
-#EXTINF:-1 group-title="湾湾频道「新线路」" tvg-logo="https://live.fanmingming.com/tv/龙华戏剧[720p].png",龙华戏剧[720p]
-http://37.27.111.214:8080/live/41/hls.m3u8
-#EXTINF:-1 group-title="湾湾频道「新线路」" tvg-logo="https://live.fanmingming.com/tv/民视[720p].png",民视[720p]
-http://37.27.111.214:8080/live/6/hls.m3u8
-#EXTINF:-1 group-title="湾湾频道「新线路」" tvg-logo="https://live.fanmingming.com/tv/综艺[720p].png",综艺[720p]
-http://37.27.111.214:8080/live/67/hls.m3u8
-#EXTINF:-1 group-title="湾湾频道「新线路」" tvg-logo="https://live.fanmingming.com/tv/华视新闻[720p].png",华视新闻[720p]
-http://37.27.111.214:8080/live/8/hls.m3u8
-#EXTINF:-1 group-title="湾湾频道「新线路」" tvg-logo="https://live.fanmingming.com/tv/龙华电影[720p].png",龙华电影[720p]
-http://37.27.111.214:8080/live/19/hls.m3u8
-#EXTINF:-1 group-title="湾湾频道「新线路」" tvg-logo="https://live.fanmingming.com/tv/民视第一[720p].png",民视第一[720p]
-http://37.27.111.214:8080/live/4/hls.m3u8
-#EXTINF:-1 group-title="湾湾频道「新线路」" tvg-logo="https://live.fanmingming.com/tv/博斯网球[720p].png",博斯网球[720p]
-http://37.27.111.214:8080/live/16/hls.m3u8
-#EXTINF:-1 group-title="湾湾频道「新线路」" tvg-logo="https://live.fanmingming.com/tv/旅游[720p].png",旅游[720p]
-http://37.27.111.214:8080/live/82/hls.m3u8
-#EXTINF:-1 group-title="极速港台" tvg-logo="https://live.fanmingming.com/tv/凤凰中文.png",凤凰中文
-http://122.224.232.226:8888/udp/233.50.200.191:5140
-#EXTINF:-1 group-title="极速港台" tvg-logo="https://live.fanmingming.com/tv/凤凰资讯.png",凤凰资讯
-http://122.224.232.226:8888/udp/233.50.200.192:5140
-#EXTINF:-1 group-title="极速港台" tvg-logo="https://live.fanmingming.com/tv/香港C+.png",香港C+
-http://ottproxy2.ist.ooo/livehls/MOB-U1-NO/index.m3u8
-#EXTINF:-1 group-title="极速港台" tvg-logo="https://live.fanmingming.com/tv/香港33台.png",香港33台
-https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream03/streamPlaylist.m3u8
-#EXTINF:-1 group-title="极速港台" tvg-logo="https://live.fanmingming.com/tv/香港34台.png",香港34台
-https://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/stream02/streamPlaylist.m3u8
-#EXTINF:-1 group-title="极速港台" tvg-logo="https://live.fanmingming.com/tv/香港35台.png",香港35台
-https://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/stream02/streamPlaylist.m3u8
-#EXTINF:-1 group-title="极速港台" tvg-logo="https://live.fanmingming.com/tv/49号.png",49号
-http://61.221.215.25:8800/hls/49/index.m3u8
+#EXTINF:-1 tvg-name="直播中国" tvg-logo="https://live.fanmingming.com/tv/直播中国.png" group-title="✈️国庆云游全国景区✈️",直播中国
+https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1 tvg-name="直播中国精编直播" tvg-logo="https://live.fanmingming.com/tv/直播中国精编直播.png" group-title="✈️国庆云游全国景区✈️",直播中国
+https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8
+#EXTINF:-1 tvg-name="湖南张家界水绕四门" tvg-logo="https://live.fanmingming.com/tv/湖南张家界水绕四门.png" group-title="✈️国庆云游全国景区✈️",湖南张家界水绕四门
+https://gcalic.v.myalicdn.com/gc/zjjsrsm_1/index.m3u8
+#EXTINF:-1 tvg-name="湖南张家界将军列队" tvg-logo="https://live.fanmingming.com/tv/湖南张家界将军列队.png" group-title="✈️国庆云游全国景区✈️",湖南张家界将军列队
+https://gcalic.v.myalicdn.com/gc/zjjjjdl_1/index.m3u8
+#EXTINF:-1 tvg-name="湖南张家界迷魂台" tvg-logo="https://live.fanmingming.com/tv/湖南张家界迷魂台.png" group-title="✈️国庆云游全国景区✈️",湖南张家界迷魂台
+https://gcalic.v.myalicdn.com/gc/zjjmht_1/index.m3u8
+#EXTINF:-1 tvg-name="湖南张家界宝峰湖" tvg-logo="https://live.fanmingming.com/tv/湖南张家界宝峰湖.png" group-title="✈️国庆云游全国景区✈️",湖南张家界宝峰湖
+https://gcalic.v.myalicdn.com/gc/zjjbfh_1/index.m3u8
+#EXTINF:-1 tvg-name="湖南张家界御笔峰" tvg-logo="https://live.fanmingming.com/tv/湖南张家界御笔峰.png" group-title="✈️国庆云游全国景区✈️",湖南张家界御笔峰
+https://gcalic.v.myalicdn.com/gc/zjjybf_1/index.m3u8
+#EXTINF:-1 tvg-name="福建漳州醉美沙滩翡翠湾" tvg-logo="https://live.fanmingming.com/tv/福建漳州醉美沙滩翡翠湾.png" group-title="✈️国庆云游全国景区✈️",福建漳州翡翠湾
+https://gcalic.v.myalicdn.com/gc/fcw03_1/index.m3u8
+#EXTINF:-1 tvg-name="凤凰古城南华山" tvg-logo="https://live.fanmingming.com/tv/凤凰古城南华山.png" group-title="✈️国庆云游全国景区✈️",凤凰古城南华山
+https://gcalic.v.myalicdn.com/gc/fhgcdnhs_1/index.m3u8
+#EXTINF:-1 tvg-name="凤凰古城东关门" tvg-logo="https://live.fanmingming.com/tv/凤凰古城东关门.png" group-title="✈️国庆云游全国景区✈️",凤凰古城东关门
+https://gcalic.v.myalicdn.com/gc/fhgcdgm_1/index.m3u8
+#EXTINF:-1 tvg-name="四川峨眉山云海日出" tvg-logo="https://live.fanmingming.com/tv/四川峨眉山云海日出.png" group-title="✈️国庆云游全国景区✈️",四川峨眉山云海日出
+https://gcalic.v.myalicdn.com/gc/emsarm_1/index.m3u8
+#EXTINF:-1 tvg-name="四川峨眉山远眺贡嘎雪山" tvg-logo="https://live.fanmingming.com/tv/四川峨眉山远眺贡嘎雪山.png" group-title="✈️国庆云游全国景区✈️",四川峨眉山远眺贡嘎雪山
+https://gcalic.v.myalicdn.com/gc/emsyh_1/index.m3u8
+#EXTINF:-1 tvg-name="四川峨眉山普贤菩萨铜像" tvg-logo="https://live.fanmingming.com/tv/四川峨眉山普贤菩萨铜像.png" group-title="✈️国庆云游全国景区✈️",四川峨眉山普贤菩萨铜像
+https://gcalic.v.myalicdn.com/gc/emspxps_1/index.m3u8
+#EXTINF:-1 tvg-name="四川峨眉山远眺万佛顶" tvg-logo="https://live.fanmingming.com/tv/四川峨眉山远眺万佛顶.png" group-title="✈️国庆云游全国景区✈️",四川峨眉山远眺万佛顶
+https://gcalic.v.myalicdn.com/gc/emswfs_1/index.m3u8
+#EXTINF:-1 tvg-name="新疆天山(定海神针)" tvg-logo="https://live.fanmingming.com/tv/新疆天山(定海神针).png" group-title="✈️国庆云游全国景区✈️",新疆天山(定海神针)
+https://gcalic.v.myalicdn.com/gc/xjtcdhsz_1/index.m3u8
+#EXTINF:-1 tvg-name="新疆天山(马牙山)" tvg-logo="https://live.fanmingming.com/tv/新疆天山(马牙山).png" group-title="✈️国庆云游全国景区✈️",新疆天山(马牙山)
+https://gcalic.v.myalicdn.com/gc/xjtcmys_1/index.m3u8
+#EXTINF:-1 tvg-name="新疆天山(灯杆山)" tvg-logo="https://live.fanmingming.com/tv/新疆天山(灯杆山).png" group-title="✈️国庆云游全国景区✈️",新疆天山(灯杆山)
+https://gcalic.v.myalicdn.com/gc/xjtcdgs_1/index.m3u8
+#EXTINF:-1 tvg-name="湖南张家界天门山西线玻璃栈道" tvg-logo="https://live.fanmingming.com/tv/湖南张家界天门山西线玻璃栈道.png" group-title="✈️国庆云游全国景区✈️",湖南张家界天门山西线玻璃栈道
+https://gcalic.v.myalicdn.com/gc/tms05_1/index.m3u8
+#EXTINF:-1 tvg-name="厦门鼓浪屿" tvg-logo="https://live.fanmingming.com/tv/厦门鼓浪屿.png" group-title="✈️国庆云游全国景区✈️",厦门鼓浪屿
+https://gcalic.v.myalicdn.com/gc/gly01_1/index.m3u8
+#EXTINF:-1 tvg-name="广西玉林大容山莲花山顶" tvg-logo="https://live.fanmingming.com/tv/广西玉林大容山莲花山顶.png" group-title="✈️国庆云游全国景区✈️",广西玉林大容山莲花山顶
+https://gcalic.v.myalicdn.com/gc/drs01_1/index.m3u8
+#EXTINF:-1 tvg-name="八里沟风景区桃花湾瀑布" tvg-logo="https://live.fanmingming.com/tv/八里沟风景区桃花湾瀑布.png" group-title="✈️国庆云游全国景区✈️",八里沟风景区桃花湾瀑布
+https://gcalic.v.myalicdn.com/gc/blg05_1/index.m3u8
+#EXTINF:-1 tvg-name="八里沟风景区天界山玻璃栈道" tvg-logo="https://live.fanmingming.com/tv/八里沟风景区天界山玻璃栈道.png" group-title="✈️国庆云游全国景区✈️",八里沟风景区天界山玻璃栈道
+https://gcalic.v.myalicdn.com/gc/blg03_1/index.m3u8
+#EXTINF:-1 tvg-name="安徽池州九华山风景区九华山" tvg-logo="https://live.fanmingming.com/tv/安徽池州九华山风景区九华山.png" group-title="✈️国庆云游全国景区✈️",安徽池州九华山风景区九华山
+https://gcalic.v.myalicdn.com/gc/jhs05_1/index.m3u8
+#EXTINF:-1 tvg-name="安徽池州九华山风景区花台" tvg-logo="https://live.fanmingming.com/tv/安徽池州九华山风景区花台.png" group-title="✈️国庆云游全国景区✈️",安徽池州九华山风景区花台
+https://gcalic.v.myalicdn.com/gc/jhs01_1/index.m3u8
+#EXTINF:-1 tvg-name="江苏徐州云龙湖风景区云龙山观景台西" tvg-logo="https://live.fanmingming.com/tv/江苏徐州云龙湖风景区云龙山观景台西.png" group-title="✈️国庆云游全国景区✈️",江苏徐州云龙湖风景区云龙山观景台西
+https://gcalic.v.myalicdn.com/gc/ylh04_1/index.m3u8
+#EXTINF:-1 tvg-name="南京玄武湖公园" tvg-logo="https://live.fanmingming.com/tv/南京玄武湖公园.png" group-title="✈️国庆云游全国景区✈️",南京玄武湖公园
+https://gcalic.v.myalicdn.com/gc/xwh01_1/index.m3u8
+#EXTINF:-1 tvg-name="云南丽江玉龙雪山" tvg-logo="https://live.fanmingming.com/tv/云南丽江玉龙雪山.png" group-title="✈️国庆云游全国景区✈️",云南丽江玉龙雪山
+https://gcalic.v.myalicdn.com/gc/ylxs11_1/index.m3u8
+#EXTINF:-1 tvg-name="云南丽江蓝月谷" tvg-logo="https://live.fanmingming.com/tv/云南丽江蓝月谷.png" group-title="✈️国庆云游全国景区✈️",云南丽江蓝月谷
+https://gcalic.v.myalicdn.com/gc/ylxs12_1/index.m3u8
+#EXTINF:-1 tvg-name="云南白沙远眺玉龙雪山" tvg-logo="https://live.fanmingming.com/tv/云南白沙远眺玉龙雪山.png" group-title="✈️国庆云游全国景区✈️",云南白沙远眺玉龙雪山
+https://gcalic.v.myalicdn.com/gc/hkylxs03_1/index.m3u8
+#EXTINF:-1 tvg-name="云南丽江玉龙雪山草甸" tvg-logo="https://live.fanmingming.com/tv/云南丽江玉龙雪山草甸.png" group-title="✈️国庆云游全国景区✈️",云南丽江玉龙雪山草甸
+https://gcalic.v.myalicdn.com/gc/hkylxs06_1/index.m3u8
+#EXTINF:-1 tvg-name="云南丽江冰川" tvg-logo="https://live.fanmingming.com/tv/云南丽江冰川.png" group-title="✈️国庆云游全国景区✈️",云南丽江冰川
+https://gcalic.v.myalicdn.com/gc/hkylxs05_1/index.m3u8
+#EXTINF:-1 tvg-name="云南丽江印象实景" tvg-logo="https://live.fanmingming.com/tv/云南丽江印象实景.png" group-title="✈️国庆云游全国景区✈️",云南丽江印象实景
+https://gcalic.v.myalicdn.com/gc/hkylxs01_1/index.m3u8
+#EXTINF:-1 tvg-name="江苏南京牛首山" tvg-logo="https://live.fanmingming.com/tv/江苏南京牛首山.png" group-title="✈️国庆云游全国景区✈️",江苏南京牛首山
+https://gcalic.v.myalicdn.com/gc/nss01_1/index.m3u8
+#EXTINF:-1 tvg-name="普陀山" tvg-logo="https://live.fanmingming.com/tv/普陀山.png" group-title="✈️国庆云游全国景区✈️",普陀山
+https://gcalic.v.myalicdn.com/gc/pts01_1/index.m3u8
+#EXTINF:-1 tvg-name="浙江舟山东极岛" tvg-logo="https://live.fanmingming.com/tv/浙江舟山东极岛.png" group-title="✈️国庆云游全国景区✈️",浙江舟山东极岛
+https://gcalic.v.myalicdn.com/gc/djd01_1/index.m3u8
+#EXTINF:-1 tvg-name="四川四姑娘山隆珠措" tvg-logo="https://live.fanmingming.com/tv/四川四姑娘山隆珠措.png" group-title="✈️国庆云游全国景区✈️",四川四姑娘山隆珠措
+https://gcalic.v.myalicdn.com/gc/sgns02_1/index.m3u8
+#EXTINF:-1 tvg-name="丽江古城大研花巷观景" tvg-logo="https://live.fanmingming.com/tv/丽江古城大研花巷观景.png" group-title="✈️国庆云游全国景区✈️",丽江古城大研花巷观景
+https://gcalic.v.myalicdn.com/gc/ljgcdyhxgjt_1/index.m3u8
+#EXTINF:-1 tvg-name="丽江古城大水车" tvg-logo="https://live.fanmingming.com/tv/丽江古城大水车.png" group-title="✈️国庆云游全国景区✈️",丽江古城大水车
+https://gcalic.v.myalicdn.com/gc/ljgcdsc_1/index.m3u8
+#EXTINF:-1 tvg-name="丽江古城万古楼遥望玉龙雪山" tvg-logo="https://live.fanmingming.com/tv/丽江古城万古楼遥望玉龙雪山.png" group-title="✈️国庆云游全国景区✈️",丽江古城万古楼遥望玉龙雪山
+https://gcalic.v.myalicdn.com/gc/ljgcwglytylxs_1/index.m3u8
+#EXTINF:-1 tvg-name="狮子山鸟瞰丽江古城" tvg-logo="https://live.fanmingming.com/tv/狮子山鸟瞰丽江古城.png" group-title="✈️国庆云游全国景区✈️",狮子山鸟瞰丽江古城
+https://gcalic.v.myalicdn.com/gc/ljgcszsnkgc_1/index.m3u8
+#EXTINF:-1 tvg-name="雪乡梦幻家园" tvg-logo="https://live.fanmingming.com/tv/雪乡梦幻家园.png" group-title="✈️国庆云游全国景区✈️",雪乡梦幻家园
+https://gcalic.v.myalicdn.com/gc/mdjxxmhjyxj_1/index.m3u8
+#EXTINF:-1 tvg-name="雪乡大石碑" tvg-logo="https://live.fanmingming.com/tv/雪乡大石碑.png" group-title="✈️国庆云游全国景区✈️",雪乡大石碑
+https://gcalic.v.myalicdn.com/gc/mdjxxdsb_1/index.m3u8
+#EXTINF:-1 tvg-name="乌镇蓝印花布" tvg-logo="https://live.fanmingming.com/tv/乌镇蓝印花布.png" group-title="✈️国庆云游全国景区✈️",乌镇蓝印花布
+https://gcalic.v.myalicdn.com/gc/zjwzlyhb_1/index.m3u8
+#EXTINF:-1 tvg-name="乌镇西市河" tvg-logo="https://live.fanmingming.com/tv/乌镇西市河.png" group-title="✈️国庆云游全国景区✈️",乌镇西市河
+https://gcalic.v.myalicdn.com/gc/zjwzbblh_1/index.m3u8
+#EXTINF:-1 tvg-name="乌镇龙形田" tvg-logo="https://live.fanmingming.com/tv/乌镇龙形田.png" group-title="✈️国庆云游全国景区✈️",乌镇龙形田
+https://gcalic.v.myalicdn.com/gc/zjwzlxt_1/index.m3u8
+#EXTINF:-1 tvg-name="乌镇全景" tvg-logo="https://live.fanmingming.com/tv/乌镇全景.png" group-title="✈️国庆云游全国景区✈️",乌镇全景
+https://gcalic.v.myalicdn.com/gc/zjwzblt_1/index.m3u8
+#EXTINF:-1 tvg-name="黄花城水长城01" tvg-logo="https://live.fanmingming.com/tv/黄花城水长城01.png" group-title="✈️国庆云游全国景区✈️",黄花城水长城01
+https://gcalic.v.myalicdn.com/gc/wgw01_1/index.m3u8
+#EXTINF:-1 tvg-name="黄花城水长城02" tvg-logo="https://live.fanmingming.com/tv/黄花城水长城02.png" group-title="✈️国庆云游全国景区✈️",黄花城水长城02
+https://gcalic.v.myalicdn.com/gc/wgw02_1/index.m3u8
+#EXTINF:-1 tvg-name="黄花城水长城03" tvg-logo="https://live.fanmingming.com/tv/黄花城水长城03.png" group-title="✈️国庆云游全国景区✈️",黄花城水长城03
+https://gcalic.v.myalicdn.com/gc/wgw03_1/index.m3u8
+#EXTINF:-1 tvg-name="鸣沙山" tvg-logo="https://live.fanmingming.com/tv/鸣沙山.png" group-title="✈️国庆云游全国景区✈️",鸣沙山
+https://gcalic.v.myalicdn.com/gc/dhyyqst_1/index.m3u8
+#EXTINF:-1 tvg-name="月牙泉" tvg-logo="https://live.fanmingming.com/tv/月牙泉.png" group-title="✈️国庆云游全国景区✈️",月牙泉
+https://gcalic.v.myalicdn.com/gc/dhyyqsm_1/index.m3u8
+#EXTINF:-1 tvg-name="五彩池" tvg-logo="https://live.fanmingming.com/tv/五彩池.png" group-title="✈️国庆云游全国景区✈️",五彩池
+https://gcalic.v.myalicdn.com/gc/hlwcc_1/index.m3u8
+#EXTINF:-1 tvg-name="黄龙" tvg-logo="https://live.fanmingming.com/tv/黄龙.png" group-title="✈️国庆云游全国景区✈️",黄龙
+https://gcalic.v.myalicdn.com/gc/hlzycc_1/index.m3u8
+#EXTINF:-1 tvg-name="望乡台" tvg-logo="https://live.fanmingming.com/tv/望乡台.png" group-title="✈️国庆云游全国景区✈️",望乡台
+https://gcalic.v.myalicdn.com/gc/hlwxt_1/index.m3u8
+#EXTINF:-1 tvg-name="泰山主峰" tvg-logo="https://live.fanmingming.com/tv/泰山主峰.png" group-title="✈️国庆云游全国景区✈️",泰山主峰
+https://gcalic.v.myalicdn.com/gc/taishan01_1/index.m3u8
+#EXTINF:-1 tvg-name="泰山大观峰" tvg-logo="https://live.fanmingming.com/tv/泰山大观峰.png" group-title="✈️国庆云游全国景区✈️",泰山大观峰
+https://gcalic.v.myalicdn.com/gc/taishan03_1/index.m3u8
+#EXTINF:-1 tvg-name="泰山玉皇顶" tvg-logo="https://live.fanmingming.com/tv/泰山玉皇顶.png" group-title="✈️国庆云游全国景区✈️",泰山玉皇顶
+https://gcalic.v.myalicdn.com/gc/taishan06_1/index.m3u8
+#EXTINF:-1 tvg-name="泰山十八盘" tvg-logo="https://live.fanmingming.com/tv/泰山十八盘.png" group-title="✈️国庆云游全国景区✈️",泰山十八盘
+https://gcalic.v.myalicdn.com/gc/taishan05_1/index.m3u8
+#EXTINF:-1 tvg-name="泰山望人松" tvg-logo="https://live.fanmingming.com/tv/泰山望人松.png" group-title="✈️国庆云游全国景区✈️",泰山望人松
+https://gcalic.v.myalicdn.com/gc/taishan02_1/index.m3u8
+#EXTINF:-1 tvg-name="泰山南天门" tvg-logo="https://live.fanmingming.com/tv/泰山南天门.png" group-title="✈️国庆云游全国景区✈️",泰山南天门
+https://gcalic.v.myalicdn.com/gc/hkts07_1/index.m3u8
+#EXTINF:-1 tvg-name="泰山白云亭悬崖" tvg-logo="https://live.fanmingming.com/tv/泰山白云亭悬崖.png" group-title="✈️国庆云游全国景区✈️",泰山白云亭悬崖
+https://gcalic.v.myalicdn.com/gc/hkts02_1/index.m3u8
+#EXTINF:-1 tvg-name="泰山太平岭" tvg-logo="https://live.fanmingming.com/tv/泰山太平岭.png" group-title="✈️国庆云游全国景区✈️",泰山太平岭
+https://gcalic.v.myalicdn.com/gc/hkts09_1/index.m3u8
+#EXTINF:-1 tvg-name="泰山碧霞祠" tvg-logo="https://live.fanmingming.com/tv/泰山碧霞祠.png" group-title="✈️国庆云游全国景区✈️",泰山碧霞祠
+https://gcalic.v.myalicdn.com/gc/hkts03_1/index.m3u8
+#EXTINF:-1 tvg-name="黄山卧云峰" tvg-logo="https://live.fanmingming.com/tv/黄山卧云峰.png" group-title="✈️国庆云游全国景区✈️",黄山卧云峰
+https://gcalic.v.myalicdn.com/gc/hswlf_1/index.m3u8
+#EXTINF:-1 tvg-name="黄山始信新道" tvg-logo="https://live.fanmingming.com/tv/黄山始信新道.png" group-title="✈️国庆云游全国景区✈️",黄山始信新道
+https://gcalic.v.myalicdn.com/gc/hsyg_1/index.m3u8
+#EXTINF:-1 tvg-name="黄山排云亭" tvg-logo="https://live.fanmingming.com/tv/黄山排云亭.png" group-title="✈️国庆云游全国景区✈️",黄山排云亭
+https://gcalic.v.myalicdn.com/gc/hspyt_1/index.m3u8
+#EXTINF:-1 tvg-name="黄山飞来石" tvg-logo="https://live.fanmingming.com/tv/黄山飞来石.png" group-title="✈️国庆云游全国景区✈️",黄山飞来石
+https://gcalic.v.myalicdn.com/gc/hsptgy_1/index.m3u8
+#EXTINF:-1 tvg-name="黄山" tvg-logo="https://live.fanmingming.com/tv/黄山.png" group-title="✈️国庆云游全国景区✈️",黄山
+https://gcalic.v.myalicdn.com/gc/ahhs01_1/index.m3u8
+#EXTINF:-1 tvg-name="陕西洋县国宝朱鹮02" tvg-logo="https://live.fanmingming.com/tv/陕西洋县国宝朱鹮02.png" group-title="✈️国庆云游全国景区✈️",陕西洋县国宝朱鹮02
+https://gcalic.v.myalicdn.com/gc/zh02_1/index.m3u8
+#EXTINF:-1 tvg-name="陕西洋县国宝朱鹮03" tvg-logo="https://live.fanmingming.com/tv/陕西洋县国宝朱鹮03.png" group-title="✈️国庆云游全国景区✈️",陕西洋县国宝朱鹮03
+https://gcalic.v.myalicdn.com/gc/zh03_1/index.m3u8
+#EXTINF:-1 tvg-name="安徽黟县西递牌坊" tvg-logo="https://live.fanmingming.com/tv/安徽黟县西递牌坊.png" group-title="✈️国庆云游全国景区✈️",安徽黟县西递牌坊
+https://gcalic.v.myalicdn.com/gc/yxxdpf_1/index.m3u8
+#EXTINF:-1 tvg-name="安徽黟县芦村远眺" tvg-logo="https://live.fanmingming.com/tv/安徽黟县芦村远眺.png" group-title="✈️国庆云游全国景区✈️",安徽黟县芦村远眺
+https://gcalic.v.myalicdn.com/gc/yxlcyt_1/index.m3u8
+#EXTINF:-1 tvg-name="恒山悬空寺全景" tvg-logo="https://live.fanmingming.com/tv/恒山悬空寺全景.png" group-title="✈️国庆云游全国景区✈️",恒山悬空寺全景
+https://gcalic.v.myalicdn.com/gc/hsxksqj_1/index.m3u8
+#EXTINF:-1 tvg-name="黄果树六角亭瀑布" tvg-logo="https://live.fanmingming.com/tv/黄果树六角亭瀑布.png" group-title="✈️国庆云游全国景区✈️",黄果树六角亭瀑布
+https://gcalic.v.myalicdn.com/gc/hgsspzxdpb_1/index.m3u8
+#EXTINF:-1 tvg-name="天涯石" tvg-logo="https://live.fanmingming.com/tv/天涯石.png" group-title="✈️国庆云游全国景区✈️",天涯石
+https://gcalic.v.myalicdn.com/gc/tyhjtys_1/index.m3u8
+#EXTINF:-1 tvg-name="六盘山红军长征景区" tvg-logo="https://live.fanmingming.com/tv/六盘山红军长征景区.png" group-title="✈️国庆云游全国景区✈️",六盘山红军长征景区
+https://gcalic.v.myalicdn.com/gc/lpsgmjng01_1/index.m3u8
+#EXTINF:-1 tvg-name="贵州省兴义市万峰林" tvg-logo="https://live.fanmingming.com/tv/贵州省兴义市万峰林.png" group-title="✈️国庆云游全国景区✈️",贵州省兴义市万峰林
+https://gcalic.v.myalicdn.com/gc/xywfl_1/index.m3u8
+#EXTINF:-1 tvg-name="云南大理崇圣寺三塔中景" tvg-logo="https://live.fanmingming.com/tv/云南大理崇圣寺三塔中景.png" group-title="✈️国庆云游全国景区✈️",云南大理崇圣寺三塔中景
+https://gcalic.v.myalicdn.com/gc/dlst03_1/index.m3u8
+#EXTINF:-1 tvg-name="云南大理崇圣寺三塔远景" tvg-logo="https://live.fanmingming.com/tv/云南大理崇圣寺三塔远景.png" group-title="✈️国庆云游全国景区✈️",云南大理崇圣寺三塔远景
+https://gcalic.v.myalicdn.com/gc/dlst01_1/index.m3u8
+#EXTINF:-1 tvg-name="广西桂林漓江景区" tvg-logo="https://live.fanmingming.com/tv/广西桂林漓江景区.png" group-title="✈️国庆云游全国景区✈️",广西桂林漓江景区
+https://gcalic.v.myalicdn.com/gc/gllj01_1/index.m3u8
+#EXTINF:-1 tvg-name="青岛崂山双福" tvg-logo="https://live.fanmingming.com/tv/青岛崂山双福.png" group-title="✈️国庆云游全国景区✈️",青岛崂山双福
+https://gcalic.v.myalicdn.com/gc/qdls03_1/index.m3u8
+#EXTINF:-1 tvg-name="青岛崂山八水河" tvg-logo="https://live.fanmingming.com/tv/青岛崂山八水河.png" group-title="✈️国庆云游全国景区✈️",青岛崂山八水河
+https://gcalic.v.myalicdn.com/gc/qdls02_1/index.m3u8
+#EXTINF:-1 tvg-name="张掖七彩丹霞" tvg-logo="https://live.fanmingming.com/tv/张掖七彩丹霞.png" group-title="✈️国庆云游全国景区✈️",张掖七彩丹霞
+https://gcalic.v.myalicdn.com/gc/zyqcdx01_1/index.m3u8
+#EXTINF:-1 tvg-name="都江堰鱼嘴" tvg-logo="https://live.fanmingming.com/tv/都江堰鱼嘴.png" group-title="✈️国庆云游全国景区✈️",都江堰鱼嘴
+https://gcalic.v.myalicdn.com/gc/djyqyl1_1/index.m3u8
+#EXTINF:-1 tvg-name="乐山大佛全景" tvg-logo="https://live.fanmingming.com/tv/乐山大佛全景.png" group-title="✈️国庆云游全国景区✈️",乐山大佛全景
+https://gcalic.v.myalicdn.com/gc/lsdfgfl_1/index.m3u8
+#EXTINF:-1 tvg-name="福建武夷山玉女峰" tvg-logo="https://live.fanmingming.com/tv/福建武夷山玉女峰.png" group-title="✈️国庆云游全国景区✈️",福建武夷山玉女峰
+https://gcalic.v.myalicdn.com/gc/wysynf_1/index.m3u8
 
 
-
-
-
-
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/10106c2211.png" group-title="🦁欧洲五大联赛🦁",10/05 15:20 中甲联赛 无锡吴钩 vs 辽宁铁人 解说流
+https://api.livednow.org/migu/936258809?sign=gAAAAABnANBJTdP7IIA5Oa3_GMjAUgKwL2b_WDUxKM6anywDWFw0QYzQNl34A9iroHwRPBwA-Eoxyg1TMWy6H3L8yJmkVt6146ocmsr0PWioFnH8Zc0CibvOPFwj1CsuGqZbhO4jHIPn2Db-p4ikesrpwE2ugV-g1P-yENbjW8QY9g4E5f2ltT8NHNqq3Brlwt-6VdOnzMv9C_5FMKiy808jdmtds0Mxiw%3D%3D
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/3/19/1000000011571066d376.png" group-title="🦁欧洲五大联赛🦁",10/05 15:20 中乙联赛 山东泰山金钢山 vs 湖南湘涛 解说
+https://api.livednow.org/migu/936271330?sign=gAAAAABnANBJnBaMVL5EQVh-6iWriNoPA87KFqYGUibZxyml_6AG98cumcD25L0QeR7HWDD1JjK7TQ4Rn2y-17FVzKKMHS3p3lYtBZtvAzQPzR_Qlf3_JRUgswbiU9XPTz2O70-JyAr7XeBefA1ts9CCs0CJorOjb4iG0ljWJDh5prnOxHnF0JhkrvnDDTbxC21SeAFBOEE_qek-lY00uHVMz1F7dSZlUQ%3D%3D
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/51067f839.png" group-title="🦁欧洲五大联赛🦁",10/05 19:15 英超联赛 水晶宫 vs 利物浦 詹俊 张路 林梦鸽
+https://api.livednow.org/migu/936146687?sign=gAAAAABnANBJ9uzoltYYnh-l8fe49ITApzXnNt8Sq-rJGY7fVV4xTe-8y0xEFhOV5N0rdaeLLGmh72xRg5ffKm_LWMyLi0kp1s7TS1rqrmudt0Mr_sA-lmBqM-BNQ_XTqWwUqWMIfb74E11eAxZqGnXeMCiOJccPatmLIwe95IPDZKpXhqXLKh52kcQFVz3Wggb1IKaJFHDWqP6TfMqJ_RSVLT2KsdI33A%3D%3D
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/10106c2211.png" group-title="🦁欧洲五大联赛🦁",10/05 19:20 中甲联赛 南京城市 vs 石家庄功夫 解说流
+https://api.livednow.org/migu/936260008?sign=gAAAAABnANBJY70XcVyPJ9mv3348FEon9_jdgw8ikYYREXPzVP7e5pRqD0ZwRPPd1PqD9EZEYKHY6Y07CVxBDDey3cdPkmCjRjdKfYI9_KQgb6h-xeYL8pI4eVvvRA32LrNq3bSNJl3yYVN6EKgiPk4h1effNyW9ESrz5XWEKlsC1yXHbhbHsYgtQp_IuToo-uANYtXHyixg0UX4YPlp679A-qzhEZ-JNQ%3D%3D
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/10106c2211.png" group-title="🦁欧洲五大联赛🦁",10/05 19:20 中甲联赛 佛山南狮 vs 黑龙江冰城 解说流
+https://api.livednow.org/migu/936260631?sign=gAAAAABnANBJjGczz0oFlAeyrDdadw-6__zTo0isV0LI26Y1iQm_DdSa63PZXeZZPFG5exikMPzhsldJZW-IIHfTvaHA66iWfLaY6JxslnvAX6KZNni3Zu3bG5kJf03BLs9eFCeXg0ZlODGBazM-D1c6YUM-xRq2a3poqXq07yR-8jss0CyW1k1pPPKoW0oiT0N4qTSvoThiXjOAypNPsfHXtgc0-q5U3w%3D%3D
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/10106c2211.png" group-title="🦁欧洲五大联赛🦁",10/05 19:20 中甲联赛 广州队 vs 广西平果哈嘹国晶 解说流
+https://api.livednow.org/migu/936261068?sign=gAAAAABnANBJbIyn77yy38UGbGRJwABXqUXIJpld5tpUEgLn4uSnaWeebUpk1z9NiwQAifhXzky6-XoQB8d5ODZ4krTflS1pC-fJe8OURRzpVxTxUe-JYL1ZjdxzV8VcdQazxfDOskBptg2z7aHNKZAWwS2ArCdf2GIWMvTfsOeZlR11LwQP_jskb-WR8y1UnuSky1hVvxtdo96rINrBOnWQD9y4Sp55JQ%3D%3D
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/10106c2211.png" group-title="🦁欧洲五大联赛🦁",10/05 19:20 中甲联赛 苏州东吴 vs 青岛红狮 解说流
+https://api.livednow.org/migu/936261460?sign=gAAAAABnANBJoWU2Qe7uAzhU-eRe8vNQLcozW8Zx3jspeH0edsdk0a837QQCpmxO5cczo8a8xZSLUINRkvlsRC0giSzwBZFLY2lqFbM1RC0TTQsWeEGWtnrclUoN71aFjxugsZlQZvM6iqUMU9PTz5GdB_pSYnZ-1CoV-AlnY9oNabdZtHU1_xjLSQRDyOMoGNSVCL-HH1_HG0dHznD2c3UjN3c6O-Bi9Q%3D%3D
+#EXTINF:-1 tvg-logo="http://img.cmvideo.cn:8080/publish/noms_wc/nomsworldcup/2023/08/07/6CVTQPT1BJ1E.jpg" group-title="🦁欧洲五大联赛🦁",10/05 19:50 西甲联赛 西班牙人 vs 马略卡 周楚雄
+https://api.livednow.org/migu/936147037?sign=gAAAAABnANBJ1PTuTzirSBGG27IFAnFcq17nf2BJePSdaARE1TNEUhhwBrEpZ7hiftkVrEG8l33wnewzgoQvihqmBG0hp2MKmtqsq3YK90rceQMAD6HdVskF49EI36dHW20Crcr8PCwFQVwFM363l_mD5w-7ZFgzjUMK6eIVFEjit_GnfOCqoPCiFdBtCalEnIFkORcGRJgmaKT_tytvCcMF2LbH5wE48g%3D%3D
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2024/09/12/6LV496O5IFGM.png" group-title="🦁欧洲五大联赛🦁",10/05 20:00 2024中国网球公开赛第13日：女双半决赛 钻石球场
+https://api.livednow.org/migu/934653830?sign=gAAAAABnANBJDXaDc4Oq9zLLYsf1mm_su25ul2KwMC5gtdF0zjmgKG9eHfa32HzoGOiz2Js9zPLGJxQrEYqk44OtkGoFqy9Ls4vyOfBzoYmudu4mH3mI2RnCBN3lAEqsNvHbEukaZAsNS7JGIz3WeLAqM2Q2o3CF_-n8qOlOPjwY945JmQtUf7GChhvEKB-EcGyU50-zMirryTK-D47pJyQElIwNyudfzw%3D%3D
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/7106d6fbf.png" group-title="🦁欧洲五大联赛🦁",10/05 20:50 意甲联赛 乌迪内斯 vs 莱切 鲁靖明
+https://api.livednow.org/migu/936158458?sign=gAAAAABnANBJ3b-_wixe3WDcLcUupR2kOejeOo6MrajT2UE3-bUrFwAXcmVbcI4RMvfAIkZvwvYpbkEoTjJPmW_fkMFjk8H8rTa1S7nzht44i-SuQWtNn_gsKDX2_4lz6JASHpfgm1lgDjROZd2npU4qfs1efYWsuQNAlvHUO2bYYrYH1S639tJbV73vmxWKadxlWnG8SIYdV7kPwTCWL5dk2ArtT0eyzg%3D%3D
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/610655860.png" group-title="🦁欧洲五大联赛🦁",10/05 21:15 德甲联赛 柏林联合 vs 多特蒙德 沈云怡 秦游夏
+https://api.livednow.org/migu/936158028?sign=gAAAAABnANBJwmNMitb9r43bfnKChbI_3e3YMwdBJ9lESgC2EZdR7bu9fQW7V_XQNH6vdlkRHiuSLSSko2MCZYMtRhJogokREv2HdJUxHvT_lQEn1sP9Eus5YXexXP1BuJbEjNePW7pnK4kl9kRFSOsVBYt9YdZwAGYoa_ArKGniwNcvBW2XaoPn-jXabyxGyMXXCuulBsbFZch6pkmgRMDWX8lOkGoi-A%3D%3D
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/610655860.png" group-title="🦁欧洲五大联赛🦁",10/05 21:20 德甲联赛 云达不莱梅 vs 弗赖堡 刘洪新
+https://api.livednow.org/migu/936158425?sign=gAAAAABnANBJTnPw_umx25Ns92q4D5WVQE3UaMH-vG1is6o5bCAt5s6bWcm1rZlAxwNtGOyl325UsnmKDR_sQT5FNxZOjp1XSkWpBFrmllhMdM1Dh9qt3eOXcZPgpWQpHROHMTqBJ0eMXEiUsAv06X5mwbD_Tq6GJDdF7N_Woblr2oANyX5nzw3mLvdtD_gCH7OTx3ss51haWzgD4ngyoCiPMKMkwtji1g%3D%3D
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/610655860.png" group-title="🦁欧洲五大联赛🦁",10/05 21:20 德甲联赛 勒沃库森 vs 荷尔斯泰因 梁祥宇 马延峰
+https://api.livednow.org/migu/936159012?sign=gAAAAABnANBJybLYDmdpfbiAv77j0pzBKwBLfD5RlMAFk2Yfq1Yn3VUnIpYnzMyLe0F9KUigr6v8u41GDfbQxMeP9k9KLHabaL8MJV0US6Ue2nKSP6OWCXKcUY1ARgczR8mgEqr1kqd3zpAUl9OfxCF6LfUAvKtxdoTkTlgc79OjXLzzP73DuJagWvLOUOwsjAI7JP_K2gjl3FvpbbTdFXuGy1Rqvgfv4g%3D%3D
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/610655860.png" group-title="🦁欧洲五大联赛🦁",10/05 21:20 德甲联赛 波鸿 vs 沃尔夫斯堡 王子睿
+https://api.livednow.org/migu/936157485?sign=gAAAAABnANBJ5q8McJRt4WYe4PbRfoPUn57jS8SePnw8SAN8Cm9KNs-VCN8oaCfSYydkhizEt7v2zMgeO3ukQ7d9rcadJToT-QVAnXN3HFHFabUC7GSJuIBvHV5ZMRTNmxmZSF-uXaZ3bjTl4LtiT_Y-zeK-G9i-AefRGHYK3AVh72GJ1sFzKGwBXBK96ILk6BdvSVNpyW7g-390v6P9lW5nM9iMqtKD7w%3D%3D
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/51067f839.png" group-title="🦁欧洲五大联赛🦁",10/05 21:45 英超联赛 阿森纳 vs 南安普顿 刘畅 颜强
+https://api.livednow.org/migu/936146970?sign=gAAAAABnANBJpX75vIc8DgKfcmGhD9Ap3azcNuqYRztn4fT4cIP2aVZ_PQvGPp9-gq_4kJzptySYs4kTG77li_R1Wrgnpt3aZv-Efi_Hs9si4PMZmyOFFyfIt2fjGsnkzyQor5hkubnBKtppWicer24KLMhRDCFerKEf5wOA0rBc2PMI3neAAaoykTf5I5mBy-L8C1KVSl3adTe3WnfSCYB-6wON1SsaCw%3D%3D
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/51067f839.png" group-title="🦁欧洲五大联赛🦁",10/05 21:45 英超联赛 曼城 vs 富勒姆 苏东 徐阳
+https://api.livednow.org/migu/936147878?sign=gAAAAABnANBJpBTWsaAv3hGmN80uWDP4kXD_1U45TjXQvALe6LLkSeMO__G1-vOMRxYu8kKUOHpXLkSLYj_1ubtJYDKMQ1rA9M0fWH9A1ekkOtFm5Ovj7uZvvCwRtNyh0iGK0Yf9F3ehOtukg3WI8Wqt-smvf3YUw8oTf8h2oRDmSDwrxU8_jAp1esINx7ve2OIXe-UYRalLDfex-9bbswwwkBEZ0FnqWA%3D%3D
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/51067f839.png" group-title="🦁欧洲五大联赛🦁",10/05 21:50 英超联赛 莱斯特城 vs 伯恩茅斯 刘焕
+https://api.livednow.org/migu/936147515?sign=gAAAAABnANBJwnwiO0lAj7X7Z3HwYV7vkhZCrlRq4C8JBW4almbNLnYbZXdIUZJD0T2rMg3qlp6cMclB6j0G_YjUcRR4qHmEHhRzlQd0VMcdTbe0P2NnfCW9U6MALd3pXkDc9B1OptXt3ZmDSxLHf5mcm534JWzP16fTLVTwnkvFw8HfdlDpzDCNndocOPqe7uNdAVfLKe2B_Ma43AjwuVrcvTXRBQsw_g%3D%3D
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/51067f839.png" group-title="🦁欧洲五大联赛🦁",10/05 21:50 英超联赛 西汉姆联 vs 伊普斯维奇 郭灿亮
+https://api.livednow.org/migu/936148109?sign=gAAAAABnANBJrXPtmFcuWDSJsJ2yIoP411XKOWv5XP_SURtGaahY-QlHFGLWjR2_3huq9zHnVHnHoGoAhApK2X0DbDPwSLQw5M1mcmAak5s4xC1mAcXgCenDfawYmT6X5_ZYAEUxfE9a7oEQO192Kzj2BOf6PfFh1vMA-0Ww0uSwGc3Mf_X6MvLe29cVlEAFQL5zcDJo8utq4aFxkjBaNH-MBVT0I9jBnQ%3D%3D
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/51067f839.png" group-title="🦁欧洲五大联赛🦁",10/05 21:50 英超联赛 布伦特福德 vs 狼队 涂远
+https://api.livednow.org/migu/936147159?sign=gAAAAABnANBJtNGBe8nNfn9vBAmfzbVGlBLtTINlME_K2lCTNyLKZZ8-3SoGPtBHg-C5ueKS6nS07-h_P0CBRJJQKwdmBlJQMmS3ShCj9R8FfN_L4d49rFMS2icUujaBF8VZ99R9Wvpc6gkQWJOrFjINeRlGOmK3Yx59zc4WFky4ndAhvhK3gQ6-tsJd4mMp9_9HFNRgbZx0Utb8aYmf6gM9coAqxnHb8Q%3D%3D
+#EXTINF:-1 tvg-logo="http://img.cmvideo.cn:8080/publish/noms_wc/nomsworldcup/2023/08/07/6CVTQPT1BJ1E.jpg" group-title="🦁欧洲五大联赛🦁",10/05 22:05 西甲联赛 赫塔菲 vs 奥萨苏纳 鹿中原
+https://api.livednow.org/migu/936147354?sign=gAAAAABnANBJ9chLvsT124T13SEUE0-aEWYBSafDf-7YCT_INyRgJdAfwXH-sSX23UPNKHWsKEOvWctRwfeRySQNfJFiwh47Au12SxH2ILDum5nbpak52DGZHl_XrjzixiISlg4Wgd6xV0jeKeYN7P1LjPHXQ49BMqhlDG80uc_ite3-Odwu8IMaHSoExb8W4My7JiiBuao7mQ1aq1X5HHPnakg3pkBkpQ%3D%3D
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2024/08/16/6LSCT16EKOI2.png" group-title="🦁欧洲五大联赛🦁",10/05 22:50 法甲联赛 圣埃蒂安 vs 欧塞尔 解说
+https://api.livednow.org/migu/936158499?sign=gAAAAABnANBJq5Um7R2MVrO36zUudZSVP0qSRcREni06NgiE6JoWNmUaQA9SrGCqg_IxoFczWHAO74Mwy15Oza-eDsT52kmHNaeokJTZPZZuTND4s3akN_KAbG5-1QGPmTkUBQ5zKCHgf5t-Go4wMlfcbGmNrfuqtgSxyGWHveBpMYIor-uSO8j8hWJ86CtLb6XhOyQRkqMtR4yZaWQwSfkwestfmkWsuQ%3D%3D
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/7106d6fbf.png" group-title="🦁欧洲五大联赛🦁",10/05 23:50 意甲联赛 亚特兰大 vs 热那亚 乔迁
+https://api.livednow.org/migu/936158208?sign=gAAAAABnANBJgufGRZwft3iZmZidoZcjEq5IAEheDJrAn84e1g5j3Keys0w6k32r2jk5fepCLWOfXLA1kf8VqaUBLsxEFhsUFrMJCY7qNh_U8kokj5j4CmoIgoD_iTO379t_P91Dxx_AqrfMfvFCMtOiRqRNxwvvKQYj1v_YAPlNHJ_HJUdmfGbNEDl4qSN5u_ztA5NuV6fdYi0nzrzlLxqWnRWGxfzf7w%3D%3D
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/51067f839.png" group-title="🦁欧洲五大联赛🦁",10/06 00:20 英超联赛 埃弗顿 vs 纽卡斯尔联 苗锟
+https://api.livednow.org/migu/936148374?sign=gAAAAABnANBJsgW11r-DEnGSuCLRHIfpCVrX2tM2BHQKfl4UmWrUOmI8jGh0OzlwetdIB3FeRVTktR_J_x1OBMX05RyLfDiMZeTIDk6lSyPvk-jyLb5NYyjJnmNfMOTueRr-JNO1KK_k1gULVTWMQAthhsP5cifj_J84GqGJrvyYfnn2fyRm1lPYyYegzyWo9TRXTwdWAq6v27hiJRFaE3XQ4OE9o9gjOQ%3D%3D
+#EXTINF:-1 tvg-logo="http://img.cmvideo.cn:8080/publish/noms_wc/nomsworldcup/2023/08/07/6CVTQPT1BJ1E.jpg" group-title="🦁欧洲五大联赛🦁",10/06 00:20 西甲联赛 拉斯帕尔马斯 vs 塞尔塔 张天翼
+https://api.livednow.org/migu/936147554?sign=gAAAAABnANBJXEhTtUgf5fgAj1Xf9MhBLhVV1v0K8b2sfAx2jPiVV9uM_ZNdRaGwZwfgv1NLPRI-kkaN-TxlWwLPFA41LSzsRAAtL0ZWT4XiFYmqvDSVqZJSRNRyhOEKO38KBQ3DN-4cJ0afVFnhwV5jYiK_C4XDuyQq_q9L019IeLSnKL-BEUX2lv6wwRXJj8fsoyXV0FPyw7uiKH5pksmkskam1s2s2A%3D%3D
+#EXTINF:-1 tvg-logo="http://img.cmvideo.cn:8080/publish/noms_wc/nomsworldcup/2023/08/07/6CVTQPT1BJ1E.jpg" group-title="🦁欧洲五大联赛🦁",10/06 00:20 西甲联赛 巴拉多利德 vs 巴列卡诺 吴奕博
+https://api.livednow.org/migu/936147711?sign=gAAAAABnANBJpHCFKmq_dq7NCunS3iN-izDJuo9S5L3uHhZPDpIaBpdWff4IJKKH_87WKCv1AdpM8zHBQrbZgg532pHAykdgWp7ZDLfWn-iaCNSr-w6SCjJXQ-cXpScN0O4NbYwap2lk-_EVRhTqlB4yw9z0Vk4eYQwBoIpewdut0t7xqepkP7PAREjBfcukf5yHNoGbsFwG3lTlSG88boZjKlRTaylAOQ%3D%3D
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/610655860.png" group-title="🦁欧洲五大联赛🦁",10/06 00:20 德甲联赛 圣保利 vs 美因茨 王子睿
+https://api.livednow.org/migu/936157143?sign=gAAAAABnANBJqsRQs91tr4CBAXvjGuuuCQzHizwWdtOBox4y37a1XThE9VCnrKR19DoCtKqVf0DsvKw579pqsJrZxInXenXZTESLHcX34u8F3Fyd6zun2ObDRp__alin8yPBsoy20gru-MIKLa0n2x6e9y7fqmnhN_axpuB2ri7mlwMh3mPoimzMsRQ9gpXH-OSN-SDt_OJ0POrYyBYs_BAHLxPnwUODoA%3D%3D
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2024/08/16/6LSCT16EKOI2.png" group-title="🦁欧洲五大联赛🦁",10/06 00:50 法甲联赛 里尔 vs 图卢兹 盛斌
+https://api.livednow.org/migu/936158267?sign=gAAAAABnANBJr8roNgeQFR6ONNKuvXe9GpOq0boFDqo3OcHyXWryNUw4XQLe0z8lk3fOVsVwkmZyCmOBgWgebc4k4Q5KSAinAxUPvp8TTUE4LBuDeNJEpfGYlKC2i9GJO7HOLHbWxvJr_BHDtwvnSvhJ2-0DwcFOpr7dW_tJRyO1p362TEoUg-nI7DAEdhEyg7VqwClb4MTZEqcXTfRD5tHSlOzfQ9t2tQ%3D%3D
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/7106d6fbf.png" group-title="🦁欧洲五大联赛🦁",10/06 02:30 意甲联赛 国际米兰 vs 都灵 刘腾 贺宇
+https://api.livednow.org/migu/936157552?sign=gAAAAABnANBJA9aMmTGqv34DLI34cVZpf93dmMJJxb9JFTi09W8NdAVy_hQCT55PfA9-y-wKIoPug1DpGc2ft7q-mWvlVVIFqp13WRzJCovGOXO9cFKcLc-OYTfRaFMMERLAhhv5sJGhxyUqTOWYU5Rxpy_mNe0zwSlqmwPL3rmJ7Mvz_gztu9TkQuxWpYF8JVCLR0SQbHgwh9dAIDxN6t_xrkiT28s_Cg%3D%3D
+#EXTINF:-1 tvg-logo="http://img.cmvideo.cn:8080/publish/noms_wc/nomsworldcup/2023/08/07/6CVTQPT1BJ1E.jpg" group-title="🦁欧洲五大联赛🦁",10/06 02:45 西甲联赛 皇家马德里 vs 比利亚雷亚尔 刘畅 孙雷
+https://api.livednow.org/migu/936147923?sign=gAAAAABnANBJ3hNsbMPvpg53FdR6HojSoS4lxI6eIU4viI-naCKgtLiILV9FJR0PueV-cQscLPNZ4_AlJAI6hu3yOVtdOmZEl9rh1HgBKJ6uvPVGFGdztvSQITnrEFg1saCHLHHnesgrV2YenDCxLOZGo8EVh0C8lQ2KAUVgPGrLI55BLXQoC-8gJbLdZm02CRtYKj2h7fRBztAUZ2dne7AZW3Junxu9YQ%3D%3D
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/publish/noms_wc/nomsworldcup/2024/08/16/6LSCT16EKOI2.png" group-title="🦁欧洲五大联赛🦁",10/06 02:50 法甲联赛 雷恩 vs 摩纳哥 鹿中原
+https://api.livednow.org/migu/936157968?sign=gAAAAABnANBJCJQXe6vikfL4ykuxijovZtHJZFmXz7laL0mH2_x7frknC7ltAd7RP_vyY7MFImvCDByv9aG3rpSMMizdIfTWwsVmo1bQBsSr-IgNKSjDjmfvHV6vMoV0ptKwfLU11rYOkN0D7TbvAmQHP9Rna6S1eLHrKqwwtMVTogwZ0d2Ko1fawz_PFcru2XD8j3hxAu5mOcJjvIQ51YW0ozUOUvvwgA%3D%3D
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/4/23/10000000040310663de2.png" group-title="🦁欧洲五大联赛🦁",10/06 06:00 UFC第307期：佩雷拉VS郎特里 王琰博 郝俊 任中贤
+https://api.livednow.org/migu/936330989?sign=gAAAAABnANBJ4fHNu6EpCEehgAOxiLXsyvabAH24WZ_64Sbkrh_JVovmj1D950CCTs4yml3L64hSSJ2wm6tmfWCCcCQXTjsIRU2899rOmO74dZmnYxyJuIsGrLJiEYkMvXeAm2MAat1TvYt1YWsFj3mkHsuN3AsZJlKTgoKroOYZ3xhbawVKfHPx-hH32GwCgngC_2SygfwHpnmOb7nxmBQ6DcHD6RslNw%3D%3D
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/4/23/10000000040310663de2.png" group-title="🦁欧洲五大联赛🦁",10/06 06:00 UFC第307期：佩雷拉VS郎特里 解说
+https://api.livednow.org/migu/936330860?sign=gAAAAABnANBJ-R4jqRMN0W9IBLrw3KRfIeegp9i5jUDs4jBR56o4qHEAuCexWYvt--dWeRBn-2HluhlUgSlGHmWjgfyeI4hcYVua74OwW-34ZXRE3MLfTVIyVYWpa7qx1ixXkXXt0Lj7neH8LnYxsT0asuXn-CmZRrCSgCBehfdEEr-PJewLQD0z6QgImJbiuWIobKw5eZZEqTjhOg_B3jgATRPXHEyAGw%3D%3D
 
 
 
@@ -2466,9 +2355,9 @@ http://rhsbjv7k.tvclub.xyz/iptv/FAGK589PV9BQAG/9334/index.m3u8
 
 
 #EXTINF:-1 group-title="🐉国内体育",👉添加售后唯一微信👈
-https://cloud.wujiyan.cc/f/Wk6Hy/1.mp4
+https://cloud.wujiyan.cc/f/mw2sQ/1.mp4
 #EXTINF:-1 group-title="🐉国内体育",👉获取最新链接👈
-https://cloud.wujiyan.cc/f/Wk6Hy/1.mp4
+https://cloud.wujiyan.cc/f/mw2sQ/1.mp4
 #EXTINF:-1 group-title="🐉国内体育",JJ斗地主
 http://openhls-tct.douyucdn2.cn:80/dyliveflv1a/488743rAHScWyyII_2000.m3u8
 #EXTINF:-1 group-title="🐉国内体育",JJ斗地主
@@ -6084,7 +5973,7 @@ http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/322
 #EXTINF:-1 group-title="🐉电影频道🎥",三号影厅
 http://tc-tct.douyucdn2.cn/dyliveflv1/85894rmovieChow_2000.flv?wsAuth=7d054e041804e80af8aa7e975e2d8573&token=cpn-androidmpro-0-85894-a3575d938a4aa309c687f5fb85a1009fc65cfbeeb2672310&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=pla
 #EXTINF:-1 group-title="🐉游戏赛事🐸",👉添加售后唯一微信👈
-https://cloud.wujiyan.cc/f/Wk6Hy/1.mp4
+https://cloud.wujiyan.cc/f/mw2sQ/1.mp4
 #EXTINF:-1 group-title="🐉游戏赛事🐸",「B站」CS 2
 http://live.iill.top/bilibili.php?id=21622811
 #EXTINF:-1 group-title="🐉游戏赛事🐸",「B站」英雄联盟
@@ -6254,7 +6143,7 @@ http://tc-tct.douyucdn2.cn/dyliveflv1a/6672862r90xSwiRP_2000.flv?wsAuth=1c2c516d
 #EXTINF:-1 group-title="🐉游戏赛事🐸",「斗鱼」永劫无间
 http://tc-tct.douyucdn2.cn/dyliveflv1a/9662891rlaeIAP3A_2000.flv?wsAuth=07d3125e1ec93068330e14be22a09454&token=cpn-androidmpro-0-9662891-7de7dc707e1a51dddb241f8ecad4f36806d04b45752cbbd8&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play2
 #EXTINF:-1 group-title="🐉埋堆堆🙉",👉添加售后唯一微信👈
-https://cloud.wujiyan.cc/f/Wk6Hy/1.mp4
+https://cloud.wujiyan.cc/f/mw2sQ/1.mp4
 #EXTINF:-1 group-title="🐉埋堆堆🙉",埋堆堆 𝟙
 http://live.iill.top/huya.php?id=23740156
 #EXTINF:-1 group-title="🐉埋堆堆🙉",埋堆堆 𝟚
@@ -6308,7 +6197,7 @@ http://live.iill.top/huya.php?id=23734256
 #EXTINF:-1 group-title="🐉埋堆堆🙉",埋堆堆 𝟚𝟞
 http://live.iill.top/huya.php?id=23749083
 #EXTINF:-1 group-title="🐉斗鱼轮播🦈",👉添加售后唯一微信👈
-https://cloud.wujiyan.cc/f/Wk6Hy/1.mp4
+https://cloud.wujiyan.cc/f/mw2sQ/1.mp4
 #EXTINF:-1 group-title="🐉斗鱼轮播🦈",「斗鱼」警匪电影
 https://tc-tc2-interact.douyucdn2.cn/dyliveflv1/85894rmovieChow_900p.m3u8
 #EXTINF:-1 group-title="🐉斗鱼轮播🦈",「斗鱼」香港经典
@@ -7106,7 +6995,7 @@ https://www.goodiptv.club/douyu/11988070
 #EXTINF:-1 group-title="🐉斗鱼轮播🦈",保修期内不保修
 https://www.goodiptv.club/douyu/12016395
 #EXTINF:-1 group-title="🐉虎牙轮播🐯",👉添加售后唯一微信👈
-https://cloud.wujiyan.cc/f/Wk6Hy/1.mp4
+https://cloud.wujiyan.cc/f/mw2sQ/1.mp4
 #EXTINF:-1 group-title="🐉虎牙轮播🐯",盛世-叫我久哥哥【GLZ】
 http://live.iill.top/huya.php?id=529
 #EXTINF:-1 group-title="🐉虎牙轮播🐯",电影_星爷
@@ -8638,7 +8527,7 @@ https://www.goodiptv.club/huya/24648680
 #EXTINF:-1 group-title="🐉虎牙轮播🐯",JS丶雨秋-太子府
 https://www.goodiptv.club/huya/24870267
 #EXTINF:-1 group-title="🐉YY轮播🦞",👉添加售后唯一微信👈
-https://cloud.wujiyan.cc/f/Wk6Hy/1.mp4
+https://cloud.wujiyan.cc/f/mw2sQ/1.mp4
 #EXTINF:-1 group-title="🐉YY轮播🦞",绝版电影 港片女鬼
 https://lunbo.freetv.top/yy/1455988450
 #EXTINF:-1 group-title="🐉YY轮播🦞",港片 喜剧 动作
@@ -11906,5 +11795,6 @@ https://fanmingming.com/fm?id=1319
 https://fanmingming.com/fm?id=1320
 #EXTINF:-1 group-title="🐉广播剧场🎙",奉贤电台阳光959
 https://fanmingming.com/fm?id=2515
+
 
 
