@@ -11,6 +11,8 @@ https://cloud.wujiyan.cc/f/Wk6Hy/1.mp4
 
 
 
+
+
 #EXTINF:-1 tvg-id="10031" tvg-name="英超-1" tvg-logo="https://gitee.com/ttxsxs/home-tv/raw/master/tvicon/SliveYC.png" group-title="🦁欧洲五大联赛🦁",Now Sports  4K
 http://apptv.xyz:80/alia4remz/rrynDeBGS/86258
 #EXTINF:-1 tvg-id="10031" tvg-name="英超-1" tvg-logo="https://gitee.com/ttxsxs/home-tv/raw/master/tvicon/SliveYC.png" group-title="🦁欧洲五大联赛🦁",UK: Sky Sports Premier League FHD 1
@@ -228,61 +230,7 @@ http://mutant.arrox.top:80/live/iPKJmCy0r/krfwNE8z4h/3070.m3u8
 #EXTINF:-1 group-title="🎾网球赛事🎾",UK | THE TENNIS CHANNEL
 http://mutant.arrox.top:80/live/iPKJmCy0r/krfwNE8z4h/187191.m3u8
 
-#EXTM3U
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="央视频道",CCTV-1 综合
-http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226559/index.m3u8
-#EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://live.fanmingming.com/tv/CCTV2.png" group-title="央视频道",CCTV-2 财经
-http://[2409:8087:74f0:22::4]:6410/270000001128/9900000502/index.m3u8?
-#EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://live.fanmingming.com/tv/CCTV3.png" group-title="央视频道",CCTV-3 综艺
-http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226021/index.m3u8
-#EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://live.fanmingming.com/tv/CCTV4.png" group-title="央视频道",CCTV-4 中文国际
-http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226428/index.m3u8
-#EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://live.fanmingming.com/tv/CCTV5.png" group-title="央视频道",CCTV-5 体育
-http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226019/index.m3u8
-#EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://live.fanmingming.com/tv/CCTV5+.png" group-title="央视频道",CCTV-5+ 体育赛事
-http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225603/index.m3u8
-#EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://live.fanmingming.com/tv/CCTV6.png" group-title="央视频道",CCTV-6 电影
-http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226010/index.m3u8
-#EXTINF:-1 tvg-name="CCTV7" tvg-logo="https://live.fanmingming.com/tv/CCTV7.png" group-title="央视频道",CCTV-7 国防军事
-http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225733/index.m3u8
-#EXTINF:-1 tvg-name="CCTV8" tvg-logo="https://live.fanmingming.com/tv/CCTV8.png" group-title="央视频道",CCTV-8 电视剧
-http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226008/index.m3u8
-#EXTINF:-1 tvg-name="CCTV9" tvg-logo="https://live.fanmingming.com/tv/CCTV9.png" group-title="央视频道",CCTV-9 纪录
-http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225734/index.m3u8
-#EXTINF:-1 tvg-name="CCTV10" tvg-logo="https://live.fanmingming.com/tv/CCTV10.png" group-title="央视频道",CCTV-10 科教
-http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226473/index.m3u8
-#EXTINF:-1 tvg-name="CCTV11" tvg-logo="https://live.fanmingming.com/tv/CCTV11.png" group-title="央视频道",CCTV-11 戏曲
-http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226565/index.m3u8
-#EXTINF:-1 tvg-name="CCTV12" tvg-logo="https://live.fanmingming.com/tv/CCTV12.png" group-title="央视频道",CCTV-12 社会与法
-http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225731/index.m3u8
-#EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://live.fanmingming.com/tv/CCTV13.png" group-title="央视频道",CCTV-13 新闻
-http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226537/index.m3u8
-#EXTINF:-1 tvg-name="CCTV14" tvg-logo="https://live.fanmingming.com/tv/CCTV14.png" group-title="央视频道",CCTV-14 少儿
-http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225732/index.m3u8
-#EXTINF:-1 tvg-name="CCTV15" tvg-logo="https://live.fanmingming.com/tv/CCTV15.png" group-title="央视频道",CCTV-15 音乐
-http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226476/index.m3u8
-#EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://live.fanmingming.com/tv/CCTV16.png" group-title="央视频道",CCTV-16 奥林匹克
-http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226100/index.m3u8
-#EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://live.fanmingming.com/tv/CCTV17.png" group-title="央视频道",CCTV-17 农业农村
-http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225765/index.m3u8
-#EXTINF:-1 tvg-name="CHC高清电影" tvg-logo="https://live.fanmingming.com/tv/CHC影迷电影.png" group-title="央视频道",CHC影迷电影
-http://cg14.hunancatv.cn:9090/live/CHCGQ_8000.m3u8?deviceid=866265039837531&sid=Yp6brv0MWYukAl4oJr9yrw%3D%3D&nonce=Ri1TgJg9dlAK&acl=0111&hlsSessionID=11082234455604315487&srchost=172.16.22.158:8060&gid=QTVto%2BZu6pkkcNYy4OxcMg%3D%3D
-#EXTINF:-1 tvg-name="CHC动作电影" tvg-logo="https://live.fanmingming.com/tv/CHC动作电影.png" group-title="央视频道",CHC动作电影
-http://cg0.hunancatv.cn:9090/live/CHCDZDY_8000.m3u8?deviceid=866265039837531&sid=Yp6brv0MWYukAl4oJr9yrw%3D%3D&nonce=Ri1TgJg9dlAK&acl=0111&hlsSessionID=11082234455604316076&srchost=172.16.22.158:8060&gid=ZF3q5L%2FmYWch1qWqTIPAjw%3D%3D
-#EXTINF:-1 tvg-name="CHC家庭影院" tvg-logo="https://live.fanmingming.com/tv/CHC家庭影院.png" group-title="央视频道",CHC家庭影院
-http://cg11.hunancatv.cn:9090/live/CHCJTYY_8000.m3u8?deviceid=866265039837531&sid=Yp6brv0MWYukAl4oJr9yrw%3D%3D&nonce=Ri1TgJg9dlAK&acl=0111&hlsSessionID=11082234455604316833&srchost=172.16.22.158:8060&gid=c%2BNqgq8pR1ZQ7ZzcmkS8%2BQ%3D%3D
-#EXTINF:-1 tvg-name="CGTN" tvg-logo="https://live.fanmingming.com/tv/CGTN.png" group-title="央视频道",CGTN英语
-https://0472.org/hls/cgtn.m3u8
-#EXTINF:-1 tvg-name="CGTN纪录" tvg-logo="https://live.fanmingming.com/tv/CGTN纪录.png" group-title="央视频道",CGTN记录
-https://0472.org/hls/cgtnd.m3u8
-#EXTINF:-1 tvg-name="CGTN俄语" tvg-logo="https://live.fanmingming.com/tv/CGTN俄语.png" group-title="央视频道",CGTN俄语
-https://0472.org/hls/cgtne.m3u8
-#EXTINF:-1 tvg-name="CGTN法语" tvg-logo="https://live.fanmingming.com/tv/CGTN法语.png" group-title="央视频道",CGTN法语
-https://0472.org/hls/cgtnf.m3u8
-#EXTINF:-1 tvg-name="CGTN西语" tvg-logo="https://live.fanmingming.com/tv/CGTN西语.png" group-title="央视频道",CGTN西语
-https://0472.org/hls/cgtnx.m3u8
-#EXTINF:-1 tvg-name="CGTN阿语" tvg-logo="https://live.fanmingming.com/tv/CGTN阿语.png" group-title="央视频道",CGTN阿语
-https://0472.org/hls/cgtna.m3u8
+
 
 #EXTINF:-1 tvg-name="订阅问客服" tvg-logo="https://epg.iill.top/logo/温馨提示.png" group-title="🏆咪咕体育-[IPV4]🏆",👉有比赛时才会有画面👈
 https://cloud.wujiyan.cc/f/Wk6Hy/1.mp4
@@ -415,44 +363,128 @@ http://[2409:8087:1a01:df::402a]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/322
 https://cloud.wujiyan.cc/f/Wk6Hy/1.mp4
 #EXTINF:-1 tvg-name="订阅问客服" tvg-logo="https://epg.iill.top/logo/温馨提示.png" group-title="🏀NBA-原声🏀",👉请留意赛事直播时间👈
 https://cloud.wujiyan.cc/f/Wk6Hy/1.mp4
-#EXTINF:-1 tvg-id="271542" tvg-name="NBA Replay info" tvg-logo="https://iili.io/t1Z1Lv.md.png" group-title="🏀NBA-原声🏀",NBA Replay info
-http://doubleclicktv.live/70376812/52663544/271542
-#EXTINF:-1 tvg-id="271541" tvg-name="NBA Replay Highlights" tvg-logo="https://iili.io/t1Z1Lv.md.png" group-title="🏀NBA-原声🏀",NBA Replay Highlights
-http://doubleclicktv.live/70376812/52663544/271541
-#EXTINF:-1 tvg-id="271540" tvg-name="NBA Replay 1" tvg-logo="https://iili.io/t1Z1Lv.md.png" group-title="🏀NBA-原声🏀",NBA Replay 1
-http://doubleclicktv.live/70376812/52663544/271540
-#EXTINF:-1 tvg-id="271539" tvg-name="NBA Replay 2" tvg-logo="https://iili.io/t1Z1Lv.md.png" group-title="🏀NBA-原声🏀",NBA Replay 2
-http://doubleclicktv.live/70376812/52663544/271539
-#EXTINF:-1 tvg-id="271538" tvg-name="NBA Replay 3" tvg-logo="https://iili.io/t1Z1Lv.md.png" group-title="🏀NBA-原声🏀",NBA Replay 3
-http://doubleclicktv.live/70376812/52663544/271538
-#EXTINF:-1 tvg-id="271537" tvg-name="NBA Replay 4" tvg-logo="https://iili.io/t1Z1Lv.md.png" group-title="🏀NBA-原声🏀",NBA Replay 4
-http://doubleclicktv.live/70376812/52663544/271537
-#EXTINF:-1 tvg-id="271536" tvg-name="NBA Replay 5" tvg-logo="https://iili.io/t1Z1Lv.md.png" group-title="🏀NBA-原声🏀",NBA Replay 5
-http://doubleclicktv.live/70376812/52663544/271536
-#EXTINF:-1 tvg-id="271535" tvg-name="NBA Replay 6" tvg-logo="https://iili.io/t1Z1Lv.md.png" group-title="🏀NBA-原声🏀",NBA Replay 6
-http://doubleclicktv.live/70376812/52663544/271535
-#EXTINF:-1 tvg-id="271534" tvg-name="NBA Replay 7" tvg-logo="https://iili.io/t1Z1Lv.md.png" group-title="🏀NBA-原声🏀",NBA Replay 7
-http://doubleclicktv.live/70376812/52663544/271534
-#EXTINF:-1 tvg-id="271533" tvg-name="NBA Replay 8" tvg-logo="https://iili.io/t1Z1Lv.md.png" group-title="🏀NBA-原声🏀",NBA Replay 8
-http://doubleclicktv.live/70376812/52663544/271533
-#EXTINF:-1 tvg-id="271532" tvg-name="NBA Replay 9" tvg-logo="https://iili.io/t1Z1Lv.md.png" group-title="🏀NBA-原声🏀",NBA Replay 9
-http://doubleclicktv.live/70376812/52663544/271532
-#EXTINF:-1 tvg-id="271531" tvg-name="NBA Replay 10" tvg-logo="https://iili.io/t1Z1Lv.md.png" group-title="🏀NBA-原声🏀",NBA Replay 10
-http://doubleclicktv.live/70376812/52663544/271531
-#EXTINF:-1 tvg-id="271530" tvg-name="NBA Replay 11" tvg-logo="https://iili.io/t1Z1Lv.md.png" group-title="🏀NBA-原声🏀",NBA Replay 11
-http://doubleclicktv.live/70376812/52663544/271530
-#EXTINF:-1 tvg-id="271529" tvg-name="NBA Replay 12" tvg-logo="https://iili.io/t1Z1Lv.md.png" group-title="🏀NBA-原声🏀",NBA Replay 12
-http://doubleclicktv.live/70376812/52663544/271529
-#EXTINF:-1 tvg-id="271528" tvg-name="NBA Replay 13" tvg-logo="https://iili.io/t1Z1Lv.md.png" group-title="🏀NBA-原声🏀",NBA Replay 13
-http://doubleclicktv.live/70376812/52663544/271528
-#EXTINF:-1 tvg-id="271527" tvg-name="NBA Replay 14" tvg-logo="https://iili.io/t1Z1Lv.md.png" group-title="🏀NBA-原声🏀",NBA Replay 14
-http://doubleclicktv.live/70376812/52663544/271527
-#EXTINF:-1 tvg-id="271526" tvg-name="NBA Replay 15" tvg-logo="https://iili.io/t1Z1Lv.md.png" group-title="🏀NBA-原声🏀",NBA Replay 15
-http://doubleclicktv.live/70376812/52663544/271526
-#EXTINF:-1 tvg-id="271525" tvg-name="NBA Replay 16" tvg-logo="https://iili.io/t1Z1Lv.md.png" group-title="🏀NBA-原声🏀",NBA Replay 16
-http://doubleclicktv.live/70376812/52663544/271525
-#EXTINF:-1 tvg-id="271524" tvg-name="NBA Replay 17" tvg-logo="https://iili.io/t1Z1Lv.md.png" group-title="🏀NBA-原声🏀",NBA Replay 17
-http://doubleclicktv.live/70376812/52663544/271524
+#EXTINF:-1 tvg-id="288358" tvg-name="NBA TV FHD" tvg-logo="https://redraws.net:443/images/MmBqhwLzTFdYB7AGKgofji-dFgz1-oTe-qmvdBZ0E-FtWJEFSXgYqSIq55J4Fkb8ihJaGsBSJj-Wx2YewDaGyTMCxGWcLcHK9dLqlH8rl3I3eSM_eNPz5FJXPoSJPu-9.png" group-title="🏀NBA-原声🏀",NBA TV FHD
+http://doubleclicktv.live/70376812/52663544/885
+#EXTINF:-1 tvg-id="5438" tvg-name=": New Orleans Pelicans vs Orlando Magic @ 07:00 PM ET" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png" group-title="🏀NBA-原声🏀",NBA 01 :
+http://doubleclicktv.live/70376812/52663544/5438
+#EXTINF:-1 tvg-id="5437" tvg-name="NBA 02: Toronto Raptors vs Washington Wizards @ 07:00 PM ET" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png" group-title="🏀NBA-原声🏀",NBA 02 :
+http://doubleclicktv.live/70376812/52663544/5437
+#EXTINF:-1 tvg-id="5436" tvg-name="NBA 03: Philadelphia 76ers vs Minnesota Timberwolves @ 07:00 PM ET" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png" group-title="🏀NBA-原声🏀",NBA 03 :
+http://doubleclicktv.live/70376812/52663544/5436
+#EXTINF:-1 tvg-id="5435" tvg-name="NBA 04: Sacramento Kings vs Golden State Warriors @ 10:00 PM ET" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png" group-title="🏀NBA-原声🏀",NBA 04 :
+http://doubleclicktv.live/70376812/52663544/5435
+#EXTINF:-1 tvg-id="5434" tvg-name="NBA 05: Detroit Pistons vs Phoenix Suns @ 10:00 PM ET" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png" group-title="🏀NBA-原声🏀",NBA 05 :
+http://doubleclicktv.live/70376812/52663544/5434
+#EXTINF:-1 tvg-id="5433" tvg-name="NBA 06: Portland Trail Blazers vs LA Clippers @ 10:30 PM ET" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png" group-title="🏀NBA-原声🏀",NBA 06:
+http://doubleclicktv.live/70376812/52663544/5433
+#EXTINF:-1 tvg-id="5432" tvg-name="NBA 07 :" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png" group-title="🏀NBA-原声🏀",NBA 07 :
+http://doubleclicktv.live/70376812/52663544/5432
+#EXTINF:-1 tvg-id="5431" tvg-name="NBA 08 :" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png" group-title="🏀NBA-原声🏀",NBA 08 :
+http://doubleclicktv.live/70376812/52663544/5431
+#EXTINF:-1 tvg-id="5430" tvg-name="NBA 09:" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png" group-title="🏀NBA-原声🏀",NBA 09:
+http://doubleclicktv.live/70376812/52663544/5430
+#EXTINF:-1 tvg-id="5429" tvg-name="NBA 10:" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png" group-title="🏀NBA-原声🏀",NBA 10:
+http://doubleclicktv.live/70376812/52663544/5429
+#EXTINF:-1 tvg-id="5428" tvg-name="NBA 11:" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png" group-title="🏀NBA-原声🏀",NBA 11:
+http://doubleclicktv.live/70376812/52663544/5428
+#EXTINF:-1 tvg-id="5427" tvg-name="NBA 12:" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png" group-title="🏀NBA-原声🏀",NBA 12:
+http://doubleclicktv.live/70376812/52663544/5427
+#EXTINF:-1 tvg-id="5426" tvg-name="NBA 13:" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png" group-title="🏀NBA-原声🏀",NBA 13:
+http://doubleclicktv.live/70376812/52663544/5426
+#EXTINF:-1 tvg-id="5425" tvg-name="NBA 14:" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png" group-title="🏀NBA-原声🏀",NBA 14:
+http://doubleclicktv.live/70376812/52663544/5425
+#EXTINF:-1 tvg-id="5424" tvg-name="NBA 15:" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png" group-title="🏀NBA-原声🏀",NBA 15:
+http://doubleclicktv.live/70376812/52663544/5424
+#EXTINF:-1 tvg-id="5423" tvg-name="NBA 16:" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png" group-title="🏀NBA-原声🏀",NBA 16:
+http://doubleclicktv.live/70376812/52663544/5423
+#EXTINF:-1 tvg-id="5422" tvg-name="NBA 17:" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png" group-title="🏀NBA-原声🏀",NBA 17:
+http://doubleclicktv.live/70376812/52663544/5422
+#EXTINF:-1 tvg-id="5421" tvg-name="NBA 18:" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png" group-title="🏀NBA-原声🏀",NBA 18:
+http://doubleclicktv.live/70376812/52663544/5421
+#EXTINF:-1 tvg-id="5420" tvg-name="NBA 19:" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png" group-title="🏀NBA-原声🏀",NBA 19:
+http://doubleclicktv.live/70376812/52663544/5420
+#EXTINF:-1 tvg-id="5419" tvg-name="NBA 20:" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png" group-title="🏀NBA-原声🏀",NBA 20:
+http://doubleclicktv.live/70376812/52663544/5419
+#EXTINF:-1 tvg-id="5418" tvg-name="NBA 21:" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png" group-title="🏀NBA-原声🏀",NBA 21:
+http://doubleclicktv.live/70376812/52663544/5418
+#EXTINF:-1 tvg-id="5417" tvg-name="USA Real NBA 22:" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png" group-title="🏀NBA-原声🏀",USA Real NBA 22:
+http://doubleclicktv.live/70376812/52663544/5417
+#EXTINF:-1 tvg-id="5416" tvg-name="USA Real NBA 23:" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png" group-title="🏀NBA-原声🏀",USA Real NBA 23:
+http://doubleclicktv.live/70376812/52663544/5416
+#EXTINF:-1 tvg-id="5415" tvg-name="USA Real NBA 24:" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png" group-title="🏀NBA-原声🏀",USA Real NBA 24:
+http://doubleclicktv.live/70376812/52663544/5415
+#EXTINF:-1 tvg-id="5414" tvg-name="USA Real NBA 25:" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png" group-title="🏀NBA-原声🏀",USA Real NBA 25:
+http://doubleclicktv.live/70376812/52663544/5414
+#EXTINF:-1 tvg-id="5413" tvg-name="USA Real NBA 26:" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png" group-title="🏀NBA-原声🏀",USA Real NBA 26:
+http://doubleclicktv.live/70376812/52663544/5413
+#EXTINF:-1 tvg-id="5412" tvg-name="USA Real NBA 27:" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png" group-title="🏀NBA-原声🏀",USA Real NBA 27:
+http://doubleclicktv.live/70376812/52663544/5412
+#EXTINF:-1 tvg-id="5411" tvg-name="USA Real NBA 28:" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png" group-title="🏀NBA-原声🏀",USA Real NBA 28:
+http://doubleclicktv.live/70376812/52663544/5411
+#EXTINF:-1 tvg-id="5410" tvg-name="USA Real NBA 29:" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png" group-title="🏀NBA-原声🏀",USA Real NBA 29:
+http://doubleclicktv.live/70376812/52663544/5410
+#EXTINF:-1 tvg-id="5409" tvg-name="USA Real NBA 30:" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png" group-title="🏀NBA-原声🏀",USA Real NBA 30:
+http://doubleclicktv.live/70376812/52663544/5409
+#EXTINF:-1 tvg-id="5408" tvg-name="USA Real NBA 31:" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png" group-title="🏀NBA-原声🏀",USA Real NBA 31:
+http://doubleclicktv.live/70376812/52663544/5408
+#EXTINF:-1 tvg-id="5407" tvg-name="USA Real NBA 32:" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png" group-title="🏀NBA-原声🏀",USA Real NBA 32:
+http://doubleclicktv.live/70376812/52663544/5407
+#EXTINF:-1 tvg-id="5406" tvg-name="USA Real NBA 33:" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png" group-title="🏀NBA-原声🏀",USA Real NBA 33:
+http://doubleclicktv.live/70376812/52663544/5406
+#EXTINF:-1 tvg-id="5405" tvg-name="USA Real NBA 34:" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png" group-title="🏀NBA-原声🏀",USA Real NBA 34:
+http://doubleclicktv.live/70376812/52663544/5405
+#EXTINF:-1 tvg-id="5404" tvg-name="USA Real NBA 35:" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png" group-title="🏀NBA-原声🏀",USA Real NBA 35:
+http://doubleclicktv.live/70376812/52663544/5404
+#EXTINF:-1 tvg-id="5403" tvg-name="USA Real NBA 36:" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png" group-title="🏀NBA-原声🏀",USA Real NBA 36:
+http://doubleclicktv.live/70376812/52663544/5403
+#EXTINF:-1 tvg-id="5402" tvg-name="USA Real NBA 37:" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png" group-title="🏀NBA-原声🏀",USA Real NBA 37:
+http://doubleclicktv.live/70376812/52663544/5402
+#EXTINF:-1 tvg-id="5401" tvg-name="USA Real NBA 38:" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png" group-title="🏀NBA-原声🏀",USA Real NBA 38:
+http://doubleclicktv.live/70376812/52663544/5401
+#EXTINF:-1 tvg-id="5400" tvg-name="USA Real NBA 39:" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png" group-title="🏀NBA-原声🏀",USA Real NBA 39:
+http://doubleclicktv.live/70376812/52663544/5400
+#EXTINF:-1 tvg-id="5399" tvg-name="USA Real NBA 40:" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png" group-title="🏀NBA-原声🏀",USA Real NBA 40:
+http://doubleclicktv.live/70376812/52663544/5399
+#EXTINF:-1 tvg-id="5398" tvg-name="USA Real NBA 41:" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png" group-title="🏀NBA-原声🏀",USA Real NBA 41:
+http://doubleclicktv.live/70376812/52663544/5398
+#EXTINF:-1 tvg-id="5397" tvg-name="USA Real NBA 42:" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png" group-title="🏀NBA-原声🏀",USA Real NBA 42:
+http://doubleclicktv.live/70376812/52663544/5397
+#EXTINF:-1 tvg-id="5396" tvg-name="USA Real NBA 43:" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png" group-title="🏀NBA-原声🏀",USA Real NBA 43:
+http://doubleclicktv.live/70376812/52663544/5396
+#EXTINF:-1 tvg-id="5395" tvg-name="USA Real NBA 44:" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png" group-title="🏀NBA-原声🏀",USA Real NBA 44:
+http://doubleclicktv.live/70376812/52663544/5395
+#EXTINF:-1 tvg-id="5394" tvg-name="USA Real NBA 45:" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png" group-title="🏀NBA-原声🏀",USA Real NBA 45:
+http://doubleclicktv.live/70376812/52663544/5394
+#EXTINF:-1 tvg-id="5393" tvg-name="USA Real NBA 46:" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png" group-title="🏀NBA-原声🏀",USA Real NBA 46:
+http://doubleclicktv.live/70376812/52663544/5393
+#EXTINF:-1 tvg-id="5392" tvg-name="USA Real NBA 47:" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png" group-title="🏀NBA-原声🏀",USA Real NBA 47:
+http://doubleclicktv.live/70376812/52663544/5392
+#EXTINF:-1 tvg-id="5391" tvg-name="USA Real NBA 48:" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png" group-title="🏀NBA-原声🏀",USA Real NBA 48:
+http://doubleclicktv.live/70376812/52663544/5391
+#EXTINF:-1 tvg-id="5390" tvg-name="USA Real NBA 49:" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png" group-title="🏀NBA-原声🏀",USA Real NBA 49:
+http://doubleclicktv.live/70376812/52663544/5390
+#EXTINF:-1 tvg-id="5389" tvg-name="USA Real NBA 50:" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png" group-title="🏀NBA-原声🏀",USA Real NBA 50:
+http://doubleclicktv.live/70376812/52663544/5389
+#EXTINF:-1 tvg-id="5388" tvg-name="USA Real NBA 51:" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png" group-title="🏀NBA-原声🏀",USA Real NBA 51:
+http://doubleclicktv.live/70376812/52663544/5388
+#EXTINF:-1 tvg-id="5387" tvg-name="USA Real NBA 52:" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png" group-title="🏀NBA-原声🏀",USA Real NBA 52:
+http://doubleclicktv.live/70376812/52663544/5387
+#EXTINF:-1 tvg-id="5386" tvg-name="USA Real NBA 53:" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png" group-title="🏀NBA-原声🏀",USA Real NBA 53:
+http://doubleclicktv.live/70376812/52663544/5386
+#EXTINF:-1 tvg-id="5385" tvg-name="USA Real NBA 54:" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png" group-title="🏀NBA-原声🏀",USA Real NBA 54:
+http://doubleclicktv.live/70376812/52663544/5385
+#EXTINF:-1 tvg-id="5384" tvg-name="USA Real NBA 55:" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png" group-title="🏀NBA-原声🏀",USA Real NBA 55:
+http://doubleclicktv.live/70376812/52663544/5384
+#EXTINF:-1 tvg-id="5383" tvg-name="USA Real NBA 56:" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png" group-title="🏀NBA-原声🏀",USA Real NBA 56:
+http://doubleclicktv.live/70376812/52663544/5383
+#EXTINF:-1 tvg-id="5382" tvg-name="USA Real NBA 57:" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png" group-title="🏀NBA-原声🏀",USA Real NBA 57:
+http://doubleclicktv.live/70376812/52663544/5382
+#EXTINF:-1 tvg-id="5381" tvg-name="USA Real NBA 58:" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png" group-title="🏀NBA-原声🏀",USA Real NBA 58:
+http://doubleclicktv.live/70376812/52663544/5381
+#EXTINF:-1 tvg-id="5380" tvg-name="USA Real NBA 59:" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png" group-title="🏀NBA-原声🏀",USA Real NBA 59:
+http://doubleclicktv.live/70376812/52663544/5380
+#EXTINF:-1 tvg-id="5379" tvg-name="USA Real NBA 60:" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png" group-title="🏀NBA-原声🏀",USA Real NBA 60:
+http://doubleclicktv.live/70376812/52663544/5379
 
 
 #EXTINF:-1 tvg-name="订阅问客服" tvg-logo="https://epg.iill.top/logo/温馨提示.png" group-title="⚽️英超联赛⚽️",👉有比赛时才会有画面👈
